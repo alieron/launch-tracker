@@ -16,32 +16,35 @@ from datetime import datetime, timezone, timedelta
 from pathlib import Path
 
 DATA_FILE = Path("site/launches.json")
-LL2_BASE  = "https://ll.thespacedevs.com/2.2.0"
+LL2_BASE = "https://ll.thespacedevs.com/2.2.0"
+UA = "LaunchVector/1.0 (github-actions)"
 
 # How far past NET we keep re-fetching a launch looking for a final outcome
 RECHECK_WINDOW_HOURS = 6
 
 # LL2 status IDs
-STATUS_GO              = 1
-STATUS_TBD             = 2
-STATUS_SUCCESS         = 3
-STATUS_FAILURE         = 4
-STATUS_HOLD            = 5
-STATUS_IN_FLIGHT       = 6
+STATUS_GO = 1
+STATUS_TBD = 2
+STATUS_SUCCESS = 3
+STATUS_FAILURE = 4
+STATUS_HOLD = 5
+STATUS_IN_FLIGHT = 6
 STATUS_PARTIAL_FAILURE = 7
-STATUS_TBC             = 8
+STATUS_TBC = 8
 TERMINAL = {STATUS_SUCCESS, STATUS_FAILURE, STATUS_PARTIAL_FAILURE}
 
 
 # ── HTTP helpers ─────────────────────────────────────────────────────────────
 
+
 def get(url: str) -> dict:
-    req = urllib.request.Request(url)
+    req = urllib.request.Request(url, headers={"User-Agent": UA})
     with urllib.request.urlopen(req, timeout=30) as r:
         return json.loads(r.read())
 
 
 # ── Data helpers ─────────────────────────────────────────────────────────────
+
 
 def load() -> dict:
     if not DATA_FILE.exists():
@@ -64,87 +67,90 @@ def dt(iso: str | None) -> datetime | None:
 
 # ── Normalisers ───────────────────────────────────────────────────────────────
 
+
 def norm_status(raw: dict) -> dict:
     s = raw.get("status") or {}
     return {
-        "id":          s.get("id"),
-        "abbrev":      s.get("abbrev"),
-        "name":        s.get("name"),
+        "id": s.get("id"),
+        "abbrev": s.get("abbrev"),
+        "name": s.get("name"),
         "description": s.get("description"),
     }
 
 
 def norm_launch(raw: dict, existing: dict | None = None) -> dict:
-    cfg      = (raw.get("rocket") or {}).get("configuration") or {}
-    mission  = raw.get("mission") or {}
-    pad      = raw.get("pad") or {}
-    pad_loc  = pad.get("location") or {}
+    cfg = (raw.get("rocket") or {}).get("configuration") or {}
+    mission = raw.get("mission") or {}
+    pad = raw.get("pad") or {}
+    pad_loc = pad.get("location") or {}
     provider = raw.get("launch_service_provider") or {}
 
     record = {
-        "id":           raw["id"],
-        "name":         raw.get("name"),
-        "slug":         raw.get("slug"),
-        "status":       norm_status(raw),
-        "net":          raw.get("net"),
+        "id": raw["id"],
+        "name": raw.get("name"),
+        "slug": raw.get("slug"),
+        "status": norm_status(raw),
+        "net": raw.get("net"),
         "window_start": raw.get("window_start"),
-        "window_end":   raw.get("window_end"),
-        "probability":  raw.get("probability"),
+        "window_end": raw.get("window_end"),
+        "probability": raw.get("probability"),
         "rocket": {
-            "name":         cfg.get("name"),
-            "family":       cfg.get("family"),
+            "name": cfg.get("name"),
+            "family": cfg.get("family"),
             "manufacturer": (cfg.get("manufacturer") or {}).get("name"),
-            "image_url":    cfg.get("image_url"),
+            "image_url": cfg.get("image_url"),
         },
         "mission": {
-            "name":        mission.get("name"),
+            "name": mission.get("name"),
             "description": mission.get("description"),
-            "type":        mission.get("type"),
-            "orbit":       (mission.get("orbit") or {}).get("name"),
+            "type": mission.get("type"),
+            "orbit": (mission.get("orbit") or {}).get("name"),
         },
         "pad": {
-            "name":      pad.get("name"),
-            "location":  pad_loc.get("name"),
-            "country":   pad_loc.get("country_code"),
-            "latitude":  pad.get("latitude"),
+            "name": pad.get("name"),
+            "location": pad_loc.get("name"),
+            "country": pad_loc.get("country_code"),
+            "latitude": pad.get("latitude"),
             "longitude": pad.get("longitude"),
         },
         "agency": {
-            "name":   provider.get("name"),
+            "name": provider.get("name"),
             "abbrev": provider.get("abbrev"),
-            "type":   provider.get("type"),
+            "type": provider.get("type"),
         },
-        "image_url":    raw.get("image"),
-        "vidURLs":      [{"title": v.get("title"), "url": v.get("url")}
-                         for v in (raw.get("vidURLs") or [])],
+        "image_url": raw.get("image"),
+        "vidURLs": [
+            {"title": v.get("title"), "url": v.get("url")}
+            for v in (raw.get("vidURLs") or [])
+        ],
         "webcast_live": raw.get("webcast_live"),
         # Our metadata — preserve if already set
-        "discovered_at":   (existing or {}).get("discovered_at"),
+        "discovered_at": (existing or {}).get("discovered_at"),
         "last_updated_at": datetime.now(timezone.utc).isoformat(),
-        "outcome":         (existing or {}).get("outcome"),
-        "failure_reason":  (existing or {}).get("failure_reason"),
-        "status_history":  (existing or {}).get("status_history", []),
+        "outcome": (existing or {}).get("outcome"),
+        "failure_reason": (existing or {}).get("failure_reason"),
+        "status_history": (existing or {}).get("status_history", []),
     }
 
     if not record["discovered_at"]:
         record["discovered_at"] = datetime.now(timezone.utc).isoformat()
 
     # Track status / NET changes for the activity feed
-    new_sid    = (raw.get("status") or {}).get("id")
+    new_sid = (raw.get("status") or {}).get("id")
     new_abbrev = (raw.get("status") or {}).get("abbrev")
-    new_net    = raw.get("net")
-    history    = record["status_history"]
-    last       = history[-1] if history else {}
+    new_net = raw.get("net")
+    history = record["status_history"]
+    last = history[-1] if history else {}
 
     status_changed = last.get("status_id") != new_sid
-    net_changed    = bool(history) and last.get("net") != new_net
+    net_changed = bool(history) and last.get("net") != new_net
 
     if not history or status_changed or net_changed:
         entry = {
-            "at":        datetime.now(timezone.utc).isoformat(),
+            "at": datetime.now(timezone.utc).isoformat(),
             "status_id": new_sid,
-            "abbrev":    new_abbrev,
-            "net":       new_net,
+            "abbrev": new_abbrev,
+            "net": new_net,
         }
         if net_changed and last.get("net"):
             entry["prev_net"] = last["net"]
@@ -187,14 +193,17 @@ def apply_outcome(record: dict, raw: dict) -> dict:
 
 # ── Main ─────────────────────────────────────────────────────────────────────
 
+
 def main():
-    now  = datetime.now(timezone.utc)
+    now = datetime.now(timezone.utc)
     data = load()
     existing_map: dict[str, dict] = {l["id"]: l for l in data.get("launches", [])}
 
     # ── 1. Fetch upcoming launches and upsert ────────────────────────────────
     print("Fetching upcoming launches…")
-    upcoming_raw = get(f"{LL2_BASE}/launch/upcoming/?limit=25&mode=detailed").get("results", [])
+    upcoming_raw = get(f"{LL2_BASE}/launch/upcoming/?limit=25&mode=detailed").get(
+        "results", []
+    )
     print(f"  {len(upcoming_raw)} results")
 
     incoming_ids = set()
@@ -204,8 +213,14 @@ def main():
         record = norm_launch(raw, existing_map.get(lid))
 
         # If we already have a terminal outcome, don't overwrite it
-        if existing_map.get(lid, {}).get("outcome") in ("success", "failure", "partial_failure"):
-            record = apply_outcome(record, raw)  # will be a no-op if LL2 still shows terminal
+        if existing_map.get(lid, {}).get("outcome") in (
+            "success",
+            "failure",
+            "partial_failure",
+        ):
+            record = apply_outcome(
+                record, raw
+            )  # will be a no-op if LL2 still shows terminal
         else:
             record = apply_outcome(record, raw)
 
@@ -239,7 +254,9 @@ def main():
         elif net and net < recheck_cutoff and not record.get("outcome"):
             # Past the recheck window with no outcome — mark as unknown
             record["outcome"] = "unknown"
-            record["failure_reason"] = "Outcome could not be determined within the recheck window"
+            record["failure_reason"] = (
+                "Outcome could not be determined within the recheck window"
+            )
             existing_map[lid] = record
             print(f"  ? Unknown outcome (past window): {record['name']}")
 
@@ -248,7 +265,8 @@ def main():
     concluded = {"success", "failure", "partial_failure", "unknown"}
     before = len(existing_map)
     existing_map = {
-        lid: r for lid, r in existing_map.items()
+        lid: r
+        for lid, r in existing_map.items()
         if not (
             r.get("outcome") in concluded
             and dt(r.get("net") or r.get("discovered_at")) is not None
