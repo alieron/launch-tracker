@@ -1,0 +1,887 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Launch Tracker</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=JetBrains+Mono:ital,wght@0,400;0,500;0,700;1,400&display=swap" rel="stylesheet" />
+  <style>
+    :root {
+      --bg:      #07090f;
+      --surf:    #0c0f1a;
+      --surf2:   #101422;
+      --surf3:   #161c2e;
+      --border:  #1c2640;
+      --border2: #243050;
+      --accent:  #e8651a;
+      --adim:    rgba(232,101,26,.13);
+      --ok:      #2ecc8a;
+      --err:     #e85454;
+      --warn:    #f0b429;
+      --info:    #5b9cf6;
+      --txt:     #b8c4d8;
+      --tdim:    #465670;
+      --tmut:    #5e728a;
+      --tbright: #e8edf5;
+      --mono:    'JetBrains Mono', monospace;
+      --r:       3px;
+    }
+    *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+    html { scroll-behavior: smooth; }
+    body {
+      background: var(--bg);
+      color: var(--txt);
+      font-family: var(--mono);
+      font-size: 13px;
+      line-height: 1.6;
+      min-height: 100vh;
+      overflow-x: hidden;
+    }
+
+    /* ── HEADER ──────────────────────────────────────── */
+    header {
+      position: relative;
+      border-bottom: 1px solid var(--border);
+      background: var(--surf);
+      z-index: 30;
+    }
+    header::after {
+      content: '';
+      position: absolute;
+      bottom: -1px; left: 0; right: 0; height: 1px;
+      background: linear-gradient(90deg, transparent, var(--accent) 35%, var(--warn) 65%, transparent);
+      opacity: .3;
+    }
+    .h-inner {
+      max-width: 1480px;
+      margin: 0 auto;
+      padding: .7rem 2rem;
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      gap: 1.5rem;
+      flex-wrap: wrap;
+    }
+    .live-dot {
+      display: inline-block;
+      width: 6px; height: 6px;
+      border-radius: 50%;
+      background: var(--ok);
+      margin-right: .4rem;
+      vertical-align: middle;
+      animation: lp 2s ease-in-out infinite;
+    }
+    @keyframes lp {
+      0%,100% { opacity:1; box-shadow:0 0 0 0 rgba(46,204,138,.5); }
+      50%     { opacity:.7; box-shadow:0 0 0 5px rgba(46,204,138,0); }
+    }
+    .sync-block {
+      font-size: .72rem;
+      color: var(--tdim);
+      line-height: 1.7;
+    }
+    .sync-block .row { display: flex; gap: .4rem; align-items: baseline; }
+    .sync-block .lbl   { color: var(--tdim); }
+    .sync-block .utc   { color: var(--info); }
+    .sync-block .local { color: var(--warn); }
+    .api-btn {
+      display: inline-flex; align-items: center; gap: .35rem;
+      font-family: var(--mono); font-size: .68rem;
+      color: var(--tmut); text-decoration: none;
+      padding: .28rem .65rem;
+      border: 1px solid var(--border2); border-radius: var(--r);
+      letter-spacing: .06em; transition: all .15s;
+    }
+    .api-btn:hover { color: var(--accent); border-color: var(--accent); background: var(--adim); }
+
+    /* ── STATS BAR ────────────────────────────────────── */
+    .stats-bar { border-bottom: 1px solid var(--border); overflow-x: auto; }
+    .stats-inner { max-width: 1480px; margin: 0 auto; display: flex; }
+    .stat { flex: 1; min-width: 90px; padding: .75rem 1.25rem; border-right: 1px solid var(--border); text-align: center; }
+    .stat:last-child { border-right: none; }
+    .stat-n { font-size: 1.65rem; font-weight: 700; line-height: 1; display: block; }
+    .stat-l { font-size: .62rem; color: var(--tdim); letter-spacing: .1em; text-transform: uppercase; margin-top: .2rem; display: block; }
+
+    /* ── FILTER BAR ───────────────────────────────────── */
+    .filter-bar {
+      border-bottom: 1px solid var(--border);
+      background: var(--surf2);
+      position: sticky; top: 0; z-index: 20;
+    }
+    .fi {
+      max-width: 1480px; margin: 0 auto;
+      padding: .6rem 2rem;
+      display: flex; align-items: center; gap: .75rem; flex-wrap: wrap;
+    }
+    .fsearch { position: relative; flex: 1; min-width: 160px; max-width: 300px; }
+    .fsearch svg { position: absolute; left: .6rem; top: 50%; transform: translateY(-50%); color: var(--tdim); pointer-events: none; }
+    .fsearch input {
+      width: 100%; background: var(--surf3);
+      border: 1px solid var(--border2); border-radius: var(--r);
+      color: var(--tbright); font-family: var(--mono); font-size: .8rem;
+      padding: .38rem .65rem .38rem 1.85rem;
+      outline: none; transition: border-color .15s;
+    }
+    .fsearch input::placeholder { color: var(--tdim); }
+    .fsearch input:focus { border-color: var(--accent); }
+
+    /* filter dropdowns */
+    .fdrop-group { display: flex; align-items: center; gap: .4rem; }
+    .fdrop-lbl { font-size: .62rem; color: var(--tdim); letter-spacing: .08em; text-transform: uppercase; white-space: nowrap; }
+    .fdrop {
+      background: var(--surf3); border: 1px solid var(--border2); border-radius: var(--r);
+      color: var(--txt); font-family: var(--mono); font-size: .72rem;
+      padding: .32rem .55rem; outline: none; cursor: pointer;
+      min-width: 120px; transition: border-color .15s;
+    }
+    .fdrop:focus { border-color: var(--accent); }
+
+    .fsort { margin-left: auto; display: flex; align-items: center; gap: .4rem; }
+
+    /* ── LAYOUT ───────────────────────────────────────── */
+    .page-body {
+      max-width: 1480px; margin: 0 auto;
+      padding: 1.4rem 2rem;
+      display: grid; grid-template-columns: 1fr 290px; gap: 1.5rem;
+      align-items: start;
+    }
+    @media (max-width: 960px) {
+      .page-body { grid-template-columns: 1fr; padding: 1rem; }
+      .fi { padding: .6rem 1rem; }
+    }
+
+    /* ── SECTION SEPARATOR ────────────────────────────── */
+    .sec-sep {
+      display: flex; align-items: center; gap: .7rem;
+      margin: 1.1rem 0 .75rem;
+    }
+    .sec-sep-lbl {
+      font-size: .62rem; letter-spacing: .14em; text-transform: uppercase;
+      color: var(--tdim); white-space: nowrap;
+    }
+    .sec-sep-line { flex: 1; height: 1px; background: var(--border); }
+    .sec-sep-cnt { font-size: .65rem; color: var(--accent); }
+
+    /* ── CARDS ────────────────────────────────────────── */
+    .grid { display: flex; flex-direction: column; gap: 4px; }
+
+    .card {
+      background: var(--surf);
+      border: 1px solid var(--border);
+      border-radius: var(--r);
+      overflow: hidden;
+      cursor: pointer;
+      transition: border-color .18s, background .18s;
+      position: relative;
+    }
+    .card:hover { border-color: var(--border2); background: var(--surf2); }
+    .card::before {
+      content: ''; position: absolute; left: 0; top: 0; bottom: 0; width: 3px;
+    }
+    .card.oc-success::before { background: var(--ok); }
+    .card.oc-failure::before { background: var(--err); }
+    .card.oc-partial::before { background: var(--warn); }
+    .card.oc-upcoming::before { background: var(--accent); }
+    .card.oc-unknown::before  { background: var(--tdim); }
+
+    .card-row {
+      display: grid;
+      grid-template-columns: 62px 1fr auto;
+      align-items: stretch;
+      padding-left: 3px;
+    }
+
+    /* date block */
+    .cdate {
+      display: flex; flex-direction: column; align-items: center; justify-content: center;
+      padding: .8rem .5rem;
+      background: var(--surf2); border-right: 1px solid var(--border);
+      min-width: 62px;
+    }
+    .cd-day { font-size: 1.4rem; font-weight: 700; color: var(--tbright); line-height: 1; }
+    .cd-mon { font-size: .6rem; color: var(--tmut); letter-spacing: .1em; text-transform: uppercase; margin-top: 1px; }
+    .cd-yr  { font-size: .55rem; color: var(--border2); margin-top: 1px; }
+
+    /* body */
+    .cbody {
+      padding: .7rem .9rem .7rem .95rem;
+      display: flex; flex-direction: column; gap: .28rem;
+      overflow: hidden; min-width: 0;
+    }
+    .cname {
+      font-size: .9rem; font-weight: 700;
+      color: var(--tbright); line-height: 1.25;
+      white-space: nowrap; overflow: hidden; text-overflow: ellipsis;
+    }
+    .cmeta {
+      font-size: .75rem; color: var(--tmut);
+      white-space: nowrap; overflow: hidden; text-overflow: ellipsis;
+    }
+    .cmeta .hi { color: var(--txt); }
+    .cmeta .sep { margin: 0 .3rem; opacity: .3; }
+
+    /* dual time */
+    .ctime { font-size: .7rem; display: flex; flex-wrap: wrap; gap: .1rem .75rem; }
+    .ctime .u { color: var(--info); }
+    .ctime .l { color: var(--warn); }
+
+    /* tags */
+    .ctags { display: flex; gap: .28rem; flex-wrap: wrap; margin-top: .05rem; }
+    .tag {
+      font-size: .6rem; letter-spacing: .05em;
+      padding: .13rem .45rem; border-radius: 20px;
+      border: 1px solid transparent; text-transform: uppercase; font-weight: 500;
+    }
+    .t-comms  { color: #818cf8; background: rgba(129,140,248,.09); border-color: rgba(129,140,248,.22); }
+    .t-earth  { color: #2ecc8a; background: rgba(46,204,138,.08);  border-color: rgba(46,204,138,.2); }
+    .t-sci    { color: #f472b6; background: rgba(244,114,182,.08); border-color: rgba(244,114,182,.2); }
+    .t-cargo  { color: #f0b429; background: rgba(240,180,41,.08);  border-color: rgba(240,180,41,.2); }
+    .t-crew   { color: #5b9cf6; background: rgba(91,156,246,.08);  border-color: rgba(91,156,246,.2); }
+    .t-test   { color: #a78bfa; background: rgba(167,139,250,.08); border-color: rgba(167,139,250,.2); }
+    .t-def    { color: #94a3b8; background: rgba(148,163,184,.07); border-color: rgba(148,163,184,.16); }
+    .t-nav    { color: #2dd4bf; background: rgba(45,212,191,.07);  border-color: rgba(45,212,191,.18); }
+    .t-dflt   { color: var(--tdim); background: rgba(100,116,139,.07); border-color: rgba(100,116,139,.16); }
+    .t-orbit  { color: #94a3b8; background: rgba(148,163,184,.05); border-color: rgba(148,163,184,.13); }
+    .t-veh    { color: #7dd3fc; background: rgba(125,211,252,.05); border-color: rgba(125,211,252,.13); }
+
+    /* status block */
+    .cstat {
+      padding: .7rem .85rem;
+      display: flex; flex-direction: column; align-items: flex-end; justify-content: center;
+      gap: .4rem; min-width: 118px; border-left: 1px solid var(--border);
+    }
+    .sbadge {
+      font-size: .65rem; font-weight: 700; letter-spacing: .1em; text-transform: uppercase;
+      padding: .25rem .6rem; border-radius: var(--r); white-space: nowrap;
+    }
+    .b-ok   { background: rgba(46,204,138,.11);  color: var(--ok);  border: 1px solid rgba(46,204,138,.27); }
+    .b-err  { background: rgba(232,84,84,.11);   color: var(--err); border: 1px solid rgba(232,84,84,.27); }
+    .b-part { background: rgba(240,180,41,.1);   color: var(--warn);border: 1px solid rgba(240,180,41,.27); }
+    .b-go   { background: rgba(232,101,26,.11);  color: var(--accent);border: 1px solid rgba(232,101,26,.27); animation: gblink 1.8s step-end infinite; }
+    .b-tbd  { background: rgba(70,86,112,.18);   color: var(--tdim); border: 1px solid var(--border2); }
+    .b-hold { background: rgba(240,180,41,.09);  color: var(--warn); border: 1px solid rgba(240,180,41,.22); }
+    .b-unk  { background: rgba(70,86,112,.13);   color: var(--tdim); border: 1px solid var(--border); }
+    @keyframes gblink { 0%,100%{opacity:1} 50%{opacity:.5} }
+
+    .ccd   { font-size: .75rem; color: var(--accent); letter-spacing: .03em; text-align: right; }
+    .cprob { font-size: .68rem; color: var(--tmut); text-align: right; }
+    .cprob .pv { color: var(--warn); }
+
+    /* expand */
+    .expand {
+      display: none;
+      border-top: 1px solid var(--border);
+      padding: .9rem 1rem .9rem 1.1rem;
+      background: var(--surf2);
+      animation: sdown .15s ease-out;
+    }
+    @keyframes sdown { from { opacity:0; transform: translateY(-3px); } to { opacity:1; transform: translateY(0); } }
+    .expand.open { display: block; }
+    .exp-grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fill, minmax(190px, 1fr));
+      gap: .7rem 1.3rem;
+    }
+    .ef-l {
+      font-size: .6rem; letter-spacing: .1em; color: var(--tdim);
+      text-transform: uppercase; margin-bottom: .15rem;
+    }
+    .ef-v { font-size: .82rem; color: var(--tbright); line-height: 1.4; word-break: break-word; }
+    .ef-t .u { font-size: .72rem; color: var(--info);  display: block; }
+    .ef-t .l { font-size: .72rem; color: var(--warn);  display: block; margin-top: 1px; }
+    .alert-err {
+      margin-top: .75rem; padding: .7rem .85rem;
+      background: rgba(232,84,84,.07); border: 1px solid rgba(232,84,84,.2);
+      border-radius: var(--r);
+    }
+    .alert-err .ef-l { color: var(--err); }
+    .alert-err .ef-v { color: #f5a0a0; font-size: .8rem; }
+    .vlinks { margin-top: .75rem; display: flex; gap: .5rem; flex-wrap: wrap; }
+    .vlink {
+      display: inline-flex; align-items: center; gap: .3rem;
+      font-size: .68rem; color: var(--accent); text-decoration: none;
+      padding: .25rem .55rem; border: 1px solid rgba(232,101,26,.28);
+      border-radius: var(--r); transition: background .15s;
+    }
+    .vlink:hover { background: var(--adim); }
+
+    /* ── SIDEBAR ──────────────────────────────────────── */
+    .sidebar { display: flex; flex-direction: column; gap: .85rem; }
+    .sc { background: var(--surf); border: 1px solid var(--border); border-radius: var(--r); overflow: hidden; }
+    .sc-hdr {
+      font-size: .6rem; letter-spacing: .14em; text-transform: uppercase;
+      color: var(--tdim); padding: .55rem .9rem;
+      border-bottom: 1px solid var(--border); background: var(--surf2);
+    }
+    .sc-body { padding: .85rem .9rem; }
+
+    /* next launch */
+    .nl-name { font-size: .9rem; font-weight: 700; color: var(--tbright); line-height: 1.3; margin-bottom: .4rem; }
+    .nl-cd   { font-size: 1.15rem; font-weight: 700; color: var(--accent); letter-spacing: .03em; margin-bottom: .35rem; }
+    .nl-det  { font-size: .75rem; color: var(--tmut); line-height: 1.5; }
+    .nl-t    { font-size: .68rem; margin-top: .4rem; line-height: 1.8; }
+    .nl-t .u { color: var(--info); display: block; }
+    .nl-t .l { color: var(--warn); display: block; }
+
+    /* activity feed */
+    .act-item {
+      padding: .55rem 0;
+      border-bottom: 1px solid var(--border);
+    }
+    .act-item:last-child { border-bottom: none; }
+    .act-launch { font-size: .77rem; color: var(--tbright); font-weight: 500; margin-bottom: .15rem;
+      white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }
+    .act-desc { font-size: .7rem; color: var(--tmut); line-height: 1.5; }
+    .act-desc .hi { font-weight: 500; }
+    .act-desc .ok-c   { color: var(--ok); }
+    .act-desc .err-c  { color: var(--err); }
+    .act-desc .warn-c { color: var(--warn); }
+    .act-desc .info-c { color: var(--info); }
+    .act-time { font-size: .63rem; color: var(--tdim); margin-top: .1rem; }
+
+    /* ── EMPTY / NO RESULTS ───────────────────────────── */
+    .empty { padding: 2.5rem 1rem; text-align: center; font-size: .75rem; color: var(--tdim); line-height: 1.9; }
+    .nores { padding: 1.5rem 1rem; text-align: center; font-size: .73rem; color: var(--tdim); }
+
+    /* ── FOOTER ───────────────────────────────────────── */
+    footer { border-top: 1px solid var(--border); padding: 1rem 2rem; }
+    .ft { max-width: 1480px; margin: 0 auto; display: flex; justify-content: space-between; flex-wrap: wrap; gap: .5rem; }
+    .ftxt { font-size: .62rem; color: var(--tdim); }
+    .ftxt a { color: var(--tdim); text-decoration: none; }
+    .ftxt a:hover { color: var(--accent); }
+
+    ::-webkit-scrollbar { width: 5px; height: 5px; }
+    ::-webkit-scrollbar-track { background: var(--bg); }
+    ::-webkit-scrollbar-thumb { background: var(--border2); border-radius: 3px; }
+  </style>
+</head>
+<body>
+
+<!-- HEADER -->
+<header>
+  <div class="h-inner">
+    <div class="sync-block" id="sync-block">
+      <div class="row"><span class="live-dot"></span><span class="lbl">LAST SYNC</span></div>
+      <div class="row"><span class="utc"   id="sync-utc">—</span></div>
+      <div class="row"><span class="local" id="sync-local">—</span></div>
+    </div>
+    <a class="api-btn" href="launches.json" target="_blank">
+      <svg width="10" height="10" viewBox="0 0 12 12" fill="none">
+        <rect x=".5" y=".5" width="11" height="11" rx="1.5" stroke="currentColor"/>
+        <path d="M4 6h4M7 4l2 2-2 2" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round"/>
+      </svg>
+      JSON API
+    </a>
+  </div>
+</header>
+
+<!-- STATS -->
+<div class="stats-bar">
+  <div class="stats-inner">
+    <div class="stat"><span class="stat-n" id="s-up">—</span><span class="stat-l">Upcoming</span></div>
+    <div class="stat"><span class="stat-n" style="color:var(--ok)"   id="s-ok">—</span><span class="stat-l">Successful</span></div>
+    <div class="stat"><span class="stat-n" style="color:var(--err)"  id="s-err">—</span><span class="stat-l">Failed</span></div>
+    <div class="stat"><span class="stat-n" style="color:var(--tmut)" id="s-tot">—</span><span class="stat-l">Total Tracked</span></div>
+  </div>
+</div>
+
+<!-- FILTERS -->
+<div class="filter-bar">
+  <div class="fi">
+    <!-- Search -->
+    <div class="fsearch">
+      <svg width="13" height="13" viewBox="0 0 16 16" fill="none">
+        <circle cx="6.5" cy="6.5" r="5" stroke="currentColor" stroke-width="1.5"/>
+        <path d="M10 10l3.5 3.5" stroke="currentColor" stroke-width="1.5" stroke-linecap="round"/>
+      </svg>
+      <input id="q" type="text" placeholder="Search missions, rockets, agencies…" oninput="applyFilters()" />
+    </div>
+
+    <!-- Status -->
+    <div class="fdrop-group">
+      <span class="fdrop-lbl">Status</span>
+      <select class="fdrop" id="f-status" onchange="applyFilters()">
+        <option value="all">All statuses</option>
+        <option value="upcoming">Upcoming</option>
+        <option value="go">Go for launch</option>
+        <option value="success">Success</option>
+        <option value="failure">Failure</option>
+      </select>
+    </div>
+
+    <!-- Mission type — populated from data -->
+    <div class="fdrop-group">
+      <span class="fdrop-lbl">Type</span>
+      <select class="fdrop" id="f-type" onchange="applyFilters()">
+        <option value="all">All types</option>
+      </select>
+    </div>
+
+    <!-- Agency — populated from data -->
+    <div class="fdrop-group">
+      <span class="fdrop-lbl">Agency</span>
+      <select class="fdrop" id="f-agency" onchange="applyFilters()">
+        <option value="all">All agencies</option>
+      </select>
+    </div>
+
+    <!-- Sort -->
+    <div class="fsort">
+      <span class="fdrop-lbl">Sort</span>
+      <select class="fdrop" id="f-sort" onchange="applyFilters()">
+        <option value="net-asc">NET ↑ earliest</option>
+        <option value="net-desc">NET ↓ latest</option>
+        <option value="name-asc">Name A–Z</option>
+      </select>
+    </div>
+  </div>
+</div>
+
+<!-- MAIN -->
+<div class="page-body">
+  <!-- Launch list -->
+  <div>
+    <div class="grid" id="main-grid">
+      <div class="empty">Loading…</div>
+    </div>
+  </div>
+
+  <!-- Sidebar -->
+  <aside class="sidebar">
+    <div class="sc">
+      <div class="sc-hdr">Next Launch</div>
+      <div class="sc-body" id="next-launch">
+        <span style="font-size:.73rem;color:var(--tdim)">Loading…</span>
+      </div>
+    </div>
+    <div class="sc">
+      <div class="sc-hdr">Recent Activity</div>
+      <div class="sc-body" id="activity">
+        <span style="font-size:.73rem;color:var(--tdim)">Loading…</span>
+      </div>
+    </div>
+  </aside>
+</div>
+
+<footer>
+  <div class="ft">
+    <span class="ftxt"> Data from <a href="https://thespacedevs.com/" target="_blank">The Space Devs LL2</a> · Auto-synced via GitHub Actions</span>
+    <span class="ftxt">Times shown in UTC and local timezone</span>
+  </div>
+</footer>
+
+<script>
+// STATE
+let allLaunches = [];
+
+// TIME HELPERS
+const MONS = ['JAN','FEB','MAR','APR','MAY','JUN','JUL','AUG','SEP','OCT','NOV','DEC'];
+
+function utcStr(iso) {
+  if (!iso) return '—';
+  return new Date(iso).toUTCString().replace(' GMT', ' UTC');
+}
+
+function localStr(iso) {
+  if (!iso) return '—';
+  return new Date(iso).toLocaleString(undefined, {
+    year:'numeric', month:'short', day:'numeric',
+    hour:'2-digit', minute:'2-digit', timeZoneName:'short'
+  });
+}
+
+function dateBlock(iso) {
+  if (!iso) return { day:'??', mon:'???', yr:'????' };
+  const d = new Date(iso);
+  return {
+    day: String(d.getUTCDate()).padStart(2,'0'),
+    mon: MONS[d.getUTCMonth()],
+    yr:  d.getUTCFullYear()
+  };
+}
+
+function cdown(iso) {
+  if (!iso) return '—';
+  const diff = new Date(iso) - Date.now();
+  const abs = Math.abs(diff);
+  const sign = diff < 0 ? 'T+' : 'T−';
+  const s = Math.floor(abs / 1000);
+  const d = Math.floor(s / 86400), h = Math.floor((s % 86400) / 3600),
+        m = Math.floor((s % 3600) / 60), sc = s % 60;
+  if (d > 0) return `${sign}${d}d ${String(h).padStart(2,'0')}h ${String(m).padStart(2,'0')}m`;
+  return `${sign}${String(h).padStart(2,'0')}:${String(m).padStart(2,'0')}:${String(sc).padStart(2,'0')}`;
+}
+
+function relTime(iso) {
+  if (!iso) return '';
+  const diff = Date.now() - new Date(iso);
+  const m = Math.floor(diff / 60000);
+  if (m < 2)   return 'just now';
+  if (m < 60)  return `${m}m ago`;
+  const h = Math.floor(m / 60);
+  if (h < 24)  return `${h}h ago`;
+  return `${Math.floor(h / 24)}d ago`;
+}
+
+// MISSION TYPE → CSS CLASS
+function tagClass(type) {
+  if (!type) return 't-dflt';
+  const t = type.toLowerCase();
+  if (t.includes('commun') || t.includes('telecom'))           return 't-comms';
+  if (t.includes('earth')  || t.includes('weather') || t.includes('remote')) return 't-earth';
+  if (t.includes('science')|| t.includes('astro') || t.includes('planet') ||
+      t.includes('lunar')  || t.includes('mars'))              return 't-sci';
+  if (t.includes('cargo')  || t.includes('supply'))            return 't-cargo';
+  if (t.includes('crew')   || t.includes('human') || t.includes('tourist')) return 't-crew';
+  if (t.includes('test')   || t.includes('demo') || t.includes('development')) return 't-test';
+  if (t.includes('defense')|| t.includes('milit') || t.includes('recon') ||
+      t.includes('classif'))                                    return 't-def';
+  if (t.includes('nav')    || t.includes('gps') || t.includes('galileo') ||
+      t.includes('beidou') || t.includes('glonass'))           return 't-nav';
+  return 't-dflt';
+}
+
+// CARD HELPERS
+function ocClass(l) {
+  const o = l.outcome;
+  if (o === 'success')          return 'oc-success';
+  if (o === 'failure')          return 'oc-failure';
+  if (o === 'partial_failure')  return 'oc-partial';
+  if (o === 'unknown')          return 'oc-unknown';
+  return 'oc-upcoming';
+}
+
+function badge(l) {
+  if (l.outcome === 'success')          return `<span class="sbadge b-ok">SUCCESS</span>`;
+  if (l.outcome === 'failure')          return `<span class="sbadge b-err">FAILURE</span>`;
+  if (l.outcome === 'partial_failure')  return `<span class="sbadge b-part">PARTIAL</span>`;
+  if (l.outcome === 'unknown')          return `<span class="sbadge b-unk">UNKNOWN</span>`;
+  const a = l.status?.abbrev || 'TBD';
+  if (a === 'Go')   return `<span class="sbadge b-go">GO</span>`;
+  if (a === 'Hold') return `<span class="sbadge b-hold">HOLD</span>`;
+  return `<span class="sbadge b-tbd">${a}</span>`;
+}
+
+// RENDER CARD
+function renderCard(l) {
+  const db   = dateBlock(l.net);
+  const now  = new Date();
+  const netD = l.net ? new Date(l.net) : null;
+  const isUp = netD && netD > now && !l.outcome;
+
+  const tags = [];
+  if (l.mission?.type)  tags.push(`<span class="tag ${tagClass(l.mission.type)}">${l.mission.type}</span>`);
+  if (l.mission?.orbit) tags.push(`<span class="tag t-orbit">${l.mission.orbit}</span>`);
+  if (l.rocket?.family) tags.push(`<span class="tag t-veh">${l.rocket.family}</span>`);
+
+  const timeRow = l.net
+    ? `<div class="ctime"><span class="u">${utcStr(l.net)}</span><span class="l">${localStr(l.net)}</span></div>`
+    : '';
+
+  // Expand fields
+  const infoFields = [
+    l.rocket?.name         && { lb:'Vehicle',      v: l.rocket.name },
+    l.rocket?.manufacturer && { lb:'Manufacturer', v: l.rocket.manufacturer },
+    l.agency?.name         && { lb:'Agency',       v: l.agency.name },
+    l.pad?.name            && { lb:'Launch Pad',   v: l.pad.name },
+    l.pad?.location        && { lb:'Location',     v: l.pad.location },
+    l.mission?.description && { lb:'Mission',      v: l.mission.description },
+  ].filter(Boolean);
+
+  const timeFields = [
+    l.net          && { lb:'NET',         iso: l.net },
+    l.window_start && { lb:'Window Open', iso: l.window_start },
+    l.window_end   && { lb:'Window Close',iso: l.window_end },
+  ].filter(Boolean);
+
+  const expandHtml = `
+    <div class="exp-grid">
+      ${infoFields.map(f => `<div><div class="ef-l">${f.lb}</div><div class="ef-v">${f.v}</div></div>`).join('')}
+      ${timeFields.map(f => `<div><div class="ef-l">${f.lb}</div>
+        <div class="ef-v ef-t"><span class="u">${utcStr(f.iso)}</span><span class="l">${localStr(f.iso)}</span></div>
+      </div>`).join('')}
+    </div>
+    ${l.failure_reason
+      ? `<div class="alert-err"><div class="ef-l">Failure Reason</div><div class="ef-v">${l.failure_reason}</div></div>`
+      : ''}
+    ${l.vidURLs?.length
+      ? `<div class="vlinks">${l.vidURLs.map(v =>
+          `<a class="vlink" href="${v.url}" target="_blank" rel="noopener">
+            <svg width="8" height="8" viewBox="0 0 8 8" fill="none"><polygon points="1,0.5 7,4 1,7.5" fill="currentColor"/></svg>
+            ${v.title || 'Watch'}
+          </a>`).join('')}
+        </div>`
+      : ''}`;
+
+  return `
+    <div class="card ${ocClass(l)}" data-id="${l.id}" onclick="toggleCard('${l.id}')">
+      <div class="card-row">
+        <div class="cdate">
+          <div class="cd-day">${db.day}</div>
+          <div class="cd-mon">${db.mon}</div>
+          <div class="cd-yr">${db.yr}</div>
+        </div>
+        <div class="cbody">
+          <div class="cname" title="${l.name}">${l.name}</div>
+          <div class="cmeta">
+            <span class="hi">${l.rocket?.name || '—'}</span>
+            <span class="sep">·</span>${l.pad?.location || '—'}
+          </div>
+          ${timeRow}
+          <div class="ctags">${tags.join('')}</div>
+        </div>
+        <div class="cstat">
+          ${badge(l)}
+          ${isUp && l.probability != null
+            ? `<div class="cprob">P <span class="pv">${l.probability}%</span></div>` : ''}
+          ${isUp
+            ? `<div class="ccd" data-net="${l.net}">—</div>` : ''}
+        </div>
+      </div>
+      <div class="expand" id="expand-${l.id}">${expandHtml}</div>
+    </div>`;
+}
+
+window.toggleCard = id => document.getElementById('expand-' + id)?.classList.toggle('open');
+
+// SEPARATOR ELEMENT
+function makeSep(label, count) {
+  return `<div class="sec-sep">
+    <span class="sec-sep-lbl">${label}</span>
+    <span class="sec-sep-line"></span>
+    <span class="sec-sep-cnt">${count}</span>
+  </div>`;
+}
+
+// POPULATE FILTER DROPDOWNS FROM DATA
+function populateDropdowns() {
+  // Mission types
+  const types   = [...new Set(allLaunches.map(l => l.mission?.type).filter(Boolean))].sort();
+  const typeEl  = document.getElementById('f-type');
+  const curType = typeEl.value;
+  typeEl.innerHTML = `<option value="all">All types</option>` +
+    types.map(t => `<option value="${t}">${t}</option>`).join('');
+  if (types.includes(curType)) typeEl.value = curType;
+
+  // Agencies
+  const agencies  = [...new Set(allLaunches.map(l => l.agency?.abbrev).filter(Boolean))].sort();
+  const agencyEl  = document.getElementById('f-agency');
+  const curAgency = agencyEl.value;
+  agencyEl.innerHTML = `<option value="all">All agencies</option>` +
+    agencies.map(a => `<option value="${a}">${a}</option>`).join('');
+  if (agencies.includes(curAgency)) agencyEl.value = curAgency;
+}
+
+// APPLY FILTERS & RENDER MAIN LIST
+window.applyFilters = () => {
+  const q      = document.getElementById('q').value.toLowerCase().trim();
+  const st     = document.getElementById('f-status').value;
+  const ty     = document.getElementById('f-type').value;
+  const ag     = document.getElementById('f-agency').value;
+  const srt    = document.getElementById('f-sort').value;
+  const now    = new Date();
+
+  const pass = l => {
+    // text search
+    if (q) {
+      const hay = [l.name, l.rocket?.name, l.rocket?.family, l.agency?.name,
+                   l.agency?.abbrev, l.pad?.location, l.mission?.type, l.mission?.name]
+        .filter(Boolean).join(' ').toLowerCase();
+      if (!hay.includes(q)) return false;
+    }
+    // status
+    if (st === 'upcoming' && (l.outcome || !l.net || new Date(l.net) <= now)) return false;
+    if (st === 'go'       && l.status?.abbrev !== 'Go') return false;
+    if (st === 'success'  && l.outcome !== 'success')   return false;
+    if (st === 'failure'  && !['failure','partial_failure'].includes(l.outcome)) return false;
+    // type
+    if (ty !== 'all' && (l.mission?.type || '') !== ty) return false;
+    // agency
+    if (ag !== 'all' && (l.agency?.abbrev || '') !== ag) return false;
+    return true;
+  };
+
+  const sortFn = (a, b) => {
+    if (srt === 'net-asc')  return new Date(a.net||0) - new Date(b.net||0);
+    if (srt === 'net-desc') return new Date(b.net||0) - new Date(a.net||0);
+    return (a.name||'').localeCompare(b.name||'');
+  };
+
+  const upcoming   = allLaunches.filter(l => !l.outcome && l.net && new Date(l.net) > now).filter(pass).sort(sortFn);
+  const concluded  = allLaunches.filter(l => l.outcome && l.outcome !== 'postponed').filter(pass).sort(sortFn);
+
+  const EMPTY = `<div class="empty">NO DATA YET<br><span style="color:var(--tdim);font-size:.72rem">Data populates after the first GitHub Actions run.</span></div>`;
+  const NORES = `<div class="nores">No results match the current filters.</div>`;
+
+  const grid = document.getElementById('main-grid');
+
+  if (!allLaunches.length) {
+    grid.innerHTML = EMPTY;
+    return;
+  }
+
+  // Decide which sections to show based on the active status filter
+  const showUpcoming  = !['success','failure'].includes(st);
+  const showConcluded = !['upcoming','go'].includes(st);
+
+  const parts = [];
+
+  if (showUpcoming) {
+    parts.push(makeSep('Upcoming', upcoming.length));
+    parts.push(upcoming.length ? upcoming.map(renderCard).join('') : NORES);
+  }
+
+  if (showConcluded) {
+    parts.push(makeSep('Concluded', concluded.length));
+    parts.push(concluded.length ? concluded.map(renderCard).join('') : NORES);
+  }
+
+  grid.innerHTML = parts.join('');
+};
+
+// SIDEBAR: NEXT LAUNCH
+function renderNextLaunch() {
+  const now  = new Date();
+  const next = allLaunches
+    .filter(l => l.net && new Date(l.net) > now && !l.outcome)
+    .sort((a, b) => new Date(a.net) - new Date(b.net))[0];
+
+  const el = document.getElementById('next-launch');
+  if (!next) {
+    el.innerHTML = `<span style="font-size:.73rem;color:var(--tdim)">No upcoming launches found</span>`;
+    return;
+  }
+  el.innerHTML = `
+    <div class="nl-name">${next.name}</div>
+    <div class="nl-cd" data-net="${next.net}">—</div>
+    <div class="nl-det">${next.rocket?.name || ''} · ${next.pad?.location || ''}</div>
+    <div class="nl-t">
+      <span class="u">${utcStr(next.net)}</span>
+      <span class="l">${localStr(next.net)}</span>
+    </div>
+    ${next.probability != null
+      ? `<div style="font-size:.68rem;color:var(--warn);margin-top:.35rem">PROBABILITY: ${next.probability}%</div>` : ''}`;
+}
+
+// SIDEBAR: ACTIVITY FEED
+// Shows the most recent status_history events across all
+// launches — confirmation, delay/reschedule, outcomes.
+function renderActivity() {
+  // Collect all history events with a reference back to the launch
+  const events = [];
+  for (const l of allLaunches) {
+    const hist = l.status_history || [];
+    for (let i = 0; i < hist.length; i++) {
+      const e   = hist[i];
+      const prev = hist[i - 1];
+      if (!e.at) continue;
+      events.push({ at: e.at, launch: l, entry: e, prev });
+    }
+  }
+
+  // Sort newest first, take top 12
+  events.sort((a, b) => new Date(b.at) - new Date(a.at));
+  const recent = events.slice(0, 12);
+
+  const el = document.getElementById('activity');
+  if (!recent.length) {
+    el.innerHTML = `<span style="font-size:.73rem;color:var(--tdim)">No activity yet</span>`;
+    return;
+  }
+
+  el.innerHTML = recent.map(({ at, launch: l, entry: e, prev }) => {
+    // Build human-readable description
+    let desc = '';
+
+    const abbrev     = e.abbrev     || '?';
+    const prevAbbrev = e.prev_abbrev;
+    const prevNet    = e.prev_net;
+
+    if (abbrev === 'Success' || e.status_id === 3) {
+      desc = `<span class="hi ok-c">Launch successful</span>`;
+    } else if (abbrev === 'Failure' || e.status_id === 4) {
+      desc = `<span class="hi err-c">Launch failed</span>${l.failure_reason ? ` — ${l.failure_reason.slice(0, 60)}` : ''}`;
+    } else if (e.status_id === 7) {
+      desc = `<span class="hi warn-c">Partial failure</span>`;
+    } else if (abbrev === 'Go') {
+      if (prevAbbrev && prevAbbrev !== 'Go') {
+        desc = `<span class="hi ok-c">Confirmed GO</span> (was ${prevAbbrev})`;
+      } else if (prevNet && prevNet !== e.net) {
+        desc = `<span class="hi ok-c">GO</span> · NET updated`;
+      } else {
+        desc = `<span class="hi ok-c">Status: Go for launch</span>`;
+      }
+    } else if (abbrev === 'Hold') {
+      desc = `<span class="hi warn-c">Launch hold</span>`;
+    } else if (prevNet && prevNet !== e.net) {
+      // NET changed — rescheduled/delayed
+      const oldD = dateBlock(prevNet);
+      const newD = dateBlock(e.net);
+      const oldDate = `${oldD.day} ${oldD.mon}`;
+      const newDate = `${newD.day} ${newD.mon} ${newD.yr}`;
+      const shifted = new Date(e.net) - new Date(prevNet);
+      const hShift  = Math.round(shifted / 3600000);
+      const delayed = shifted > 0;
+      desc = `<span class="hi ${delayed ? 'warn-c' : 'info-c'}">${delayed ? 'Delayed' : 'Moved earlier'}</span> · ${oldDate} → ${newDate}`;
+    } else if (prevAbbrev && prevAbbrev !== abbrev) {
+      desc = `Status changed <span class="hi">${prevAbbrev} → ${abbrev}</span>`;
+    } else {
+      desc = `<span class="hi info-c">First tracked</span> · NET ${dateBlock(e.net).day} ${dateBlock(e.net).mon} ${dateBlock(e.net).yr}`;
+    }
+
+    const netD = dateBlock(l.net);
+
+    return `<div class="act-item">
+      <div class="act-launch">${l.name}</div>
+      <div class="act-desc">${desc}</div>
+      <div class="act-time">${relTime(at)} · NET ${netD.day} ${netD.mon} ${netD.yr}</div>
+    </div>`;
+  }).join('');
+}
+
+// STATS
+function renderStats() {
+  const now = new Date();
+  document.getElementById('s-up').textContent  = allLaunches.filter(l => l.net && new Date(l.net) > now && !l.outcome).length;
+  document.getElementById('s-ok').textContent  = allLaunches.filter(l => l.outcome === 'success').length;
+  document.getElementById('s-err').textContent = allLaunches.filter(l => ['failure','partial_failure'].includes(l.outcome)).length;
+  document.getElementById('s-tot').textContent = allLaunches.length;
+}
+
+// LOAD DATA
+async function loadData() {
+  try {
+    const data = await (await fetch('launches.json?t=' + Date.now())).json();
+    allLaunches = data.launches || [];
+
+    if (data.last_updated) {
+      document.getElementById('sync-utc').textContent   = utcStr(data.last_updated);
+      document.getElementById('sync-local').textContent = localStr(data.last_updated);
+    }
+
+    populateDropdowns();
+    renderStats();
+    renderNextLaunch();
+    renderActivity();
+    applyFilters();
+  } catch (e) {
+    console.error(e);
+    document.getElementById('main-grid').innerHTML =
+      `<div class="empty">Failed to load launches.json<br><span style="font-size:.72rem;color:var(--tdim)">Run the GitHub Action to seed initial data.</span></div>`;
+  }
+}
+
+// COUNTDOWNS + INIT
+setInterval(() => {
+  document.querySelectorAll('[data-net]').forEach(el => {
+    el.textContent = cdown(el.dataset.net);
+  });
+}, 1000);
+
+setInterval(loadData, 5 * 60 * 1000);
+loadData();
+</script>
+</body>
+</html>

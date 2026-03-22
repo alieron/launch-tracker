@@ -1,0 +1,38 @@
+name: Sync Launches
+
+on:
+  schedule:
+    - cron: '*/30 * * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  sync-launch:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout gh-pages
+        uses: actions/checkout@v4
+        with:
+          ref: gh-pages
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Sync launch data
+        run: python sync_launches.py
+
+      - name: Commit if changed
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add -f site/launches.json
+          git diff --staged --quiet || git commit -m "Sync launches [$(date -u '+%Y-%m-%d %H:%M UTC')]"
+          git push
+
+  deploy:
+    needs: sync-launch
+    uses: ./.github/workflows/deploy.yml@master
