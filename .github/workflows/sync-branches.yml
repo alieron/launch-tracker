@@ -6,6 +6,9 @@ on:
     branches:
       - master
 
+permissions:
+  contents: write
+
 jobs:
   sync-branch:
     runs-on: ubuntu-latest
@@ -45,4 +48,8 @@ jobs:
 
   deploy:
     needs: sync-branch
-    uses: ./.github/workflows/deploy.yml@master
+    permissions:
+      pages: write
+      id-token: write
+      contents: read
+    uses: ./.github/workflows/deploy.yml

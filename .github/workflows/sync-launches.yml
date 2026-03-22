@@ -35,4 +35,8 @@ jobs:
 
   deploy:
     needs: sync-launch
-    uses: ./.github/workflows/deploy.yml@master
+    permissions:
+      pages: write
+      id-token: write
+      contents: read
+    uses: ./.github/workflows/deploy.yml
