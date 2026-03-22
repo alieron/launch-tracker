@@ -270,7 +270,7 @@ def main():
         if not (
             r.get("outcome") in concluded
             and dt(r.get("net") or r.get("discovered_at")) is not None
-            # and dt(r.get("net") or r.get("discovered_at")) < cutoff_6mo
+            and dt(r.get("net") or r.get("discovered_at")) < cutoff_6mo
         )
     }
     pruned = before - len(existing_map)
