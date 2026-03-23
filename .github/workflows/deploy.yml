@@ -25,13 +25,13 @@ jobs:
 
     steps:
       - name: Checkout master
-        uses: actions/checkout@v4
+        uses: actions/checkout@v6
         with:
           ref: master
 
       # checkout data from json branch
       - name: Checkout json
-        uses: actions/checkout@v4
+        uses: actions/checkout@v6
         with:
           ref: json
           path: data
@@ -42,13 +42,14 @@ jobs:
           cp -r data/* site/
 
       - name: Setup Pages
-        uses: actions/configure-pages@v4
+        uses: actions/configure-pages@v5
 
       # Change to buid output directory
       - name: Upload docs artifact
-        uses: actions/upload-pages-artifact@v3
+        uses: actions/upload-pages-artifact@v4
         with:
           path: ./site
 
+      # to be updated
       - name: Deploy
         uses: actions/deploy-pages@v4
