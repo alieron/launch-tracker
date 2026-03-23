@@ -15,7 +15,7 @@ import urllib.request
 from datetime import datetime, timezone, timedelta
 from pathlib import Path
 
-DATA_FILE = Path("site/launches.json")
+DATA_FILE = Path("data/launches.json")
 LL2_BASE = "https://ll.thespacedevs.com/2.2.0"
 UA = "LaunchVector/1.0 (github-actions)"
 

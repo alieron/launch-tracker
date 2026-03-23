@@ -2,12 +2,19 @@ name: Deploy to GitHub Pages
 # deploys the gh-pages branch
 
 on:
+  push:
+    branches:
+      - master
   workflow_call:
 
 permissions:
   pages: write
   id-token: write
   contents: read
+
+concurrency:
+  group: pages-deploy
+  cancel-in-progress: true
 
 jobs:
   deploy:
@@ -17,14 +24,25 @@ jobs:
       name: github-pages
 
     steps:
-      - name: Checkout gh-pages
+      - name: Checkout master
         uses: actions/checkout@v4
         with:
-          ref: gh-pages
+          ref: master
+
+      - name: Fetch JSON data
+        run: |
+          git fetch origin json
+          git checkout origin/json -- data/
+
+      # Remove once build system is configured
+      - name: Copy data into site
+        run: |
+          cp -r data/* site/
 
       - name: Setup Pages
         uses: actions/configure-pages@v4
 
+      # Change to buid output directory
       - name: Upload docs artifact
         uses: actions/upload-pages-artifact@v3
         with:

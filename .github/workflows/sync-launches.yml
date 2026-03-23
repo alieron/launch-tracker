@@ -5,33 +5,43 @@ on:
     - cron: '*/30 * * * *'
   workflow_dispatch:
 
-permissions:
-  contents: write
-
 jobs:
   sync-launch:
     runs-on: ubuntu-latest
     steps:
-      - name: Checkout gh-pages
+      - name: Checkout master
         uses: actions/checkout@v4
         with:
-          ref: gh-pages
+          ref: master
+          fetch-depth: 0
 
       - name: Set up Python
         uses: actions/setup-python@v5
         with:
           python-version: '3.12'
 
-      - name: Sync launch data
+      - name: Sync data
         run: python sync_launches.py
+
+      - name: Stash data
+        run: git stash push data/
+
+      - name: Checkout json
+        run: |
+          git fetch origin json
+          git checkout json
+
+      - name: Apply stached data
+        run: |
+          git stach pop
 
       - name: Commit if changed
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add -f site/launches.json
+          git add data/
           git diff --staged --quiet || git commit -m "Sync launches [$(date -u '+%Y-%m-%d %H:%M UTC')]"
-          git push
+          git push origin json
 
   deploy:
     needs: sync-launch
