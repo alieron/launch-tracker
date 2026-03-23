@@ -29,10 +29,12 @@ jobs:
         with:
           ref: master
 
-      - name: Fetch JSON data
-        run: |
-          git fetch origin json
-          git checkout origin/json -- data/
+      # checkout data from json branch
+      - name: Checkout json
+        uses: actions/checkout@v4
+        with:
+          ref: json
+          path: data
 
       # Remove once build system is configured
       - name: Copy data into site
