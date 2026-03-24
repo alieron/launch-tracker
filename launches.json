@@ -42,7 +42,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-03-23T16:53:54.541846+00:00",
-      "last_updated_at": "2026-03-23T23:54:30.991800+00:00",
+      "last_updated_at": "2026-03-24T01:44:49.049775+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -96,7 +96,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-03-23T15:34:22.797200+00:00",
-      "last_updated_at": "2026-03-23T23:54:30.991794+00:00",
+      "last_updated_at": "2026-03-24T01:44:49.049769+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -150,7 +150,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-03-23T12:57:06.104402+00:00",
-      "last_updated_at": "2026-03-23T23:54:30.991789+00:00",
+      "last_updated_at": "2026-03-24T01:44:49.049764+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -204,7 +204,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-03-23T08:19:21.926636+00:00",
-      "last_updated_at": "2026-03-23T23:54:30.991781+00:00",
+      "last_updated_at": "2026-03-24T01:44:49.049757+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -263,7 +263,7 @@
       ],
       "webcast_live": false,
       "discovered_at": "2026-03-23T08:19:21.926626+00:00",
-      "last_updated_at": "2026-03-23T23:54:30.991775+00:00",
+      "last_updated_at": "2026-03-24T01:44:49.049751+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -322,7 +322,7 @@
       ],
       "webcast_live": false,
       "discovered_at": "2026-03-23T08:19:21.926616+00:00",
-      "last_updated_at": "2026-03-23T23:54:30.991769+00:00",
+      "last_updated_at": "2026-03-24T01:44:49.049746+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -376,7 +376,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-03-23T08:19:21.926603+00:00",
-      "last_updated_at": "2026-03-23T23:54:30.991762+00:00",
+      "last_updated_at": "2026-03-24T01:44:49.049739+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -430,7 +430,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-03-23T08:19:21.926514+00:00",
-      "last_updated_at": "2026-03-23T23:54:30.991713+00:00",
+      "last_updated_at": "2026-03-24T01:44:49.049697+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -484,66 +484,12 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-03-23T08:19:21.926524+00:00",
-      "last_updated_at": "2026-03-23T23:54:30.991719+00:00",
+      "last_updated_at": "2026-03-24T01:44:49.049703+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
         {
           "at": "2026-03-23T08:19:21.926526+00:00",
-          "status_id": 2,
-          "abbrev": "TBD",
-          "net": "2026-03-31T00:00:00Z"
-        }
-      ]
-    },
-    {
-      "id": "1477dff4-27be-4fad-9120-a18f4eacbd57",
-      "name": "Soyuz 2.1b/Fregat-M | 16 x Rassvet-3",
-      "slug": "soyuz-21bfregat-m-16-x-rassvet-3",
-      "status": {
-        "id": 2,
-        "abbrev": "TBD",
-        "name": "To Be Determined",
-        "description": "Current date is a placeholder or rough estimation based on unreliable or interpreted sources."
-      },
-      "net": "2026-03-31T00:00:00Z",
-      "window_start": "2026-03-31T00:00:00Z",
-      "window_end": "2026-03-31T00:00:00Z",
-      "probability": null,
-      "rocket": {
-        "name": "Soyuz 2.1b/Fregat-M",
-        "family": "Soyuz",
-        "manufacturer": "Progress Rocket Space Center",
-        "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/soyuz_2.1b_image_20230802085331.jpg"
-      },
-      "mission": {
-        "name": "16 x Rassvet-3",
-        "description": "Note: Payload identities uncertain.\r\n\r\nBatch of 16 Rassvet-3 Low Earth Orbit communication satellites for the Russian Byuro-1440 (Bureau 1440) constellation for broadband high-speed internet access in Russia.",
-        "type": "Communications",
-        "orbit": "Polar Orbit"
-      },
-      "pad": {
-        "name": "Unknown Pad",
-        "location": "Plesetsk Cosmodrome, Russian Federation",
-        "country": "RUS",
-        "latitude": "62.925556",
-        "longitude": "40.577778"
-      },
-      "agency": {
-        "name": "Russian Federal Space Agency (ROSCOSMOS)",
-        "abbrev": "RFSA",
-        "type": "Government"
-      },
-      "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/soyuz_2.1b_image_20230802085331.jpg",
-      "vidURLs": [],
-      "webcast_live": false,
-      "discovered_at": "2026-03-23T08:19:21.926536+00:00",
-      "last_updated_at": "2026-03-23T23:54:30.991726+00:00",
-      "outcome": null,
-      "failure_reason": null,
-      "status_history": [
-        {
-          "at": "2026-03-23T08:19:21.926537+00:00",
           "status_id": 2,
           "abbrev": "TBD",
           "net": "2026-03-31T00:00:00Z"
@@ -592,7 +538,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-03-23T08:19:21.926545+00:00",
-      "last_updated_at": "2026-03-23T23:54:30.991732+00:00",
+      "last_updated_at": "2026-03-24T01:44:49.049710+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -646,7 +592,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-03-23T08:19:21.926555+00:00",
-      "last_updated_at": "2026-03-23T23:54:30.991738+00:00",
+      "last_updated_at": "2026-03-24T01:44:49.049715+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -700,7 +646,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-03-23T08:19:21.926569+00:00",
-      "last_updated_at": "2026-03-23T23:54:30.991743+00:00",
+      "last_updated_at": "2026-03-24T01:44:49.049721+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -754,7 +700,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-03-23T08:19:21.926579+00:00",
-      "last_updated_at": "2026-03-23T23:54:30.991749+00:00",
+      "last_updated_at": "2026-03-24T01:44:49.049727+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -808,7 +754,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-03-23T08:19:21.926589+00:00",
-      "last_updated_at": "2026-03-23T23:54:30.991756+00:00",
+      "last_updated_at": "2026-03-24T01:44:49.049732+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -862,7 +808,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-03-23T08:19:21.926395+00:00",
-      "last_updated_at": "2026-03-23T23:54:30.991706+00:00",
+      "last_updated_at": "2026-03-24T01:44:49.049691+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -924,7 +870,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-03-23T08:19:21.926502+00:00",
-      "last_updated_at": "2026-03-23T23:54:30.991700+00:00",
+      "last_updated_at": "2026-03-24T01:44:49.049686+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -978,7 +924,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-03-23T08:19:21.926492+00:00",
-      "last_updated_at": "2026-03-23T23:54:30.991694+00:00",
+      "last_updated_at": "2026-03-24T01:44:49.049679+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -1032,7 +978,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-03-23T08:19:21.926481+00:00",
-      "last_updated_at": "2026-03-23T23:54:30.991689+00:00",
+      "last_updated_at": "2026-03-24T01:44:49.049673+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -1091,7 +1037,7 @@
       ],
       "webcast_live": false,
       "discovered_at": "2026-03-23T08:19:21.926457+00:00",
-      "last_updated_at": "2026-03-23T23:54:30.991676+00:00",
+      "last_updated_at": "2026-03-24T01:44:49.049667+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -1152,7 +1098,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-03-23T08:19:21.926470+00:00",
-      "last_updated_at": "2026-03-23T23:54:30.991670+00:00",
+      "last_updated_at": "2026-03-24T01:44:49.049661+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -1206,7 +1152,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-03-23T08:19:21.926445+00:00",
-      "last_updated_at": "2026-03-23T23:54:30.991662+00:00",
+      "last_updated_at": "2026-03-24T01:44:49.049654+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -1265,7 +1211,7 @@
       ],
       "webcast_live": false,
       "discovered_at": "2026-03-23T08:19:21.926409+00:00",
-      "last_updated_at": "2026-03-23T23:54:30.991654+00:00",
+      "last_updated_at": "2026-03-24T01:44:49.049635+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -1331,7 +1277,7 @@
       ],
       "webcast_live": false,
       "discovered_at": "2026-03-23T08:19:21.926434+00:00",
-      "last_updated_at": "2026-03-23T23:54:30.991640+00:00",
+      "last_updated_at": "2026-03-24T01:44:49.049626+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -1390,7 +1336,7 @@
       ],
       "webcast_live": false,
       "discovered_at": "2026-03-23T08:19:21.926423+00:00",
-      "last_updated_at": "2026-03-23T23:54:30.991591+00:00",
+      "last_updated_at": "2026-03-24T01:44:49.049614+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -1399,6 +1345,68 @@
           "status_id": 1,
           "abbrev": "Go",
           "net": "2026-03-24T23:03:00Z"
+        }
+      ]
+    },
+    {
+      "id": "1477dff4-27be-4fad-9120-a18f4eacbd57",
+      "name": "Soyuz 2.1b/Fregat-M | 16 x Rassvet-3",
+      "slug": "soyuz-21bfregat-m-16-x-rassvet-3",
+      "status": {
+        "id": 6,
+        "abbrev": "In Flight",
+        "name": "Launch in Flight",
+        "description": "The launch vehicle has lifted off from the launchpad."
+      },
+      "net": "2026-03-23T18:00:00Z",
+      "window_start": "2026-03-23T11:00:00Z",
+      "window_end": "2026-03-23T21:00:00Z",
+      "probability": null,
+      "rocket": {
+        "name": "Soyuz 2.1b/Fregat-M",
+        "family": "Soyuz",
+        "manufacturer": "Progress Rocket Space Center",
+        "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/soyuz_2.1b_image_20230802085331.jpg"
+      },
+      "mission": {
+        "name": "16 x Rassvet-3",
+        "description": "Note: Payload identities uncertain.\r\n\r\nBatch of 16 Rassvet-3 Low Earth Orbit communication satellites for the Russian Byuro-1440 (Bureau 1440) constellation for broadband high-speed internet access in Russia.",
+        "type": "Communications",
+        "orbit": "Polar Orbit"
+      },
+      "pad": {
+        "name": "Unknown Pad",
+        "location": "Plesetsk Cosmodrome, Russian Federation",
+        "country": "RUS",
+        "latitude": "62.925556",
+        "longitude": "40.577778"
+      },
+      "agency": {
+        "name": "Russian Federal Space Agency (ROSCOSMOS)",
+        "abbrev": "RFSA",
+        "type": "Government"
+      },
+      "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/soyuz_2.1b_image_20230802085331.jpg",
+      "vidURLs": [],
+      "webcast_live": false,
+      "discovered_at": "2026-03-23T08:19:21.926536+00:00",
+      "last_updated_at": "2026-03-24T01:44:49.049576+00:00",
+      "outcome": null,
+      "failure_reason": null,
+      "status_history": [
+        {
+          "at": "2026-03-23T08:19:21.926537+00:00",
+          "status_id": 2,
+          "abbrev": "TBD",
+          "net": "2026-03-31T00:00:00Z"
+        },
+        {
+          "at": "2026-03-24T01:44:49.049594+00:00",
+          "status_id": 6,
+          "abbrev": "In Flight",
+          "net": "2026-03-23T18:00:00Z",
+          "prev_net": "2026-03-31T00:00:00Z",
+          "prev_abbrev": "TBD"
         }
       ]
     },
@@ -1604,5 +1612,5 @@
       ]
     }
   ],
-  "last_updated": "2026-03-23T23:54:30.991937+00:00"
+  "last_updated": "2026-03-24T01:44:49.049909+00:00"
 }
