@@ -1,6 +1,60 @@
 {
   "launches": [
     {
+      "id": "7bffe283-a708-427d-ba0d-43ea741453b1",
+      "name": "Ariane 64 | Amazon Leo (LE-02)",
+      "slug": "ariane-64-amazon-leo-le-02",
+      "status": {
+        "id": 2,
+        "abbrev": "TBD",
+        "name": "To Be Determined",
+        "description": "Current date is a placeholder or rough estimation based on unreliable or interpreted sources."
+      },
+      "net": "2026-04-28T00:00:00Z",
+      "window_start": "2026-04-28T00:00:00Z",
+      "window_end": "2026-04-28T00:00:00Z",
+      "probability": null,
+      "rocket": {
+        "name": "Ariane 64",
+        "family": "Ariane",
+        "manufacturer": "ArianeGroup",
+        "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/ariane_64_lifto_image_20260213070745.jpg"
+      },
+      "mission": {
+        "name": "Amazon Leo (LE-02)",
+        "description": "Amazon Leo, formerly known as Project Kuiper, is a mega constellation of satellites in Low Earth Orbit that will offer broadband internet access, this constellation will be managed by Kuiper Systems LLC, a subsidiary of Amazon. This constellation is planned to be composed of 3,276 satellites. The satellites are projected to be placed in 98 orbital planes in three orbital layers, one at 590 km, 610 km and 630 km altitude.\r\n\r\n32 satellites are carried on this launch.",
+        "type": "Communications",
+        "orbit": "Low Earth Orbit"
+      },
+      "pad": {
+        "name": "Ariane Launch Area 4",
+        "location": "Guiana Space Centre, French Guiana",
+        "country": "GUF",
+        "latitude": "5.256319",
+        "longitude": "-52.786838"
+      },
+      "agency": {
+        "name": "Arianespace",
+        "abbrev": "ASA",
+        "type": "Commercial"
+      },
+      "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/ariane_64_lifto_image_20260213070745.jpg",
+      "vidURLs": [],
+      "webcast_live": false,
+      "discovered_at": "2026-03-27T15:14:22.279146+00:00",
+      "last_updated_at": "2026-03-27T15:14:22.279143+00:00",
+      "outcome": null,
+      "failure_reason": null,
+      "status_history": [
+        {
+          "at": "2026-03-27T15:14:22.279149+00:00",
+          "status_id": 2,
+          "abbrev": "TBD",
+          "net": "2026-04-28T00:00:00Z"
+        }
+      ]
+    },
+    {
       "id": "33eb7522-d371-4195-addb-c22aeff30c41",
       "name": "Soyuz 2.1a | Progress MS-34 (95P)",
       "slug": "soyuz-21a-progress-ms-34-95p",
@@ -42,7 +96,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-03-25T05:42:46.752556+00:00",
-      "last_updated_at": "2026-03-27T14:10:51.442714+00:00",
+      "last_updated_at": "2026-03-27T15:14:22.279135+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -96,7 +150,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-03-25T05:42:46.752539+00:00",
-      "last_updated_at": "2026-03-27T14:10:51.442708+00:00",
+      "last_updated_at": "2026-03-27T15:14:22.279127+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -150,7 +204,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-03-23T16:53:54.541846+00:00",
-      "last_updated_at": "2026-03-27T14:10:51.442700+00:00",
+      "last_updated_at": "2026-03-27T15:14:22.279119+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -204,7 +258,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-03-23T15:34:22.797200+00:00",
-      "last_updated_at": "2026-03-27T14:10:51.442694+00:00",
+      "last_updated_at": "2026-03-27T15:14:22.279112+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -258,7 +312,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-03-23T12:57:06.104402+00:00",
-      "last_updated_at": "2026-03-27T14:10:51.442688+00:00",
+      "last_updated_at": "2026-03-27T15:14:22.279105+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -312,7 +366,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-03-26T09:08:32.376656+00:00",
-      "last_updated_at": "2026-03-27T14:10:51.442679+00:00",
+      "last_updated_at": "2026-03-27T15:14:22.279098+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -371,7 +425,7 @@
       ],
       "webcast_live": false,
       "discovered_at": "2026-03-24T17:29:50.698575+00:00",
-      "last_updated_at": "2026-03-27T14:10:51.442673+00:00",
+      "last_updated_at": "2026-03-27T15:14:22.279090+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -439,7 +493,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-03-23T08:19:21.926636+00:00",
-      "last_updated_at": "2026-03-27T14:10:51.442665+00:00",
+      "last_updated_at": "2026-03-27T15:14:22.279083+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -498,7 +552,7 @@
       ],
       "webcast_live": false,
       "discovered_at": "2026-03-23T08:19:21.926616+00:00",
-      "last_updated_at": "2026-03-27T14:10:51.442657+00:00",
+      "last_updated_at": "2026-03-27T15:14:22.279073+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -564,7 +618,7 @@
       ],
       "webcast_live": false,
       "discovered_at": "2026-03-23T08:19:21.926626+00:00",
-      "last_updated_at": "2026-03-27T14:10:51.442649+00:00",
+      "last_updated_at": "2026-03-27T15:14:22.279066+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -625,7 +679,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-03-23T08:19:21.926481+00:00",
-      "last_updated_at": "2026-03-27T14:10:51.442642+00:00",
+      "last_updated_at": "2026-03-27T15:14:22.279058+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -698,7 +752,7 @@
       ],
       "webcast_live": false,
       "discovered_at": "2026-03-23T08:19:21.926603+00:00",
-      "last_updated_at": "2026-03-27T14:10:51.442635+00:00",
+      "last_updated_at": "2026-03-27T15:14:22.279051+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -806,7 +860,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-03-23T08:19:21.926524+00:00",
-      "last_updated_at": "2026-03-27T14:10:51.442598+00:00",
+      "last_updated_at": "2026-03-27T15:14:22.279012+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -860,7 +914,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-03-23T08:19:21.926545+00:00",
-      "last_updated_at": "2026-03-27T14:10:51.442605+00:00",
+      "last_updated_at": "2026-03-27T15:14:22.279021+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -968,7 +1022,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-03-23T08:19:21.926569+00:00",
-      "last_updated_at": "2026-03-27T14:10:51.442611+00:00",
+      "last_updated_at": "2026-03-27T15:14:22.279028+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -1022,7 +1076,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-03-23T08:19:21.926579+00:00",
-      "last_updated_at": "2026-03-27T14:10:51.442620+00:00",
+      "last_updated_at": "2026-03-27T15:14:22.279035+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -1076,7 +1130,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-03-23T08:19:21.926589+00:00",
-      "last_updated_at": "2026-03-27T14:10:51.442627+00:00",
+      "last_updated_at": "2026-03-27T15:14:22.279043+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -1197,7 +1251,7 @@
       ],
       "webcast_live": false,
       "discovered_at": "2026-03-23T08:19:21.926502+00:00",
-      "last_updated_at": "2026-03-27T14:10:51.442585+00:00",
+      "last_updated_at": "2026-03-27T15:14:22.279004+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -1264,7 +1318,7 @@
       ],
       "webcast_live": false,
       "discovered_at": "2026-03-23T08:19:21.926457+00:00",
-      "last_updated_at": "2026-03-27T14:10:51.442574+00:00",
+      "last_updated_at": "2026-03-27T15:14:22.278995+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -1337,7 +1391,7 @@
       ],
       "webcast_live": false,
       "discovered_at": "2026-03-23T08:19:21.926492+00:00",
-      "last_updated_at": "2026-03-27T14:10:51.442561+00:00",
+      "last_updated_at": "2026-03-27T15:14:22.278961+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -1400,7 +1454,7 @@
       ],
       "webcast_live": false,
       "discovered_at": "2026-03-23T08:19:21.926409+00:00",
-      "last_updated_at": "2026-03-27T14:10:51.442552+00:00",
+      "last_updated_at": "2026-03-27T15:14:22.278948+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -1461,10 +1515,10 @@
       "name": "Electron | Daughter Of The Stars (LEO-PNT Pathfinder A)",
       "slug": "electron-daughter-of-the-stars-leo-pnt-pathfinder",
       "status": {
-        "id": 8,
-        "abbrev": "TBC",
-        "name": "To Be Confirmed",
-        "description": "Awaiting official confirmation - current date is known with some certainty."
+        "id": 1,
+        "abbrev": "Go",
+        "name": "Go for Launch",
+        "description": "Current T-0 confirmed by official or reliable sources."
       },
       "net": "2026-03-28T09:14:00Z",
       "window_start": "2026-03-28T09:14:00Z",
@@ -1499,11 +1553,15 @@
         {
           "title": "Rocket Lab - 'Daughter Of The Stars' Launch",
           "url": "https://www.youtube.com/watch?v=bR1en0oGPRs"
+        },
+        {
+          "title": "ESA\u2019s Celeste mission launch 1",
+          "url": "https://www.youtube.com/watch?v=jJxRic-a4SU"
         }
       ],
       "webcast_live": false,
       "discovered_at": "2026-03-23T08:19:21.926434+00:00",
-      "last_updated_at": "2026-03-27T14:10:51.442542+00:00",
+      "last_updated_at": "2026-03-27T15:14:22.278931+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -1535,6 +1593,13 @@
           "net": "2026-03-28T09:14:00Z",
           "prev_net": "2026-03-31T00:00:00Z",
           "prev_abbrev": "TBD"
+        },
+        {
+          "at": "2026-03-27T15:14:22.278936+00:00",
+          "status_id": 1,
+          "abbrev": "Go",
+          "net": "2026-03-28T09:14:00Z",
+          "prev_abbrev": "TBC"
         }
       ]
     },
@@ -1580,7 +1645,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-03-23T08:19:21.926470+00:00",
-      "last_updated_at": "2026-03-27T14:10:51.442528+00:00",
+      "last_updated_at": "2026-03-27T15:14:22.278917+00:00",
       "outcome": "success",
       "failure_reason": null,
       "status_history": [
@@ -1655,7 +1720,7 @@
       ],
       "webcast_live": false,
       "discovered_at": "2026-03-23T08:19:21.926423+00:00",
-      "last_updated_at": "2026-03-27T14:10:51.442497+00:00",
+      "last_updated_at": "2026-03-27T15:14:22.278882+00:00",
       "outcome": "success",
       "failure_reason": null,
       "status_history": [
@@ -2043,5 +2108,5 @@
       ]
     }
   ],
-  "last_updated": "2026-03-27T14:10:51.442871+00:00"
+  "last_updated": "2026-03-27T15:14:22.279326+00:00"
 }
