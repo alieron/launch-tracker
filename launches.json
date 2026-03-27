@@ -42,7 +42,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-03-27T15:14:22.279146+00:00",
-      "last_updated_at": "2026-03-27T15:14:22.279143+00:00",
+      "last_updated_at": "2026-03-27T16:11:51.267696+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -96,7 +96,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-03-25T05:42:46.752556+00:00",
-      "last_updated_at": "2026-03-27T15:14:22.279135+00:00",
+      "last_updated_at": "2026-03-27T16:11:51.267690+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -150,7 +150,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-03-25T05:42:46.752539+00:00",
-      "last_updated_at": "2026-03-27T15:14:22.279127+00:00",
+      "last_updated_at": "2026-03-27T16:11:51.267682+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -204,7 +204,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-03-23T16:53:54.541846+00:00",
-      "last_updated_at": "2026-03-27T15:14:22.279119+00:00",
+      "last_updated_at": "2026-03-27T16:11:51.267676+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -258,7 +258,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-03-23T15:34:22.797200+00:00",
-      "last_updated_at": "2026-03-27T15:14:22.279112+00:00",
+      "last_updated_at": "2026-03-27T16:11:51.267667+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -312,7 +312,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-03-23T12:57:06.104402+00:00",
-      "last_updated_at": "2026-03-27T15:14:22.279105+00:00",
+      "last_updated_at": "2026-03-27T16:11:51.267661+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -366,7 +366,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-03-26T09:08:32.376656+00:00",
-      "last_updated_at": "2026-03-27T15:14:22.279098+00:00",
+      "last_updated_at": "2026-03-27T16:11:51.267653+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -425,7 +425,7 @@
       ],
       "webcast_live": false,
       "discovered_at": "2026-03-24T17:29:50.698575+00:00",
-      "last_updated_at": "2026-03-27T15:14:22.279090+00:00",
+      "last_updated_at": "2026-03-27T16:11:51.267646+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -493,7 +493,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-03-23T08:19:21.926636+00:00",
-      "last_updated_at": "2026-03-27T15:14:22.279083+00:00",
+      "last_updated_at": "2026-03-27T16:11:51.267639+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -552,7 +552,7 @@
       ],
       "webcast_live": false,
       "discovered_at": "2026-03-23T08:19:21.926616+00:00",
-      "last_updated_at": "2026-03-27T15:14:22.279073+00:00",
+      "last_updated_at": "2026-03-27T16:11:51.267633+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -618,7 +618,7 @@
       ],
       "webcast_live": false,
       "discovered_at": "2026-03-23T08:19:21.926626+00:00",
-      "last_updated_at": "2026-03-27T15:14:22.279066+00:00",
+      "last_updated_at": "2026-03-27T16:11:51.267624+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -679,7 +679,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-03-23T08:19:21.926481+00:00",
-      "last_updated_at": "2026-03-27T15:14:22.279058+00:00",
+      "last_updated_at": "2026-03-27T16:11:51.267617+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -752,7 +752,7 @@
       ],
       "webcast_live": false,
       "discovered_at": "2026-03-23T08:19:21.926603+00:00",
-      "last_updated_at": "2026-03-27T15:14:22.279051+00:00",
+      "last_updated_at": "2026-03-27T16:11:51.267609+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -860,7 +860,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-03-23T08:19:21.926524+00:00",
-      "last_updated_at": "2026-03-27T15:14:22.279012+00:00",
+      "last_updated_at": "2026-03-27T16:11:51.267577+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -914,7 +914,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-03-23T08:19:21.926545+00:00",
-      "last_updated_at": "2026-03-27T15:14:22.279021+00:00",
+      "last_updated_at": "2026-03-27T16:11:51.267587+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -1022,7 +1022,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-03-23T08:19:21.926569+00:00",
-      "last_updated_at": "2026-03-27T15:14:22.279028+00:00",
+      "last_updated_at": "2026-03-27T16:11:51.267594+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -1076,66 +1076,12 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-03-23T08:19:21.926579+00:00",
-      "last_updated_at": "2026-03-27T15:14:22.279035+00:00",
+      "last_updated_at": "2026-03-27T16:11:51.267600+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
         {
           "at": "2026-03-23T08:19:21.926581+00:00",
-          "status_id": 2,
-          "abbrev": "TBD",
-          "net": "2026-03-31T00:00:00Z"
-        }
-      ]
-    },
-    {
-      "id": "98451321-cd10-4ca7-a0d1-4076db5fa73d",
-      "name": "Tianlong-3 | Demo Flight",
-      "slug": "tianlong-3-demo-flight",
-      "status": {
-        "id": 2,
-        "abbrev": "TBD",
-        "name": "To Be Determined",
-        "description": "Current date is a placeholder or rough estimation based on unreliable or interpreted sources."
-      },
-      "net": "2026-03-31T00:00:00Z",
-      "window_start": "2026-03-31T00:00:00Z",
-      "window_end": "2026-03-31T00:00:00Z",
-      "probability": null,
-      "rocket": {
-        "name": "Tianlong-3",
-        "family": "",
-        "manufacturer": "Space Pioneer",
-        "image_url": null
-      },
-      "mission": {
-        "name": "Demo Flight",
-        "description": "First test launch of Space Pioneer\u2019s Tianlong-3 rocket.",
-        "type": "Test Flight",
-        "orbit": "Unknown"
-      },
-      "pad": {
-        "name": "Tianlong-3 Launch Pad",
-        "location": "Jiuquan Satellite Launch Center, People's Republic of China",
-        "country": "CHN",
-        "latitude": "40.8072",
-        "longitude": "100.13644"
-      },
-      "agency": {
-        "name": "Space Pioneer",
-        "abbrev": "SP",
-        "type": "Commercial"
-      },
-      "image_url": null,
-      "vidURLs": [],
-      "webcast_live": false,
-      "discovered_at": "2026-03-23T08:19:21.926589+00:00",
-      "last_updated_at": "2026-03-27T15:14:22.279043+00:00",
-      "outcome": null,
-      "failure_reason": null,
-      "status_history": [
-        {
-          "at": "2026-03-23T08:19:21.926595+00:00",
           "status_id": 2,
           "abbrev": "TBD",
           "net": "2026-03-31T00:00:00Z"
@@ -1205,6 +1151,68 @@
       ]
     },
     {
+      "id": "98451321-cd10-4ca7-a0d1-4076db5fa73d",
+      "name": "Tianlong-3 | Demo Flight",
+      "slug": "tianlong-3-demo-flight",
+      "status": {
+        "id": 1,
+        "abbrev": "Go",
+        "name": "Go for Launch",
+        "description": "Current T-0 confirmed by official or reliable sources."
+      },
+      "net": "2026-03-30T11:00:00Z",
+      "window_start": "2026-03-30T10:52:00Z",
+      "window_end": "2026-03-30T13:14:00Z",
+      "probability": null,
+      "rocket": {
+        "name": "Tianlong-3",
+        "family": "",
+        "manufacturer": "Space Pioneer",
+        "image_url": null
+      },
+      "mission": {
+        "name": "Demo Flight",
+        "description": "First test launch of Space Pioneer\u2019s Tianlong-3 rocket. Reports indicate this launch may carry a batch of satellites for the SpaceSail/G60/Qianfan LEO communication satellites constellation.",
+        "type": "Test Flight",
+        "orbit": "Polar Orbit"
+      },
+      "pad": {
+        "name": "Tianlong-3 Launch Pad",
+        "location": "Jiuquan Satellite Launch Center, People's Republic of China",
+        "country": "CHN",
+        "latitude": "40.8072",
+        "longitude": "100.13644"
+      },
+      "agency": {
+        "name": "Space Pioneer",
+        "abbrev": "SP",
+        "type": "Commercial"
+      },
+      "image_url": null,
+      "vidURLs": [],
+      "webcast_live": false,
+      "discovered_at": "2026-03-23T08:19:21.926589+00:00",
+      "last_updated_at": "2026-03-27T16:11:51.267563+00:00",
+      "outcome": null,
+      "failure_reason": null,
+      "status_history": [
+        {
+          "at": "2026-03-23T08:19:21.926595+00:00",
+          "status_id": 2,
+          "abbrev": "TBD",
+          "net": "2026-03-31T00:00:00Z"
+        },
+        {
+          "at": "2026-03-27T16:11:51.267567+00:00",
+          "status_id": 1,
+          "abbrev": "Go",
+          "net": "2026-03-30T11:00:00Z",
+          "prev_net": "2026-03-31T00:00:00Z",
+          "prev_abbrev": "TBD"
+        }
+      ]
+    },
+    {
       "id": "fd4ba54a-df30-4318-a79b-2f9d6a38acc5",
       "name": "Falcon 9 Block 5 | Transporter 16 (Dedicated SSO Rideshare)",
       "slug": "falcon-9-block-5-transporter-16-dedicated-sso-ride",
@@ -1251,7 +1259,7 @@
       ],
       "webcast_live": false,
       "discovered_at": "2026-03-23T08:19:21.926502+00:00",
-      "last_updated_at": "2026-03-27T15:14:22.279004+00:00",
+      "last_updated_at": "2026-03-27T16:11:51.267556+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -1318,7 +1326,7 @@
       ],
       "webcast_live": false,
       "discovered_at": "2026-03-23T08:19:21.926457+00:00",
-      "last_updated_at": "2026-03-27T15:14:22.278995+00:00",
+      "last_updated_at": "2026-03-27T16:11:51.267547+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -1391,7 +1399,7 @@
       ],
       "webcast_live": false,
       "discovered_at": "2026-03-23T08:19:21.926492+00:00",
-      "last_updated_at": "2026-03-27T15:14:22.278961+00:00",
+      "last_updated_at": "2026-03-27T16:11:51.267538+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -1454,7 +1462,7 @@
       ],
       "webcast_live": false,
       "discovered_at": "2026-03-23T08:19:21.926409+00:00",
-      "last_updated_at": "2026-03-27T15:14:22.278948+00:00",
+      "last_updated_at": "2026-03-27T16:11:51.267527+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -1561,7 +1569,7 @@
       ],
       "webcast_live": false,
       "discovered_at": "2026-03-23T08:19:21.926434+00:00",
-      "last_updated_at": "2026-03-27T15:14:22.278931+00:00",
+      "last_updated_at": "2026-03-27T16:11:51.267511+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -1645,7 +1653,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-03-23T08:19:21.926470+00:00",
-      "last_updated_at": "2026-03-27T15:14:22.278917+00:00",
+      "last_updated_at": "2026-03-27T16:11:51.267496+00:00",
       "outcome": "success",
       "failure_reason": null,
       "status_history": [
@@ -1720,7 +1728,7 @@
       ],
       "webcast_live": false,
       "discovered_at": "2026-03-23T08:19:21.926423+00:00",
-      "last_updated_at": "2026-03-27T15:14:22.278882+00:00",
+      "last_updated_at": "2026-03-27T16:11:51.267460+00:00",
       "outcome": "success",
       "failure_reason": null,
       "status_history": [
@@ -2108,5 +2116,5 @@
       ]
     }
   ],
-  "last_updated": "2026-03-27T15:14:22.279326+00:00"
+  "last_updated": "2026-03-27T16:11:51.267869+00:00"
 }
