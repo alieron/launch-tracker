@@ -42,7 +42,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-03-27T23:27:37.775053+00:00",
-      "last_updated_at": "2026-03-30T16:02:53.562592+00:00",
+      "last_updated_at": "2026-03-30T17:27:00.017306+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -96,7 +96,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-03-28T04:16:06.593134+00:00",
-      "last_updated_at": "2026-03-30T16:02:53.562598+00:00",
+      "last_updated_at": "2026-03-30T17:27:00.017313+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -150,7 +150,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-03-23T08:19:21.926514+00:00",
-      "last_updated_at": "2026-03-30T16:02:53.562606+00:00",
+      "last_updated_at": "2026-03-30T17:27:00.017319+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -220,7 +220,7 @@
       ],
       "webcast_live": false,
       "discovered_at": "2026-03-23T08:19:21.926409+00:00",
-      "last_updated_at": "2026-03-30T16:02:53.562614+00:00",
+      "last_updated_at": "2026-03-30T17:27:00.017327+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -333,7 +333,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-03-30T05:09:43.841059+00:00",
-      "last_updated_at": "2026-03-30T16:02:53.562622+00:00",
+      "last_updated_at": "2026-03-30T17:27:00.017334+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -387,7 +387,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-03-27T15:14:22.279146+00:00",
-      "last_updated_at": "2026-03-30T16:02:53.562586+00:00",
+      "last_updated_at": "2026-03-30T17:27:00.017297+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -441,7 +441,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-03-25T05:42:46.752556+00:00",
-      "last_updated_at": "2026-03-30T16:02:53.562578+00:00",
+      "last_updated_at": "2026-03-30T17:27:00.017290+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -495,7 +495,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-03-25T05:42:46.752539+00:00",
-      "last_updated_at": "2026-03-30T16:02:53.562571+00:00",
+      "last_updated_at": "2026-03-30T17:27:00.017283+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -549,7 +549,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-03-23T16:53:54.541846+00:00",
-      "last_updated_at": "2026-03-30T16:02:53.562565+00:00",
+      "last_updated_at": "2026-03-30T17:27:00.017277+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -603,7 +603,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-03-23T08:19:21.926524+00:00",
-      "last_updated_at": "2026-03-30T16:02:53.562557+00:00",
+      "last_updated_at": "2026-03-30T17:27:00.017270+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -671,7 +671,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-03-23T15:34:22.797200+00:00",
-      "last_updated_at": "2026-03-30T16:02:53.562551+00:00",
+      "last_updated_at": "2026-03-30T17:27:00.017262+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -725,7 +725,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-03-23T12:57:06.104402+00:00",
-      "last_updated_at": "2026-03-30T16:02:53.562545+00:00",
+      "last_updated_at": "2026-03-30T17:27:00.017253+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -779,7 +779,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-03-26T09:08:32.376656+00:00",
-      "last_updated_at": "2026-03-30T16:02:53.562532+00:00",
+      "last_updated_at": "2026-03-30T17:27:00.017245+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -838,7 +838,7 @@
       ],
       "webcast_live": false,
       "discovered_at": "2026-03-24T17:29:50.698575+00:00",
-      "last_updated_at": "2026-03-30T16:02:53.562524+00:00",
+      "last_updated_at": "2026-03-30T17:27:00.017238+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -906,7 +906,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-03-23T08:19:21.926636+00:00",
-      "last_updated_at": "2026-03-30T16:02:53.562515+00:00",
+      "last_updated_at": "2026-03-30T17:27:00.017230+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -915,6 +915,81 @@
           "status_id": 2,
           "abbrev": "TBD",
           "net": "2026-04-07T00:00:00Z"
+        }
+      ]
+    },
+    {
+      "id": "74b3aa8f-dc54-43dd-b8dd-1dc62ccccfc4",
+      "name": "Soyuz-5 | Demo Flight",
+      "slug": "soyuz-5-demo-flight",
+      "status": {
+        "id": 8,
+        "abbrev": "TBC",
+        "name": "To Be Confirmed",
+        "description": "Awaiting official confirmation - current date is known with some certainty."
+      },
+      "net": "2026-04-04T11:00:00Z",
+      "window_start": "2026-04-04T11:00:00Z",
+      "window_end": "2026-04-04T11:00:00Z",
+      "probability": null,
+      "rocket": {
+        "name": "Soyuz-5",
+        "family": "Soyuz-5",
+        "manufacturer": "RKK Energiya",
+        "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/soyuz-5_assembl_image_20260327210910.jpeg"
+      },
+      "mission": {
+        "name": "Demo Flight",
+        "description": "Demonstration Flight for Russia's new Soyuz-5 launch vehicle, with a mass simulator on board. Details TBD.",
+        "type": "Test Flight",
+        "orbit": "Suborbital"
+      },
+      "pad": {
+        "name": "45/1",
+        "location": "Baikonur Cosmodrome, Republic of Kazakhstan",
+        "country": "KAZ",
+        "latitude": "45.943492",
+        "longitude": "63.653014"
+      },
+      "agency": {
+        "name": "RKK Energiya",
+        "abbrev": "RSC",
+        "type": "Commercial"
+      },
+      "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/soyuz-5_assembl_image_20260327210910.jpeg",
+      "vidURLs": [],
+      "webcast_live": false,
+      "discovered_at": "2026-03-23T08:19:21.926481+00:00",
+      "last_updated_at": "2026-03-30T17:27:00.017216+00:00",
+      "outcome": null,
+      "failure_reason": null,
+      "status_history": [
+        {
+          "at": "2026-03-23T08:19:21.926483+00:00",
+          "status_id": 8,
+          "abbrev": "TBC",
+          "net": "2026-03-27T11:00:00Z"
+        },
+        {
+          "at": "2026-03-25T20:50:37.889507+00:00",
+          "status_id": 8,
+          "abbrev": "TBC",
+          "net": "2026-03-29T11:00:00Z",
+          "prev_net": "2026-03-27T11:00:00Z"
+        },
+        {
+          "at": "2026-03-26T15:49:37.832413+00:00",
+          "status_id": 8,
+          "abbrev": "TBC",
+          "net": "2026-04-02T11:00:00Z",
+          "prev_net": "2026-03-29T11:00:00Z"
+        },
+        {
+          "at": "2026-03-30T17:27:00.017219+00:00",
+          "status_id": 8,
+          "abbrev": "TBC",
+          "net": "2026-04-04T11:00:00Z",
+          "prev_net": "2026-04-02T11:00:00Z"
         }
       ]
     },
@@ -965,7 +1040,7 @@
       ],
       "webcast_live": false,
       "discovered_at": "2026-03-23T08:19:21.926492+00:00",
-      "last_updated_at": "2026-03-30T16:02:53.562508+00:00",
+      "last_updated_at": "2026-03-30T17:27:00.017209+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -1040,7 +1115,7 @@
       ],
       "webcast_live": false,
       "discovered_at": "2026-03-23T08:19:21.926616+00:00",
-      "last_updated_at": "2026-03-30T16:02:53.562500+00:00",
+      "last_updated_at": "2026-03-30T17:27:00.017200+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -1106,7 +1181,7 @@
       ],
       "webcast_live": false,
       "discovered_at": "2026-03-23T08:19:21.926626+00:00",
-      "last_updated_at": "2026-03-30T16:02:53.562493+00:00",
+      "last_updated_at": "2026-03-30T17:27:00.017189+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -1122,74 +1197,6 @@
           "abbrev": "Go",
           "net": "2026-04-02T11:52:00Z",
           "prev_net": "2026-04-02T15:45:00Z"
-        }
-      ]
-    },
-    {
-      "id": "74b3aa8f-dc54-43dd-b8dd-1dc62ccccfc4",
-      "name": "Soyuz-5 | Demo Flight",
-      "slug": "soyuz-5-demo-flight",
-      "status": {
-        "id": 8,
-        "abbrev": "TBC",
-        "name": "To Be Confirmed",
-        "description": "Awaiting official confirmation - current date is known with some certainty."
-      },
-      "net": "2026-04-02T11:00:00Z",
-      "window_start": "2026-04-02T11:00:00Z",
-      "window_end": "2026-04-02T11:00:00Z",
-      "probability": null,
-      "rocket": {
-        "name": "Soyuz-5",
-        "family": "Soyuz-5",
-        "manufacturer": "RKK Energiya",
-        "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/soyuz-5_assembl_image_20260327210910.jpeg"
-      },
-      "mission": {
-        "name": "Demo Flight",
-        "description": "Demonstration Flight for Russia's new Soyuz-5 launch vehicle, with a mass simulator on board. Details TBD.",
-        "type": "Test Flight",
-        "orbit": "Low Earth Orbit"
-      },
-      "pad": {
-        "name": "45/1",
-        "location": "Baikonur Cosmodrome, Republic of Kazakhstan",
-        "country": "KAZ",
-        "latitude": "45.943492",
-        "longitude": "63.653014"
-      },
-      "agency": {
-        "name": "RKK Energiya",
-        "abbrev": "RSC",
-        "type": "Commercial"
-      },
-      "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/soyuz-5_assembl_image_20260327210910.jpeg",
-      "vidURLs": [],
-      "webcast_live": false,
-      "discovered_at": "2026-03-23T08:19:21.926481+00:00",
-      "last_updated_at": "2026-03-30T16:02:53.562486+00:00",
-      "outcome": null,
-      "failure_reason": null,
-      "status_history": [
-        {
-          "at": "2026-03-23T08:19:21.926483+00:00",
-          "status_id": 8,
-          "abbrev": "TBC",
-          "net": "2026-03-27T11:00:00Z"
-        },
-        {
-          "at": "2026-03-25T20:50:37.889507+00:00",
-          "status_id": 8,
-          "abbrev": "TBC",
-          "net": "2026-03-29T11:00:00Z",
-          "prev_net": "2026-03-27T11:00:00Z"
-        },
-        {
-          "at": "2026-03-26T15:49:37.832413+00:00",
-          "status_id": 8,
-          "abbrev": "TBC",
-          "net": "2026-04-02T11:00:00Z",
-          "prev_net": "2026-03-29T11:00:00Z"
         }
       ]
     },
@@ -1235,7 +1242,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-03-23T08:19:21.926589+00:00",
-      "last_updated_at": "2026-03-30T16:02:53.562479+00:00",
+      "last_updated_at": "2026-03-30T17:27:00.017165+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -1322,7 +1329,7 @@
       ],
       "webcast_live": false,
       "discovered_at": "2026-03-23T08:19:21.926603+00:00",
-      "last_updated_at": "2026-03-30T16:02:53.562471+00:00",
+      "last_updated_at": "2026-03-30T17:27:00.017157+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -1376,7 +1383,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-03-27T20:41:51.203886+00:00",
-      "last_updated_at": "2026-03-30T16:02:53.562459+00:00",
+      "last_updated_at": "2026-03-30T17:27:00.017148+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -1653,13 +1660,25 @@
       "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/falcon2520925_image_20221009234147.png",
       "vidURLs": [
         {
+          "title": "GO! - SpaceX - Falcon 9 - Starlink 10-44 - SLC-40 - Cape Canaveral SFS - Space Affairs Live",
+          "url": "https://www.youtube.com/watch?v=Fn6zLTaqwRE"
+        },
+        {
+          "title": "Live: SpaceX launches 29 Starlink satellites onFalcon 9 rocket from Cape Canaveral, Florida",
+          "url": "https://www.youtube.com/watch?v=2cjTH7PdNUE"
+        },
+        {
+          "title": "SpaceX Falcon 9 launches Starlink 10-44",
+          "url": "https://www.youtube.com/watch?v=tArfYI_wUsU"
+        },
+        {
           "title": "Starlink Mission",
           "url": "https://x.com/i/broadcasts/1pKdRbaXvLrJW"
         }
       ],
       "webcast_live": false,
       "discovered_at": "2026-03-23T08:19:21.926457+00:00",
-      "last_updated_at": "2026-03-30T16:02:53.562445+00:00",
+      "last_updated_at": "2026-03-30T17:27:00.017134+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -1747,7 +1766,7 @@
       ],
       "webcast_live": false,
       "discovered_at": "2026-03-23T08:19:21.926502+00:00",
-      "last_updated_at": "2026-03-30T16:02:53.562431+00:00",
+      "last_updated_at": "2026-03-30T17:27:00.017120+00:00",
       "outcome": "success",
       "failure_reason": null,
       "status_history": [
@@ -1837,7 +1856,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-03-23T08:19:21.926569+00:00",
-      "last_updated_at": "2026-03-30T16:02:53.562399+00:00",
+      "last_updated_at": "2026-03-30T17:27:00.017086+00:00",
       "outcome": "success",
       "failure_reason": null,
       "status_history": [
@@ -2483,5 +2502,5 @@
       ]
     }
   ],
-  "last_updated": "2026-03-30T16:02:53.562775+00:00"
+  "last_updated": "2026-03-30T17:27:00.017499+00:00"
 }
