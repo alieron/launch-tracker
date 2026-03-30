@@ -42,7 +42,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-03-27T23:27:37.775053+00:00",
-      "last_updated_at": "2026-03-30T11:31:49.839212+00:00",
+      "last_updated_at": "2026-03-30T13:08:52.795315+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -96,7 +96,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-03-28T04:16:06.593134+00:00",
-      "last_updated_at": "2026-03-30T11:31:49.839218+00:00",
+      "last_updated_at": "2026-03-30T13:08:52.795321+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -150,7 +150,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-03-23T08:19:21.926514+00:00",
-      "last_updated_at": "2026-03-30T11:31:49.839223+00:00",
+      "last_updated_at": "2026-03-30T13:08:52.795327+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -220,7 +220,7 @@
       ],
       "webcast_live": false,
       "discovered_at": "2026-03-23T08:19:21.926409+00:00",
-      "last_updated_at": "2026-03-30T11:31:49.839231+00:00",
+      "last_updated_at": "2026-03-30T13:08:52.795337+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -333,7 +333,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-03-30T05:09:43.841059+00:00",
-      "last_updated_at": "2026-03-30T11:31:49.839237+00:00",
+      "last_updated_at": "2026-03-30T13:08:52.795344+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -387,7 +387,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-03-27T15:14:22.279146+00:00",
-      "last_updated_at": "2026-03-30T11:31:49.839204+00:00",
+      "last_updated_at": "2026-03-30T13:08:52.795308+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -441,7 +441,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-03-25T05:42:46.752556+00:00",
-      "last_updated_at": "2026-03-30T11:31:49.839198+00:00",
+      "last_updated_at": "2026-03-30T13:08:52.795300+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -495,7 +495,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-03-25T05:42:46.752539+00:00",
-      "last_updated_at": "2026-03-30T11:31:49.839191+00:00",
+      "last_updated_at": "2026-03-30T13:08:52.795293+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -549,7 +549,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-03-23T16:53:54.541846+00:00",
-      "last_updated_at": "2026-03-30T11:31:49.839184+00:00",
+      "last_updated_at": "2026-03-30T13:08:52.795281+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -603,7 +603,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-03-23T08:19:21.926524+00:00",
-      "last_updated_at": "2026-03-30T11:31:49.839178+00:00",
+      "last_updated_at": "2026-03-30T13:08:52.795274+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -671,7 +671,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-03-23T15:34:22.797200+00:00",
-      "last_updated_at": "2026-03-30T11:31:49.839172+00:00",
+      "last_updated_at": "2026-03-30T13:08:52.795267+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -725,7 +725,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-03-23T12:57:06.104402+00:00",
-      "last_updated_at": "2026-03-30T11:31:49.839166+00:00",
+      "last_updated_at": "2026-03-30T13:08:52.795261+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -779,7 +779,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-03-26T09:08:32.376656+00:00",
-      "last_updated_at": "2026-03-30T11:31:49.839159+00:00",
+      "last_updated_at": "2026-03-30T13:08:52.795252+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -838,7 +838,7 @@
       ],
       "webcast_live": false,
       "discovered_at": "2026-03-24T17:29:50.698575+00:00",
-      "last_updated_at": "2026-03-30T11:31:49.839152+00:00",
+      "last_updated_at": "2026-03-30T13:08:52.795245+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -906,7 +906,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-03-23T08:19:21.926636+00:00",
-      "last_updated_at": "2026-03-30T11:31:49.839144+00:00",
+      "last_updated_at": "2026-03-30T13:08:52.795236+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -965,7 +965,7 @@
       ],
       "webcast_live": false,
       "discovered_at": "2026-03-23T08:19:21.926492+00:00",
-      "last_updated_at": "2026-03-30T11:31:49.839139+00:00",
+      "last_updated_at": "2026-03-30T13:08:52.795229+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -1040,7 +1040,7 @@
       ],
       "webcast_live": false,
       "discovered_at": "2026-03-23T08:19:21.926616+00:00",
-      "last_updated_at": "2026-03-30T11:31:49.839133+00:00",
+      "last_updated_at": "2026-03-30T13:08:52.795223+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -1106,7 +1106,7 @@
       ],
       "webcast_live": false,
       "discovered_at": "2026-03-23T08:19:21.926626+00:00",
-      "last_updated_at": "2026-03-30T11:31:49.839126+00:00",
+      "last_updated_at": "2026-03-30T13:08:52.795215+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -1167,7 +1167,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-03-23T08:19:21.926481+00:00",
-      "last_updated_at": "2026-03-30T11:31:49.839119+00:00",
+      "last_updated_at": "2026-03-30T13:08:52.795208+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -1235,7 +1235,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-03-23T08:19:21.926589+00:00",
-      "last_updated_at": "2026-03-30T11:31:49.839111+00:00",
+      "last_updated_at": "2026-03-30T13:08:52.795201+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -1322,7 +1322,7 @@
       ],
       "webcast_live": false,
       "discovered_at": "2026-03-23T08:19:21.926603+00:00",
-      "last_updated_at": "2026-03-30T11:31:49.839103+00:00",
+      "last_updated_at": "2026-03-30T13:08:52.795191+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -1376,7 +1376,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-03-27T20:41:51.203886+00:00",
-      "last_updated_at": "2026-03-30T11:31:49.839095+00:00",
+      "last_updated_at": "2026-03-30T13:08:52.795181+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -1659,7 +1659,7 @@
       ],
       "webcast_live": false,
       "discovered_at": "2026-03-23T08:19:21.926457+00:00",
-      "last_updated_at": "2026-03-30T11:31:49.839085+00:00",
+      "last_updated_at": "2026-03-30T13:08:52.795169+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -1747,7 +1747,7 @@
       ],
       "webcast_live": true,
       "discovered_at": "2026-03-23T08:19:21.926502+00:00",
-      "last_updated_at": "2026-03-30T11:31:49.839070+00:00",
+      "last_updated_at": "2026-03-30T13:08:52.795156+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -1790,13 +1790,13 @@
     },
     {
       "id": "e3b45caa-2ccc-4937-931b-780edbe58db9",
-      "name": "Kinetica 2 | Demo Flight",
-      "slug": "kinetica-2-demo-flight",
+      "name": "Kinetica 2 | Demo Flight (Qingzhou Prototype Spacecraft)",
+      "slug": "kinetica-2-demo-flight-qingzhou-prototype-spacecra",
       "status": {
-        "id": 6,
-        "abbrev": "In Flight",
-        "name": "Launch in Flight",
-        "description": "The launch vehicle has lifted off from the launchpad."
+        "id": 3,
+        "abbrev": "Success",
+        "name": "Launch Successful",
+        "description": "The launch vehicle successfully inserted its payload(s) into the target orbit(s)."
       },
       "net": "2026-03-30T11:00:00Z",
       "window_start": "2026-03-30T10:52:00Z",
@@ -1809,8 +1809,8 @@
         "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/kinetica_2_grou_image_20260116124018.jpg"
       },
       "mission": {
-        "name": "Demo Flight",
-        "description": "First test launch and mission of CAS Space\u2019s Kinetica-2 rocket, with 3 satellites on board.",
+        "name": "Demo Flight (Qingzhou Prototype Spacecraft)",
+        "description": "First test launch and mission of CAS Space\u2019s Kinetica-2 rocket, with 3 spacecraft on board:\r\n\r\n* New March 02/Xinzhengcheng 02 (Qingzhou Prototype Spacecraft)\r\n* New March 01/Xinzhengcheng 01 in orbit experiment laboratory\r\n* TS-01",
         "type": "Test Flight",
         "orbit": "Polar Orbit"
       },
@@ -1830,8 +1830,8 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-03-23T08:19:21.926569+00:00",
-      "last_updated_at": "2026-03-30T11:31:49.839031+00:00",
-      "outcome": null,
+      "last_updated_at": "2026-03-30T13:08:52.795119+00:00",
+      "outcome": "success",
       "failure_reason": null,
       "status_history": [
         {
@@ -1854,6 +1854,13 @@
           "abbrev": "In Flight",
           "net": "2026-03-30T11:00:00Z",
           "prev_abbrev": "Go"
+        },
+        {
+          "at": "2026-03-30T13:08:52.795138+00:00",
+          "status_id": 3,
+          "abbrev": "Success",
+          "net": "2026-03-30T11:00:00Z",
+          "prev_abbrev": "In Flight"
         }
       ]
     },
@@ -2469,5 +2476,5 @@
       ]
     }
   ],
-  "last_updated": "2026-03-30T11:31:49.839394+00:00"
+  "last_updated": "2026-03-30T13:08:52.795503+00:00"
 }
