@@ -218,7 +218,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-03-27T23:27:37.775053+00:00",
-      "last_updated_at": "2026-04-03T08:11:14.068647+00:00",
+      "last_updated_at": "2026-04-03T09:14:04.457326+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -272,7 +272,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-03-28T04:16:06.593134+00:00",
-      "last_updated_at": "2026-04-03T08:11:14.068654+00:00",
+      "last_updated_at": "2026-04-03T09:14:04.457334+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -326,7 +326,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-03-23T08:19:21.926514+00:00",
-      "last_updated_at": "2026-04-03T08:11:14.068662+00:00",
+      "last_updated_at": "2026-04-03T09:14:04.457341+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -396,7 +396,7 @@
       ],
       "webcast_live": false,
       "discovered_at": "2026-03-23T08:19:21.926409+00:00",
-      "last_updated_at": "2026-04-03T08:11:14.068685+00:00",
+      "last_updated_at": "2026-04-03T09:14:04.457355+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -509,7 +509,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-03-30T05:09:43.841059+00:00",
-      "last_updated_at": "2026-04-03T08:11:14.068692+00:00",
+      "last_updated_at": "2026-04-03T09:14:04.457361+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -624,7 +624,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-03-31T11:25:55.426549+00:00",
-      "last_updated_at": "2026-04-03T08:11:14.068698+00:00",
+      "last_updated_at": "2026-04-03T09:14:04.457367+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -633,68 +633,6 @@
           "status_id": 2,
           "abbrev": "TBD",
           "net": "2026-04-30T00:00:00Z"
-        }
-      ]
-    },
-    {
-      "id": "bc0cca05-0fb5-43ca-b648-a852d20ceaf3",
-      "name": "Soyuz 2.1a/Fregat-M | Meridian-M No.21L",
-      "slug": "soyuz-21afregat-m-meridian-m-no21l",
-      "status": {
-        "id": 2,
-        "abbrev": "TBD",
-        "name": "To Be Determined",
-        "description": "Current date is a placeholder or rough estimation based on unreliable or interpreted sources."
-      },
-      "net": "2026-04-30T00:00:00Z",
-      "window_start": "2026-04-30T00:00:00Z",
-      "window_end": "2026-04-30T00:00:00Z",
-      "probability": null,
-      "rocket": {
-        "name": "Soyuz 2.1a/Fregat-M",
-        "family": "Soyuz",
-        "manufacturer": "Progress Rocket Space Center",
-        "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/soyuz25202.1a_image_20190726062341.png"
-      },
-      "mission": {
-        "name": "Meridian-M No.21L",
-        "description": "Note: Payload identity uncertain.\r\n\r\nMeridian is a series of communications satellite for military and civilian use.",
-        "type": "Communications",
-        "orbit": "Elliptical Orbit"
-      },
-      "pad": {
-        "name": "43/3 (43L)",
-        "location": "Plesetsk Cosmodrome, Russian Federation",
-        "country": "RUS",
-        "latitude": "62.9273",
-        "longitude": "40.45"
-      },
-      "agency": {
-        "name": "Russian Space Forces",
-        "abbrev": "VKS",
-        "type": "Government"
-      },
-      "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/soyuz25202.1a_image_20190726062341.png",
-      "vidURLs": [],
-      "webcast_live": false,
-      "discovered_at": "2026-03-27T20:41:51.203886+00:00",
-      "last_updated_at": "2026-04-03T08:11:14.068676+00:00",
-      "outcome": null,
-      "failure_reason": null,
-      "status_history": [
-        {
-          "at": "2026-03-27T20:41:51.203892+00:00",
-          "status_id": 1,
-          "abbrev": "Go",
-          "net": "2026-04-01T02:00:00Z"
-        },
-        {
-          "at": "2026-04-01T12:08:01.154256+00:00",
-          "status_id": 2,
-          "abbrev": "TBD",
-          "net": "2026-04-30T00:00:00Z",
-          "prev_net": "2026-04-01T02:00:00Z",
-          "prev_abbrev": "Go"
         }
       ]
     },
@@ -740,7 +678,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-03-23T08:19:21.926636+00:00",
-      "last_updated_at": "2026-04-03T08:11:14.068668+00:00",
+      "last_updated_at": "2026-04-03T09:14:04.457347+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -801,7 +739,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-03-27T15:14:22.279146+00:00",
-      "last_updated_at": "2026-04-03T08:11:14.068637+00:00",
+      "last_updated_at": "2026-04-03T09:14:04.457320+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -855,7 +793,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-03-25T05:42:46.752556+00:00",
-      "last_updated_at": "2026-04-03T08:11:14.068630+00:00",
+      "last_updated_at": "2026-04-03T09:14:04.457309+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -909,7 +847,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-03-25T05:42:46.752539+00:00",
-      "last_updated_at": "2026-04-03T08:11:14.068624+00:00",
+      "last_updated_at": "2026-04-03T09:14:04.457303+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -963,7 +901,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-03-23T16:53:54.541846+00:00",
-      "last_updated_at": "2026-04-03T08:11:14.068616+00:00",
+      "last_updated_at": "2026-04-03T09:14:04.457298+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -1022,7 +960,7 @@
       ],
       "webcast_live": false,
       "discovered_at": "2026-04-01T21:37:31.360732+00:00",
-      "last_updated_at": "2026-04-03T08:11:14.068606+00:00",
+      "last_updated_at": "2026-04-03T09:14:04.457291+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -1090,7 +1028,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-03-23T08:19:21.926524+00:00",
-      "last_updated_at": "2026-04-03T08:11:14.068598+00:00",
+      "last_updated_at": "2026-04-03T09:14:04.457285+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -1171,7 +1109,7 @@
       ],
       "webcast_live": false,
       "discovered_at": "2026-04-01T18:55:12.087953+00:00",
-      "last_updated_at": "2026-04-03T08:11:14.068572+00:00",
+      "last_updated_at": "2026-04-03T09:14:04.457279+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -1230,7 +1168,7 @@
       ],
       "webcast_live": false,
       "discovered_at": "2026-03-24T17:29:50.698575+00:00",
-      "last_updated_at": "2026-04-03T08:11:14.068563+00:00",
+      "last_updated_at": "2026-04-03T09:14:04.457267+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -1317,7 +1255,7 @@
       ],
       "webcast_live": false,
       "discovered_at": "2026-03-23T15:34:22.797200+00:00",
-      "last_updated_at": "2026-04-03T08:11:14.068557+00:00",
+      "last_updated_at": "2026-04-03T09:14:04.457260+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -1371,7 +1309,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-04-02T05:56:20.521424+00:00",
-      "last_updated_at": "2026-04-03T08:11:14.068550+00:00",
+      "last_updated_at": "2026-04-03T09:14:04.457254+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -1430,7 +1368,7 @@
       ],
       "webcast_live": false,
       "discovered_at": "2026-03-23T12:57:06.104402+00:00",
-      "last_updated_at": "2026-04-03T08:11:14.068541+00:00",
+      "last_updated_at": "2026-04-03T09:14:04.457248+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -1498,7 +1436,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-03-26T09:08:32.376656+00:00",
-      "last_updated_at": "2026-04-03T08:11:14.068533+00:00",
+      "last_updated_at": "2026-04-03T09:14:04.457241+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -1565,7 +1503,7 @@
       ],
       "webcast_live": false,
       "discovered_at": "2026-03-23T08:19:21.926616+00:00",
-      "last_updated_at": "2026-04-03T08:11:14.068520+00:00",
+      "last_updated_at": "2026-04-03T09:14:04.457234+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -1645,7 +1583,7 @@
       ],
       "webcast_live": false,
       "discovered_at": "2026-03-23T08:19:21.926492+00:00",
-      "last_updated_at": "2026-04-03T08:11:14.068511+00:00",
+      "last_updated_at": "2026-04-03T09:14:04.457224+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -1722,7 +1660,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-03-23T08:19:21.926481+00:00",
-      "last_updated_at": "2026-04-03T08:11:14.068501+00:00",
+      "last_updated_at": "2026-04-03T09:14:04.457212+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -1760,6 +1698,76 @@
           "net": "2026-04-03T11:00:00Z",
           "prev_net": "2026-04-04T11:00:00Z",
           "prev_abbrev": "TBC"
+        }
+      ]
+    },
+    {
+      "id": "bc0cca05-0fb5-43ca-b648-a852d20ceaf3",
+      "name": "Soyuz 2.1a/Fregat-M | Meridian-M No.21L",
+      "slug": "soyuz-21afregat-m-meridian-m-no21l",
+      "status": {
+        "id": 6,
+        "abbrev": "In Flight",
+        "name": "Launch in Flight",
+        "description": "The launch vehicle has lifted off from the launchpad."
+      },
+      "net": "2026-04-03T06:28:00Z",
+      "window_start": "2026-04-03T02:00:00Z",
+      "window_end": "2026-04-03T12:00:00Z",
+      "probability": null,
+      "rocket": {
+        "name": "Soyuz 2.1a/Fregat-M",
+        "family": "Soyuz",
+        "manufacturer": "Progress Rocket Space Center",
+        "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/soyuz25202.1a_image_20190726062341.png"
+      },
+      "mission": {
+        "name": "Meridian-M No.21L",
+        "description": "Note: Payload identity uncertain.\r\n\r\nMeridian is a series of communications satellite for military and civilian use.",
+        "type": "Communications",
+        "orbit": "Elliptical Orbit"
+      },
+      "pad": {
+        "name": "43/3 (43L)",
+        "location": "Plesetsk Cosmodrome, Russian Federation",
+        "country": "RUS",
+        "latitude": "62.9273",
+        "longitude": "40.45"
+      },
+      "agency": {
+        "name": "Russian Space Forces",
+        "abbrev": "VKS",
+        "type": "Government"
+      },
+      "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/soyuz25202.1a_image_20190726062341.png",
+      "vidURLs": [],
+      "webcast_live": false,
+      "discovered_at": "2026-03-27T20:41:51.203886+00:00",
+      "last_updated_at": "2026-04-03T09:14:04.457198+00:00",
+      "outcome": null,
+      "failure_reason": null,
+      "status_history": [
+        {
+          "at": "2026-03-27T20:41:51.203892+00:00",
+          "status_id": 1,
+          "abbrev": "Go",
+          "net": "2026-04-01T02:00:00Z"
+        },
+        {
+          "at": "2026-04-01T12:08:01.154256+00:00",
+          "status_id": 2,
+          "abbrev": "TBD",
+          "net": "2026-04-30T00:00:00Z",
+          "prev_net": "2026-04-01T02:00:00Z",
+          "prev_abbrev": "Go"
+        },
+        {
+          "at": "2026-04-03T09:14:04.457202+00:00",
+          "status_id": 6,
+          "abbrev": "In Flight",
+          "net": "2026-04-03T06:28:00Z",
+          "prev_net": "2026-04-30T00:00:00Z",
+          "prev_abbrev": "TBD"
         }
       ]
     },
@@ -1805,7 +1813,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-03-23T08:19:21.926589+00:00",
-      "last_updated_at": "2026-04-03T08:11:14.068485+00:00",
+      "last_updated_at": "2026-04-03T09:14:04.457183+00:00",
       "outcome": "failure",
       "failure_reason": "Apparently failed around stage separation.",
       "status_history": [
@@ -1911,7 +1919,7 @@
       ],
       "webcast_live": false,
       "discovered_at": "2026-03-23T08:19:21.926626+00:00",
-      "last_updated_at": "2026-04-03T08:11:14.068451+00:00",
+      "last_updated_at": "2026-04-03T09:14:04.457154+00:00",
       "outcome": "success",
       "failure_reason": null,
       "status_history": [
@@ -2988,5 +2996,5 @@
       ]
     }
   ],
-  "last_updated": "2026-04-03T08:11:14.068883+00:00"
+  "last_updated": "2026-04-03T09:14:04.457540+00:00"
 }
