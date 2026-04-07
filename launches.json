@@ -164,7 +164,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-03-31T21:34:50.631409+00:00",
-      "last_updated_at": "2026-04-07T14:06:33.274794+00:00",
+      "last_updated_at": "2026-04-07T15:53:07.841054+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -218,7 +218,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-04-04T14:29:33.945423+00:00",
-      "last_updated_at": "2026-04-07T14:06:33.274800+00:00",
+      "last_updated_at": "2026-04-07T15:53:07.841060+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -333,7 +333,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-03-27T23:27:37.775053+00:00",
-      "last_updated_at": "2026-04-07T14:06:33.274742+00:00",
+      "last_updated_at": "2026-04-07T15:53:07.841003+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -387,7 +387,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-03-28T04:16:06.593134+00:00",
-      "last_updated_at": "2026-04-07T14:06:33.274750+00:00",
+      "last_updated_at": "2026-04-07T15:53:07.841011+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -441,7 +441,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-03-23T08:19:21.926514+00:00",
-      "last_updated_at": "2026-04-07T14:06:33.274757+00:00",
+      "last_updated_at": "2026-04-07T15:53:07.841020+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -502,7 +502,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-03-23T08:19:21.926545+00:00",
-      "last_updated_at": "2026-04-07T14:06:33.274787+00:00",
+      "last_updated_at": "2026-04-07T15:53:07.841048+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -563,7 +563,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-03-31T11:25:55.426549+00:00",
-      "last_updated_at": "2026-04-07T14:06:33.274779+00:00",
+      "last_updated_at": "2026-04-07T15:53:07.841041+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -617,7 +617,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-03-23T08:19:21.926481+00:00",
-      "last_updated_at": "2026-04-07T14:06:33.274763+00:00",
+      "last_updated_at": "2026-04-07T15:53:07.841027+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -720,7 +720,7 @@
       ],
       "webcast_live": false,
       "discovered_at": "2026-03-23T15:34:22.797200+00:00",
-      "last_updated_at": "2026-04-07T14:06:33.274773+00:00",
+      "last_updated_at": "2026-04-07T15:53:07.841034+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -782,7 +782,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-03-27T15:14:22.279146+00:00",
-      "last_updated_at": "2026-04-07T14:06:33.274734+00:00",
+      "last_updated_at": "2026-04-07T15:53:07.840997+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -836,7 +836,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-03-25T05:42:46.752539+00:00",
-      "last_updated_at": "2026-04-07T14:06:33.274728+00:00",
+      "last_updated_at": "2026-04-07T15:53:07.840988+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -897,7 +897,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-03-25T05:42:46.752556+00:00",
-      "last_updated_at": "2026-04-07T14:06:33.274722+00:00",
+      "last_updated_at": "2026-04-07T15:53:07.840980+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -951,7 +951,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-03-23T16:53:54.541846+00:00",
-      "last_updated_at": "2026-04-07T14:06:33.274715+00:00",
+      "last_updated_at": "2026-04-07T15:53:07.840973+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -1010,7 +1010,7 @@
       ],
       "webcast_live": false,
       "discovered_at": "2026-04-01T21:37:31.360732+00:00",
-      "last_updated_at": "2026-04-07T14:06:33.274707+00:00",
+      "last_updated_at": "2026-04-07T15:53:07.840966+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -1085,7 +1085,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-03-23T08:19:21.926524+00:00",
-      "last_updated_at": "2026-04-07T14:06:33.274699+00:00",
+      "last_updated_at": "2026-04-07T15:53:07.840959+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -1136,9 +1136,9 @@
         "name": "Go for Launch",
         "description": "Current T-0 confirmed by official or reliable sources."
       },
-      "net": "2026-04-13T06:35:00Z",
-      "window_start": "2026-04-13T06:35:00Z",
-      "window_end": "2026-04-13T10:35:00Z",
+      "net": "2026-04-14T06:13:00Z",
+      "window_start": "2026-04-14T06:13:00Z",
+      "window_end": "2026-04-14T10:13:00Z",
       "probability": null,
       "rocket": {
         "name": "Falcon 9",
@@ -1173,7 +1173,7 @@
       ],
       "webcast_live": false,
       "discovered_at": "2026-04-01T18:55:12.087953+00:00",
-      "last_updated_at": "2026-04-07T14:06:33.274691+00:00",
+      "last_updated_at": "2026-04-07T15:53:07.840948+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -1189,6 +1189,13 @@
           "abbrev": "Go",
           "net": "2026-04-13T06:35:00Z",
           "prev_net": "2026-04-12T06:57:00Z"
+        },
+        {
+          "at": "2026-04-07T15:53:07.840953+00:00",
+          "status_id": 1,
+          "abbrev": "Go",
+          "net": "2026-04-14T06:13:00Z",
+          "prev_net": "2026-04-13T06:35:00Z"
         }
       ]
     },
@@ -1234,7 +1241,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-04-04T02:34:05.630530+00:00",
-      "last_updated_at": "2026-04-07T14:06:33.274684+00:00",
+      "last_updated_at": "2026-04-07T15:53:07.840939+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -1301,7 +1308,7 @@
       ],
       "webcast_live": false,
       "discovered_at": "2026-03-24T17:29:50.698575+00:00",
-      "last_updated_at": "2026-04-07T14:06:33.274677+00:00",
+      "last_updated_at": "2026-04-07T15:53:07.840932+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -1349,6 +1356,97 @@
       ]
     },
     {
+      "id": "5ed6ab75-8c5b-4013-93e1-1deb56b14f1d",
+      "name": "Falcon 9 Block 5 | Cygnus CRS-2 NG-24 (S.S. Steven R. Nagel)",
+      "slug": "falcon-9-block-5-cygnus-crs-2-ng-24-ss-steven-r-na",
+      "status": {
+        "id": 1,
+        "abbrev": "Go",
+        "name": "Go for Launch",
+        "description": "Current T-0 confirmed by official or reliable sources."
+      },
+      "net": "2026-04-10T12:03:00Z",
+      "window_start": "2026-04-10T12:03:00Z",
+      "window_end": "2026-04-10T12:03:00Z",
+      "probability": null,
+      "rocket": {
+        "name": "Falcon 9",
+        "family": "Falcon",
+        "manufacturer": "SpaceX",
+        "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/falcon_9_image_20230807133459.jpeg"
+      },
+      "mission": {
+        "name": "Cygnus CRS-2 NG-24 (S.S. Steven R. Nagel)",
+        "description": "This is the 24th flight of the Orbital ATK's uncrewed resupply spacecraft Cygnus and its 23rd flight to the International Space Station under the Commercial Resupply Services contract with NASA.",
+        "type": "Resupply",
+        "orbit": "Low Earth Orbit"
+      },
+      "pad": {
+        "name": "Space Launch Complex 40",
+        "location": "Cape Canaveral SFS, FL, USA",
+        "country": "USA",
+        "latitude": "28.56194122",
+        "longitude": "-80.57735736"
+      },
+      "agency": {
+        "name": "SpaceX",
+        "abbrev": "SpX",
+        "type": "Commercial"
+      },
+      "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/falcon_9_image_20230807133459.jpeg",
+      "vidURLs": [
+        {
+          "title": "NG-24 Mission",
+          "url": "https://x.com/i/broadcasts/1wxWjayMwOVJQ"
+        },
+        {
+          "title": "NASA\u2019s Northrop Grumman Commercial Resupply Services 24 Launch",
+          "url": "https://plus.nasa.gov/scheduled-video/nasas-northrop-grumman-commercial-resupply-services-24-launch/"
+        }
+      ],
+      "webcast_live": false,
+      "discovered_at": "2026-03-23T12:57:06.104402+00:00",
+      "last_updated_at": "2026-04-07T15:53:07.840918+00:00",
+      "outcome": null,
+      "failure_reason": null,
+      "status_history": [
+        {
+          "at": "2026-03-23T12:57:06.104405+00:00",
+          "status_id": 1,
+          "abbrev": "Go",
+          "net": "2026-04-08T12:51:00Z"
+        },
+        {
+          "at": "2026-03-31T06:14:13.646549+00:00",
+          "status_id": 1,
+          "abbrev": "Go",
+          "net": "2026-04-08T12:49:00Z",
+          "prev_net": "2026-04-08T12:51:00Z"
+        },
+        {
+          "at": "2026-04-01T18:55:12.087919+00:00",
+          "status_id": 1,
+          "abbrev": "Go",
+          "net": "2026-04-08T12:51:00Z",
+          "prev_net": "2026-04-08T12:49:00Z"
+        },
+        {
+          "at": "2026-04-06T15:41:33.712023+00:00",
+          "status_id": 1,
+          "abbrev": "Go",
+          "net": "2026-04-09T12:26:00Z",
+          "prev_net": "2026-04-08T12:51:00Z"
+        },
+        {
+          "at": "2026-04-07T15:53:07.840922+00:00",
+          "status_id": 1,
+          "abbrev": "Go",
+          "net": "2026-04-10T12:03:00Z",
+          "prev_net": "2026-04-09T12:26:00Z"
+        }
+      ]
+    },
+    {
       "id": "33b673eb-b25b-462a-a092-040a6875654c",
       "name": "Kinetica 1 | Unknown Payload",
       "slug": "kinetica-1-unknown-payload",
@@ -1390,7 +1488,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-04-07T11:28:30.456052+00:00",
-      "last_updated_at": "2026-04-07T14:06:33.274668+00:00",
+      "last_updated_at": "2026-04-07T15:53:07.840910+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -1453,7 +1551,7 @@
       ],
       "webcast_live": false,
       "discovered_at": "2026-03-23T08:19:21.926409+00:00",
-      "last_updated_at": "2026-04-07T14:06:33.274657+00:00",
+      "last_updated_at": "2026-04-07T15:53:07.840901+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -1541,90 +1639,6 @@
       ]
     },
     {
-      "id": "5ed6ab75-8c5b-4013-93e1-1deb56b14f1d",
-      "name": "Falcon 9 Block 5 | Cygnus CRS-2 NG-24 (S.S. Steven R. Nagel)",
-      "slug": "falcon-9-block-5-cygnus-crs-2-ng-24-ss-steven-r-na",
-      "status": {
-        "id": 1,
-        "abbrev": "Go",
-        "name": "Go for Launch",
-        "description": "Current T-0 confirmed by official or reliable sources."
-      },
-      "net": "2026-04-09T12:26:00Z",
-      "window_start": "2026-04-09T12:26:00Z",
-      "window_end": "2026-04-09T12:26:00Z",
-      "probability": null,
-      "rocket": {
-        "name": "Falcon 9",
-        "family": "Falcon",
-        "manufacturer": "SpaceX",
-        "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/falcon_9_image_20230807133459.jpeg"
-      },
-      "mission": {
-        "name": "Cygnus CRS-2 NG-24 (S.S. Steven R. Nagel)",
-        "description": "This is the 24th flight of the Orbital ATK's uncrewed resupply spacecraft Cygnus and its 23rd flight to the International Space Station under the Commercial Resupply Services contract with NASA.",
-        "type": "Resupply",
-        "orbit": "Low Earth Orbit"
-      },
-      "pad": {
-        "name": "Space Launch Complex 40",
-        "location": "Cape Canaveral SFS, FL, USA",
-        "country": "USA",
-        "latitude": "28.56194122",
-        "longitude": "-80.57735736"
-      },
-      "agency": {
-        "name": "SpaceX",
-        "abbrev": "SpX",
-        "type": "Commercial"
-      },
-      "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/falcon_9_image_20230807133459.jpeg",
-      "vidURLs": [
-        {
-          "title": "NG-24 Mission",
-          "url": "https://x.com/i/broadcasts/1wxWjayMwOVJQ"
-        },
-        {
-          "title": "NASA\u2019s Northrop Grumman Commercial Resupply Services 24 Launch",
-          "url": "https://plus.nasa.gov/scheduled-video/nasas-northrop-grumman-commercial-resupply-services-24-launch/"
-        }
-      ],
-      "webcast_live": false,
-      "discovered_at": "2026-03-23T12:57:06.104402+00:00",
-      "last_updated_at": "2026-04-07T14:06:33.274646+00:00",
-      "outcome": null,
-      "failure_reason": null,
-      "status_history": [
-        {
-          "at": "2026-03-23T12:57:06.104405+00:00",
-          "status_id": 1,
-          "abbrev": "Go",
-          "net": "2026-04-08T12:51:00Z"
-        },
-        {
-          "at": "2026-03-31T06:14:13.646549+00:00",
-          "status_id": 1,
-          "abbrev": "Go",
-          "net": "2026-04-08T12:49:00Z",
-          "prev_net": "2026-04-08T12:51:00Z"
-        },
-        {
-          "at": "2026-04-01T18:55:12.087919+00:00",
-          "status_id": 1,
-          "abbrev": "Go",
-          "net": "2026-04-08T12:51:00Z",
-          "prev_net": "2026-04-08T12:49:00Z"
-        },
-        {
-          "at": "2026-04-06T15:41:33.712023+00:00",
-          "status_id": 1,
-          "abbrev": "Go",
-          "net": "2026-04-09T12:26:00Z",
-          "prev_net": "2026-04-08T12:51:00Z"
-        }
-      ]
-    },
-    {
       "id": "c0d1609f-edc0-4970-8dc1-1b80a5d8c4cb",
       "name": "Long March 6A | Unknown Payload",
       "slug": "long-march-6a-unknown-payload",
@@ -1666,7 +1680,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-04-02T05:56:20.521424+00:00",
-      "last_updated_at": "2026-04-07T14:06:33.274634+00:00",
+      "last_updated_at": "2026-04-07T15:53:07.840889+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -1680,13 +1694,13 @@
     },
     {
       "id": "4dac3740-b75f-4d76-b702-5967d09085d8",
-      "name": "Long March 8 | SpaceSail Polar Group TBD",
-      "slug": "long-march-8-spacesail-polar-group-tbd",
+      "name": "Long March 8 | SpaceSail Polar Group 07",
+      "slug": "long-march-8-spacesail-polar-group-07",
       "status": {
-        "id": 6,
-        "abbrev": "In Flight",
-        "name": "Launch in Flight",
-        "description": "The launch vehicle has lifted off from the launchpad."
+        "id": 3,
+        "abbrev": "Success",
+        "name": "Launch Successful",
+        "description": "The launch vehicle successfully inserted its payload(s) into the target orbit(s)."
       },
       "net": "2026-04-07T13:32:00Z",
       "window_start": "2026-04-07T13:24:00Z",
@@ -1699,8 +1713,8 @@
         "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/cz-8_liftoff_2_image_20240315183218.jpg"
       },
       "mission": {
-        "name": "SpaceSail Polar Group TBD",
-        "description": "Low Earth Orbit communication satellites with Ku, Q and V band payloads for the G60 constellation operated by Shanghai Spacesail Technologies with funding backed by the Shanghai local government.\r\n\r\nInitial constellation will consist of 1296 satellites by 2027 with long term plans to expand it to 12000 satellites.",
+        "name": "SpaceSail Polar Group 07",
+        "description": "18 Low Earth Orbit communication satellites with Ku, Q and V band payloads for the G60 constellation operated by Shanghai Spacesail Technologies with funding backed by the Shanghai local government.\r\n\r\nInitial constellation will consist of 1296 satellites by 2027 with long term plans to expand it to 12000 satellites.",
         "type": "Communications",
         "orbit": "Polar Orbit"
       },
@@ -1720,8 +1734,8 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-03-26T09:08:32.376656+00:00",
-      "last_updated_at": "2026-04-07T14:06:33.274619+00:00",
-      "outcome": null,
+      "last_updated_at": "2026-04-07T15:53:07.840870+00:00",
+      "outcome": "success",
       "failure_reason": null,
       "status_history": [
         {
@@ -1745,6 +1759,13 @@
           "net": "2026-04-07T13:32:00Z",
           "prev_net": "2026-04-07T13:30:00Z",
           "prev_abbrev": "Go"
+        },
+        {
+          "at": "2026-04-07T15:53:07.840877+00:00",
+          "status_id": 3,
+          "abbrev": "Success",
+          "net": "2026-04-07T13:32:00Z",
+          "prev_abbrev": "In Flight"
         }
       ]
     },
@@ -1795,7 +1816,7 @@
       ],
       "webcast_live": false,
       "discovered_at": "2026-03-23T08:19:21.926636+00:00",
-      "last_updated_at": "2026-04-07T14:06:33.274606+00:00",
+      "last_updated_at": "2026-04-07T15:53:07.840856+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -1885,7 +1906,7 @@
       ],
       "webcast_live": false,
       "discovered_at": "2026-03-23T08:19:21.926616+00:00",
-      "last_updated_at": "2026-04-07T14:06:33.274574+00:00",
+      "last_updated_at": "2026-04-07T15:53:07.840807+00:00",
       "outcome": "success",
       "failure_reason": null,
       "status_history": [
@@ -3385,5 +3406,5 @@
       ]
     }
   ],
-  "last_updated": "2026-04-07T14:06:33.274974+00:00"
+  "last_updated": "2026-04-07T15:53:07.841234+00:00"
 }
