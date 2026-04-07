@@ -164,7 +164,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-03-31T21:34:50.631409+00:00",
-      "last_updated_at": "2026-04-07T11:28:30.456191+00:00",
+      "last_updated_at": "2026-04-07T12:08:30.834669+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -218,7 +218,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-04-04T14:29:33.945423+00:00",
-      "last_updated_at": "2026-04-07T11:28:30.456198+00:00",
+      "last_updated_at": "2026-04-07T12:08:30.834675+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -333,7 +333,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-03-27T23:27:37.775053+00:00",
-      "last_updated_at": "2026-04-07T11:28:30.456139+00:00",
+      "last_updated_at": "2026-04-07T12:08:30.834615+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -387,7 +387,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-03-28T04:16:06.593134+00:00",
-      "last_updated_at": "2026-04-07T11:28:30.456148+00:00",
+      "last_updated_at": "2026-04-07T12:08:30.834624+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -441,7 +441,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-03-23T08:19:21.926514+00:00",
-      "last_updated_at": "2026-04-07T11:28:30.456157+00:00",
+      "last_updated_at": "2026-04-07T12:08:30.834631+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -502,7 +502,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-03-23T08:19:21.926545+00:00",
-      "last_updated_at": "2026-04-07T11:28:30.456183+00:00",
+      "last_updated_at": "2026-04-07T12:08:30.834660+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -563,7 +563,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-03-31T11:25:55.426549+00:00",
-      "last_updated_at": "2026-04-07T11:28:30.456177+00:00",
+      "last_updated_at": "2026-04-07T12:08:30.834652+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -617,7 +617,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-03-23T08:19:21.926481+00:00",
-      "last_updated_at": "2026-04-07T11:28:30.456164+00:00",
+      "last_updated_at": "2026-04-07T12:08:30.834637+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -720,7 +720,7 @@
       ],
       "webcast_live": false,
       "discovered_at": "2026-03-23T15:34:22.797200+00:00",
-      "last_updated_at": "2026-04-07T11:28:30.456170+00:00",
+      "last_updated_at": "2026-04-07T12:08:30.834644+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -782,7 +782,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-03-27T15:14:22.279146+00:00",
-      "last_updated_at": "2026-04-07T11:28:30.456132+00:00",
+      "last_updated_at": "2026-04-07T12:08:30.834605+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -836,7 +836,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-03-25T05:42:46.752539+00:00",
-      "last_updated_at": "2026-04-07T11:28:30.456126+00:00",
+      "last_updated_at": "2026-04-07T12:08:30.834599+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -897,7 +897,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-03-25T05:42:46.752556+00:00",
-      "last_updated_at": "2026-04-07T11:28:30.456119+00:00",
+      "last_updated_at": "2026-04-07T12:08:30.834592+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -951,7 +951,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-03-23T16:53:54.541846+00:00",
-      "last_updated_at": "2026-04-07T11:28:30.456113+00:00",
+      "last_updated_at": "2026-04-07T12:08:30.834583+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -1010,7 +1010,7 @@
       ],
       "webcast_live": false,
       "discovered_at": "2026-04-01T21:37:31.360732+00:00",
-      "last_updated_at": "2026-04-07T11:28:30.456106+00:00",
+      "last_updated_at": "2026-04-07T12:08:30.834576+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -1085,7 +1085,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-03-23T08:19:21.926524+00:00",
-      "last_updated_at": "2026-04-07T11:28:30.456099+00:00",
+      "last_updated_at": "2026-04-07T12:08:30.834568+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -1173,7 +1173,7 @@
       ],
       "webcast_live": false,
       "discovered_at": "2026-04-01T18:55:12.087953+00:00",
-      "last_updated_at": "2026-04-07T11:28:30.456090+00:00",
+      "last_updated_at": "2026-04-07T12:08:30.834559+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -1234,7 +1234,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-04-04T02:34:05.630530+00:00",
-      "last_updated_at": "2026-04-07T11:28:30.456075+00:00",
+      "last_updated_at": "2026-04-07T12:08:30.834552+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -1301,7 +1301,7 @@
       ],
       "webcast_live": false,
       "discovered_at": "2026-03-24T17:29:50.698575+00:00",
-      "last_updated_at": "2026-04-07T11:28:30.456065+00:00",
+      "last_updated_at": "2026-04-07T12:08:30.834545+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -1390,7 +1390,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-04-07T11:28:30.456052+00:00",
-      "last_updated_at": "2026-04-07T11:28:30.456049+00:00",
+      "last_updated_at": "2026-04-07T12:08:30.834536+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -1453,7 +1453,7 @@
       ],
       "webcast_live": false,
       "discovered_at": "2026-03-23T12:57:06.104402+00:00",
-      "last_updated_at": "2026-04-07T11:28:30.456042+00:00",
+      "last_updated_at": "2026-04-07T12:08:30.834527+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -1537,7 +1537,7 @@
       ],
       "webcast_live": false,
       "discovered_at": "2026-03-23T08:19:21.926409+00:00",
-      "last_updated_at": "2026-04-07T11:28:30.456032+00:00",
+      "last_updated_at": "2026-04-07T12:08:30.834517+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -1658,7 +1658,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-04-02T05:56:20.521424+00:00",
-      "last_updated_at": "2026-04-07T11:28:30.456022+00:00",
+      "last_updated_at": "2026-04-07T12:08:30.834505+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -1712,7 +1712,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-03-26T09:08:32.376656+00:00",
-      "last_updated_at": "2026-04-07T11:28:30.456009+00:00",
+      "last_updated_at": "2026-04-07T12:08:30.834496+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -1737,12 +1737,12 @@
       "name": "Minotaur IV | STP-S29A",
       "slug": "minotaur-iv-stp-s29a",
       "status": {
-        "id": 1,
-        "abbrev": "Go",
-        "name": "Go for Launch",
-        "description": "Current T-0 confirmed by official or reliable sources."
+        "id": 6,
+        "abbrev": "In Flight",
+        "name": "Launch in Flight",
+        "description": "The launch vehicle has lifted off from the launchpad."
       },
-      "net": "2026-04-07T11:30:00Z",
+      "net": "2026-04-07T11:33:00Z",
       "window_start": "2026-04-07T11:30:00Z",
       "window_end": "2026-04-07T16:30:00Z",
       "probability": null,
@@ -1777,9 +1777,9 @@
           "url": "https://www.youtube.com/watch?v=H0w8xeX2tAE"
         }
       ],
-      "webcast_live": true,
+      "webcast_live": false,
       "discovered_at": "2026-03-23T08:19:21.926636+00:00",
-      "last_updated_at": "2026-04-07T11:28:30.455996+00:00",
+      "last_updated_at": "2026-04-07T12:08:30.834478+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -1803,6 +1803,14 @@
           "net": "2026-04-07T11:30:00Z",
           "prev_net": "2026-04-30T00:00:00Z",
           "prev_abbrev": "TBD"
+        },
+        {
+          "at": "2026-04-07T12:08:30.834483+00:00",
+          "status_id": 6,
+          "abbrev": "In Flight",
+          "net": "2026-04-07T11:33:00Z",
+          "prev_net": "2026-04-07T11:30:00Z",
+          "prev_abbrev": "Go"
         }
       ]
     },
@@ -1861,7 +1869,7 @@
       ],
       "webcast_live": false,
       "discovered_at": "2026-03-23T08:19:21.926616+00:00",
-      "last_updated_at": "2026-04-07T11:28:30.455961+00:00",
+      "last_updated_at": "2026-04-07T12:08:30.834445+00:00",
       "outcome": "success",
       "failure_reason": null,
       "status_history": [
@@ -3361,5 +3369,5 @@
       ]
     }
   ],
-  "last_updated": "2026-04-07T11:28:30.456384+00:00"
+  "last_updated": "2026-04-07T12:08:30.834848+00:00"
 }
