@@ -164,7 +164,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-03-31T21:34:50.631409+00:00",
-      "last_updated_at": "2026-04-07T10:07:20.455471+00:00",
+      "last_updated_at": "2026-04-07T11:28:30.456191+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -218,7 +218,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-04-04T14:29:33.945423+00:00",
-      "last_updated_at": "2026-04-07T10:07:20.455476+00:00",
+      "last_updated_at": "2026-04-07T11:28:30.456198+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -333,7 +333,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-03-27T23:27:37.775053+00:00",
-      "last_updated_at": "2026-04-07T10:07:20.455424+00:00",
+      "last_updated_at": "2026-04-07T11:28:30.456139+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -387,7 +387,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-03-28T04:16:06.593134+00:00",
-      "last_updated_at": "2026-04-07T10:07:20.455432+00:00",
+      "last_updated_at": "2026-04-07T11:28:30.456148+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -441,7 +441,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-03-23T08:19:21.926514+00:00",
-      "last_updated_at": "2026-04-07T10:07:20.455437+00:00",
+      "last_updated_at": "2026-04-07T11:28:30.456157+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -502,7 +502,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-03-23T08:19:21.926545+00:00",
-      "last_updated_at": "2026-04-07T10:07:20.455463+00:00",
+      "last_updated_at": "2026-04-07T11:28:30.456183+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -563,7 +563,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-03-31T11:25:55.426549+00:00",
-      "last_updated_at": "2026-04-07T10:07:20.455456+00:00",
+      "last_updated_at": "2026-04-07T11:28:30.456177+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -617,7 +617,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-03-23T08:19:21.926481+00:00",
-      "last_updated_at": "2026-04-07T10:07:20.455444+00:00",
+      "last_updated_at": "2026-04-07T11:28:30.456164+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -720,7 +720,7 @@
       ],
       "webcast_live": false,
       "discovered_at": "2026-03-23T15:34:22.797200+00:00",
-      "last_updated_at": "2026-04-07T10:07:20.455450+00:00",
+      "last_updated_at": "2026-04-07T11:28:30.456170+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -782,7 +782,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-03-27T15:14:22.279146+00:00",
-      "last_updated_at": "2026-04-07T10:07:20.455416+00:00",
+      "last_updated_at": "2026-04-07T11:28:30.456132+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -836,7 +836,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-03-25T05:42:46.752539+00:00",
-      "last_updated_at": "2026-04-07T10:07:20.455410+00:00",
+      "last_updated_at": "2026-04-07T11:28:30.456126+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -897,7 +897,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-03-25T05:42:46.752556+00:00",
-      "last_updated_at": "2026-04-07T10:07:20.455404+00:00",
+      "last_updated_at": "2026-04-07T11:28:30.456119+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -951,7 +951,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-03-23T16:53:54.541846+00:00",
-      "last_updated_at": "2026-04-07T10:07:20.455397+00:00",
+      "last_updated_at": "2026-04-07T11:28:30.456113+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -1010,7 +1010,7 @@
       ],
       "webcast_live": false,
       "discovered_at": "2026-04-01T21:37:31.360732+00:00",
-      "last_updated_at": "2026-04-07T10:07:20.455390+00:00",
+      "last_updated_at": "2026-04-07T11:28:30.456106+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -1085,7 +1085,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-03-23T08:19:21.926524+00:00",
-      "last_updated_at": "2026-04-07T10:07:20.455384+00:00",
+      "last_updated_at": "2026-04-07T11:28:30.456099+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -1173,7 +1173,7 @@
       ],
       "webcast_live": false,
       "discovered_at": "2026-04-01T18:55:12.087953+00:00",
-      "last_updated_at": "2026-04-07T10:07:20.455375+00:00",
+      "last_updated_at": "2026-04-07T11:28:30.456090+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -1189,6 +1189,68 @@
           "abbrev": "Go",
           "net": "2026-04-13T06:35:00Z",
           "prev_net": "2026-04-12T06:57:00Z"
+        }
+      ]
+    },
+    {
+      "id": "34fbbb9b-2a86-42cc-af02-6cfe1f4236f7",
+      "name": "Smart Dragon 3 | Unknown Payload",
+      "slug": "smart-dragon-3-unknown-payload",
+      "status": {
+        "id": 1,
+        "abbrev": "Go",
+        "name": "Go for Launch",
+        "description": "Current T-0 confirmed by official or reliable sources."
+      },
+      "net": "2026-04-11T11:30:00Z",
+      "window_start": "2026-04-11T11:22:00Z",
+      "window_end": "2026-04-11T11:47:00Z",
+      "probability": null,
+      "rocket": {
+        "name": "Smart Dragon 3",
+        "family": "Smart Dragon",
+        "manufacturer": "China Rocket Co. Ltd.",
+        "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/smart_dragon_3__image_20240925074606.jpg"
+      },
+      "mission": {
+        "name": "Unknown Payload",
+        "description": "Details TBD.",
+        "type": "Unknown",
+        "orbit": "Unknown"
+      },
+      "pad": {
+        "name": "South China Sea (launch location 3)",
+        "location": "Haiyang Oriental Spaceport",
+        "country": "CHN",
+        "latitude": "21.366667",
+        "longitude": "112.116667"
+      },
+      "agency": {
+        "name": "China Rocket Co. Ltd.",
+        "abbrev": "CHNR",
+        "type": "Commercial"
+      },
+      "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/smart_dragon_3__image_20240925074606.jpg",
+      "vidURLs": [],
+      "webcast_live": false,
+      "discovered_at": "2026-04-04T02:34:05.630530+00:00",
+      "last_updated_at": "2026-04-07T11:28:30.456075+00:00",
+      "outcome": null,
+      "failure_reason": null,
+      "status_history": [
+        {
+          "at": "2026-04-04T02:34:05.630533+00:00",
+          "status_id": 8,
+          "abbrev": "TBC",
+          "net": "2026-04-10T11:00:00Z"
+        },
+        {
+          "at": "2026-04-07T11:28:30.456079+00:00",
+          "status_id": 1,
+          "abbrev": "Go",
+          "net": "2026-04-11T11:30:00Z",
+          "prev_net": "2026-04-10T11:00:00Z",
+          "prev_abbrev": "TBC"
         }
       ]
     },
@@ -1239,7 +1301,7 @@
       ],
       "webcast_live": false,
       "discovered_at": "2026-03-24T17:29:50.698575+00:00",
-      "last_updated_at": "2026-04-07T10:07:20.455368+00:00",
+      "last_updated_at": "2026-04-07T11:28:30.456065+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -1287,24 +1349,24 @@
       ]
     },
     {
-      "id": "34fbbb9b-2a86-42cc-af02-6cfe1f4236f7",
-      "name": "Smart Dragon 3 | Unknown Payload",
-      "slug": "smart-dragon-3-unknown-payload",
+      "id": "33b673eb-b25b-462a-a092-040a6875654c",
+      "name": "Kinetica 1 | Unknown Payload",
+      "slug": "kinetica-1-unknown-payload",
       "status": {
-        "id": 8,
-        "abbrev": "TBC",
-        "name": "To Be Confirmed",
-        "description": "Awaiting official confirmation - current date is known with some certainty."
+        "id": 1,
+        "abbrev": "Go",
+        "name": "Go for Launch",
+        "description": "Current T-0 confirmed by official or reliable sources."
       },
-      "net": "2026-04-10T11:00:00Z",
-      "window_start": "2026-04-10T11:00:00Z",
-      "window_end": "2026-04-10T14:00:00Z",
+      "net": "2026-04-10T04:00:00Z",
+      "window_start": "2026-04-10T03:54:00Z",
+      "window_end": "2026-04-10T04:15:00Z",
       "probability": null,
       "rocket": {
-        "name": "Smart Dragon 3",
-        "family": "Smart Dragon",
-        "manufacturer": "China Rocket Co. Ltd.",
-        "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/smart_dragon_3__image_20240925074606.jpg"
+        "name": "Kinetica 1",
+        "family": "",
+        "manufacturer": "CAS Space",
+        "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/zhongke-1a_image_20220912002218.png"
       },
       "mission": {
         "name": "Unknown Payload",
@@ -1313,30 +1375,30 @@
         "orbit": "Unknown"
       },
       "pad": {
-        "name": "South China Sea (launch location 1)",
-        "location": "Haiyang Oriental Spaceport",
+        "name": "Launch Area 130",
+        "location": "Jiuquan Satellite Launch Center, People's Republic of China",
         "country": "CHN",
-        "latitude": "21.283333",
-        "longitude": "112.0"
+        "latitude": "40.8182",
+        "longitude": "100.22514"
       },
       "agency": {
-        "name": "China Rocket Co. Ltd.",
-        "abbrev": "CHNR",
+        "name": "CAS Space",
+        "abbrev": "CAS",
         "type": "Commercial"
       },
-      "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/smart_dragon_3__image_20240925074606.jpg",
+      "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/zhongke-1a_image_20220912002218.png",
       "vidURLs": [],
       "webcast_live": false,
-      "discovered_at": "2026-04-04T02:34:05.630530+00:00",
-      "last_updated_at": "2026-04-07T10:07:20.455361+00:00",
+      "discovered_at": "2026-04-07T11:28:30.456052+00:00",
+      "last_updated_at": "2026-04-07T11:28:30.456049+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
         {
-          "at": "2026-04-04T02:34:05.630533+00:00",
-          "status_id": 8,
-          "abbrev": "TBC",
-          "net": "2026-04-10T11:00:00Z"
+          "at": "2026-04-07T11:28:30.456054+00:00",
+          "status_id": 1,
+          "abbrev": "Go",
+          "net": "2026-04-10T04:00:00Z"
         }
       ]
     },
@@ -1391,7 +1453,7 @@
       ],
       "webcast_live": false,
       "discovered_at": "2026-03-23T12:57:06.104402+00:00",
-      "last_updated_at": "2026-04-07T10:07:20.455355+00:00",
+      "last_updated_at": "2026-04-07T11:28:30.456042+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -1475,7 +1537,7 @@
       ],
       "webcast_live": false,
       "discovered_at": "2026-03-23T08:19:21.926409+00:00",
-      "last_updated_at": "2026-04-07T10:07:20.455348+00:00",
+      "last_updated_at": "2026-04-07T11:28:30.456032+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -1596,7 +1658,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-04-02T05:56:20.521424+00:00",
-      "last_updated_at": "2026-04-07T10:07:20.455338+00:00",
+      "last_updated_at": "2026-04-07T11:28:30.456022+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -1650,7 +1712,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-03-26T09:08:32.376656+00:00",
-      "last_updated_at": "2026-04-07T10:07:20.455329+00:00",
+      "last_updated_at": "2026-04-07T11:28:30.456009+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -1711,13 +1773,13 @@
       "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/minotaur_iv_lau_image_20240307170209.jpeg",
       "vidURLs": [
         {
-          "title": "AGS6 Launch Livestream",
-          "url": "https://www.youtube.com/watch?v=d4xXy83x5ew"
+          "title": "AGS6 Launch Livestream (STP-S29A)",
+          "url": "https://www.youtube.com/watch?v=H0w8xeX2tAE"
         }
       ],
-      "webcast_live": false,
+      "webcast_live": true,
       "discovered_at": "2026-03-23T08:19:21.926636+00:00",
-      "last_updated_at": "2026-04-07T10:07:20.455314+00:00",
+      "last_updated_at": "2026-04-07T11:28:30.455996+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -1799,7 +1861,7 @@
       ],
       "webcast_live": false,
       "discovered_at": "2026-03-23T08:19:21.926616+00:00",
-      "last_updated_at": "2026-04-07T10:07:20.455281+00:00",
+      "last_updated_at": "2026-04-07T11:28:30.455961+00:00",
       "outcome": "success",
       "failure_reason": null,
       "status_history": [
@@ -3299,5 +3361,5 @@
       ]
     }
   ],
-  "last_updated": "2026-04-07T10:07:20.455646+00:00"
+  "last_updated": "2026-04-07T11:28:30.456384+00:00"
 }
