@@ -164,7 +164,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-03-31T21:34:50.631409+00:00",
-      "last_updated_at": "2026-04-08T13:11:45.675384+00:00",
+      "last_updated_at": "2026-04-08T14:52:10.605462+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -218,7 +218,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-04-04T14:29:33.945423+00:00",
-      "last_updated_at": "2026-04-08T13:11:45.675392+00:00",
+      "last_updated_at": "2026-04-08T14:52:10.605470+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -272,7 +272,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-03-30T05:09:43.841059+00:00",
-      "last_updated_at": "2026-04-08T13:11:45.675398+00:00",
+      "last_updated_at": "2026-04-08T14:52:10.605477+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -288,6 +288,60 @@
           "abbrev": "TBD",
           "net": "2026-05-31T00:00:00Z",
           "prev_net": "2026-04-30T00:00:00Z"
+        }
+      ]
+    },
+    {
+      "id": "ed8ccd18-b530-4f55-92ae-bda89ac2985c",
+      "name": "Ariane 64 Block 2 | Amazon Leo (LE-03)",
+      "slug": "ariane-64-block-2-amazon-leo-le-03",
+      "status": {
+        "id": 2,
+        "abbrev": "TBD",
+        "name": "To Be Determined",
+        "description": "Current date is a placeholder or rough estimation based on unreliable or interpreted sources."
+      },
+      "net": "2026-05-31T00:00:00Z",
+      "window_start": "2026-05-31T00:00:00Z",
+      "window_end": "2026-05-31T00:00:00Z",
+      "probability": null,
+      "rocket": {
+        "name": "Ariane 64",
+        "family": "Ariane",
+        "manufacturer": "ArianeGroup",
+        "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/ariane_64_lifto_image_20260213070745.jpg"
+      },
+      "mission": {
+        "name": "Amazon Leo (LE-03)",
+        "description": "Amazon Leo, formerly known as Project Kuiper, is a mega constellation of satellites in Low Earth Orbit that will offer broadband internet access, this constellation will be managed by Kuiper Systems LLC, a subsidiary of Amazon. This constellation is planned to be composed of 3,276 satellites. The satellites are projected to be placed in 98 orbital planes in three orbital layers, one at 590 km, 610 km and 630 km altitude.\r\n\r\n35-40 satellites will be carried on each Ariane 6 launch.",
+        "type": "Communications",
+        "orbit": "Low Earth Orbit"
+      },
+      "pad": {
+        "name": "Ariane Launch Area 4",
+        "location": "Guiana Space Centre, French Guiana",
+        "country": "GUF",
+        "latitude": "5.256319",
+        "longitude": "-52.786838"
+      },
+      "agency": {
+        "name": "Arianespace",
+        "abbrev": "ASA",
+        "type": "Commercial"
+      },
+      "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/ariane_64_lifto_image_20260213070745.jpg",
+      "vidURLs": [],
+      "webcast_live": false,
+      "discovered_at": "2026-04-08T14:52:10.605497+00:00",
+      "last_updated_at": "2026-04-08T14:52:10.605494+00:00",
+      "outcome": null,
+      "failure_reason": null,
+      "status_history": [
+        {
+          "at": "2026-04-08T14:52:10.605499+00:00",
+          "status_id": 2,
+          "abbrev": "TBD",
+          "net": "2026-05-31T00:00:00Z"
         }
       ]
     },
@@ -333,7 +387,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-03-27T23:27:37.775053+00:00",
-      "last_updated_at": "2026-04-08T13:11:45.675319+00:00",
+      "last_updated_at": "2026-04-08T14:52:10.605410+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -387,7 +441,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-03-28T04:16:06.593134+00:00",
-      "last_updated_at": "2026-04-08T13:11:45.675338+00:00",
+      "last_updated_at": "2026-04-08T14:52:10.605416+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -441,7 +495,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-03-23T08:19:21.926514+00:00",
-      "last_updated_at": "2026-04-08T13:11:45.675346+00:00",
+      "last_updated_at": "2026-04-08T14:52:10.605425+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -502,7 +556,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-03-23T08:19:21.926545+00:00",
-      "last_updated_at": "2026-04-08T13:11:45.675378+00:00",
+      "last_updated_at": "2026-04-08T14:52:10.605455+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -563,7 +617,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-03-31T11:25:55.426549+00:00",
-      "last_updated_at": "2026-04-08T13:11:45.675371+00:00",
+      "last_updated_at": "2026-04-08T14:52:10.605445+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -617,7 +671,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-03-23T08:19:21.926481+00:00",
-      "last_updated_at": "2026-04-08T13:11:45.675353+00:00",
+      "last_updated_at": "2026-04-08T14:52:10.605431+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -720,7 +774,7 @@
       ],
       "webcast_live": false,
       "discovered_at": "2026-03-23T15:34:22.797200+00:00",
-      "last_updated_at": "2026-04-08T13:11:45.675362+00:00",
+      "last_updated_at": "2026-04-08T14:52:10.605439+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -782,7 +836,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-03-27T15:14:22.279146+00:00",
-      "last_updated_at": "2026-04-08T13:11:45.675312+00:00",
+      "last_updated_at": "2026-04-08T14:52:10.605401+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -836,7 +890,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-03-25T05:42:46.752539+00:00",
-      "last_updated_at": "2026-04-08T13:11:45.675304+00:00",
+      "last_updated_at": "2026-04-08T14:52:10.605394+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -897,7 +951,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-03-25T05:42:46.752556+00:00",
-      "last_updated_at": "2026-04-08T13:11:45.675295+00:00",
+      "last_updated_at": "2026-04-08T14:52:10.605386+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -951,7 +1005,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-03-23T16:53:54.541846+00:00",
-      "last_updated_at": "2026-04-08T13:11:45.675287+00:00",
+      "last_updated_at": "2026-04-08T14:52:10.605378+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -1010,7 +1064,7 @@
       ],
       "webcast_live": false,
       "discovered_at": "2026-04-07T19:58:15.994009+00:00",
-      "last_updated_at": "2026-04-08T13:11:45.675280+00:00",
+      "last_updated_at": "2026-04-08T14:52:10.605371+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -1069,7 +1123,7 @@
       ],
       "webcast_live": false,
       "discovered_at": "2026-04-01T21:37:31.360732+00:00",
-      "last_updated_at": "2026-04-08T13:11:45.675273+00:00",
+      "last_updated_at": "2026-04-08T14:52:10.605363+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -1144,7 +1198,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-03-23T08:19:21.926524+00:00",
-      "last_updated_at": "2026-04-08T13:11:45.675264+00:00",
+      "last_updated_at": "2026-04-08T14:52:10.605353+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -1232,7 +1286,7 @@
       ],
       "webcast_live": false,
       "discovered_at": "2026-04-01T18:55:12.087953+00:00",
-      "last_updated_at": "2026-04-08T13:11:45.675256+00:00",
+      "last_updated_at": "2026-04-08T14:52:10.605346+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -1300,7 +1354,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-04-04T02:34:05.630530+00:00",
-      "last_updated_at": "2026-04-08T13:11:45.675247+00:00",
+      "last_updated_at": "2026-04-08T14:52:10.605338+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -1367,7 +1421,7 @@
       ],
       "webcast_live": false,
       "discovered_at": "2026-03-24T17:29:50.698575+00:00",
-      "last_updated_at": "2026-04-08T13:11:45.675239+00:00",
+      "last_updated_at": "2026-04-08T14:52:10.605331+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -1465,7 +1519,7 @@
       ],
       "webcast_live": false,
       "discovered_at": "2026-03-23T12:57:06.104402+00:00",
-      "last_updated_at": "2026-04-08T13:11:45.675230+00:00",
+      "last_updated_at": "2026-04-08T14:52:10.605322+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -1547,7 +1601,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-04-07T11:28:30.456052+00:00",
-      "last_updated_at": "2026-04-08T13:11:45.675220+00:00",
+      "last_updated_at": "2026-04-08T14:52:10.605311+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -1600,17 +1654,17 @@
       "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/spectrum_on_the_image_20250321072643.jpeg",
       "vidURLs": [
         {
-          "title": "Scrub: \"Onward and Upward\" Mission of Isar Aerospace",
-          "url": "https://www.youtube.com/watch?v=MsbZj8PxmUk"
+          "title": "\"Onward and Upward\" Mission of Isar Aerospace",
+          "url": "https://www.youtube.com/watch?v=Ss1DUqLjecc"
         },
         {
-          "title": "[Scrub] Isar Aerospace Launches the \"Onward and Upward\" Mission",
-          "url": "https://www.youtube.com/watch?v=63sLbW_IMoA"
+          "title": "Isar Aerospace Launches the \"Onward and Upward\" Mission",
+          "url": "https://www.youtube.com/watch?v=uUc2d_NPBN0"
         }
       ],
       "webcast_live": false,
       "discovered_at": "2026-03-23T08:19:21.926409+00:00",
-      "last_updated_at": "2026-04-08T13:11:45.675207+00:00",
+      "last_updated_at": "2026-04-08T14:52:10.605294+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -1739,7 +1793,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-04-02T05:56:20.521424+00:00",
-      "last_updated_at": "2026-04-08T13:11:45.675188+00:00",
+      "last_updated_at": "2026-04-08T14:52:10.605261+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -3472,5 +3526,5 @@
       ]
     }
   ],
-  "last_updated": "2026-04-08T13:11:45.675587+00:00"
+  "last_updated": "2026-04-08T14:52:10.605704+00:00"
 }
