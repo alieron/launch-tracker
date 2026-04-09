@@ -164,7 +164,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-03-31T21:34:50.631409+00:00",
-      "last_updated_at": "2026-04-09T17:56:05.573478+00:00",
+      "last_updated_at": "2026-04-09T19:03:12.586321+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -218,7 +218,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-04-04T14:29:33.945423+00:00",
-      "last_updated_at": "2026-04-09T17:56:05.573484+00:00",
+      "last_updated_at": "2026-04-09T19:03:12.586328+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -272,7 +272,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-03-30T05:09:43.841059+00:00",
-      "last_updated_at": "2026-04-09T17:56:05.573490+00:00",
+      "last_updated_at": "2026-04-09T19:03:12.586335+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -387,7 +387,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-03-27T23:27:37.775053+00:00",
-      "last_updated_at": "2026-04-09T17:56:05.573431+00:00",
+      "last_updated_at": "2026-04-09T19:03:12.586253+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -441,7 +441,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-03-28T04:16:06.593134+00:00",
-      "last_updated_at": "2026-04-09T17:56:05.573438+00:00",
+      "last_updated_at": "2026-04-09T19:03:12.586262+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -495,7 +495,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-03-23T08:19:21.926514+00:00",
-      "last_updated_at": "2026-04-09T17:56:05.573444+00:00",
+      "last_updated_at": "2026-04-09T19:03:12.586269+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -556,7 +556,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-03-23T08:19:21.926545+00:00",
-      "last_updated_at": "2026-04-09T17:56:05.573472+00:00",
+      "last_updated_at": "2026-04-09T19:03:12.586313+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -617,7 +617,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-03-31T11:25:55.426549+00:00",
-      "last_updated_at": "2026-04-09T17:56:05.573463+00:00",
+      "last_updated_at": "2026-04-09T19:03:12.586304+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -671,7 +671,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-03-23T08:19:21.926481+00:00",
-      "last_updated_at": "2026-04-09T17:56:05.573450+00:00",
+      "last_updated_at": "2026-04-09T19:03:12.586275+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -774,7 +774,7 @@
       ],
       "webcast_live": false,
       "discovered_at": "2026-03-23T15:34:22.797200+00:00",
-      "last_updated_at": "2026-04-09T17:56:05.573457+00:00",
+      "last_updated_at": "2026-04-09T19:03:12.586296+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -790,6 +790,152 @@
           "abbrev": "TBD",
           "net": "2026-04-30T00:00:00Z",
           "prev_net": "2026-04-09T06:29:00Z",
+          "prev_abbrev": "Go"
+        }
+      ]
+    },
+    {
+      "id": "1b23eb18-e06e-4058-9b42-e95ca0980511",
+      "name": "Spectrum | Onward and Upward",
+      "slug": "spectrum-onward-and-upward",
+      "status": {
+        "id": 2,
+        "abbrev": "TBD",
+        "name": "To Be Determined",
+        "description": "Current date is a placeholder or rough estimation based on unreliable or interpreted sources."
+      },
+      "net": "2026-04-30T00:00:00Z",
+      "window_start": "2026-04-30T00:00:00Z",
+      "window_end": "2026-04-30T00:00:00Z",
+      "probability": null,
+      "rocket": {
+        "name": "Spectrum",
+        "family": "",
+        "manufacturer": "Isar Aerospace",
+        "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/spectrum_on_the_image_20250321072643.jpeg"
+      },
+      "mission": {
+        "name": "Onward and Upward",
+        "description": "Second test flight of the Isar Spectrum launch vehicle. This launch will carry 5 cubesats and 1 non-separable experiment as part of European Space Agency (ESA)'s \u201cBoost!\u201d program:\r\n\r\n* CyBEEsat (TU Berlin)\r\n* TriSat-S (University of Maribor)\r\n* Platform 6 (EnduroSat)\r\n* FramSat-1 (NTNU)\r\n* SpaceTeamSat1 (TU Wien Space Team)\r\n* Let It Go (Dcubed, non-separable experiment)",
+        "type": "Test Flight",
+        "orbit": "Sun-Synchronous Orbit"
+      },
+      "pad": {
+        "name": "Orbital Launch Pad",
+        "location": "And\u00f8ya Spaceport",
+        "country": "NOR",
+        "latitude": "69.1084",
+        "longitude": "15.5895"
+      },
+      "agency": {
+        "name": "Isar Aerospace",
+        "abbrev": "ISAR",
+        "type": "Private"
+      },
+      "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/spectrum_on_the_image_20250321072643.jpeg",
+      "vidURLs": [
+        {
+          "title": "\"Onward and Upward\" Mission of Isar Aerospace",
+          "url": "https://www.youtube.com/watch?v=Ss1DUqLjecc"
+        },
+        {
+          "title": "Isar Aerospace Launches the \"Onward and Upward\" Mission",
+          "url": "https://www.youtube.com/watch?v=uUc2d_NPBN0"
+        }
+      ],
+      "webcast_live": false,
+      "discovered_at": "2026-03-23T08:19:21.926409+00:00",
+      "last_updated_at": "2026-04-09T19:03:12.586283+00:00",
+      "outcome": null,
+      "failure_reason": null,
+      "status_history": [
+        {
+          "at": "2026-03-23T08:19:21.926411+00:00",
+          "status_id": 8,
+          "abbrev": "TBC",
+          "net": "2026-03-23T20:00:00Z"
+        },
+        {
+          "at": "2026-03-23T11:41:05.419404+00:00",
+          "status_id": 8,
+          "abbrev": "TBC",
+          "net": "2026-03-25T20:00:00Z",
+          "prev_net": "2026-03-23T20:00:00Z"
+        },
+        {
+          "at": "2026-03-25T05:42:46.752362+00:00",
+          "status_id": 1,
+          "abbrev": "Go",
+          "net": "2026-03-25T20:00:00Z",
+          "prev_abbrev": "TBC"
+        },
+        {
+          "at": "2026-03-25T19:24:09.575404+00:00",
+          "status_id": 1,
+          "abbrev": "Go",
+          "net": "2026-03-25T20:06:00Z",
+          "prev_net": "2026-03-25T20:00:00Z"
+        },
+        {
+          "at": "2026-03-25T19:59:48.284319+00:00",
+          "status_id": 1,
+          "abbrev": "Go",
+          "net": "2026-03-25T20:20:00Z",
+          "prev_net": "2026-03-25T20:06:00Z"
+        },
+        {
+          "at": "2026-03-25T20:50:37.889553+00:00",
+          "status_id": 2,
+          "abbrev": "TBD",
+          "net": "2026-03-31T00:00:00Z",
+          "prev_net": "2026-03-25T20:20:00Z",
+          "prev_abbrev": "Go"
+        },
+        {
+          "at": "2026-03-26T14:03:46.059457+00:00",
+          "status_id": 8,
+          "abbrev": "TBC",
+          "net": "2026-03-28T20:00:00Z",
+          "prev_net": "2026-03-31T00:00:00Z",
+          "prev_abbrev": "TBD"
+        },
+        {
+          "at": "2026-03-27T20:41:51.203825+00:00",
+          "status_id": 2,
+          "abbrev": "TBD",
+          "net": "2026-03-31T00:00:00Z",
+          "prev_net": "2026-03-28T20:00:00Z",
+          "prev_abbrev": "TBC"
+        },
+        {
+          "at": "2026-03-29T09:32:47.100873+00:00",
+          "status_id": 2,
+          "abbrev": "TBD",
+          "net": "2026-04-30T00:00:00Z",
+          "prev_net": "2026-03-31T00:00:00Z"
+        },
+        {
+          "at": "2026-04-07T06:17:26.649106+00:00",
+          "status_id": 8,
+          "abbrev": "TBC",
+          "net": "2026-04-08T20:00:00Z",
+          "prev_net": "2026-04-30T00:00:00Z",
+          "prev_abbrev": "TBD"
+        },
+        {
+          "at": "2026-04-07T14:06:33.274660+00:00",
+          "status_id": 1,
+          "abbrev": "Go",
+          "net": "2026-04-09T20:00:00Z",
+          "prev_net": "2026-04-08T20:00:00Z",
+          "prev_abbrev": "TBC"
+        },
+        {
+          "at": "2026-04-09T19:03:12.586287+00:00",
+          "status_id": 2,
+          "abbrev": "TBD",
+          "net": "2026-04-30T00:00:00Z",
+          "prev_net": "2026-04-09T20:00:00Z",
           "prev_abbrev": "Go"
         }
       ]
@@ -836,7 +982,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-03-27T15:14:22.279146+00:00",
-      "last_updated_at": "2026-04-09T17:56:05.573422+00:00",
+      "last_updated_at": "2026-04-09T19:03:12.586244+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -890,7 +1036,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-03-25T05:42:46.752539+00:00",
-      "last_updated_at": "2026-04-09T17:56:05.573414+00:00",
+      "last_updated_at": "2026-04-09T19:03:12.586238+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -951,7 +1097,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-03-25T05:42:46.752556+00:00",
-      "last_updated_at": "2026-04-09T17:56:05.573407+00:00",
+      "last_updated_at": "2026-04-09T19:03:12.586232+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -1005,7 +1151,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-03-23T16:53:54.541846+00:00",
-      "last_updated_at": "2026-04-09T17:56:05.573401+00:00",
+      "last_updated_at": "2026-04-09T19:03:12.586226+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -1064,7 +1210,7 @@
       ],
       "webcast_live": false,
       "discovered_at": "2026-04-09T16:46:51.020948+00:00",
-      "last_updated_at": "2026-04-09T17:56:05.573395+00:00",
+      "last_updated_at": "2026-04-09T19:03:12.586219+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -1123,7 +1269,7 @@
       ],
       "webcast_live": false,
       "discovered_at": "2026-04-07T19:58:15.994009+00:00",
-      "last_updated_at": "2026-04-09T17:56:05.573388+00:00",
+      "last_updated_at": "2026-04-09T19:03:12.586211+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -1177,7 +1323,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-03-23T08:19:21.926524+00:00",
-      "last_updated_at": "2026-04-09T17:56:05.573379+00:00",
+      "last_updated_at": "2026-04-09T19:03:12.586204+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -1272,7 +1418,7 @@
       ],
       "webcast_live": false,
       "discovered_at": "2026-04-01T21:37:31.360732+00:00",
-      "last_updated_at": "2026-04-09T17:56:05.573372+00:00",
+      "last_updated_at": "2026-04-09T19:03:12.586197+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -1352,7 +1498,7 @@
       ],
       "webcast_live": false,
       "discovered_at": "2026-04-01T18:55:12.087953+00:00",
-      "last_updated_at": "2026-04-09T17:56:05.573365+00:00",
+      "last_updated_at": "2026-04-09T19:03:12.586188+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -1420,7 +1566,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-04-07T11:28:30.456052+00:00",
-      "last_updated_at": "2026-04-09T17:56:05.573356+00:00",
+      "last_updated_at": "2026-04-09T19:03:12.586179+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -1490,7 +1636,7 @@
       ],
       "webcast_live": false,
       "discovered_at": "2026-03-23T12:57:06.104402+00:00",
-      "last_updated_at": "2026-04-09T17:56:05.573347+00:00",
+      "last_updated_at": "2026-04-09T19:03:12.586168+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -1579,7 +1725,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-04-04T02:34:05.630530+00:00",
-      "last_updated_at": "2026-04-09T17:56:05.573336+00:00",
+      "last_updated_at": "2026-04-09T19:03:12.586151+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -1646,7 +1792,7 @@
       ],
       "webcast_live": false,
       "discovered_at": "2026-03-24T17:29:50.698575+00:00",
-      "last_updated_at": "2026-04-09T17:56:05.573323+00:00",
+      "last_updated_at": "2026-04-09T19:03:12.586138+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -1694,144 +1840,6 @@
       ]
     },
     {
-      "id": "1b23eb18-e06e-4058-9b42-e95ca0980511",
-      "name": "Spectrum | Onward and Upward",
-      "slug": "spectrum-onward-and-upward",
-      "status": {
-        "id": 1,
-        "abbrev": "Go",
-        "name": "Go for Launch",
-        "description": "Current T-0 confirmed by official or reliable sources."
-      },
-      "net": "2026-04-09T20:00:00Z",
-      "window_start": "2026-04-09T20:00:00Z",
-      "window_end": "2026-04-09T20:50:00Z",
-      "probability": null,
-      "rocket": {
-        "name": "Spectrum",
-        "family": "",
-        "manufacturer": "Isar Aerospace",
-        "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/spectrum_on_the_image_20250321072643.jpeg"
-      },
-      "mission": {
-        "name": "Onward and Upward",
-        "description": "Second test flight of the Isar Spectrum launch vehicle. This launch will carry 5 cubesats and 1 non-separable experiment as part of European Space Agency (ESA)'s \u201cBoost!\u201d program:\r\n\r\n* CyBEEsat (TU Berlin)\r\n* TriSat-S (University of Maribor)\r\n* Platform 6 (EnduroSat)\r\n* FramSat-1 (NTNU)\r\n* SpaceTeamSat1 (TU Wien Space Team)\r\n* Let It Go (Dcubed, non-separable experiment)",
-        "type": "Test Flight",
-        "orbit": "Sun-Synchronous Orbit"
-      },
-      "pad": {
-        "name": "Orbital Launch Pad",
-        "location": "And\u00f8ya Spaceport",
-        "country": "NOR",
-        "latitude": "69.1084",
-        "longitude": "15.5895"
-      },
-      "agency": {
-        "name": "Isar Aerospace",
-        "abbrev": "ISAR",
-        "type": "Private"
-      },
-      "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/spectrum_on_the_image_20250321072643.jpeg",
-      "vidURLs": [
-        {
-          "title": "\"Onward and Upward\" Mission of Isar Aerospace",
-          "url": "https://www.youtube.com/watch?v=Ss1DUqLjecc"
-        },
-        {
-          "title": "Isar Aerospace Launches the \"Onward and Upward\" Mission",
-          "url": "https://www.youtube.com/watch?v=uUc2d_NPBN0"
-        }
-      ],
-      "webcast_live": false,
-      "discovered_at": "2026-03-23T08:19:21.926409+00:00",
-      "last_updated_at": "2026-04-09T17:56:05.573294+00:00",
-      "outcome": null,
-      "failure_reason": null,
-      "status_history": [
-        {
-          "at": "2026-03-23T08:19:21.926411+00:00",
-          "status_id": 8,
-          "abbrev": "TBC",
-          "net": "2026-03-23T20:00:00Z"
-        },
-        {
-          "at": "2026-03-23T11:41:05.419404+00:00",
-          "status_id": 8,
-          "abbrev": "TBC",
-          "net": "2026-03-25T20:00:00Z",
-          "prev_net": "2026-03-23T20:00:00Z"
-        },
-        {
-          "at": "2026-03-25T05:42:46.752362+00:00",
-          "status_id": 1,
-          "abbrev": "Go",
-          "net": "2026-03-25T20:00:00Z",
-          "prev_abbrev": "TBC"
-        },
-        {
-          "at": "2026-03-25T19:24:09.575404+00:00",
-          "status_id": 1,
-          "abbrev": "Go",
-          "net": "2026-03-25T20:06:00Z",
-          "prev_net": "2026-03-25T20:00:00Z"
-        },
-        {
-          "at": "2026-03-25T19:59:48.284319+00:00",
-          "status_id": 1,
-          "abbrev": "Go",
-          "net": "2026-03-25T20:20:00Z",
-          "prev_net": "2026-03-25T20:06:00Z"
-        },
-        {
-          "at": "2026-03-25T20:50:37.889553+00:00",
-          "status_id": 2,
-          "abbrev": "TBD",
-          "net": "2026-03-31T00:00:00Z",
-          "prev_net": "2026-03-25T20:20:00Z",
-          "prev_abbrev": "Go"
-        },
-        {
-          "at": "2026-03-26T14:03:46.059457+00:00",
-          "status_id": 8,
-          "abbrev": "TBC",
-          "net": "2026-03-28T20:00:00Z",
-          "prev_net": "2026-03-31T00:00:00Z",
-          "prev_abbrev": "TBD"
-        },
-        {
-          "at": "2026-03-27T20:41:51.203825+00:00",
-          "status_id": 2,
-          "abbrev": "TBD",
-          "net": "2026-03-31T00:00:00Z",
-          "prev_net": "2026-03-28T20:00:00Z",
-          "prev_abbrev": "TBC"
-        },
-        {
-          "at": "2026-03-29T09:32:47.100873+00:00",
-          "status_id": 2,
-          "abbrev": "TBD",
-          "net": "2026-04-30T00:00:00Z",
-          "prev_net": "2026-03-31T00:00:00Z"
-        },
-        {
-          "at": "2026-04-07T06:17:26.649106+00:00",
-          "status_id": 8,
-          "abbrev": "TBC",
-          "net": "2026-04-08T20:00:00Z",
-          "prev_net": "2026-04-30T00:00:00Z",
-          "prev_abbrev": "TBD"
-        },
-        {
-          "at": "2026-04-07T14:06:33.274660+00:00",
-          "status_id": 1,
-          "abbrev": "Go",
-          "net": "2026-04-09T20:00:00Z",
-          "prev_net": "2026-04-08T20:00:00Z",
-          "prev_abbrev": "TBC"
-        }
-      ]
-    },
-    {
       "id": "c0d1609f-edc0-4970-8dc1-1b80a5d8c4cb",
       "name": "Long March 6A | SatNet LEO Group 21",
       "slug": "long-march-6a-satnet-leo-group-21",
@@ -1873,7 +1881,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-04-02T05:56:20.521424+00:00",
-      "last_updated_at": "2026-04-09T17:56:05.573264+00:00",
+      "last_updated_at": "2026-04-09T19:03:12.586107+00:00",
       "outcome": "success",
       "failure_reason": null,
       "status_history": [
@@ -3614,5 +3622,5 @@
       ]
     }
   ],
-  "last_updated": "2026-04-09T17:56:05.573656+00:00"
+  "last_updated": "2026-04-09T19:03:12.586505+00:00"
 }
