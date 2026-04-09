@@ -164,7 +164,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-03-31T21:34:50.631409+00:00",
-      "last_updated_at": "2026-04-09T13:16:17.556072+00:00",
+      "last_updated_at": "2026-04-09T15:05:29.336518+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -218,7 +218,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-04-04T14:29:33.945423+00:00",
-      "last_updated_at": "2026-04-09T13:16:17.556078+00:00",
+      "last_updated_at": "2026-04-09T15:05:29.336525+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -272,7 +272,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-03-30T05:09:43.841059+00:00",
-      "last_updated_at": "2026-04-09T13:16:17.556085+00:00",
+      "last_updated_at": "2026-04-09T15:05:29.336534+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -333,7 +333,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-04-08T14:52:10.605497+00:00",
-      "last_updated_at": "2026-04-09T13:16:17.556093+00:00",
+      "last_updated_at": "2026-04-09T15:05:29.336540+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -387,7 +387,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-03-27T23:27:37.775053+00:00",
-      "last_updated_at": "2026-04-09T13:16:17.556022+00:00",
+      "last_updated_at": "2026-04-09T15:05:29.336467+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -441,7 +441,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-03-28T04:16:06.593134+00:00",
-      "last_updated_at": "2026-04-09T13:16:17.556028+00:00",
+      "last_updated_at": "2026-04-09T15:05:29.336475+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -495,7 +495,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-03-23T08:19:21.926514+00:00",
-      "last_updated_at": "2026-04-09T13:16:17.556035+00:00",
+      "last_updated_at": "2026-04-09T15:05:29.336481+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -556,7 +556,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-03-23T08:19:21.926545+00:00",
-      "last_updated_at": "2026-04-09T13:16:17.556064+00:00",
+      "last_updated_at": "2026-04-09T15:05:29.336510+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -617,7 +617,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-03-31T11:25:55.426549+00:00",
-      "last_updated_at": "2026-04-09T13:16:17.556058+00:00",
+      "last_updated_at": "2026-04-09T15:05:29.336503+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -671,7 +671,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-03-23T08:19:21.926481+00:00",
-      "last_updated_at": "2026-04-09T13:16:17.556041+00:00",
+      "last_updated_at": "2026-04-09T15:05:29.336489+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -774,7 +774,7 @@
       ],
       "webcast_live": false,
       "discovered_at": "2026-03-23T15:34:22.797200+00:00",
-      "last_updated_at": "2026-04-09T13:16:17.556052+00:00",
+      "last_updated_at": "2026-04-09T15:05:29.336497+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -836,7 +836,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-03-27T15:14:22.279146+00:00",
-      "last_updated_at": "2026-04-09T13:16:17.556015+00:00",
+      "last_updated_at": "2026-04-09T15:05:29.336460+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -890,7 +890,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-03-25T05:42:46.752539+00:00",
-      "last_updated_at": "2026-04-09T13:16:17.556008+00:00",
+      "last_updated_at": "2026-04-09T15:05:29.336453+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -951,7 +951,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-03-25T05:42:46.752556+00:00",
-      "last_updated_at": "2026-04-09T13:16:17.556000+00:00",
+      "last_updated_at": "2026-04-09T15:05:29.336446+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -1005,7 +1005,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-03-23T16:53:54.541846+00:00",
-      "last_updated_at": "2026-04-09T13:16:17.555991+00:00",
+      "last_updated_at": "2026-04-09T15:05:29.336436+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -1064,7 +1064,7 @@
       ],
       "webcast_live": false,
       "discovered_at": "2026-04-07T19:58:15.994009+00:00",
-      "last_updated_at": "2026-04-09T13:16:17.555983+00:00",
+      "last_updated_at": "2026-04-09T15:05:29.336429+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -1118,7 +1118,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-03-23T08:19:21.926524+00:00",
-      "last_updated_at": "2026-04-09T13:16:17.555970+00:00",
+      "last_updated_at": "2026-04-09T15:05:29.336422+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -1213,7 +1213,7 @@
       ],
       "webcast_live": false,
       "discovered_at": "2026-04-01T21:37:31.360732+00:00",
-      "last_updated_at": "2026-04-09T13:16:17.555964+00:00",
+      "last_updated_at": "2026-04-09T15:05:29.336412+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -1293,7 +1293,7 @@
       ],
       "webcast_live": false,
       "discovered_at": "2026-04-01T18:55:12.087953+00:00",
-      "last_updated_at": "2026-04-09T13:16:17.555956+00:00",
+      "last_updated_at": "2026-04-09T15:05:29.336404+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -1316,6 +1316,67 @@
           "abbrev": "Go",
           "net": "2026-04-14T06:13:00Z",
           "prev_net": "2026-04-13T06:35:00Z"
+        }
+      ]
+    },
+    {
+      "id": "33b673eb-b25b-462a-a092-040a6875654c",
+      "name": "Kinetica 1 | Unknown Payload",
+      "slug": "kinetica-1-unknown-payload",
+      "status": {
+        "id": 1,
+        "abbrev": "Go",
+        "name": "Go for Launch",
+        "description": "Current T-0 confirmed by official or reliable sources."
+      },
+      "net": "2026-04-14T04:00:00Z",
+      "window_start": "2026-04-14T03:54:00Z",
+      "window_end": "2026-04-14T04:15:00Z",
+      "probability": null,
+      "rocket": {
+        "name": "Kinetica 1",
+        "family": "",
+        "manufacturer": "CAS Space",
+        "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/zhongke-1a_image_20220912002218.png"
+      },
+      "mission": {
+        "name": "Unknown Payload",
+        "description": "Details TBD.",
+        "type": "Unknown",
+        "orbit": "Unknown"
+      },
+      "pad": {
+        "name": "Launch Area 130",
+        "location": "Jiuquan Satellite Launch Center, People's Republic of China",
+        "country": "CHN",
+        "latitude": "40.8182",
+        "longitude": "100.22514"
+      },
+      "agency": {
+        "name": "CAS Space",
+        "abbrev": "CAS",
+        "type": "Commercial"
+      },
+      "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/zhongke-1a_image_20220912002218.png",
+      "vidURLs": [],
+      "webcast_live": false,
+      "discovered_at": "2026-04-07T11:28:30.456052+00:00",
+      "last_updated_at": "2026-04-09T15:05:29.336391+00:00",
+      "outcome": null,
+      "failure_reason": null,
+      "status_history": [
+        {
+          "at": "2026-04-07T11:28:30.456054+00:00",
+          "status_id": 1,
+          "abbrev": "Go",
+          "net": "2026-04-10T04:00:00Z"
+        },
+        {
+          "at": "2026-04-09T15:05:29.336395+00:00",
+          "status_id": 1,
+          "abbrev": "Go",
+          "net": "2026-04-14T04:00:00Z",
+          "prev_net": "2026-04-10T04:00:00Z"
         }
       ]
     },
@@ -1370,7 +1431,7 @@
       ],
       "webcast_live": false,
       "discovered_at": "2026-03-23T12:57:06.104402+00:00",
-      "last_updated_at": "2026-04-09T13:16:17.555946+00:00",
+      "last_updated_at": "2026-04-09T15:05:29.336382+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -1459,7 +1520,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-04-04T02:34:05.630530+00:00",
-      "last_updated_at": "2026-04-09T13:16:17.555938+00:00",
+      "last_updated_at": "2026-04-09T15:05:29.336374+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -1526,7 +1587,7 @@
       ],
       "webcast_live": false,
       "discovered_at": "2026-03-24T17:29:50.698575+00:00",
-      "last_updated_at": "2026-04-09T13:16:17.555930+00:00",
+      "last_updated_at": "2026-04-09T15:05:29.336364+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -1570,60 +1631,6 @@
           "abbrev": "Go",
           "net": "2026-04-11T02:39:00Z",
           "prev_net": "2026-04-10T02:39:00Z"
-        }
-      ]
-    },
-    {
-      "id": "33b673eb-b25b-462a-a092-040a6875654c",
-      "name": "Kinetica 1 | Unknown Payload",
-      "slug": "kinetica-1-unknown-payload",
-      "status": {
-        "id": 1,
-        "abbrev": "Go",
-        "name": "Go for Launch",
-        "description": "Current T-0 confirmed by official or reliable sources."
-      },
-      "net": "2026-04-10T04:00:00Z",
-      "window_start": "2026-04-10T03:54:00Z",
-      "window_end": "2026-04-10T04:15:00Z",
-      "probability": null,
-      "rocket": {
-        "name": "Kinetica 1",
-        "family": "",
-        "manufacturer": "CAS Space",
-        "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/zhongke-1a_image_20220912002218.png"
-      },
-      "mission": {
-        "name": "Unknown Payload",
-        "description": "Details TBD.",
-        "type": "Unknown",
-        "orbit": "Unknown"
-      },
-      "pad": {
-        "name": "Launch Area 130",
-        "location": "Jiuquan Satellite Launch Center, People's Republic of China",
-        "country": "CHN",
-        "latitude": "40.8182",
-        "longitude": "100.22514"
-      },
-      "agency": {
-        "name": "CAS Space",
-        "abbrev": "CAS",
-        "type": "Commercial"
-      },
-      "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/zhongke-1a_image_20220912002218.png",
-      "vidURLs": [],
-      "webcast_live": false,
-      "discovered_at": "2026-04-07T11:28:30.456052+00:00",
-      "last_updated_at": "2026-04-09T13:16:17.555921+00:00",
-      "outcome": null,
-      "failure_reason": null,
-      "status_history": [
-        {
-          "at": "2026-04-07T11:28:30.456054+00:00",
-          "status_id": 1,
-          "abbrev": "Go",
-          "net": "2026-04-10T04:00:00Z"
         }
       ]
     },
@@ -1678,7 +1685,7 @@
       ],
       "webcast_live": false,
       "discovered_at": "2026-03-23T08:19:21.926409+00:00",
-      "last_updated_at": "2026-04-09T13:16:17.555907+00:00",
+      "last_updated_at": "2026-04-09T15:05:29.336349+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -1807,7 +1814,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-04-02T05:56:20.521424+00:00",
-      "last_updated_at": "2026-04-09T13:16:17.555870+00:00",
+      "last_updated_at": "2026-04-09T15:05:29.336287+00:00",
       "outcome": "success",
       "failure_reason": null,
       "status_history": [
@@ -3548,5 +3555,5 @@
       ]
     }
   ],
-  "last_updated": "2026-04-09T13:16:17.556268+00:00"
+  "last_updated": "2026-04-09T15:05:29.336726+00:00"
 }
