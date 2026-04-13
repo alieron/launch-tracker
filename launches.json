@@ -164,7 +164,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-03-31T21:34:50.631409+00:00",
-      "last_updated_at": "2026-04-13T12:13:41.547508+00:00",
+      "last_updated_at": "2026-04-13T14:13:48.821488+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -387,7 +387,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-04-09T21:07:11.353167+00:00",
-      "last_updated_at": "2026-04-13T12:13:41.547516+00:00",
+      "last_updated_at": "2026-04-13T14:13:48.821495+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -441,7 +441,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-03-27T23:27:37.775053+00:00",
-      "last_updated_at": "2026-04-13T12:13:41.547437+00:00",
+      "last_updated_at": "2026-04-13T14:13:48.821418+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -495,7 +495,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-03-28T04:16:06.593134+00:00",
-      "last_updated_at": "2026-04-13T12:13:41.547444+00:00",
+      "last_updated_at": "2026-04-13T14:13:48.821424+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -549,7 +549,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-03-23T08:19:21.926514+00:00",
-      "last_updated_at": "2026-04-13T12:13:41.547450+00:00",
+      "last_updated_at": "2026-04-13T14:13:48.821431+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -610,7 +610,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-03-23T08:19:21.926545+00:00",
-      "last_updated_at": "2026-04-13T12:13:41.547502+00:00",
+      "last_updated_at": "2026-04-13T14:13:48.821481+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -671,7 +671,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-03-31T11:25:55.426549+00:00",
-      "last_updated_at": "2026-04-13T12:13:41.547496+00:00",
+      "last_updated_at": "2026-04-13T14:13:48.821475+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -725,7 +725,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-03-23T08:19:21.926481+00:00",
-      "last_updated_at": "2026-04-13T12:13:41.547473+00:00",
+      "last_updated_at": "2026-04-13T14:13:48.821453+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -828,7 +828,7 @@
       ],
       "webcast_live": false,
       "discovered_at": "2026-03-23T15:34:22.797200+00:00",
-      "last_updated_at": "2026-04-13T12:13:41.547489+00:00",
+      "last_updated_at": "2026-04-13T14:13:48.821469+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -899,7 +899,7 @@
       ],
       "webcast_live": false,
       "discovered_at": "2026-03-23T08:19:21.926409+00:00",
-      "last_updated_at": "2026-04-13T12:13:41.547481+00:00",
+      "last_updated_at": "2026-04-13T14:13:48.821462+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -1036,7 +1036,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-04-11T04:18:21.759718+00:00",
-      "last_updated_at": "2026-04-13T12:13:41.547429+00:00",
+      "last_updated_at": "2026-04-13T14:13:48.821412+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -1090,7 +1090,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-04-11T04:18:21.759772+00:00",
-      "last_updated_at": "2026-04-13T12:13:41.547458+00:00",
+      "last_updated_at": "2026-04-13T14:13:48.821438+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -1144,7 +1144,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-04-11T04:18:21.759784+00:00",
-      "last_updated_at": "2026-04-13T12:13:41.547464+00:00",
+      "last_updated_at": "2026-04-13T14:13:48.821445+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -1198,7 +1198,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-03-27T15:14:22.279146+00:00",
-      "last_updated_at": "2026-04-13T12:13:41.547419+00:00",
+      "last_updated_at": "2026-04-13T14:13:48.821400+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -1252,7 +1252,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-03-25T05:42:46.752539+00:00",
-      "last_updated_at": "2026-04-13T12:13:41.547411+00:00",
+      "last_updated_at": "2026-04-13T14:13:48.821392+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -1313,7 +1313,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-03-25T05:42:46.752556+00:00",
-      "last_updated_at": "2026-04-13T12:13:41.547405+00:00",
+      "last_updated_at": "2026-04-13T14:13:48.821386+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -1367,7 +1367,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-03-23T16:53:54.541846+00:00",
-      "last_updated_at": "2026-04-13T12:13:41.547399+00:00",
+      "last_updated_at": "2026-04-13T14:13:48.821380+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -1421,7 +1421,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-04-11T15:28:51.958924+00:00",
-      "last_updated_at": "2026-04-13T12:13:41.547392+00:00",
+      "last_updated_at": "2026-04-13T14:13:48.821371+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -1480,7 +1480,7 @@
       ],
       "webcast_live": false,
       "discovered_at": "2026-04-09T16:46:51.020948+00:00",
-      "last_updated_at": "2026-04-13T12:13:41.547384+00:00",
+      "last_updated_at": "2026-04-13T14:13:48.821364+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -1539,7 +1539,7 @@
       ],
       "webcast_live": false,
       "discovered_at": "2026-04-07T19:58:15.994009+00:00",
-      "last_updated_at": "2026-04-13T12:13:41.547374+00:00",
+      "last_updated_at": "2026-04-13T14:13:48.821351+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -1548,6 +1548,103 @@
           "status_id": 1,
           "abbrev": "Go",
           "net": "2026-04-18T14:00:00Z"
+        }
+      ]
+    },
+    {
+      "id": "53769468-bfd3-45c7-a52b-46a68ed7510f",
+      "name": "New Glenn | BlueBird Block 2 #2",
+      "slug": "new-glenn-bluebird-block-2-2",
+      "status": {
+        "id": 8,
+        "abbrev": "TBC",
+        "name": "To Be Confirmed",
+        "description": "Awaiting official confirmation - current date is known with some certainty."
+      },
+      "net": "2026-04-17T10:45:00Z",
+      "window_start": "2026-04-17T10:45:00Z",
+      "window_end": "2026-04-17T13:43:00Z",
+      "probability": null,
+      "rocket": {
+        "name": "New Glenn",
+        "family": "New Glenn",
+        "manufacturer": "Blue Origin",
+        "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/new_glenn_on_lc_image_20240313170026.jpeg"
+      },
+      "mission": {
+        "name": "BlueBird Block 2 #2",
+        "description": "AST SpaceMobile\u2019s Block 2 BlueBird satellites are designed to deliver up to 10 times the bandwidth capacity of the BlueBird Block 1 satellites, required to achieve 24/7 continuous cellular broadband service coverage in the United States, with beams designed to support a capacity of up to 40 MHz, enabling peak data transmission speeds up to 120 Mbps, supporting voice, full data and video applications. The Block 2 BlueBirds, featuring as large as 2400 square foot communications arrays, will be the largest satellites ever commercially deployed in Low Earth orbit once launched.\r\n\r\nThis launch will feature 1 satellite, BlueBird 7/BlueBird Block 2 FM2.",
+        "type": "Communications",
+        "orbit": "Low Earth Orbit"
+      },
+      "pad": {
+        "name": "Launch Complex 36A",
+        "location": "Cape Canaveral SFS, FL, USA",
+        "country": "USA",
+        "latitude": "28.4705556",
+        "longitude": "-80.542194"
+      },
+      "agency": {
+        "name": "Blue Origin",
+        "abbrev": "BO",
+        "type": "Commercial"
+      },
+      "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/new_glenn_on_th_image_20251113164507.jpg",
+      "vidURLs": [],
+      "webcast_live": false,
+      "discovered_at": "2026-03-23T08:19:21.926524+00:00",
+      "last_updated_at": "2026-04-13T14:13:48.821339+00:00",
+      "outcome": null,
+      "failure_reason": null,
+      "status_history": [
+        {
+          "at": "2026-03-23T08:19:21.926526+00:00",
+          "status_id": 2,
+          "abbrev": "TBD",
+          "net": "2026-03-31T00:00:00Z"
+        },
+        {
+          "at": "2026-03-28T16:28:34.502376+00:00",
+          "status_id": 2,
+          "abbrev": "TBD",
+          "net": "2026-04-30T00:00:00Z",
+          "prev_net": "2026-03-31T00:00:00Z"
+        },
+        {
+          "at": "2026-03-29T22:25:34.451106+00:00",
+          "status_id": 2,
+          "abbrev": "TBD",
+          "net": "2026-04-10T00:00:00Z",
+          "prev_net": "2026-04-30T00:00:00Z"
+        },
+        {
+          "at": "2026-04-01T14:10:08.140347+00:00",
+          "status_id": 8,
+          "abbrev": "TBC",
+          "net": "2026-04-12T10:45:00Z",
+          "prev_net": "2026-04-10T00:00:00Z",
+          "prev_abbrev": "TBD"
+        },
+        {
+          "at": "2026-04-03T21:58:51.529126+00:00",
+          "status_id": 8,
+          "abbrev": "TBC",
+          "net": "2026-04-14T10:45:00Z",
+          "prev_net": "2026-04-12T10:45:00Z"
+        },
+        {
+          "at": "2026-04-08T17:38:17.948680+00:00",
+          "status_id": 8,
+          "abbrev": "TBC",
+          "net": "2026-04-16T10:45:00Z",
+          "prev_net": "2026-04-14T10:45:00Z"
+        },
+        {
+          "at": "2026-04-13T14:13:48.821342+00:00",
+          "status_id": 8,
+          "abbrev": "TBC",
+          "net": "2026-04-17T10:45:00Z",
+          "prev_net": "2026-04-16T10:45:00Z"
         }
       ]
     },
@@ -1593,7 +1690,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-04-10T17:43:38.307639+00:00",
-      "last_updated_at": "2026-04-13T12:13:41.547364+00:00",
+      "last_updated_at": "2026-04-13T14:13:48.821331+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -1602,96 +1699,6 @@
           "status_id": 1,
           "abbrev": "Go",
           "net": "2026-04-17T04:10:00Z"
-        }
-      ]
-    },
-    {
-      "id": "53769468-bfd3-45c7-a52b-46a68ed7510f",
-      "name": "New Glenn | BlueBird Block 2 #2",
-      "slug": "new-glenn-bluebird-block-2-2",
-      "status": {
-        "id": 8,
-        "abbrev": "TBC",
-        "name": "To Be Confirmed",
-        "description": "Awaiting official confirmation - current date is known with some certainty."
-      },
-      "net": "2026-04-16T10:45:00Z",
-      "window_start": "2026-04-16T10:45:00Z",
-      "window_end": "2026-04-16T13:43:00Z",
-      "probability": null,
-      "rocket": {
-        "name": "New Glenn",
-        "family": "New Glenn",
-        "manufacturer": "Blue Origin",
-        "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/new_glenn_on_lc_image_20240313170026.jpeg"
-      },
-      "mission": {
-        "name": "BlueBird Block 2 #2",
-        "description": "AST SpaceMobile\u2019s Block 2 BlueBird satellites are designed to deliver up to 10 times the bandwidth capacity of the BlueBird Block 1 satellites, required to achieve 24/7 continuous cellular broadband service coverage in the United States, with beams designed to support a capacity of up to 40 MHz, enabling peak data transmission speeds up to 120 Mbps, supporting voice, full data and video applications. The Block 2 BlueBirds, featuring as large as 2400 square foot communications arrays, will be the largest satellites ever commercially deployed in Low Earth orbit once launched.\r\n\r\nThis launch will feature 1 satellite, BlueBird 7/BlueBird Block 2 FM2.",
-        "type": "Communications",
-        "orbit": "Low Earth Orbit"
-      },
-      "pad": {
-        "name": "Launch Complex 36A",
-        "location": "Cape Canaveral SFS, FL, USA",
-        "country": "USA",
-        "latitude": "28.4705556",
-        "longitude": "-80.542194"
-      },
-      "agency": {
-        "name": "Blue Origin",
-        "abbrev": "BO",
-        "type": "Commercial"
-      },
-      "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/new_glenn_on_th_image_20251113164507.jpg",
-      "vidURLs": [],
-      "webcast_live": false,
-      "discovered_at": "2026-03-23T08:19:21.926524+00:00",
-      "last_updated_at": "2026-04-13T12:13:41.547357+00:00",
-      "outcome": null,
-      "failure_reason": null,
-      "status_history": [
-        {
-          "at": "2026-03-23T08:19:21.926526+00:00",
-          "status_id": 2,
-          "abbrev": "TBD",
-          "net": "2026-03-31T00:00:00Z"
-        },
-        {
-          "at": "2026-03-28T16:28:34.502376+00:00",
-          "status_id": 2,
-          "abbrev": "TBD",
-          "net": "2026-04-30T00:00:00Z",
-          "prev_net": "2026-03-31T00:00:00Z"
-        },
-        {
-          "at": "2026-03-29T22:25:34.451106+00:00",
-          "status_id": 2,
-          "abbrev": "TBD",
-          "net": "2026-04-10T00:00:00Z",
-          "prev_net": "2026-04-30T00:00:00Z"
-        },
-        {
-          "at": "2026-04-01T14:10:08.140347+00:00",
-          "status_id": 8,
-          "abbrev": "TBC",
-          "net": "2026-04-12T10:45:00Z",
-          "prev_net": "2026-04-10T00:00:00Z",
-          "prev_abbrev": "TBD"
-        },
-        {
-          "at": "2026-04-03T21:58:51.529126+00:00",
-          "status_id": 8,
-          "abbrev": "TBC",
-          "net": "2026-04-14T10:45:00Z",
-          "prev_net": "2026-04-12T10:45:00Z"
-        },
-        {
-          "at": "2026-04-08T17:38:17.948680+00:00",
-          "status_id": 8,
-          "abbrev": "TBC",
-          "net": "2026-04-16T10:45:00Z",
-          "prev_net": "2026-04-14T10:45:00Z"
         }
       ]
     },
@@ -1742,7 +1749,7 @@
       ],
       "webcast_live": false,
       "discovered_at": "2026-04-01T21:37:31.360732+00:00",
-      "last_updated_at": "2026-04-13T12:13:41.547347+00:00",
+      "last_updated_at": "2026-04-13T14:13:48.821322+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -1822,7 +1829,7 @@
       ],
       "webcast_live": false,
       "discovered_at": "2026-04-01T18:55:12.087953+00:00",
-      "last_updated_at": "2026-04-13T12:13:41.547334+00:00",
+      "last_updated_at": "2026-04-13T14:13:48.821309+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -1890,7 +1897,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-04-07T11:28:30.456052+00:00",
-      "last_updated_at": "2026-04-13T12:13:41.547307+00:00",
+      "last_updated_at": "2026-04-13T14:13:48.821277+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -4022,5 +4029,5 @@
       ]
     }
   ],
-  "last_updated": "2026-04-13T12:13:41.547682+00:00"
+  "last_updated": "2026-04-13T14:13:48.821678+00:00"
 }
