@@ -164,7 +164,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-03-31T21:34:50.631409+00:00",
-      "last_updated_at": "2026-04-14T16:14:27.059809+00:00",
+      "last_updated_at": "2026-04-14T17:41:23.327506+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -441,7 +441,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-03-28T04:16:06.593134+00:00",
-      "last_updated_at": "2026-04-14T16:14:27.059743+00:00",
+      "last_updated_at": "2026-04-14T17:41:23.327437+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -495,7 +495,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-03-23T08:19:21.926514+00:00",
-      "last_updated_at": "2026-04-14T16:14:27.059750+00:00",
+      "last_updated_at": "2026-04-14T17:41:23.327444+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -556,7 +556,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-03-23T08:19:21.926545+00:00",
-      "last_updated_at": "2026-04-14T16:14:27.059802+00:00",
+      "last_updated_at": "2026-04-14T17:41:23.327500+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -617,7 +617,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-03-31T11:25:55.426549+00:00",
-      "last_updated_at": "2026-04-14T16:14:27.059795+00:00",
+      "last_updated_at": "2026-04-14T17:41:23.327492+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -671,7 +671,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-03-23T08:19:21.926481+00:00",
-      "last_updated_at": "2026-04-14T16:14:27.059772+00:00",
+      "last_updated_at": "2026-04-14T17:41:23.327469+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -774,7 +774,7 @@
       ],
       "webcast_live": false,
       "discovered_at": "2026-03-23T15:34:22.797200+00:00",
-      "last_updated_at": "2026-04-14T16:14:27.059788+00:00",
+      "last_updated_at": "2026-04-14T17:41:23.327483+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -845,7 +845,7 @@
       ],
       "webcast_live": false,
       "discovered_at": "2026-03-23T08:19:21.926409+00:00",
-      "last_updated_at": "2026-04-14T16:14:27.059780+00:00",
+      "last_updated_at": "2026-04-14T17:41:23.327476+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -982,7 +982,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-04-11T04:18:21.759718+00:00",
-      "last_updated_at": "2026-04-14T16:14:27.059733+00:00",
+      "last_updated_at": "2026-04-14T17:41:23.327429+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -1036,7 +1036,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-04-11T04:18:21.759772+00:00",
-      "last_updated_at": "2026-04-14T16:14:27.059757+00:00",
+      "last_updated_at": "2026-04-14T17:41:23.327453+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -1090,7 +1090,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-04-11T04:18:21.759784+00:00",
-      "last_updated_at": "2026-04-14T16:14:27.059764+00:00",
+      "last_updated_at": "2026-04-14T17:41:23.327462+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -1107,14 +1107,14 @@
       "name": "Ariane 64 | Amazon Leo (LE-02)",
       "slug": "ariane-64-amazon-leo-le-02",
       "status": {
-        "id": 2,
-        "abbrev": "TBD",
-        "name": "To Be Determined",
-        "description": "Current date is a placeholder or rough estimation based on unreliable or interpreted sources."
+        "id": 1,
+        "abbrev": "Go",
+        "name": "Go for Launch",
+        "description": "Current T-0 confirmed by official or reliable sources."
       },
-      "net": "2026-04-28T00:00:00Z",
-      "window_start": "2026-04-28T00:00:00Z",
-      "window_end": "2026-04-28T00:00:00Z",
+      "net": "2026-04-28T08:51:00Z",
+      "window_start": "2026-04-28T08:51:00Z",
+      "window_end": "2026-04-28T09:39:00Z",
       "probability": null,
       "rocket": {
         "name": "Ariane 64",
@@ -1144,7 +1144,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-03-27T15:14:22.279146+00:00",
-      "last_updated_at": "2026-04-14T16:14:27.059727+00:00",
+      "last_updated_at": "2026-04-14T17:41:23.327416+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -1153,6 +1153,14 @@
           "status_id": 2,
           "abbrev": "TBD",
           "net": "2026-04-28T00:00:00Z"
+        },
+        {
+          "at": "2026-04-14T17:41:23.327419+00:00",
+          "status_id": 1,
+          "abbrev": "Go",
+          "net": "2026-04-28T08:51:00Z",
+          "prev_net": "2026-04-28T00:00:00Z",
+          "prev_abbrev": "TBD"
         }
       ]
     },
@@ -1198,7 +1206,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-03-25T05:42:46.752539+00:00",
-      "last_updated_at": "2026-04-14T16:14:27.059720+00:00",
+      "last_updated_at": "2026-04-14T17:41:23.327409+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -1259,7 +1267,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-03-25T05:42:46.752556+00:00",
-      "last_updated_at": "2026-04-14T16:14:27.059713+00:00",
+      "last_updated_at": "2026-04-14T17:41:23.327396+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -1268,6 +1276,65 @@
           "status_id": 8,
           "abbrev": "TBC",
           "net": "2026-04-25T22:21:00Z"
+        }
+      ]
+    },
+    {
+      "id": "d3a6d59f-c38d-4fcd-9f5d-b091aa14afa9",
+      "name": "Falcon 9 Block 5 | Starlink Group 17-16",
+      "slug": "falcon-9-block-5-starlink-group-17-16",
+      "status": {
+        "id": 1,
+        "abbrev": "Go",
+        "name": "Go for Launch",
+        "description": "Current T-0 confirmed by official or reliable sources."
+      },
+      "net": "2026-04-25T14:00:00Z",
+      "window_start": "2026-04-25T14:00:00Z",
+      "window_end": "2026-04-25T18:00:00Z",
+      "probability": null,
+      "rocket": {
+        "name": "Falcon 9",
+        "family": "Falcon",
+        "manufacturer": "SpaceX",
+        "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/falcon_9_image_20230807133459.jpeg"
+      },
+      "mission": {
+        "name": "Starlink Group 17-16",
+        "description": "A batch of 25 satellites for the Starlink mega-constellation - SpaceX's project for space-based Internet communication system.",
+        "type": "Communications",
+        "orbit": "Low Earth Orbit"
+      },
+      "pad": {
+        "name": "Space Launch Complex 4E",
+        "location": "Vandenberg SFB, CA, USA",
+        "country": "USA",
+        "latitude": "34.632",
+        "longitude": "-120.611"
+      },
+      "agency": {
+        "name": "SpaceX",
+        "abbrev": "SpX",
+        "type": "Commercial"
+      },
+      "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/falcon2520925_image_20221009234147.png",
+      "vidURLs": [
+        {
+          "title": "Starlink Mission",
+          "url": "https://x.com/i/broadcasts/1qGoNeZzOdQKv"
+        }
+      ],
+      "webcast_live": false,
+      "discovered_at": "2026-04-14T17:41:23.327382+00:00",
+      "last_updated_at": "2026-04-14T17:41:23.327379+00:00",
+      "outcome": null,
+      "failure_reason": null,
+      "status_history": [
+        {
+          "at": "2026-04-14T17:41:23.327385+00:00",
+          "status_id": 1,
+          "abbrev": "Go",
+          "net": "2026-04-25T14:00:00Z"
         }
       ]
     },
@@ -1313,7 +1380,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-03-23T16:53:54.541846+00:00",
-      "last_updated_at": "2026-04-14T16:14:27.059704+00:00",
+      "last_updated_at": "2026-04-14T17:41:23.327372+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -1367,7 +1434,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-04-11T15:28:51.958924+00:00",
-      "last_updated_at": "2026-04-14T16:14:27.059696+00:00",
+      "last_updated_at": "2026-04-14T17:41:23.327365+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -1426,7 +1493,7 @@
       ],
       "webcast_live": false,
       "discovered_at": "2026-04-09T16:46:51.020948+00:00",
-      "last_updated_at": "2026-04-14T16:14:27.059686+00:00",
+      "last_updated_at": "2026-04-14T17:41:23.327358+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -1480,7 +1547,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-03-27T23:27:37.775053+00:00",
-      "last_updated_at": "2026-04-14T16:14:27.059679+00:00",
+      "last_updated_at": "2026-04-14T17:41:23.327348+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -1547,7 +1614,7 @@
       ],
       "webcast_live": false,
       "discovered_at": "2026-04-07T19:58:15.994009+00:00",
-      "last_updated_at": "2026-04-14T16:14:27.059671+00:00",
+      "last_updated_at": "2026-04-14T17:41:23.327339+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -1601,7 +1668,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-03-23T08:19:21.926524+00:00",
-      "last_updated_at": "2026-04-14T16:14:27.059662+00:00",
+      "last_updated_at": "2026-04-14T17:41:23.327331+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -1698,7 +1765,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-04-10T17:43:38.307639+00:00",
-      "last_updated_at": "2026-04-14T16:14:27.059652+00:00",
+      "last_updated_at": "2026-04-14T17:41:23.327321+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -1720,7 +1787,7 @@
         "name": "Go for Launch",
         "description": "Current T-0 confirmed by official or reliable sources."
       },
-      "net": "2026-04-15T02:00:00Z",
+      "net": "2026-04-15T02:40:20Z",
       "window_start": "2026-04-15T02:00:00Z",
       "window_end": "2026-04-15T06:00:00Z",
       "probability": null,
@@ -1751,13 +1818,17 @@
       "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/falcon2520925_image_20221009234147.png",
       "vidURLs": [
         {
+          "title": "GO! - SpaceX - Falcon 9 - Starlink 17-27 - SLC-4E - Vandenberg SFB - Space Affairs Live",
+          "url": "https://www.youtube.com/watch?v=nlHLjrjGKRA"
+        },
+        {
           "title": "Starlink Mission",
           "url": "https://x.com/i/broadcasts/1qJVmQovmYZGB"
         }
       ],
       "webcast_live": false,
       "discovered_at": "2026-04-01T21:37:31.360732+00:00",
-      "last_updated_at": "2026-04-14T16:14:27.059641+00:00",
+      "last_updated_at": "2026-04-14T17:41:23.327304+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -1787,6 +1858,13 @@
           "abbrev": "Go",
           "net": "2026-04-15T02:00:00Z",
           "prev_net": "2026-04-14T02:00:00Z"
+        },
+        {
+          "at": "2026-04-14T17:41:23.327309+00:00",
+          "status_id": 1,
+          "abbrev": "Go",
+          "net": "2026-04-15T02:40:20Z",
+          "prev_net": "2026-04-15T02:00:00Z"
         }
       ]
     },
@@ -1845,7 +1923,7 @@
       ],
       "webcast_live": false,
       "discovered_at": "2026-04-01T18:55:12.087953+00:00",
-      "last_updated_at": "2026-04-14T16:14:27.059623+00:00",
+      "last_updated_at": "2026-04-14T17:41:23.327289+00:00",
       "outcome": "success",
       "failure_reason": null,
       "status_history": [
@@ -1948,7 +2026,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-04-07T11:28:30.456052+00:00",
-      "last_updated_at": "2026-04-14T16:14:27.059585+00:00",
+      "last_updated_at": "2026-04-14T17:41:23.327250+00:00",
       "outcome": "success",
       "failure_reason": null,
       "status_history": [
@@ -4088,5 +4166,5 @@
       ]
     }
   ],
-  "last_updated": "2026-04-14T16:14:27.060023+00:00"
+  "last_updated": "2026-04-14T17:41:23.327720+00:00"
 }
