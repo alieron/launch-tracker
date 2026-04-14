@@ -164,7 +164,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-03-31T21:34:50.631409+00:00",
-      "last_updated_at": "2026-04-14T05:08:54.303435+00:00",
+      "last_updated_at": "2026-04-14T07:06:19.263440+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -387,7 +387,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-04-09T21:07:11.353167+00:00",
-      "last_updated_at": "2026-04-14T05:08:54.303443+00:00",
+      "last_updated_at": "2026-04-14T07:06:19.263454+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -441,7 +441,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-03-28T04:16:06.593134+00:00",
-      "last_updated_at": "2026-04-14T05:08:54.303368+00:00",
+      "last_updated_at": "2026-04-14T07:06:19.263318+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -495,7 +495,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-03-23T08:19:21.926514+00:00",
-      "last_updated_at": "2026-04-14T05:08:54.303376+00:00",
+      "last_updated_at": "2026-04-14T07:06:19.263334+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -556,7 +556,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-03-23T08:19:21.926545+00:00",
-      "last_updated_at": "2026-04-14T05:08:54.303428+00:00",
+      "last_updated_at": "2026-04-14T07:06:19.263428+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -617,7 +617,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-03-31T11:25:55.426549+00:00",
-      "last_updated_at": "2026-04-14T05:08:54.303422+00:00",
+      "last_updated_at": "2026-04-14T07:06:19.263416+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -671,7 +671,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-03-23T08:19:21.926481+00:00",
-      "last_updated_at": "2026-04-14T05:08:54.303396+00:00",
+      "last_updated_at": "2026-04-14T07:06:19.263373+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -774,7 +774,7 @@
       ],
       "webcast_live": false,
       "discovered_at": "2026-03-23T15:34:22.797200+00:00",
-      "last_updated_at": "2026-04-14T05:08:54.303413+00:00",
+      "last_updated_at": "2026-04-14T07:06:19.263401+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -845,7 +845,7 @@
       ],
       "webcast_live": false,
       "discovered_at": "2026-03-23T08:19:21.926409+00:00",
-      "last_updated_at": "2026-04-14T05:08:54.303404+00:00",
+      "last_updated_at": "2026-04-14T07:06:19.263385+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -982,7 +982,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-04-11T04:18:21.759718+00:00",
-      "last_updated_at": "2026-04-14T05:08:54.303359+00:00",
+      "last_updated_at": "2026-04-14T07:06:19.263298+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -1036,7 +1036,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-04-11T04:18:21.759772+00:00",
-      "last_updated_at": "2026-04-14T05:08:54.303383+00:00",
+      "last_updated_at": "2026-04-14T07:06:19.263347+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -1090,7 +1090,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-04-11T04:18:21.759784+00:00",
-      "last_updated_at": "2026-04-14T05:08:54.303389+00:00",
+      "last_updated_at": "2026-04-14T07:06:19.263360+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -1144,7 +1144,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-03-27T15:14:22.279146+00:00",
-      "last_updated_at": "2026-04-14T05:08:54.303353+00:00",
+      "last_updated_at": "2026-04-14T07:06:19.263286+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -1198,7 +1198,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-03-25T05:42:46.752539+00:00",
-      "last_updated_at": "2026-04-14T05:08:54.303344+00:00",
+      "last_updated_at": "2026-04-14T07:06:19.263270+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -1259,7 +1259,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-03-25T05:42:46.752556+00:00",
-      "last_updated_at": "2026-04-14T05:08:54.303337+00:00",
+      "last_updated_at": "2026-04-14T07:06:19.263257+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -1313,7 +1313,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-03-23T16:53:54.541846+00:00",
-      "last_updated_at": "2026-04-14T05:08:54.303331+00:00",
+      "last_updated_at": "2026-04-14T07:06:19.263246+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -1367,7 +1367,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-04-11T15:28:51.958924+00:00",
-      "last_updated_at": "2026-04-14T05:08:54.303322+00:00",
+      "last_updated_at": "2026-04-14T07:06:19.263230+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -1426,7 +1426,7 @@
       ],
       "webcast_live": false,
       "discovered_at": "2026-04-09T16:46:51.020948+00:00",
-      "last_updated_at": "2026-04-14T05:08:54.303312+00:00",
+      "last_updated_at": "2026-04-14T07:06:19.263218+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -1480,7 +1480,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-03-27T23:27:37.775053+00:00",
-      "last_updated_at": "2026-04-14T05:08:54.303304+00:00",
+      "last_updated_at": "2026-04-14T07:06:19.263206+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -1547,7 +1547,7 @@
       ],
       "webcast_live": false,
       "discovered_at": "2026-04-07T19:58:15.994009+00:00",
-      "last_updated_at": "2026-04-14T05:08:54.303297+00:00",
+      "last_updated_at": "2026-04-14T07:06:19.263194+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -1601,7 +1601,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-03-23T08:19:21.926524+00:00",
-      "last_updated_at": "2026-04-14T05:08:54.303289+00:00",
+      "last_updated_at": "2026-04-14T07:06:19.263181+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -1698,7 +1698,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-04-10T17:43:38.307639+00:00",
-      "last_updated_at": "2026-04-14T05:08:54.303277+00:00",
+      "last_updated_at": "2026-04-14T07:06:19.263157+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -1757,7 +1757,7 @@
       ],
       "webcast_live": false,
       "discovered_at": "2026-04-01T21:37:31.360732+00:00",
-      "last_updated_at": "2026-04-14T05:08:54.303264+00:00",
+      "last_updated_at": "2026-04-14T07:06:19.263137+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -1845,7 +1845,7 @@
       ],
       "webcast_live": false,
       "discovered_at": "2026-04-01T18:55:12.087953+00:00",
-      "last_updated_at": "2026-04-14T05:08:54.303250+00:00",
+      "last_updated_at": "2026-04-14T07:06:19.263117+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -1894,8 +1894,8 @@
     },
     {
       "id": "33b673eb-b25b-462a-a092-040a6875654c",
-      "name": "Kinetica 1 | 8 satellites",
-      "slug": "kinetica-1-8-satellites",
+      "name": "Kinetica 1 | 8 x Jilin-1",
+      "slug": "kinetica-1-8-x-jilin-1",
       "status": {
         "id": 3,
         "abbrev": "Success",
@@ -1913,8 +1913,8 @@
         "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/zhongke-1a_image_20220912002218.png"
       },
       "mission": {
-        "name": "8 satellites",
-        "description": "Ride-share of 8 satellites to sun-synchronous orbit, including Jilin-1 HR-07A-02. Details TBD.",
+        "name": "8 x Jilin-1",
+        "description": "8 Earth observation satellites for the Jilin-1 commercial Earth observation satellites constellation:\r\n\r\n* High Resolution-07A 02-04\r\n* High Resolution-07B 02-04\r\n* High Resolution-07C 02-03",
         "type": "Earth Science",
         "orbit": "Sun-Synchronous Orbit"
       },
@@ -1934,7 +1934,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-04-07T11:28:30.456052+00:00",
-      "last_updated_at": "2026-04-14T05:08:54.303207+00:00",
+      "last_updated_at": "2026-04-14T07:06:19.263072+00:00",
       "outcome": "success",
       "failure_reason": null,
       "status_history": [
@@ -4074,5 +4074,5 @@
       ]
     }
   ],
-  "last_updated": "2026-04-14T05:08:54.303638+00:00"
+  "last_updated": "2026-04-14T07:06:19.263785+00:00"
 }
