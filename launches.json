@@ -164,7 +164,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-03-31T21:34:50.631409+00:00",
-      "last_updated_at": "2026-04-17T05:14:08.259279+00:00",
+      "last_updated_at": "2026-04-17T07:09:14.130797+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -387,7 +387,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-04-09T21:07:11.353167+00:00",
-      "last_updated_at": "2026-04-17T05:14:08.259287+00:00",
+      "last_updated_at": "2026-04-17T07:09:14.130803+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -441,7 +441,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-04-17T05:14:08.259296+00:00",
-      "last_updated_at": "2026-04-17T05:14:08.259294+00:00",
+      "last_updated_at": "2026-04-17T07:09:14.130810+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -495,7 +495,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-03-28T04:16:06.593134+00:00",
-      "last_updated_at": "2026-04-17T05:14:08.259208+00:00",
+      "last_updated_at": "2026-04-17T07:09:14.130747+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -549,7 +549,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-03-23T08:19:21.926514+00:00",
-      "last_updated_at": "2026-04-17T05:14:08.259216+00:00",
+      "last_updated_at": "2026-04-17T07:09:14.130755+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -610,7 +610,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-03-23T08:19:21.926545+00:00",
-      "last_updated_at": "2026-04-17T05:14:08.259269+00:00",
+      "last_updated_at": "2026-04-17T07:09:14.130791+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -725,7 +725,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-03-23T08:19:21.926481+00:00",
-      "last_updated_at": "2026-04-17T05:14:08.259231+00:00",
+      "last_updated_at": "2026-04-17T07:09:14.130768+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -828,7 +828,7 @@
       ],
       "webcast_live": false,
       "discovered_at": "2026-03-23T15:34:22.797200+00:00",
-      "last_updated_at": "2026-04-17T05:14:08.259263+00:00",
+      "last_updated_at": "2026-04-17T07:09:14.130784+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -899,7 +899,7 @@
       ],
       "webcast_live": false,
       "discovered_at": "2026-03-23T08:19:21.926409+00:00",
-      "last_updated_at": "2026-04-17T05:14:08.259238+00:00",
+      "last_updated_at": "2026-04-17T07:09:14.130776+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -1036,7 +1036,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-04-11T04:18:21.759718+00:00",
-      "last_updated_at": "2026-04-17T05:14:08.259199+00:00",
+      "last_updated_at": "2026-04-17T07:09:14.130741+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -1090,7 +1090,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-04-11T04:18:21.759784+00:00",
-      "last_updated_at": "2026-04-17T05:14:08.259224+00:00",
+      "last_updated_at": "2026-04-17T07:09:14.130761+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -1149,7 +1149,7 @@
       ],
       "webcast_live": false,
       "discovered_at": "2026-04-14T19:06:30.474515+00:00",
-      "last_updated_at": "2026-04-17T05:14:08.259193+00:00",
+      "last_updated_at": "2026-04-17T07:09:14.130732+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -1210,7 +1210,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-03-27T15:14:22.279146+00:00",
-      "last_updated_at": "2026-04-17T05:14:08.259186+00:00",
+      "last_updated_at": "2026-04-17T07:09:14.130726+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -1272,7 +1272,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-03-25T05:42:46.752539+00:00",
-      "last_updated_at": "2026-04-17T05:14:08.259180+00:00",
+      "last_updated_at": "2026-04-17T07:09:14.130719+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -1333,7 +1333,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-03-25T05:42:46.752556+00:00",
-      "last_updated_at": "2026-04-17T05:14:08.259173+00:00",
+      "last_updated_at": "2026-04-17T07:09:14.130711+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -1392,7 +1392,7 @@
       ],
       "webcast_live": false,
       "discovered_at": "2026-04-14T17:41:23.327382+00:00",
-      "last_updated_at": "2026-04-17T05:14:08.259164+00:00",
+      "last_updated_at": "2026-04-17T07:09:14.130704+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -1446,7 +1446,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-04-11T15:28:51.958924+00:00",
-      "last_updated_at": "2026-04-17T05:14:08.259152+00:00",
+      "last_updated_at": "2026-04-17T07:09:14.130697+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -1508,7 +1508,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-03-23T16:53:54.541846+00:00",
-      "last_updated_at": "2026-04-17T05:14:08.259143+00:00",
+      "last_updated_at": "2026-04-17T07:09:14.130689+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -1575,7 +1575,7 @@
       ],
       "webcast_live": false,
       "discovered_at": "2026-04-09T16:46:51.020948+00:00",
-      "last_updated_at": "2026-04-17T05:14:08.259133+00:00",
+      "last_updated_at": "2026-04-17T07:09:14.130682+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -1629,7 +1629,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-04-15T14:52:51.917516+00:00",
-      "last_updated_at": "2026-04-17T05:14:08.259125+00:00",
+      "last_updated_at": "2026-04-17T07:09:14.130672+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -1688,7 +1688,7 @@
       ],
       "webcast_live": false,
       "discovered_at": "2026-03-27T23:27:37.775053+00:00",
-      "last_updated_at": "2026-04-17T05:14:08.259117+00:00",
+      "last_updated_at": "2026-04-17T07:09:14.130664+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -1758,7 +1758,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-03-23T08:19:21.926524+00:00",
-      "last_updated_at": "2026-04-17T05:14:08.259106+00:00",
+      "last_updated_at": "2026-04-17T07:09:14.130653+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -1881,7 +1881,7 @@
       ],
       "webcast_live": false,
       "discovered_at": "2026-04-07T19:58:15.994009+00:00",
-      "last_updated_at": "2026-04-17T05:14:08.259096+00:00",
+      "last_updated_at": "2026-04-17T07:09:14.130642+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -1895,13 +1895,13 @@
     },
     {
       "id": "a89636b5-20f0-491a-88a4-0ff26880ae77",
-      "name": "Long March 2D | Unknown Payload",
-      "slug": "long-march-2d-unknown-payload",
+      "name": "Long March 4C | Daqi-2 (AEMS)",
+      "slug": "long-march-4c-daqi-2-aems",
       "status": {
-        "id": 1,
-        "abbrev": "Go",
-        "name": "Go for Launch",
-        "description": "Current T-0 confirmed by official or reliable sources."
+        "id": 3,
+        "abbrev": "Success",
+        "name": "Launch Successful",
+        "description": "The launch vehicle successfully inserted its payload(s) into the target orbit(s)."
       },
       "net": "2026-04-17T04:10:00Z",
       "window_start": "2026-04-17T04:02:00Z",
@@ -1914,10 +1914,10 @@
         "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/long_march_4c_image_20230801172338.jpeg"
       },
       "mission": {
-        "name": "Unknown Payload",
-        "description": "Details TBD.",
-        "type": "Unknown",
-        "orbit": "Unknown"
+        "name": "Daqi-2 (AEMS)",
+        "description": "Daqi-2 (DQ-2), also known as the Atmospheric Environment Monitoring Satellite/AEMS, is the second of follow-on series of Chinese satellites to the GF-5 series for high resolution atmospheric environment monitoring of greenhouse gases, such as atmospheric aerosol and carbon dioxide.",
+        "type": "Earth Science",
+        "orbit": "Sun-Synchronous Orbit"
       },
       "pad": {
         "name": "Launch Area 94 (SLS-2 / 603)",
@@ -1935,8 +1935,8 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-04-10T17:43:38.307639+00:00",
-      "last_updated_at": "2026-04-17T05:14:08.259083+00:00",
-      "outcome": null,
+      "last_updated_at": "2026-04-17T07:09:14.130608+00:00",
+      "outcome": "success",
       "failure_reason": null,
       "status_history": [
         {
@@ -1944,6 +1944,13 @@
           "status_id": 1,
           "abbrev": "Go",
           "net": "2026-04-17T04:10:00Z"
+        },
+        {
+          "at": "2026-04-17T07:09:14.130614+00:00",
+          "status_id": 3,
+          "abbrev": "Success",
+          "net": "2026-04-17T04:10:00Z",
+          "prev_abbrev": "Go"
         }
       ]
     },
@@ -1989,7 +1996,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-04-11T04:18:21.759772+00:00",
-      "last_updated_at": "2026-04-17T05:14:08.259046+00:00",
+      "last_updated_at": "2026-04-17T07:09:14.130578+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -4430,5 +4437,5 @@
       ]
     }
   ],
-  "last_updated": "2026-04-17T05:14:08.259491+00:00"
+  "last_updated": "2026-04-17T07:09:14.130994+00:00"
 }
