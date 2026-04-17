@@ -164,7 +164,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-03-31T21:34:50.631409+00:00",
-      "last_updated_at": "2026-04-17T02:06:20.076936+00:00",
+      "last_updated_at": "2026-04-17T05:14:08.259279+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -387,12 +387,66 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-04-09T21:07:11.353167+00:00",
-      "last_updated_at": "2026-04-17T02:06:20.076942+00:00",
+      "last_updated_at": "2026-04-17T05:14:08.259287+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
         {
           "at": "2026-04-09T21:07:11.353172+00:00",
+          "status_id": 2,
+          "abbrev": "TBD",
+          "net": "2026-05-31T00:00:00Z"
+        }
+      ]
+    },
+    {
+      "id": "05530ccb-7184-41e7-b2e5-c090b61e0e3a",
+      "name": "Falcon 9 Block 5 | CAS500-2 & Others",
+      "slug": "falcon-9-block-5-cas500-2-others",
+      "status": {
+        "id": 2,
+        "abbrev": "TBD",
+        "name": "To Be Determined",
+        "description": "Current date is a placeholder or rough estimation based on unreliable or interpreted sources."
+      },
+      "net": "2026-05-31T00:00:00Z",
+      "window_start": "2026-05-31T00:00:00Z",
+      "window_end": "2026-05-31T00:00:00Z",
+      "probability": null,
+      "rocket": {
+        "name": "Falcon 9",
+        "family": "Falcon",
+        "manufacturer": "SpaceX",
+        "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/falcon_9_image_20230807133459.jpeg"
+      },
+      "mission": {
+        "name": "CAS500-2 & Others",
+        "description": "Ride-share of multiple satellites including:\r\n\r\n* CAS500-2 (KASA, South Korea)\r\nThe South Korean CAS500-1 and -2 satellites will image the Earth in pan-chromatic and multi-spectral modes using the AEISS-C (Advanced Earth Imaging Sensor System) payload, with a ground resolution of 0.5 m in panchromatic mode and 2 m in color mode.\r\n\r\n* Pelican-7, 8 & 9 (Planet Labs)\r\nPelican is a constellation of very high resolution imaging satellites, designed and manufactured by Planet Labs. The commercial constellation will consist of 32 SmallSats with potential for further expansion, and aims to provide improved spatial resolution and response times over Planet\u2019s existing SkySat and Dove constellations.",
+        "type": "Earth Science",
+        "orbit": "Sun-Synchronous Orbit"
+      },
+      "pad": {
+        "name": "Space Launch Complex 4E",
+        "location": "Vandenberg SFB, CA, USA",
+        "country": "USA",
+        "latitude": "34.632",
+        "longitude": "-120.611"
+      },
+      "agency": {
+        "name": "SpaceX",
+        "abbrev": "SpX",
+        "type": "Commercial"
+      },
+      "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/falcon_9_image_20230807133459.jpeg",
+      "vidURLs": [],
+      "webcast_live": false,
+      "discovered_at": "2026-04-17T05:14:08.259296+00:00",
+      "last_updated_at": "2026-04-17T05:14:08.259294+00:00",
+      "outcome": null,
+      "failure_reason": null,
+      "status_history": [
+        {
+          "at": "2026-04-17T05:14:08.259299+00:00",
           "status_id": 2,
           "abbrev": "TBD",
           "net": "2026-05-31T00:00:00Z"
@@ -441,7 +495,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-03-28T04:16:06.593134+00:00",
-      "last_updated_at": "2026-04-17T02:06:20.076877+00:00",
+      "last_updated_at": "2026-04-17T05:14:08.259208+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -495,7 +549,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-03-23T08:19:21.926514+00:00",
-      "last_updated_at": "2026-04-17T02:06:20.076883+00:00",
+      "last_updated_at": "2026-04-17T05:14:08.259216+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -556,7 +610,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-03-23T08:19:21.926545+00:00",
-      "last_updated_at": "2026-04-17T02:06:20.076928+00:00",
+      "last_updated_at": "2026-04-17T05:14:08.259269+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -671,7 +725,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-03-23T08:19:21.926481+00:00",
-      "last_updated_at": "2026-04-17T02:06:20.076898+00:00",
+      "last_updated_at": "2026-04-17T05:14:08.259231+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -774,7 +828,7 @@
       ],
       "webcast_live": false,
       "discovered_at": "2026-03-23T15:34:22.797200+00:00",
-      "last_updated_at": "2026-04-17T02:06:20.076914+00:00",
+      "last_updated_at": "2026-04-17T05:14:08.259263+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -845,7 +899,7 @@
       ],
       "webcast_live": false,
       "discovered_at": "2026-03-23T08:19:21.926409+00:00",
-      "last_updated_at": "2026-04-17T02:06:20.076905+00:00",
+      "last_updated_at": "2026-04-17T05:14:08.259238+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -982,7 +1036,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-04-11T04:18:21.759718+00:00",
-      "last_updated_at": "2026-04-17T02:06:20.076870+00:00",
+      "last_updated_at": "2026-04-17T05:14:08.259199+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -1036,7 +1090,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-04-11T04:18:21.759784+00:00",
-      "last_updated_at": "2026-04-17T02:06:20.076889+00:00",
+      "last_updated_at": "2026-04-17T05:14:08.259224+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -1095,7 +1149,7 @@
       ],
       "webcast_live": false,
       "discovered_at": "2026-04-14T19:06:30.474515+00:00",
-      "last_updated_at": "2026-04-17T02:06:20.076864+00:00",
+      "last_updated_at": "2026-04-17T05:14:08.259193+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -1156,7 +1210,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-03-27T15:14:22.279146+00:00",
-      "last_updated_at": "2026-04-17T02:06:20.076855+00:00",
+      "last_updated_at": "2026-04-17T05:14:08.259186+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -1218,7 +1272,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-03-25T05:42:46.752539+00:00",
-      "last_updated_at": "2026-04-17T02:06:20.076848+00:00",
+      "last_updated_at": "2026-04-17T05:14:08.259180+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -1279,7 +1333,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-03-25T05:42:46.752556+00:00",
-      "last_updated_at": "2026-04-17T02:06:20.076838+00:00",
+      "last_updated_at": "2026-04-17T05:14:08.259173+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -1338,7 +1392,7 @@
       ],
       "webcast_live": false,
       "discovered_at": "2026-04-14T17:41:23.327382+00:00",
-      "last_updated_at": "2026-04-17T02:06:20.076831+00:00",
+      "last_updated_at": "2026-04-17T05:14:08.259164+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -1347,6 +1401,68 @@
           "status_id": 1,
           "abbrev": "Go",
           "net": "2026-04-25T14:00:00Z"
+        }
+      ]
+    },
+    {
+      "id": "9e27a1ed-e81a-4918-b32b-0380cf3a9f8f",
+      "name": "South Korean ADD Solid-Fuel SLV | Demo Flight",
+      "slug": "south-korean-add-solid-fuel-slv-demo-flight",
+      "status": {
+        "id": 1,
+        "abbrev": "Go",
+        "name": "Go for Launch",
+        "description": "Current T-0 confirmed by official or reliable sources."
+      },
+      "net": "2026-04-25T05:00:00Z",
+      "window_start": "2026-04-25T05:00:00Z",
+      "window_end": "2026-04-25T09:00:00Z",
+      "probability": null,
+      "rocket": {
+        "name": "South Korean ADD Solid-Fuel SLV",
+        "family": "South Korean ADD Solid-Fuel SLV",
+        "manufacturer": "Agency for Defense Development",
+        "image_url": null
+      },
+      "mission": {
+        "name": "Demo Flight",
+        "description": "Note: Launch vehicle name is provisional.\r\n\r\nFirst orbital full version launch of the South Korean military small satellite launch vehicle, after 2 sub-orbital tests of individual stages on 30 March and 30 December 2022, and 1 orbital test flight without the 2nd stage on 4 December 2023. Details TBD.",
+        "type": "Test Flight",
+        "orbit": "Low Earth Orbit"
+      },
+      "pad": {
+        "name": "ADD Offshore launch platform",
+        "location": "Sea Launch",
+        "country": "???",
+        "latitude": "33.216667",
+        "longitude": "126.366667"
+      },
+      "agency": {
+        "name": "Agency for Defense Development",
+        "abbrev": "ADD",
+        "type": "Government"
+      },
+      "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/south2520korea_image_20231204145331.png",
+      "vidURLs": [],
+      "webcast_live": false,
+      "discovered_at": "2026-04-11T15:28:51.958924+00:00",
+      "last_updated_at": "2026-04-17T05:14:08.259152+00:00",
+      "outcome": null,
+      "failure_reason": null,
+      "status_history": [
+        {
+          "at": "2026-04-11T15:28:51.958927+00:00",
+          "status_id": 8,
+          "abbrev": "TBC",
+          "net": "2026-04-22T05:00:00Z"
+        },
+        {
+          "at": "2026-04-17T05:14:08.259155+00:00",
+          "status_id": 1,
+          "abbrev": "Go",
+          "net": "2026-04-25T05:00:00Z",
+          "prev_net": "2026-04-22T05:00:00Z",
+          "prev_abbrev": "TBC"
         }
       ]
     },
@@ -1392,7 +1508,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-03-23T16:53:54.541846+00:00",
-      "last_updated_at": "2026-04-17T02:06:20.076824+00:00",
+      "last_updated_at": "2026-04-17T05:14:08.259143+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -1409,60 +1525,6 @@
           "net": "2026-04-23T03:09:00Z",
           "prev_net": "2026-04-23T00:00:00Z",
           "prev_abbrev": "TBD"
-        }
-      ]
-    },
-    {
-      "id": "9e27a1ed-e81a-4918-b32b-0380cf3a9f8f",
-      "name": "South Korean ADD Solid-Fuel SLV | Demo Flight",
-      "slug": "south-korean-add-solid-fuel-slv-demo-flight",
-      "status": {
-        "id": 8,
-        "abbrev": "TBC",
-        "name": "To Be Confirmed",
-        "description": "Awaiting official confirmation - current date is known with some certainty."
-      },
-      "net": "2026-04-22T05:00:00Z",
-      "window_start": "2026-04-22T05:00:00Z",
-      "window_end": "2026-04-22T09:00:00Z",
-      "probability": null,
-      "rocket": {
-        "name": "South Korean ADD Solid-Fuel SLV",
-        "family": "South Korean ADD Solid-Fuel SLV",
-        "manufacturer": "Agency for Defense Development",
-        "image_url": null
-      },
-      "mission": {
-        "name": "Demo Flight",
-        "description": "Note: Launch vehicle name is provisional.\r\n\r\nFirst orbital full version launch of the South Korean military small satellite launch vehicle, after 2 sub-orbital tests of individual stages on 30 March and 30 December 2022, and 1 orbital test flight without the 2nd stage on 4 December 2023. Details TBD.",
-        "type": "Test Flight",
-        "orbit": "Low Earth Orbit"
-      },
-      "pad": {
-        "name": "ADD Offshore launch platform",
-        "location": "Sea Launch",
-        "country": "???",
-        "latitude": "33.216667",
-        "longitude": "126.366667"
-      },
-      "agency": {
-        "name": "Agency for Defense Development",
-        "abbrev": "ADD",
-        "type": "Government"
-      },
-      "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/south2520korea_image_20231204145331.png",
-      "vidURLs": [],
-      "webcast_live": false,
-      "discovered_at": "2026-04-11T15:28:51.958924+00:00",
-      "last_updated_at": "2026-04-17T02:06:20.076816+00:00",
-      "outcome": null,
-      "failure_reason": null,
-      "status_history": [
-        {
-          "at": "2026-04-11T15:28:51.958927+00:00",
-          "status_id": 8,
-          "abbrev": "TBC",
-          "net": "2026-04-22T05:00:00Z"
         }
       ]
     },
@@ -1513,7 +1575,7 @@
       ],
       "webcast_live": false,
       "discovered_at": "2026-04-09T16:46:51.020948+00:00",
-      "last_updated_at": "2026-04-17T02:06:20.076808+00:00",
+      "last_updated_at": "2026-04-17T05:14:08.259133+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -1567,7 +1629,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-04-15T14:52:51.917516+00:00",
-      "last_updated_at": "2026-04-17T02:06:20.076792+00:00",
+      "last_updated_at": "2026-04-17T05:14:08.259125+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -1626,7 +1688,7 @@
       ],
       "webcast_live": false,
       "discovered_at": "2026-03-27T23:27:37.775053+00:00",
-      "last_updated_at": "2026-04-17T02:06:20.076779+00:00",
+      "last_updated_at": "2026-04-17T05:14:08.259117+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -1696,7 +1758,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-03-23T08:19:21.926524+00:00",
-      "last_updated_at": "2026-04-17T02:06:20.076767+00:00",
+      "last_updated_at": "2026-04-17T05:14:08.259106+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -1819,7 +1881,7 @@
       ],
       "webcast_live": false,
       "discovered_at": "2026-04-07T19:58:15.994009+00:00",
-      "last_updated_at": "2026-04-17T02:06:20.076752+00:00",
+      "last_updated_at": "2026-04-17T05:14:08.259096+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -1846,10 +1908,10 @@
       "window_end": "2026-04-17T04:24:00Z",
       "probability": null,
       "rocket": {
-        "name": "Long March 2D",
+        "name": "Long March 4C",
         "family": "Long March",
         "manufacturer": "China Aerospace Science and Technology Corporation",
-        "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/long2520march25202d_image_20190222031211.jpeg"
+        "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/long_march_4c_image_20230801172338.jpeg"
       },
       "mission": {
         "name": "Unknown Payload",
@@ -1869,11 +1931,11 @@
         "abbrev": "CASC",
         "type": "Government"
       },
-      "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/long2520march25202d_image_20190222031211.jpeg",
+      "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/long_march_4c_image_20230801172338.jpeg",
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-04-10T17:43:38.307639+00:00",
-      "last_updated_at": "2026-04-17T02:06:20.076735+00:00",
+      "last_updated_at": "2026-04-17T05:14:08.259083+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -1895,7 +1957,7 @@
         "name": "Launch in Flight",
         "description": "The launch vehicle has lifted off from the launchpad."
       },
-      "net": "2026-04-16T23:00:00Z",
+      "net": "2026-04-16T23:18:00Z",
       "window_start": "2026-04-16T21:00:00Z",
       "window_end": "2026-04-17T16:00:00Z",
       "probability": null,
@@ -1927,7 +1989,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-04-11T04:18:21.759772+00:00",
-      "last_updated_at": "2026-04-17T02:06:20.076688+00:00",
+      "last_updated_at": "2026-04-17T05:14:08.259046+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -1944,6 +2006,13 @@
           "net": "2026-04-16T23:00:00Z",
           "prev_net": "2026-04-30T00:00:00Z",
           "prev_abbrev": "TBD"
+        },
+        {
+          "at": "2026-04-17T05:14:08.259067+00:00",
+          "status_id": 6,
+          "abbrev": "In Flight",
+          "net": "2026-04-16T23:18:00Z",
+          "prev_net": "2026-04-16T23:00:00Z"
         }
       ]
     },
@@ -4361,5 +4430,5 @@
       ]
     }
   ],
-  "last_updated": "2026-04-17T02:06:20.077132+00:00"
+  "last_updated": "2026-04-17T05:14:08.259491+00:00"
 }
