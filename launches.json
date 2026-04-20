@@ -164,66 +164,12 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-03-31T21:34:50.631409+00:00",
-      "last_updated_at": "2026-04-20T18:03:40.642974+00:00",
+      "last_updated_at": "2026-04-20T19:38:59.795796+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
         {
           "at": "2026-03-31T21:34:50.631412+00:00",
-          "status_id": 2,
-          "abbrev": "TBD",
-          "net": "2026-05-31T00:00:00Z"
-        }
-      ]
-    },
-    {
-      "id": "e60aa241-1f2c-4459-ba94-2f576c3e5632",
-      "name": "Falcon 9 Block 5 | Dragon CRS-2 SpX-34",
-      "slug": "falcon-9-block-5-dragon-crs-2-spx-34",
-      "status": {
-        "id": 2,
-        "abbrev": "TBD",
-        "name": "To Be Determined",
-        "description": "Current date is a placeholder or rough estimation based on unreliable or interpreted sources."
-      },
-      "net": "2026-05-31T00:00:00Z",
-      "window_start": "2026-05-31T00:00:00Z",
-      "window_end": "2026-05-31T00:00:00Z",
-      "probability": null,
-      "rocket": {
-        "name": "Falcon 9",
-        "family": "Falcon",
-        "manufacturer": "SpaceX",
-        "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/falcon_9_image_20230807133459.jpeg"
-      },
-      "mission": {
-        "name": "Dragon CRS-2 SpX-34",
-        "description": "34th commercial resupply services mission to the International Space Station operated by SpaceX. The flight will be conducted under the second Commercial Resupply Services contract with NASA.\r\n\r\nCargo Dragon 2 brings supplies and payloads, including critical materials to directly support science and research investigations that occur onboard the orbiting laboratory.",
-        "type": "Resupply",
-        "orbit": "Low Earth Orbit"
-      },
-      "pad": {
-        "name": "Unknown Pad",
-        "location": "Cape Canaveral SFS, FL, USA",
-        "country": "USA",
-        "latitude": "28.458",
-        "longitude": "-80.528"
-      },
-      "agency": {
-        "name": "SpaceX",
-        "abbrev": "SpX",
-        "type": "Commercial"
-      },
-      "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/falcon2520925_image_20210520085648.jpeg",
-      "vidURLs": [],
-      "webcast_live": false,
-      "discovered_at": "2026-04-04T14:29:33.945423+00:00",
-      "last_updated_at": "2026-04-20T18:03:40.642992+00:00",
-      "outcome": null,
-      "failure_reason": null,
-      "status_history": [
-        {
-          "at": "2026-04-04T14:29:33.945426+00:00",
           "status_id": 2,
           "abbrev": "TBD",
           "net": "2026-05-31T00:00:00Z"
@@ -272,7 +218,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-03-30T05:09:43.841059+00:00",
-      "last_updated_at": "2026-04-20T18:03:40.643005+00:00",
+      "last_updated_at": "2026-04-20T19:38:59.795822+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -387,7 +333,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-04-09T21:07:11.353167+00:00",
-      "last_updated_at": "2026-04-20T18:03:40.642982+00:00",
+      "last_updated_at": "2026-04-20T19:38:59.795802+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -441,7 +387,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-04-17T05:14:08.259296+00:00",
-      "last_updated_at": "2026-04-20T18:03:40.642987+00:00",
+      "last_updated_at": "2026-04-20T19:38:59.795808+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -504,7 +450,7 @@
       ],
       "webcast_live": false,
       "discovered_at": "2026-03-23T08:19:21.926409+00:00",
-      "last_updated_at": "2026-04-20T18:03:40.642998+00:00",
+      "last_updated_at": "2026-04-20T19:38:59.795816+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -607,6 +553,68 @@
       ]
     },
     {
+      "id": "e60aa241-1f2c-4459-ba94-2f576c3e5632",
+      "name": "Falcon 9 Block 5 | Dragon CRS-2 SpX-34",
+      "slug": "falcon-9-block-5-dragon-crs-2-spx-34",
+      "status": {
+        "id": 8,
+        "abbrev": "TBC",
+        "name": "To Be Confirmed",
+        "description": "Awaiting official confirmation - current date is known with some certainty."
+      },
+      "net": "2026-05-12T23:00:00Z",
+      "window_start": "2026-05-12T23:00:00Z",
+      "window_end": "2026-05-12T23:00:00Z",
+      "probability": null,
+      "rocket": {
+        "name": "Falcon 9",
+        "family": "Falcon",
+        "manufacturer": "SpaceX",
+        "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/falcon_9_image_20230807133459.jpeg"
+      },
+      "mission": {
+        "name": "Dragon CRS-2 SpX-34",
+        "description": "34th commercial resupply services mission to the International Space Station operated by SpaceX. The flight will be conducted under the second Commercial Resupply Services contract with NASA.\r\n\r\nCargo Dragon 2 brings supplies and payloads, including critical materials to directly support science and research investigations that occur onboard the orbiting laboratory.",
+        "type": "Resupply",
+        "orbit": "Low Earth Orbit"
+      },
+      "pad": {
+        "name": "Unknown Pad",
+        "location": "Cape Canaveral SFS, FL, USA",
+        "country": "USA",
+        "latitude": "28.458",
+        "longitude": "-80.528"
+      },
+      "agency": {
+        "name": "SpaceX",
+        "abbrev": "SpX",
+        "type": "Commercial"
+      },
+      "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/falcon2520925_image_20210520085648.jpeg",
+      "vidURLs": [],
+      "webcast_live": false,
+      "discovered_at": "2026-04-04T14:29:33.945423+00:00",
+      "last_updated_at": "2026-04-20T19:38:59.795785+00:00",
+      "outcome": null,
+      "failure_reason": null,
+      "status_history": [
+        {
+          "at": "2026-04-04T14:29:33.945426+00:00",
+          "status_id": 2,
+          "abbrev": "TBD",
+          "net": "2026-05-31T00:00:00Z"
+        },
+        {
+          "at": "2026-04-20T19:38:59.795788+00:00",
+          "status_id": 8,
+          "abbrev": "TBC",
+          "net": "2026-05-12T23:00:00Z",
+          "prev_net": "2026-05-31T00:00:00Z",
+          "prev_abbrev": "TBD"
+        }
+      ]
+    },
+    {
       "id": "b3877a27-7332-47cb-ac46-12a32143081b",
       "name": "Falcon 9 Block 5 | Starlink Group 10-38",
       "slug": "falcon-9-block-5-starlink-group-10-38",
@@ -653,7 +661,7 @@
       ],
       "webcast_live": false,
       "discovered_at": "2026-04-20T00:01:02.118816+00:00",
-      "last_updated_at": "2026-04-20T18:03:40.642966+00:00",
+      "last_updated_at": "2026-04-20T19:38:59.795779+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -712,7 +720,7 @@
       ],
       "webcast_live": false,
       "discovered_at": "2026-04-14T19:06:30.474515+00:00",
-      "last_updated_at": "2026-04-20T18:03:40.642960+00:00",
+      "last_updated_at": "2026-04-20T19:38:59.795770+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -787,7 +795,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-03-23T08:19:21.926514+00:00",
-      "last_updated_at": "2026-04-20T18:03:40.642927+00:00",
+      "last_updated_at": "2026-04-20T19:38:59.795736+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -848,7 +856,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-03-23T08:19:21.926545+00:00",
-      "last_updated_at": "2026-04-20T18:03:40.642952+00:00",
+      "last_updated_at": "2026-04-20T19:38:59.795763+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -963,7 +971,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-03-23T08:19:21.926481+00:00",
-      "last_updated_at": "2026-04-20T18:03:40.642941+00:00",
+      "last_updated_at": "2026-04-20T19:38:59.795749+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -1066,7 +1074,7 @@
       ],
       "webcast_live": false,
       "discovered_at": "2026-03-23T15:34:22.797200+00:00",
-      "last_updated_at": "2026-04-20T18:03:40.642947+00:00",
+      "last_updated_at": "2026-04-20T19:38:59.795755+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -1128,7 +1136,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-04-11T04:18:21.759718+00:00",
-      "last_updated_at": "2026-04-20T18:03:40.642921+00:00",
+      "last_updated_at": "2026-04-20T19:38:59.795713+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -1182,12 +1190,66 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-04-11T04:18:21.759784+00:00",
-      "last_updated_at": "2026-04-20T18:03:40.642935+00:00",
+      "last_updated_at": "2026-04-20T19:38:59.795743+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
         {
           "at": "2026-04-11T04:18:21.759786+00:00",
+          "status_id": 2,
+          "abbrev": "TBD",
+          "net": "2026-04-30T00:00:00Z"
+        }
+      ]
+    },
+    {
+      "id": "1e79a5e9-c02c-470f-882f-884120100fef",
+      "name": "Long March 10B | Demo Flight",
+      "slug": "long-march-10b-demo-flight",
+      "status": {
+        "id": 2,
+        "abbrev": "TBD",
+        "name": "To Be Determined",
+        "description": "Current date is a placeholder or rough estimation based on unreliable or interpreted sources."
+      },
+      "net": "2026-04-30T00:00:00Z",
+      "window_start": "2026-04-30T00:00:00Z",
+      "window_end": "2026-04-30T00:00:00Z",
+      "probability": null,
+      "rocket": {
+        "name": "Long March 10B",
+        "family": "Long March",
+        "manufacturer": "China Aerospace Science and Technology Corporation",
+        "image_url": null
+      },
+      "mission": {
+        "name": "Demo Flight",
+        "description": "First test launch of CASC\u2019s Long March 10B rocket.",
+        "type": "Test Flight",
+        "orbit": "Unknown"
+      },
+      "pad": {
+        "name": "Commercial LC-2",
+        "location": "Wenchang Space Launch Site, People's Republic of China",
+        "country": "CHN",
+        "latitude": "19.59755",
+        "longitude": "110.936481"
+      },
+      "agency": {
+        "name": "China Aerospace Science and Technology Corporation",
+        "abbrev": "CASC",
+        "type": "Government"
+      },
+      "image_url": null,
+      "vidURLs": [],
+      "webcast_live": false,
+      "discovered_at": "2026-04-20T19:38:59.795722+00:00",
+      "last_updated_at": "2026-04-20T19:38:59.795720+00:00",
+      "outcome": null,
+      "failure_reason": null,
+      "status_history": [
+        {
+          "at": "2026-04-20T19:38:59.795725+00:00",
           "status_id": 2,
           "abbrev": "TBD",
           "net": "2026-04-30T00:00:00Z"
@@ -1236,7 +1298,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-03-27T15:14:22.279146+00:00",
-      "last_updated_at": "2026-04-20T18:03:40.642914+00:00",
+      "last_updated_at": "2026-04-20T19:38:59.795693+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -1298,7 +1360,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-03-25T05:42:46.752539+00:00",
-      "last_updated_at": "2026-04-20T18:03:40.642907+00:00",
+      "last_updated_at": "2026-04-20T19:38:59.795687+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -1372,7 +1434,7 @@
       ],
       "webcast_live": false,
       "discovered_at": "2026-03-28T04:16:06.593134+00:00",
-      "last_updated_at": "2026-04-20T18:03:40.642899+00:00",
+      "last_updated_at": "2026-04-20T19:38:59.795681+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -1439,7 +1501,7 @@
       ],
       "webcast_live": false,
       "discovered_at": "2026-04-14T17:41:23.327382+00:00",
-      "last_updated_at": "2026-04-20T18:03:40.642893+00:00",
+      "last_updated_at": "2026-04-20T19:38:59.795674+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -1500,7 +1562,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-03-25T05:42:46.752556+00:00",
-      "last_updated_at": "2026-04-20T18:03:40.642885+00:00",
+      "last_updated_at": "2026-04-20T19:38:59.795664+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -1562,7 +1624,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-04-11T15:28:51.958924+00:00",
-      "last_updated_at": "2026-04-20T18:03:40.642878+00:00",
+      "last_updated_at": "2026-04-20T19:38:59.795657+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -1624,7 +1686,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-03-23T16:53:54.541846+00:00",
-      "last_updated_at": "2026-04-20T18:03:40.642870+00:00",
+      "last_updated_at": "2026-04-20T19:38:59.795649+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -1691,7 +1753,7 @@
       ],
       "webcast_live": false,
       "discovered_at": "2026-04-09T16:46:51.020948+00:00",
-      "last_updated_at": "2026-04-20T18:03:40.642862+00:00",
+      "last_updated_at": "2026-04-20T19:38:59.795641+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -1752,7 +1814,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-04-15T14:52:51.917516+00:00",
-      "last_updated_at": "2026-04-20T18:03:40.642851+00:00",
+      "last_updated_at": "2026-04-20T19:38:59.795628+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -1777,7 +1839,7 @@
       "net": "2026-04-21T06:53:25Z",
       "window_start": "2026-04-21T06:53:00Z",
       "window_end": "2026-04-21T07:08:00Z",
-      "probability": null,
+      "probability": 90,
       "rocket": {
         "name": "Falcon 9",
         "family": "Falcon",
@@ -1819,7 +1881,7 @@
       ],
       "webcast_live": false,
       "discovered_at": "2026-03-27T23:27:37.775053+00:00",
-      "last_updated_at": "2026-04-20T18:03:40.642818+00:00",
+      "last_updated_at": "2026-04-20T19:38:59.795598+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -4696,5 +4758,5 @@
       ]
     }
   ],
-  "last_updated": "2026-04-20T18:03:40.643210+00:00"
+  "last_updated": "2026-04-20T19:38:59.795998+00:00"
 }
