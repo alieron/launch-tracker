@@ -164,7 +164,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-03-31T21:34:50.631409+00:00",
-      "last_updated_at": "2026-04-23T16:58:23.636034+00:00",
+      "last_updated_at": "2026-04-23T18:08:47.198227+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -218,7 +218,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-03-30T05:09:43.841059+00:00",
-      "last_updated_at": "2026-04-23T16:58:23.636068+00:00",
+      "last_updated_at": "2026-04-23T18:08:47.198262+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -333,7 +333,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-04-09T21:07:11.353167+00:00",
-      "last_updated_at": "2026-04-23T16:58:23.636041+00:00",
+      "last_updated_at": "2026-04-23T18:08:47.198234+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -387,7 +387,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-04-17T05:14:08.259296+00:00",
-      "last_updated_at": "2026-04-23T16:58:23.636047+00:00",
+      "last_updated_at": "2026-04-23T18:08:47.198242+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -450,7 +450,7 @@
       ],
       "webcast_live": false,
       "discovered_at": "2026-03-23T08:19:21.926409+00:00",
-      "last_updated_at": "2026-04-23T16:58:23.636062+00:00",
+      "last_updated_at": "2026-04-23T18:08:47.198256+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -594,7 +594,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-04-11T15:28:51.958924+00:00",
-      "last_updated_at": "2026-04-23T16:58:23.636053+00:00",
+      "last_updated_at": "2026-04-23T18:08:47.198249+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -619,6 +619,81 @@
           "net": "2026-05-31T00:00:00Z",
           "prev_net": "2026-04-25T05:00:00Z",
           "prev_abbrev": "Go"
+        }
+      ]
+    },
+    {
+      "id": "b31313da-ee5d-42b2-9a27-20cc18105276",
+      "name": "Vega-C | Solar wind Magnetosphere Ionosphere Link Explorer (SMILE)",
+      "slug": "vega-c-solar-wind-magnetosphere-ionosphere-link-ex",
+      "status": {
+        "id": 1,
+        "abbrev": "Go",
+        "name": "Go for Launch",
+        "description": "Current T-0 confirmed by official or reliable sources."
+      },
+      "net": "2026-05-19T03:52:00Z",
+      "window_start": "2026-05-19T03:52:00Z",
+      "window_end": "2026-05-19T03:52:00Z",
+      "probability": null,
+      "rocket": {
+        "name": "Vega-C",
+        "family": "Vega",
+        "manufacturer": "Avio S.p.A",
+        "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/vega-c_image_20220713154437.jpg"
+      },
+      "mission": {
+        "name": "Solar wind Magnetosphere Ionosphere Link Explorer (SMILE)",
+        "description": "Joint mission between the European Space Agency and the Chinese Academy of Sciences to investigate the interaction between Earth\u2019s protective shield \u2013 the magnetosphere \u2013 and the supersonic solar wind.",
+        "type": "Astrophysics",
+        "orbit": "Elliptical Orbit"
+      },
+      "pad": {
+        "name": "Ariane Launch Area 1 (ELV)",
+        "location": "Guiana Space Centre, French Guiana",
+        "country": "GUF",
+        "latitude": "5.236",
+        "longitude": "-52.775"
+      },
+      "agency": {
+        "name": "Avio S.p.A",
+        "abbrev": "Avio",
+        "type": "Commercial"
+      },
+      "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/vega-c_image_20220713154437.jpg",
+      "vidURLs": [
+        {
+          "title": "ESA's Smile mission launch",
+          "url": "https://www.youtube.com/watch?v=6q8aKbcKCOs"
+        }
+      ],
+      "webcast_live": false,
+      "discovered_at": "2026-03-23T15:34:22.797200+00:00",
+      "last_updated_at": "2026-04-23T18:08:47.198213+00:00",
+      "outcome": null,
+      "failure_reason": null,
+      "status_history": [
+        {
+          "at": "2026-03-23T15:34:22.797203+00:00",
+          "status_id": 1,
+          "abbrev": "Go",
+          "net": "2026-04-09T06:29:00Z"
+        },
+        {
+          "at": "2026-04-06T08:51:59.075768+00:00",
+          "status_id": 2,
+          "abbrev": "TBD",
+          "net": "2026-04-30T00:00:00Z",
+          "prev_net": "2026-04-09T06:29:00Z",
+          "prev_abbrev": "Go"
+        },
+        {
+          "at": "2026-04-23T18:08:47.198216+00:00",
+          "status_id": 1,
+          "abbrev": "Go",
+          "net": "2026-05-19T03:52:00Z",
+          "prev_net": "2026-04-30T00:00:00Z",
+          "prev_abbrev": "TBD"
         }
       ]
     },
@@ -664,7 +739,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-04-04T14:29:33.945423+00:00",
-      "last_updated_at": "2026-04-23T16:58:23.636025+00:00",
+      "last_updated_at": "2026-04-23T18:08:47.198204+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -731,7 +806,7 @@
       ],
       "webcast_live": false,
       "discovered_at": "2026-04-20T00:01:02.118816+00:00",
-      "last_updated_at": "2026-04-23T16:58:23.636016+00:00",
+      "last_updated_at": "2026-04-23T18:08:47.198197+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -790,7 +865,7 @@
       ],
       "webcast_live": false,
       "discovered_at": "2026-04-14T19:06:30.474515+00:00",
-      "last_updated_at": "2026-04-23T16:58:23.636010+00:00",
+      "last_updated_at": "2026-04-23T18:08:47.198191+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -865,7 +940,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-03-23T08:19:21.926514+00:00",
-      "last_updated_at": "2026-04-23T16:58:23.635971+00:00",
+      "last_updated_at": "2026-04-23T18:08:47.198162+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -926,7 +1001,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-03-23T08:19:21.926545+00:00",
-      "last_updated_at": "2026-04-23T16:58:23.636003+00:00",
+      "last_updated_at": "2026-04-23T18:08:47.198184+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -1041,7 +1116,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-03-23T08:19:21.926481+00:00",
-      "last_updated_at": "2026-04-23T16:58:23.635983+00:00",
+      "last_updated_at": "2026-04-23T18:08:47.198175+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -1098,73 +1173,6 @@
       ]
     },
     {
-      "id": "b31313da-ee5d-42b2-9a27-20cc18105276",
-      "name": "Vega-C | Solar wind Magnetosphere Ionosphere Link Explorer (SMILE)",
-      "slug": "vega-c-solar-wind-magnetosphere-ionosphere-link-ex",
-      "status": {
-        "id": 2,
-        "abbrev": "TBD",
-        "name": "To Be Determined",
-        "description": "Current date is a placeholder or rough estimation based on unreliable or interpreted sources."
-      },
-      "net": "2026-04-30T00:00:00Z",
-      "window_start": "2026-04-30T00:00:00Z",
-      "window_end": "2026-04-30T00:00:00Z",
-      "probability": null,
-      "rocket": {
-        "name": "Vega-C",
-        "family": "Vega",
-        "manufacturer": "Avio S.p.A",
-        "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/vega-c_image_20220713154437.jpg"
-      },
-      "mission": {
-        "name": "Solar wind Magnetosphere Ionosphere Link Explorer (SMILE)",
-        "description": "Joint mission between the European Space Agency and the Chinese Academy of Sciences to investigate the interaction between Earth\u2019s protective shield \u2013 the magnetosphere \u2013 and the supersonic solar wind.",
-        "type": "Astrophysics",
-        "orbit": "Elliptical Orbit"
-      },
-      "pad": {
-        "name": "Ariane Launch Area 1 (ELV)",
-        "location": "Guiana Space Centre, French Guiana",
-        "country": "GUF",
-        "latitude": "5.236",
-        "longitude": "-52.775"
-      },
-      "agency": {
-        "name": "Avio S.p.A",
-        "abbrev": "Avio",
-        "type": "Commercial"
-      },
-      "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/vega-c_image_20220713154437.jpg",
-      "vidURLs": [
-        {
-          "title": "ESA's Smile mission launch",
-          "url": "https://www.youtube.com/watch?v=6q8aKbcKCOs"
-        }
-      ],
-      "webcast_live": false,
-      "discovered_at": "2026-03-23T15:34:22.797200+00:00",
-      "last_updated_at": "2026-04-23T16:58:23.635992+00:00",
-      "outcome": null,
-      "failure_reason": null,
-      "status_history": [
-        {
-          "at": "2026-03-23T15:34:22.797203+00:00",
-          "status_id": 1,
-          "abbrev": "Go",
-          "net": "2026-04-09T06:29:00Z"
-        },
-        {
-          "at": "2026-04-06T08:51:59.075768+00:00",
-          "status_id": 2,
-          "abbrev": "TBD",
-          "net": "2026-04-30T00:00:00Z",
-          "prev_net": "2026-04-09T06:29:00Z",
-          "prev_abbrev": "Go"
-        }
-      ]
-    },
-    {
       "id": "aafe107e-46d8-420c-bcb9-192069d80893",
       "name": "Soyuz 2.1b | 16 x Rassvet-3",
       "slug": "soyuz-21b-16-x-rassvet-3-2",
@@ -1206,7 +1214,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-04-11T04:18:21.759784+00:00",
-      "last_updated_at": "2026-04-23T16:58:23.635977+00:00",
+      "last_updated_at": "2026-04-23T18:08:47.198169+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -1260,7 +1268,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-04-20T19:38:59.795722+00:00",
-      "last_updated_at": "2026-04-23T16:58:23.635964+00:00",
+      "last_updated_at": "2026-04-23T18:08:47.198155+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -1314,7 +1322,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-03-27T15:14:22.279146+00:00",
-      "last_updated_at": "2026-04-23T16:58:23.635957+00:00",
+      "last_updated_at": "2026-04-23T18:08:47.198148+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -1381,7 +1389,7 @@
       ],
       "webcast_live": false,
       "discovered_at": "2026-03-25T05:42:46.752539+00:00",
-      "last_updated_at": "2026-04-23T16:58:23.635949+00:00",
+      "last_updated_at": "2026-04-23T18:08:47.198142+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -1455,7 +1463,7 @@
       ],
       "webcast_live": false,
       "discovered_at": "2026-03-28T04:16:06.593134+00:00",
-      "last_updated_at": "2026-04-23T16:58:23.635940+00:00",
+      "last_updated_at": "2026-04-23T18:08:47.198132+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -1522,7 +1530,7 @@
       ],
       "webcast_live": false,
       "discovered_at": "2026-04-14T17:41:23.327382+00:00",
-      "last_updated_at": "2026-04-23T16:58:23.635929+00:00",
+      "last_updated_at": "2026-04-23T18:08:47.198112+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -1592,7 +1600,7 @@
       ],
       "webcast_live": false,
       "discovered_at": "2026-03-25T05:42:46.752556+00:00",
-      "last_updated_at": "2026-04-23T16:58:23.635921+00:00",
+      "last_updated_at": "2026-04-23T18:08:47.198102+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -1654,7 +1662,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-04-22T03:22:12.024799+00:00",
-      "last_updated_at": "2026-04-23T16:58:23.635913+00:00",
+      "last_updated_at": "2026-04-23T18:08:47.198094+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -1708,7 +1716,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-04-20T21:41:43.174328+00:00",
-      "last_updated_at": "2026-04-23T16:58:23.635904+00:00",
+      "last_updated_at": "2026-04-23T18:08:47.198084+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -1762,7 +1770,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-04-11T04:18:21.759718+00:00",
-      "last_updated_at": "2026-04-23T16:58:23.635894+00:00",
+      "last_updated_at": "2026-04-23T18:08:47.198072+00:00",
       "outcome": "success",
       "failure_reason": null,
       "status_history": [
@@ -1837,7 +1845,7 @@
       ],
       "webcast_live": false,
       "discovered_at": "2026-04-09T16:46:51.020948+00:00",
-      "last_updated_at": "2026-04-23T16:58:23.635876+00:00",
+      "last_updated_at": "2026-04-23T18:08:47.198055+00:00",
       "outcome": "success",
       "failure_reason": null,
       "status_history": [
@@ -1932,7 +1940,7 @@
       ],
       "webcast_live": false,
       "discovered_at": "2026-03-23T16:53:54.541846+00:00",
-      "last_updated_at": "2026-04-23T16:58:23.635840+00:00",
+      "last_updated_at": "2026-04-23T18:08:47.198024+00:00",
       "outcome": "success",
       "failure_reason": null,
       "status_history": [
@@ -4978,5 +4986,5 @@
       ]
     }
   ],
-  "last_updated": "2026-04-23T16:58:23.636265+00:00"
+  "last_updated": "2026-04-23T18:08:47.198451+00:00"
 }
