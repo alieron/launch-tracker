@@ -123,6 +123,60 @@
       ]
     },
     {
+      "id": "599ba2df-7483-4b2f-a083-2b5ddc06e069",
+      "name": "Electron | LOXSAT 1",
+      "slug": "electron-loxsat-1",
+      "status": {
+        "id": 2,
+        "abbrev": "TBD",
+        "name": "To Be Determined",
+        "description": "Current date is a placeholder or rough estimation based on unreliable or interpreted sources."
+      },
+      "net": "2026-06-25T00:00:00Z",
+      "window_start": "2026-06-25T00:00:00Z",
+      "window_end": "2026-06-25T00:00:00Z",
+      "probability": null,
+      "rocket": {
+        "name": "Electron",
+        "family": "",
+        "manufacturer": "Rocket Lab",
+        "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/electron_image_20190705175640.jpeg"
+      },
+      "mission": {
+        "name": "LOXSAT 1",
+        "description": "LOXSAT 1 is a demonstration satellite of a complete cryogenic oxygen fluid management system in orbit, developed by Eta Space and sponsored by NASA's Tipping Point program.\r\n\r\nThe system will be integrated on a Rocket Lab Photon-LEO satellite bus and collect critical cryogenic fluid management data in orbit for 9 months, demonstrating capabilities of in-space cryogenic storage and transferal. Eta Space plans to use technology developed for this mission to develop a truly commercial depot intended to serve multiple customers in the future.",
+        "type": "Technology",
+        "orbit": "Low Earth Orbit"
+      },
+      "pad": {
+        "name": "Unknown Pad",
+        "location": "Rocket Lab Launch Complex 1, Mahia Peninsula, New Zealand",
+        "country": "NZL",
+        "latitude": "-39.260881",
+        "longitude": "177.865826"
+      },
+      "agency": {
+        "name": "Rocket Lab",
+        "abbrev": "RL",
+        "type": "Commercial"
+      },
+      "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/electron_image_20190705175640.jpeg",
+      "vidURLs": [],
+      "webcast_live": false,
+      "discovered_at": "2026-04-27T15:24:39.972764+00:00",
+      "last_updated_at": "2026-04-27T15:24:39.972762+00:00",
+      "outcome": null,
+      "failure_reason": null,
+      "status_history": [
+        {
+          "at": "2026-04-27T15:24:39.972767+00:00",
+          "status_id": 2,
+          "abbrev": "TBD",
+          "net": "2026-06-25T00:00:00Z"
+        }
+      ]
+    },
+    {
       "id": "d793ba47-faf5-4bab-a386-39a9ccc49c90",
       "name": "Soyuz 2.1a | Progress MS-35 (96P)",
       "slug": "soyuz-21a-progress-ms-35-96p",
@@ -164,7 +218,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-04-26T23:04:51.622698+00:00",
-      "last_updated_at": "2026-04-27T13:29:02.502907+00:00",
+      "last_updated_at": "2026-04-27T15:24:39.972755+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -218,7 +272,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-04-25T07:07:49.068854+00:00",
-      "last_updated_at": "2026-04-27T13:29:02.502900+00:00",
+      "last_updated_at": "2026-04-27T15:24:39.972747+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -272,7 +326,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-04-24T09:15:14.350986+00:00",
-      "last_updated_at": "2026-04-27T13:29:02.502894+00:00",
+      "last_updated_at": "2026-04-27T15:24:39.972740+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -326,7 +380,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-03-31T21:34:50.631409+00:00",
-      "last_updated_at": "2026-04-27T13:29:02.502830+00:00",
+      "last_updated_at": "2026-04-27T15:24:39.972674+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -380,7 +434,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-03-30T05:09:43.841059+00:00",
-      "last_updated_at": "2026-04-27T13:29:02.502882+00:00",
+      "last_updated_at": "2026-04-27T15:24:39.972724+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -441,7 +495,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-04-08T14:52:10.605497+00:00",
-      "last_updated_at": "2026-04-27T13:29:02.502888+00:00",
+      "last_updated_at": "2026-04-27T15:24:39.972732+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -495,7 +549,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-04-09T21:07:11.353167+00:00",
-      "last_updated_at": "2026-04-27T13:29:02.502837+00:00",
+      "last_updated_at": "2026-04-27T15:24:39.972680+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -558,7 +612,7 @@
       ],
       "webcast_live": false,
       "discovered_at": "2026-03-23T08:19:21.926409+00:00",
-      "last_updated_at": "2026-04-27T13:29:02.502874+00:00",
+      "last_updated_at": "2026-04-27T15:24:39.972717+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -702,7 +756,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-04-11T15:28:51.958924+00:00",
-      "last_updated_at": "2026-04-27T13:29:02.502865+00:00",
+      "last_updated_at": "2026-04-27T15:24:39.972709+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -772,7 +826,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-03-23T08:19:21.926514+00:00",
-      "last_updated_at": "2026-04-27T13:29:02.502850+00:00",
+      "last_updated_at": "2026-04-27T15:24:39.972694+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -840,7 +894,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-04-20T19:38:59.795722+00:00",
-      "last_updated_at": "2026-04-27T13:29:02.502844+00:00",
+      "last_updated_at": "2026-04-27T15:24:39.972687+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -901,7 +955,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-04-25T23:32:59.058052+00:00",
-      "last_updated_at": "2026-04-27T13:29:02.502857+00:00",
+      "last_updated_at": "2026-04-27T15:24:39.972701+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -960,7 +1014,7 @@
       ],
       "webcast_live": false,
       "discovered_at": "2026-03-23T15:34:22.797200+00:00",
-      "last_updated_at": "2026-04-27T13:29:02.502818+00:00",
+      "last_updated_at": "2026-04-27T15:24:39.972665+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -1030,7 +1084,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-04-04T14:29:33.945423+00:00",
-      "last_updated_at": "2026-04-27T13:29:02.502810+00:00",
+      "last_updated_at": "2026-04-27T15:24:39.972657+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -1097,7 +1151,7 @@
       ],
       "webcast_live": false,
       "discovered_at": "2026-04-23T21:41:11.082081+00:00",
-      "last_updated_at": "2026-04-27T13:29:02.502803+00:00",
+      "last_updated_at": "2026-04-27T15:24:39.972650+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -1156,7 +1210,7 @@
       ],
       "webcast_live": false,
       "discovered_at": "2026-04-17T05:14:08.259296+00:00",
-      "last_updated_at": "2026-04-27T13:29:02.502797+00:00",
+      "last_updated_at": "2026-04-27T15:24:39.972643+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -1223,7 +1277,7 @@
       ],
       "webcast_live": false,
       "discovered_at": "2026-04-20T00:01:02.118816+00:00",
-      "last_updated_at": "2026-04-27T13:29:02.502790+00:00",
+      "last_updated_at": "2026-04-27T15:24:39.972635+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -1277,7 +1331,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-03-27T15:14:22.279146+00:00",
-      "last_updated_at": "2026-04-27T13:29:02.502781+00:00",
+      "last_updated_at": "2026-04-27T15:24:39.972627+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -1351,7 +1405,7 @@
       ],
       "webcast_live": false,
       "discovered_at": "2026-04-14T19:06:30.474515+00:00",
-      "last_updated_at": "2026-04-27T13:29:02.502773+00:00",
+      "last_updated_at": "2026-04-27T15:24:39.972617+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -1426,7 +1480,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-03-23T08:19:21.926545+00:00",
-      "last_updated_at": "2026-04-27T13:29:02.502765+00:00",
+      "last_updated_at": "2026-04-27T15:24:39.972607+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -1541,7 +1595,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-04-11T04:18:21.759784+00:00",
-      "last_updated_at": "2026-04-27T13:29:02.502747+00:00",
+      "last_updated_at": "2026-04-27T15:24:39.972586+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -1595,7 +1649,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-03-23T08:19:21.926481+00:00",
-      "last_updated_at": "2026-04-27T13:29:02.502756+00:00",
+      "last_updated_at": "2026-04-27T15:24:39.972595+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -1668,6 +1722,89 @@
       ]
     },
     {
+      "id": "4cc237b2-c61a-491e-9532-466cce81f524",
+      "name": "Falcon Heavy | ViaSat-3 F3 (ViaSat-3 Asia-Pacific)",
+      "slug": "falcon-heavy-viasat-3-f3-viasat-3-asia-pacific",
+      "status": {
+        "id": 8,
+        "abbrev": "TBC",
+        "name": "To Be Confirmed",
+        "description": "Awaiting official confirmation - current date is known with some certainty."
+      },
+      "net": "2026-04-28T14:17:00Z",
+      "window_start": "2026-04-28T14:17:00Z",
+      "window_end": "2026-04-28T15:42:00Z",
+      "probability": 90,
+      "rocket": {
+        "name": "Falcon Heavy",
+        "family": "Falcon",
+        "manufacturer": "SpaceX",
+        "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/falcon_heavy_image_20220129192819.jpeg"
+      },
+      "mission": {
+        "name": "ViaSat-3 F3 (ViaSat-3 Asia-Pacific)",
+        "description": "The ViaSat-3 is a series of three Ka-band satellites is expected to provide vastly superior capabilities in terms of service speed and flexibility for a satellite platform. Each ViaSat-3 class satellite is expected to deliver more than 1-Terabit per second of network capacity, and to leverage high levels of flexibility to dynamically direct capacity to where customers are located.",
+        "type": "Communications",
+        "orbit": "Geostationary Transfer Orbit"
+      },
+      "pad": {
+        "name": "Launch Complex 39A",
+        "location": "Kennedy Space Center, FL, USA",
+        "country": "USA",
+        "latitude": "28.60822681",
+        "longitude": "-80.60428186"
+      },
+      "agency": {
+        "name": "SpaceX",
+        "abbrev": "SpX",
+        "type": "Commercial"
+      },
+      "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/falcon_heavy_on_image_20260427051334.jpg",
+      "vidURLs": [
+        {
+          "title": "SCRUBBED - SpaceX - Falcon Heavy - ViaSat-3 F3 - LC-39A - KSC - April 27, 2026",
+          "url": "https://www.youtube.com/watch?v=A82GGwyTYNg"
+        },
+        {
+          "title": "SpaceX Scrubs Falcon Heavy Launch of ViaSat-3 F3",
+          "url": "https://www.youtube.com/watch?v=lyqOd6pf0E8"
+        },
+        {
+          "title": "ViaSat-3 F3 Mission",
+          "url": "https://x.com/i/broadcasts/1lKQRvzzDjZGE"
+        }
+      ],
+      "webcast_live": false,
+      "discovered_at": "2026-03-28T04:16:06.593134+00:00",
+      "last_updated_at": "2026-04-27T15:24:39.972568+00:00",
+      "outcome": null,
+      "failure_reason": null,
+      "status_history": [
+        {
+          "at": "2026-03-28T04:16:06.593137+00:00",
+          "status_id": 2,
+          "abbrev": "TBD",
+          "net": "2026-04-30T00:00:00Z"
+        },
+        {
+          "at": "2026-04-20T15:51:53.933301+00:00",
+          "status_id": 1,
+          "abbrev": "Go",
+          "net": "2026-04-27T14:21:00Z",
+          "prev_net": "2026-04-30T00:00:00Z",
+          "prev_abbrev": "TBD"
+        },
+        {
+          "at": "2026-04-27T15:24:39.972574+00:00",
+          "status_id": 8,
+          "abbrev": "TBC",
+          "net": "2026-04-28T14:17:00Z",
+          "prev_net": "2026-04-27T14:21:00Z",
+          "prev_abbrev": "Go"
+        }
+      ]
+    },
+    {
       "id": "7e89e423-6f47-40a0-b075-c6fc1d9cf228",
       "name": "Atlas V 551 | Amazon Leo (LA-06)",
       "slug": "atlas-v-551-amazon-leo-la-06",
@@ -1718,7 +1855,7 @@
       ],
       "webcast_live": false,
       "discovered_at": "2026-03-25T05:42:46.752539+00:00",
-      "last_updated_at": "2026-04-27T13:29:02.502737+00:00",
+      "last_updated_at": "2026-04-27T15:24:39.972534+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -1741,81 +1878,6 @@
           "abbrev": "Go",
           "net": "2026-04-28T00:52:00Z",
           "prev_net": "2026-04-27T00:00:00Z",
-          "prev_abbrev": "TBD"
-        }
-      ]
-    },
-    {
-      "id": "4cc237b2-c61a-491e-9532-466cce81f524",
-      "name": "Falcon Heavy | ViaSat-3 F3 (ViaSat-3 Asia-Pacific)",
-      "slug": "falcon-heavy-viasat-3-f3-viasat-3-asia-pacific",
-      "status": {
-        "id": 1,
-        "abbrev": "Go",
-        "name": "Go for Launch",
-        "description": "Current T-0 confirmed by official or reliable sources."
-      },
-      "net": "2026-04-27T14:21:00Z",
-      "window_start": "2026-04-27T14:21:00Z",
-      "window_end": "2026-04-27T15:46:00Z",
-      "probability": 70,
-      "rocket": {
-        "name": "Falcon Heavy",
-        "family": "Falcon",
-        "manufacturer": "SpaceX",
-        "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/falcon_heavy_image_20220129192819.jpeg"
-      },
-      "mission": {
-        "name": "ViaSat-3 F3 (ViaSat-3 Asia-Pacific)",
-        "description": "The ViaSat-3 is a series of three Ka-band satellites is expected to provide vastly superior capabilities in terms of service speed and flexibility for a satellite platform. Each ViaSat-3 class satellite is expected to deliver more than 1-Terabit per second of network capacity, and to leverage high levels of flexibility to dynamically direct capacity to where customers are located.",
-        "type": "Communications",
-        "orbit": "Geostationary Transfer Orbit"
-      },
-      "pad": {
-        "name": "Launch Complex 39A",
-        "location": "Kennedy Space Center, FL, USA",
-        "country": "USA",
-        "latitude": "28.60822681",
-        "longitude": "-80.60428186"
-      },
-      "agency": {
-        "name": "SpaceX",
-        "abbrev": "SpX",
-        "type": "Commercial"
-      },
-      "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/falcon_heavy_on_image_20260427051334.jpg",
-      "vidURLs": [
-        {
-          "title": "GO! - SpaceX - Falcon Heavy - ViaSat-3 F3 - LC-39A - Kennedy Space Center - Space Affairs Live",
-          "url": "https://www.youtube.com/watch?v=A82GGwyTYNg"
-        },
-        {
-          "title": "SpaceX Falcon Heavy launches Viasat-3 F3",
-          "url": "https://www.youtube.com/watch?v=lyqOd6pf0E8"
-        },
-        {
-          "title": "ViaSat-3 F3 Mission",
-          "url": "https://x.com/i/broadcasts/1lKQRvzzDjZGE"
-        }
-      ],
-      "webcast_live": true,
-      "discovered_at": "2026-03-28T04:16:06.593134+00:00",
-      "last_updated_at": "2026-04-27T13:29:02.502723+00:00",
-      "outcome": null,
-      "failure_reason": null,
-      "status_history": [
-        {
-          "at": "2026-03-28T04:16:06.593137+00:00",
-          "status_id": 2,
-          "abbrev": "TBD",
-          "net": "2026-04-30T00:00:00Z"
-        },
-        {
-          "at": "2026-04-20T15:51:53.933301+00:00",
-          "status_id": 1,
-          "abbrev": "Go",
-          "net": "2026-04-27T14:21:00Z",
-          "prev_net": "2026-04-30T00:00:00Z",
           "prev_abbrev": "TBD"
         }
       ]
@@ -5399,5 +5461,5 @@
       ]
     }
   ],
-  "last_updated": "2026-04-27T13:29:02.503112+00:00"
+  "last_updated": "2026-04-27T15:24:39.972985+00:00"
 }
