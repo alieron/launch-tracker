@@ -225,7 +225,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-04-27T15:24:39.972764+00:00",
-      "last_updated_at": "2026-04-30T05:54:11.943014+00:00",
+      "last_updated_at": "2026-04-30T08:12:18.152275+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -333,7 +333,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-04-25T07:07:49.068854+00:00",
-      "last_updated_at": "2026-04-30T05:54:11.943006+00:00",
+      "last_updated_at": "2026-04-30T08:12:18.152267+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -387,7 +387,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-04-24T09:15:14.350986+00:00",
-      "last_updated_at": "2026-04-30T05:54:11.943000+00:00",
+      "last_updated_at": "2026-04-30T08:12:18.152260+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -396,60 +396,6 @@
           "status_id": 2,
           "abbrev": "TBD",
           "net": "2026-06-01T00:00:00Z"
-        }
-      ]
-    },
-    {
-      "id": "156a9e46-01b5-46f4-818e-ea563c71c5fe",
-      "name": "Electron | StriX Launch 9",
-      "slug": "electron-strix-launch-9",
-      "status": {
-        "id": 2,
-        "abbrev": "TBD",
-        "name": "To Be Determined",
-        "description": "Current date is a placeholder or rough estimation based on unreliable or interpreted sources."
-      },
-      "net": "2026-05-31T00:00:00Z",
-      "window_start": "2026-05-31T00:00:00Z",
-      "window_end": "2026-05-31T00:00:00Z",
-      "probability": null,
-      "rocket": {
-        "name": "Electron",
-        "family": "",
-        "manufacturer": "Rocket Lab",
-        "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/electron_image_20190705175640.jpeg"
-      },
-      "mission": {
-        "name": "StriX Launch 9",
-        "description": "Synthetic aperture radar satellite for Japanese Earth imaging company Synspective.",
-        "type": "Earth Science",
-        "orbit": "Sun-Synchronous Orbit"
-      },
-      "pad": {
-        "name": "Unknown Pad",
-        "location": "Rocket Lab Launch Complex 1, Mahia Peninsula, New Zealand",
-        "country": "NZL",
-        "latitude": "-39.260881",
-        "longitude": "177.865826"
-      },
-      "agency": {
-        "name": "Rocket Lab",
-        "abbrev": "RL",
-        "type": "Commercial"
-      },
-      "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/electron_image_20190705175640.jpeg",
-      "vidURLs": [],
-      "webcast_live": false,
-      "discovered_at": "2026-03-31T21:34:50.631409+00:00",
-      "last_updated_at": "2026-04-30T05:54:11.942924+00:00",
-      "outcome": null,
-      "failure_reason": null,
-      "status_history": [
-        {
-          "at": "2026-03-31T21:34:50.631412+00:00",
-          "status_id": 2,
-          "abbrev": "TBD",
-          "net": "2026-05-31T00:00:00Z"
         }
       ]
     },
@@ -495,7 +441,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-03-30T05:09:43.841059+00:00",
-      "last_updated_at": "2026-04-30T05:54:11.942981+00:00",
+      "last_updated_at": "2026-04-30T08:12:18.152239+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -556,7 +502,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-04-08T14:52:10.605497+00:00",
-      "last_updated_at": "2026-04-30T05:54:11.942994+00:00",
+      "last_updated_at": "2026-04-30T08:12:18.152252+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -610,7 +556,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-04-09T21:07:11.353167+00:00",
-      "last_updated_at": "2026-04-30T05:54:11.942932+00:00",
+      "last_updated_at": "2026-04-30T08:12:18.152188+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -673,7 +619,7 @@
       ],
       "webcast_live": false,
       "discovered_at": "2026-03-23T08:19:21.926409+00:00",
-      "last_updated_at": "2026-04-30T05:54:11.942975+00:00",
+      "last_updated_at": "2026-04-30T08:12:18.152233+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -817,7 +763,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-04-11T15:28:51.958924+00:00",
-      "last_updated_at": "2026-04-30T05:54:11.942959+00:00",
+      "last_updated_at": "2026-04-30T08:12:18.152218+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -887,7 +833,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-03-23T08:19:21.926514+00:00",
-      "last_updated_at": "2026-04-30T05:54:11.942945+00:00",
+      "last_updated_at": "2026-04-30T08:12:18.152205+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -955,7 +901,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-04-20T19:38:59.795722+00:00",
-      "last_updated_at": "2026-04-30T05:54:11.942938+00:00",
+      "last_updated_at": "2026-04-30T08:12:18.152195+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -1016,7 +962,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-04-25T23:32:59.058052+00:00",
-      "last_updated_at": "2026-04-30T05:54:11.942953+00:00",
+      "last_updated_at": "2026-04-30T08:12:18.152212+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -1070,7 +1016,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-03-23T08:19:21.926545+00:00",
-      "last_updated_at": "2026-04-30T05:54:11.942988+00:00",
+      "last_updated_at": "2026-04-30T08:12:18.152246+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -1138,7 +1084,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-04-11T04:18:21.759784+00:00",
-      "last_updated_at": "2026-04-30T05:54:11.942966+00:00",
+      "last_updated_at": "2026-04-30T08:12:18.152226+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -1154,6 +1100,67 @@
           "abbrev": "TBD",
           "net": "2026-05-31T00:00:00Z",
           "prev_net": "2026-04-30T00:00:00Z"
+        }
+      ]
+    },
+    {
+      "id": "156a9e46-01b5-46f4-818e-ea563c71c5fe",
+      "name": "Electron | Viva La Strix (StriX Launch 9)",
+      "slug": "electron-viva-la-strix-strix-launch-9",
+      "status": {
+        "id": 2,
+        "abbrev": "TBD",
+        "name": "To Be Determined",
+        "description": "Current date is a placeholder or rough estimation based on unreliable or interpreted sources."
+      },
+      "net": "2026-05-22T00:00:00Z",
+      "window_start": "2026-05-22T00:00:00Z",
+      "window_end": "2026-05-22T00:00:00Z",
+      "probability": null,
+      "rocket": {
+        "name": "Electron",
+        "family": "",
+        "manufacturer": "Rocket Lab",
+        "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/electron_image_20190705175640.jpeg"
+      },
+      "mission": {
+        "name": "Viva La Strix (StriX Launch 9)",
+        "description": "Synthetic aperture radar satellite for Japanese Earth imaging company Synspective.",
+        "type": "Earth Science",
+        "orbit": "Sun-Synchronous Orbit"
+      },
+      "pad": {
+        "name": "Unknown Pad",
+        "location": "Rocket Lab Launch Complex 1, Mahia Peninsula, New Zealand",
+        "country": "NZL",
+        "latitude": "-39.260881",
+        "longitude": "177.865826"
+      },
+      "agency": {
+        "name": "Rocket Lab",
+        "abbrev": "RL",
+        "type": "Commercial"
+      },
+      "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/electron_image_20190705175640.jpeg",
+      "vidURLs": [],
+      "webcast_live": false,
+      "discovered_at": "2026-03-31T21:34:50.631409+00:00",
+      "last_updated_at": "2026-04-30T08:12:18.152178+00:00",
+      "outcome": null,
+      "failure_reason": null,
+      "status_history": [
+        {
+          "at": "2026-03-31T21:34:50.631412+00:00",
+          "status_id": 2,
+          "abbrev": "TBD",
+          "net": "2026-05-31T00:00:00Z"
+        },
+        {
+          "at": "2026-04-30T08:12:18.152181+00:00",
+          "status_id": 2,
+          "abbrev": "TBD",
+          "net": "2026-05-22T00:00:00Z",
+          "prev_net": "2026-05-31T00:00:00Z"
         }
       ]
     },
@@ -1199,7 +1206,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-04-28T02:31:32.809853+00:00",
-      "last_updated_at": "2026-04-30T05:54:11.942917+00:00",
+      "last_updated_at": "2026-04-30T08:12:18.152168+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -1258,7 +1265,7 @@
       ],
       "webcast_live": false,
       "discovered_at": "2026-03-23T15:34:22.797200+00:00",
-      "last_updated_at": "2026-04-30T05:54:11.942911+00:00",
+      "last_updated_at": "2026-04-30T08:12:18.152159+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -1328,7 +1335,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-04-04T14:29:33.945423+00:00",
-      "last_updated_at": "2026-04-30T05:54:11.942902+00:00",
+      "last_updated_at": "2026-04-30T08:12:18.152131+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -1395,7 +1402,7 @@
       ],
       "webcast_live": false,
       "discovered_at": "2026-04-29T19:17:49.953822+00:00",
-      "last_updated_at": "2026-04-30T05:54:11.942894+00:00",
+      "last_updated_at": "2026-04-30T08:12:18.152125+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -1454,7 +1461,7 @@
       ],
       "webcast_live": false,
       "discovered_at": "2026-04-23T21:41:11.082081+00:00",
-      "last_updated_at": "2026-04-30T05:54:11.942887+00:00",
+      "last_updated_at": "2026-04-30T08:12:18.152116+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -1513,7 +1520,7 @@
       ],
       "webcast_live": false,
       "discovered_at": "2026-04-17T05:14:08.259296+00:00",
-      "last_updated_at": "2026-04-30T05:54:11.942877+00:00",
+      "last_updated_at": "2026-04-30T08:12:18.152107+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -1580,7 +1587,7 @@
       ],
       "webcast_live": false,
       "discovered_at": "2026-04-20T00:01:02.118816+00:00",
-      "last_updated_at": "2026-04-30T05:54:11.942850+00:00",
+      "last_updated_at": "2026-04-30T08:12:18.152099+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -1634,7 +1641,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-03-23T08:19:21.926481+00:00",
-      "last_updated_at": "2026-04-30T05:54:11.942841+00:00",
+      "last_updated_at": "2026-04-30T08:12:18.152084+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -1738,7 +1745,7 @@
         "name": "Go for Launch",
         "description": "Current T-0 confirmed by official or reliable sources."
       },
-      "net": "2026-04-30T08:08:00Z",
+      "net": "2026-04-30T08:57:00Z",
       "window_start": "2026-04-30T08:08:00Z",
       "window_end": "2026-04-30T08:57:00Z",
       "probability": null,
@@ -1775,11 +1782,15 @@
         {
           "title": "Vol VA268 | Amazon Leo LE-02 | Ariane 6 | Arianespace",
           "url": "https://www.youtube.com/watch?v=DhxJ6Z7u-YU"
+        },
+        {
+          "title": "Lancement Ariane 6 pour la constellation Amazon LEO (VA268)",
+          "url": "https://www.youtube.com/watch?v=apXRc7sCdug"
         }
       ],
-      "webcast_live": false,
+      "webcast_live": true,
       "discovered_at": "2026-03-27T15:14:22.279146+00:00",
-      "last_updated_at": "2026-04-30T05:54:11.942831+00:00",
+      "last_updated_at": "2026-04-30T08:12:18.152069+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -1803,6 +1814,13 @@
           "abbrev": "Go",
           "net": "2026-04-30T08:08:00Z",
           "prev_net": "2026-04-28T08:51:00Z"
+        },
+        {
+          "at": "2026-04-30T08:12:18.152073+00:00",
+          "status_id": 1,
+          "abbrev": "Go",
+          "net": "2026-04-30T08:57:00Z",
+          "prev_net": "2026-04-30T08:08:00Z"
         }
       ]
     },
@@ -1861,7 +1879,7 @@
       ],
       "webcast_live": false,
       "discovered_at": "2026-04-14T19:06:30.474515+00:00",
-      "last_updated_at": "2026-04-30T05:54:11.942813+00:00",
+      "last_updated_at": "2026-04-30T08:12:18.152054+00:00",
       "outcome": "success",
       "failure_reason": null,
       "status_history": [
@@ -1974,7 +1992,7 @@
       ],
       "webcast_live": false,
       "discovered_at": "2026-03-28T04:16:06.593134+00:00",
-      "last_updated_at": "2026-04-30T05:54:11.942781+00:00",
+      "last_updated_at": "2026-04-30T08:12:18.152020+00:00",
       "outcome": "success",
       "failure_reason": null,
       "status_history": [
@@ -5693,5 +5711,5 @@
       ]
     }
   ],
-  "last_updated": "2026-04-30T05:54:11.943208+00:00"
+  "last_updated": "2026-04-30T08:12:18.152486+00:00"
 }
