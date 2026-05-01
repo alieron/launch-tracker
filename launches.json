@@ -225,12 +225,66 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-04-30T15:48:07.790075+00:00",
-      "last_updated_at": "2026-05-01T02:37:53.864513+00:00",
+      "last_updated_at": "2026-05-01T06:11:57.745132+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
         {
           "at": "2026-04-30T15:48:07.790105+00:00",
+          "status_id": 2,
+          "abbrev": "TBD",
+          "net": "2026-06-30T00:00:00Z"
+        }
+      ]
+    },
+    {
+      "id": "a6db1e67-5860-47c9-a674-adc0f35b62e0",
+      "name": "Falcon 9 Block 5 | Transporter 17 (Dedicated SSO Rideshare)",
+      "slug": "falcon-9-block-5-transporter-17-dedicated-sso-ride",
+      "status": {
+        "id": 2,
+        "abbrev": "TBD",
+        "name": "To Be Determined",
+        "description": "Current date is a placeholder or rough estimation based on unreliable or interpreted sources."
+      },
+      "net": "2026-06-30T00:00:00Z",
+      "window_start": "2026-06-30T00:00:00Z",
+      "window_end": "2026-06-30T00:00:00Z",
+      "probability": null,
+      "rocket": {
+        "name": "Falcon 9",
+        "family": "Falcon",
+        "manufacturer": "SpaceX",
+        "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/falcon_9_image_20230807133459.jpeg"
+      },
+      "mission": {
+        "name": "Transporter 17 (Dedicated SSO Rideshare)",
+        "description": "Dedicated rideshare flight to a sun-synchronous orbit with dozens of small microsatellites and nanosatellites for commercial and government customers.",
+        "type": "Dedicated Rideshare",
+        "orbit": "Sun-Synchronous Orbit"
+      },
+      "pad": {
+        "name": "Space Launch Complex 4E",
+        "location": "Vandenberg SFB, CA, USA",
+        "country": "USA",
+        "latitude": "34.632",
+        "longitude": "-120.611"
+      },
+      "agency": {
+        "name": "SpaceX",
+        "abbrev": "SpX",
+        "type": "Commercial"
+      },
+      "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/falcon_9_image_20230807133459.jpeg",
+      "vidURLs": [],
+      "webcast_live": false,
+      "discovered_at": "2026-05-01T06:11:57.745139+00:00",
+      "last_updated_at": "2026-05-01T06:11:57.745137+00:00",
+      "outcome": null,
+      "failure_reason": null,
+      "status_history": [
+        {
+          "at": "2026-05-01T06:11:57.745141+00:00",
           "status_id": 2,
           "abbrev": "TBD",
           "net": "2026-06-30T00:00:00Z"
@@ -279,7 +333,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-04-27T15:24:39.972764+00:00",
-      "last_updated_at": "2026-05-01T02:37:53.864507+00:00",
+      "last_updated_at": "2026-05-01T06:11:57.745127+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -387,7 +441,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-04-25T07:07:49.068854+00:00",
-      "last_updated_at": "2026-05-01T02:37:53.864501+00:00",
+      "last_updated_at": "2026-05-01T06:11:57.745121+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -441,7 +495,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-04-24T09:15:14.350986+00:00",
-      "last_updated_at": "2026-05-01T02:37:53.864495+00:00",
+      "last_updated_at": "2026-05-01T06:11:57.745114+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -495,7 +549,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-03-30T05:09:43.841059+00:00",
-      "last_updated_at": "2026-05-01T02:37:53.864474+00:00",
+      "last_updated_at": "2026-05-01T06:11:57.745096+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -556,7 +610,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-04-08T14:52:10.605497+00:00",
-      "last_updated_at": "2026-05-01T02:37:53.864487+00:00",
+      "last_updated_at": "2026-05-01T06:11:57.745109+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -610,7 +664,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-04-09T21:07:11.353167+00:00",
-      "last_updated_at": "2026-05-01T02:37:53.864417+00:00",
+      "last_updated_at": "2026-05-01T06:11:57.745050+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -673,7 +727,7 @@
       ],
       "webcast_live": false,
       "discovered_at": "2026-03-23T08:19:21.926409+00:00",
-      "last_updated_at": "2026-05-01T02:37:53.864466+00:00",
+      "last_updated_at": "2026-05-01T06:11:57.745088+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -817,7 +871,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-04-11T15:28:51.958924+00:00",
-      "last_updated_at": "2026-05-01T02:37:53.864448+00:00",
+      "last_updated_at": "2026-05-01T06:11:57.745075+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -887,7 +941,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-03-23T08:19:21.926514+00:00",
-      "last_updated_at": "2026-05-01T02:37:53.864431+00:00",
+      "last_updated_at": "2026-05-01T06:11:57.745064+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -955,7 +1009,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-04-20T19:38:59.795722+00:00",
-      "last_updated_at": "2026-05-01T02:37:53.864424+00:00",
+      "last_updated_at": "2026-05-01T06:11:57.745058+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -1016,7 +1070,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-04-25T23:32:59.058052+00:00",
-      "last_updated_at": "2026-05-01T02:37:53.864437+00:00",
+      "last_updated_at": "2026-05-01T06:11:57.745070+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -1070,7 +1124,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-03-23T08:19:21.926545+00:00",
-      "last_updated_at": "2026-05-01T02:37:53.864480+00:00",
+      "last_updated_at": "2026-05-01T06:11:57.745104+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -1138,7 +1192,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-04-11T04:18:21.759784+00:00",
-      "last_updated_at": "2026-05-01T02:37:53.864455+00:00",
+      "last_updated_at": "2026-05-01T06:11:57.745080+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -1199,7 +1253,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-03-31T21:34:50.631409+00:00",
-      "last_updated_at": "2026-05-01T02:37:53.864411+00:00",
+      "last_updated_at": "2026-05-01T06:11:57.745041+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -1268,7 +1322,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-04-28T02:31:32.809853+00:00",
-      "last_updated_at": "2026-05-01T02:37:53.864404+00:00",
+      "last_updated_at": "2026-05-01T06:11:57.745034+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -1327,7 +1381,7 @@
       ],
       "webcast_live": false,
       "discovered_at": "2026-03-23T15:34:22.797200+00:00",
-      "last_updated_at": "2026-05-01T02:37:53.864395+00:00",
+      "last_updated_at": "2026-05-01T06:11:57.745028+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -1397,7 +1451,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-04-04T14:29:33.945423+00:00",
-      "last_updated_at": "2026-05-01T02:37:53.864385+00:00",
+      "last_updated_at": "2026-05-01T06:11:57.745021+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -1472,7 +1526,7 @@
       ],
       "webcast_live": false,
       "discovered_at": "2026-04-29T19:17:49.953822+00:00",
-      "last_updated_at": "2026-05-01T02:37:53.864375+00:00",
+      "last_updated_at": "2026-05-01T06:11:57.745015+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -1531,7 +1585,7 @@
       ],
       "webcast_live": false,
       "discovered_at": "2026-04-23T21:41:11.082081+00:00",
-      "last_updated_at": "2026-05-01T02:37:53.864368+00:00",
+      "last_updated_at": "2026-05-01T06:11:57.745009+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -1590,7 +1644,7 @@
       ],
       "webcast_live": false,
       "discovered_at": "2026-04-17T05:14:08.259296+00:00",
-      "last_updated_at": "2026-05-01T02:37:53.864360+00:00",
+      "last_updated_at": "2026-05-01T06:11:57.744999+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -1665,7 +1719,7 @@
       ],
       "webcast_live": false,
       "discovered_at": "2026-04-20T00:01:02.118816+00:00",
-      "last_updated_at": "2026-05-01T02:37:53.864350+00:00",
+      "last_updated_at": "2026-05-01T06:11:57.744988+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -1702,7 +1756,7 @@
         "name": "Soyuz-5",
         "family": "Soyuz-5",
         "manufacturer": "RKK Energiya",
-        "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/soyuz-5_assembl_image_20260327210910.jpeg"
+        "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/soyuz-5_at_baik_image_20260501030446.png"
       },
       "mission": {
         "name": "Demo Flight",
@@ -1722,7 +1776,7 @@
         "abbrev": "RSC",
         "type": "Commercial"
       },
-      "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/soyuz-5_assembl_image_20260327210910.jpeg",
+      "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/soyuz-5_at_baik_image_20260501030446.png",
       "vidURLs": [
         {
           "title": "\u042d\u043a\u0441\u043f\u0435\u0440\u0442\u043d\u044b\u0439 \u043a\u043e\u043c\u043c\u0435\u043d\u0442\u0430\u0440\u0438\u0439 \u043f\u0443\u0441\u043a\u0430 \u0440\u0430\u043a\u0435\u0442\u044b \u00ab\u0421\u043e\u044e\u0437-5\u00bb",
@@ -1731,7 +1785,7 @@
       ],
       "webcast_live": false,
       "discovered_at": "2026-03-23T08:19:21.926481+00:00",
-      "last_updated_at": "2026-05-01T02:37:53.864337+00:00",
+      "last_updated_at": "2026-05-01T06:11:57.744973+00:00",
       "outcome": "success",
       "failure_reason": null,
       "status_history": [
@@ -1895,7 +1949,7 @@
       ],
       "webcast_live": false,
       "discovered_at": "2026-03-27T15:14:22.279146+00:00",
-      "last_updated_at": "2026-05-01T02:37:53.864321+00:00",
+      "last_updated_at": "2026-05-01T06:11:57.744942+00:00",
       "outcome": "success",
       "failure_reason": null,
       "status_history": [
@@ -5831,5 +5885,5 @@
       ]
     }
   ],
-  "last_updated": "2026-05-01T02:37:53.864718+00:00"
+  "last_updated": "2026-05-01T06:11:57.745352+00:00"
 }
