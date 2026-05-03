@@ -225,7 +225,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-04-30T15:48:07.790075+00:00",
-      "last_updated_at": "2026-05-03T22:35:47.970783+00:00",
+      "last_updated_at": "2026-05-03T23:39:16.456203+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -279,7 +279,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-05-01T06:11:57.745139+00:00",
-      "last_updated_at": "2026-05-03T22:35:47.970789+00:00",
+      "last_updated_at": "2026-05-03T23:39:16.456213+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -333,7 +333,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-05-01T10:05:53.337343+00:00",
-      "last_updated_at": "2026-05-03T22:35:47.970796+00:00",
+      "last_updated_at": "2026-05-03T23:39:16.456222+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -441,7 +441,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-04-27T15:24:39.972764+00:00",
-      "last_updated_at": "2026-05-03T22:35:47.970777+00:00",
+      "last_updated_at": "2026-05-03T23:39:16.456182+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -549,7 +549,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-04-25T07:07:49.068854+00:00",
-      "last_updated_at": "2026-05-03T22:35:47.970769+00:00",
+      "last_updated_at": "2026-05-03T23:39:16.456175+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -603,7 +603,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-04-24T09:15:14.350986+00:00",
-      "last_updated_at": "2026-05-03T22:35:47.970757+00:00",
+      "last_updated_at": "2026-05-03T23:39:16.456168+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -657,7 +657,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-04-08T14:52:10.605497+00:00",
-      "last_updated_at": "2026-05-03T22:35:47.970750+00:00",
+      "last_updated_at": "2026-05-03T23:39:16.456162+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -711,7 +711,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-04-09T21:07:11.353167+00:00",
-      "last_updated_at": "2026-05-03T22:35:47.970697+00:00",
+      "last_updated_at": "2026-05-03T23:39:16.456122+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -774,7 +774,7 @@
       ],
       "webcast_live": false,
       "discovered_at": "2026-03-23T08:19:21.926409+00:00",
-      "last_updated_at": "2026-05-03T22:35:47.970738+00:00",
+      "last_updated_at": "2026-05-03T23:39:16.456148+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -918,7 +918,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-04-11T15:28:51.958924+00:00",
-      "last_updated_at": "2026-05-03T22:35:47.970721+00:00",
+      "last_updated_at": "2026-05-03T23:39:16.456136+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -943,74 +943,6 @@
           "net": "2026-05-31T00:00:00Z",
           "prev_net": "2026-04-25T05:00:00Z",
           "prev_abbrev": "Go"
-        }
-      ]
-    },
-    {
-      "id": "6d2beb1a-6869-4505-9fc1-a4aa224178e2",
-      "name": "Long March 7A | Unknown Payload",
-      "slug": "long-march-7a-unknown-payload",
-      "status": {
-        "id": 2,
-        "abbrev": "TBD",
-        "name": "To Be Determined",
-        "description": "Current date is a placeholder or rough estimation based on unreliable or interpreted sources."
-      },
-      "net": "2026-05-31T00:00:00Z",
-      "window_start": "2026-05-31T00:00:00Z",
-      "window_end": "2026-05-31T00:00:00Z",
-      "probability": null,
-      "rocket": {
-        "name": "Long March 7A",
-        "family": "Long March",
-        "manufacturer": "China Aerospace Science and Technology Corporation",
-        "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/cz-7a_launch_2_image_20251206093324.jpeg"
-      },
-      "mission": {
-        "name": "Unknown Payload",
-        "description": "Details TBD.",
-        "type": "Unknown",
-        "orbit": "Unknown"
-      },
-      "pad": {
-        "name": "201",
-        "location": "Wenchang Space Launch Site, People's Republic of China",
-        "country": "CHN",
-        "latitude": "19.618452",
-        "longitude": "110.955356"
-      },
-      "agency": {
-        "name": "China Aerospace Science and Technology Corporation",
-        "abbrev": "CASC",
-        "type": "Government"
-      },
-      "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/cz-7a_launch_2_image_20251206093324.jpeg",
-      "vidURLs": [],
-      "webcast_live": false,
-      "discovered_at": "2026-03-23T08:19:21.926514+00:00",
-      "last_updated_at": "2026-05-03T22:35:47.970710+00:00",
-      "outcome": null,
-      "failure_reason": null,
-      "status_history": [
-        {
-          "at": "2026-03-23T08:19:21.926516+00:00",
-          "status_id": 2,
-          "abbrev": "TBD",
-          "net": "2026-03-31T00:00:00Z"
-        },
-        {
-          "at": "2026-03-28T12:43:56.871704+00:00",
-          "status_id": 2,
-          "abbrev": "TBD",
-          "net": "2026-04-30T00:00:00Z",
-          "prev_net": "2026-03-31T00:00:00Z"
-        },
-        {
-          "at": "2026-04-25T23:32:59.058043+00:00",
-          "status_id": 2,
-          "abbrev": "TBD",
-          "net": "2026-05-31T00:00:00Z",
-          "prev_net": "2026-04-30T00:00:00Z"
         }
       ]
     },
@@ -1056,7 +988,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-04-20T19:38:59.795722+00:00",
-      "last_updated_at": "2026-05-03T22:35:47.970703+00:00",
+      "last_updated_at": "2026-05-03T23:39:16.456128+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -1072,60 +1004,6 @@
           "abbrev": "TBD",
           "net": "2026-05-31T00:00:00Z",
           "prev_net": "2026-04-30T00:00:00Z"
-        }
-      ]
-    },
-    {
-      "id": "a5872822-76df-404b-93d0-9ecd7ba80a70",
-      "name": "Long March 7 | Tianzhou-10",
-      "slug": "long-march-7-tianzhou-10",
-      "status": {
-        "id": 2,
-        "abbrev": "TBD",
-        "name": "To Be Determined",
-        "description": "Current date is a placeholder or rough estimation based on unreliable or interpreted sources."
-      },
-      "net": "2026-05-31T00:00:00Z",
-      "window_start": "2026-05-31T00:00:00Z",
-      "window_end": "2026-05-31T00:00:00Z",
-      "probability": null,
-      "rocket": {
-        "name": "Long March 7",
-        "family": "Long March",
-        "manufacturer": "China Aerospace Science and Technology Corporation",
-        "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/long_march_7_image_20210513083007.jpeg"
-      },
-      "mission": {
-        "name": "Tianzhou-10",
-        "description": "Ninth cargo delivery mission to the Chinese space station.",
-        "type": "Resupply",
-        "orbit": "Low Earth Orbit"
-      },
-      "pad": {
-        "name": "201",
-        "location": "Wenchang Space Launch Site, People's Republic of China",
-        "country": "CHN",
-        "latitude": "19.618452",
-        "longitude": "110.955356"
-      },
-      "agency": {
-        "name": "China Aerospace Science and Technology Corporation",
-        "abbrev": "CASC",
-        "type": "Government"
-      },
-      "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/long_march_7_image_20210513083007.jpeg",
-      "vidURLs": [],
-      "webcast_live": false,
-      "discovered_at": "2026-04-25T23:32:59.058052+00:00",
-      "last_updated_at": "2026-05-03T22:35:47.970715+00:00",
-      "outcome": null,
-      "failure_reason": null,
-      "status_history": [
-        {
-          "at": "2026-04-25T23:32:59.058054+00:00",
-          "status_id": 2,
-          "abbrev": "TBD",
-          "net": "2026-05-31T00:00:00Z"
         }
       ]
     },
@@ -1171,7 +1049,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-03-23T08:19:21.926545+00:00",
-      "last_updated_at": "2026-05-03T22:35:47.970744+00:00",
+      "last_updated_at": "2026-05-03T23:39:16.456154+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -1239,7 +1117,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-04-11T04:18:21.759784+00:00",
-      "last_updated_at": "2026-05-03T22:35:47.970729+00:00",
+      "last_updated_at": "2026-05-03T23:39:16.456142+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -1255,6 +1133,82 @@
           "abbrev": "TBD",
           "net": "2026-05-31T00:00:00Z",
           "prev_net": "2026-04-30T00:00:00Z"
+        }
+      ]
+    },
+    {
+      "id": "6d2beb1a-6869-4505-9fc1-a4aa224178e2",
+      "name": "Long March 7A | Unknown Payload",
+      "slug": "long-march-7a-unknown-payload",
+      "status": {
+        "id": 8,
+        "abbrev": "TBC",
+        "name": "To Be Confirmed",
+        "description": "Awaiting official confirmation - current date is known with some certainty."
+      },
+      "net": "2026-05-26T16:00:00Z",
+      "window_start": "2026-05-26T16:00:00Z",
+      "window_end": "2026-05-26T22:00:00Z",
+      "probability": null,
+      "rocket": {
+        "name": "Long March 7A",
+        "family": "Long March",
+        "manufacturer": "China Aerospace Science and Technology Corporation",
+        "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/cz-7a_launch_2_image_20251206093324.jpeg"
+      },
+      "mission": {
+        "name": "Unknown Payload",
+        "description": "Details TBD.",
+        "type": "Unknown",
+        "orbit": "Unknown"
+      },
+      "pad": {
+        "name": "201",
+        "location": "Wenchang Space Launch Site, People's Republic of China",
+        "country": "CHN",
+        "latitude": "19.618452",
+        "longitude": "110.955356"
+      },
+      "agency": {
+        "name": "China Aerospace Science and Technology Corporation",
+        "abbrev": "CASC",
+        "type": "Government"
+      },
+      "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/cz-7a_launch_2_image_20251206093324.jpeg",
+      "vidURLs": [],
+      "webcast_live": false,
+      "discovered_at": "2026-03-23T08:19:21.926514+00:00",
+      "last_updated_at": "2026-05-03T23:39:16.456114+00:00",
+      "outcome": null,
+      "failure_reason": null,
+      "status_history": [
+        {
+          "at": "2026-03-23T08:19:21.926516+00:00",
+          "status_id": 2,
+          "abbrev": "TBD",
+          "net": "2026-03-31T00:00:00Z"
+        },
+        {
+          "at": "2026-03-28T12:43:56.871704+00:00",
+          "status_id": 2,
+          "abbrev": "TBD",
+          "net": "2026-04-30T00:00:00Z",
+          "prev_net": "2026-03-31T00:00:00Z"
+        },
+        {
+          "at": "2026-04-25T23:32:59.058043+00:00",
+          "status_id": 2,
+          "abbrev": "TBD",
+          "net": "2026-05-31T00:00:00Z",
+          "prev_net": "2026-04-30T00:00:00Z"
+        },
+        {
+          "at": "2026-05-03T23:39:16.456116+00:00",
+          "status_id": 8,
+          "abbrev": "TBC",
+          "net": "2026-05-26T16:00:00Z",
+          "prev_net": "2026-05-31T00:00:00Z",
+          "prev_abbrev": "TBD"
         }
       ]
     },
@@ -1300,7 +1254,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-03-31T21:34:50.631409+00:00",
-      "last_updated_at": "2026-05-03T22:35:47.970689+00:00",
+      "last_updated_at": "2026-05-03T23:39:16.456105+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -1369,7 +1323,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-04-28T02:31:32.809853+00:00",
-      "last_updated_at": "2026-05-03T22:35:47.970680+00:00",
+      "last_updated_at": "2026-05-03T23:39:16.456099+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -1428,7 +1382,7 @@
       ],
       "webcast_live": false,
       "discovered_at": "2026-03-23T15:34:22.797200+00:00",
-      "last_updated_at": "2026-05-03T22:35:47.970670+00:00",
+      "last_updated_at": "2026-05-03T23:39:16.456092+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -1498,7 +1452,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-04-04T14:29:33.945423+00:00",
-      "last_updated_at": "2026-05-03T22:35:47.970664+00:00",
+      "last_updated_at": "2026-05-03T23:39:16.456084+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -1568,7 +1522,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-03-30T05:09:43.841059+00:00",
-      "last_updated_at": "2026-05-03T22:35:47.970657+00:00",
+      "last_updated_at": "2026-05-03T23:39:16.456077+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -1637,7 +1591,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-05-01T16:52:18.799054+00:00",
-      "last_updated_at": "2026-05-03T22:35:47.970648+00:00",
+      "last_updated_at": "2026-05-03T23:39:16.456070+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -1646,6 +1600,122 @@
           "status_id": 8,
           "abbrev": "TBC",
           "net": "2026-05-12T22:15:00Z"
+        }
+      ]
+    },
+    {
+      "id": "d50ae620-be2f-4690-9f86-fbc2a194bf29",
+      "name": "Long March 6A | Unknown Payload",
+      "slug": "long-march-6a-unknown-payload",
+      "status": {
+        "id": 1,
+        "abbrev": "Go",
+        "name": "Go for Launch",
+        "description": "Current T-0 confirmed by official or reliable sources."
+      },
+      "net": "2026-05-12T11:55:00Z",
+      "window_start": "2026-05-12T11:49:00Z",
+      "window_end": "2026-05-12T12:09:00Z",
+      "probability": null,
+      "rocket": {
+        "name": "Long March 6A",
+        "family": "Long March",
+        "manufacturer": "China Aerospace Science and Technology Corporation",
+        "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/long_march_6a__image_20251209050223.jpeg"
+      },
+      "mission": {
+        "name": "Unknown Payload",
+        "description": "Details TBD.",
+        "type": "Unknown",
+        "orbit": "Unknown"
+      },
+      "pad": {
+        "name": "Launch Complex 9A",
+        "location": "Taiyuan Satellite Launch Center, People's Republic of China",
+        "country": "CHN",
+        "latitude": "38.8583",
+        "longitude": "111.5802"
+      },
+      "agency": {
+        "name": "China Aerospace Science and Technology Corporation",
+        "abbrev": "CASC",
+        "type": "Government"
+      },
+      "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/long_march_6a__image_20251209050223.jpeg",
+      "vidURLs": [],
+      "webcast_live": false,
+      "discovered_at": "2026-05-03T23:39:16.456059+00:00",
+      "last_updated_at": "2026-05-03T23:39:16.456056+00:00",
+      "outcome": null,
+      "failure_reason": null,
+      "status_history": [
+        {
+          "at": "2026-05-03T23:39:16.456062+00:00",
+          "status_id": 1,
+          "abbrev": "Go",
+          "net": "2026-05-12T11:55:00Z"
+        }
+      ]
+    },
+    {
+      "id": "a5872822-76df-404b-93d0-9ecd7ba80a70",
+      "name": "Long March 7 | Tianzhou-10",
+      "slug": "long-march-7-tianzhou-10",
+      "status": {
+        "id": 8,
+        "abbrev": "TBC",
+        "name": "To Be Confirmed",
+        "description": "Awaiting official confirmation - current date is known with some certainty."
+      },
+      "net": "2026-05-09T22:00:00Z",
+      "window_start": "2026-05-09T22:00:00Z",
+      "window_end": "2026-05-10T02:00:00Z",
+      "probability": null,
+      "rocket": {
+        "name": "Long March 7",
+        "family": "Long March",
+        "manufacturer": "China Aerospace Science and Technology Corporation",
+        "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/long_march_7_image_20210513083007.jpeg"
+      },
+      "mission": {
+        "name": "Tianzhou-10",
+        "description": "Ninth cargo delivery mission to the Chinese space station.",
+        "type": "Resupply",
+        "orbit": "Low Earth Orbit"
+      },
+      "pad": {
+        "name": "201",
+        "location": "Wenchang Space Launch Site, People's Republic of China",
+        "country": "CHN",
+        "latitude": "19.618452",
+        "longitude": "110.955356"
+      },
+      "agency": {
+        "name": "China Aerospace Science and Technology Corporation",
+        "abbrev": "CASC",
+        "type": "Government"
+      },
+      "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/long_march_7_image_20210513083007.jpeg",
+      "vidURLs": [],
+      "webcast_live": false,
+      "discovered_at": "2026-04-25T23:32:59.058052+00:00",
+      "last_updated_at": "2026-05-03T23:39:16.456042+00:00",
+      "outcome": null,
+      "failure_reason": null,
+      "status_history": [
+        {
+          "at": "2026-04-25T23:32:59.058054+00:00",
+          "status_id": 2,
+          "abbrev": "TBD",
+          "net": "2026-05-31T00:00:00Z"
+        },
+        {
+          "at": "2026-05-03T23:39:16.456047+00:00",
+          "status_id": 8,
+          "abbrev": "TBC",
+          "net": "2026-05-09T22:00:00Z",
+          "prev_net": "2026-05-31T00:00:00Z",
+          "prev_abbrev": "TBD"
         }
       ]
     },
@@ -1696,7 +1766,7 @@
       ],
       "webcast_live": false,
       "discovered_at": "2026-04-29T19:17:49.953822+00:00",
-      "last_updated_at": "2026-05-03T22:35:47.970639+00:00",
+      "last_updated_at": "2026-05-03T23:39:16.456033+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -1759,7 +1829,7 @@
       ],
       "webcast_live": false,
       "discovered_at": "2026-04-23T21:41:11.082081+00:00",
-      "last_updated_at": "2026-05-03T22:35:47.970625+00:00",
+      "last_updated_at": "2026-05-03T23:39:16.456019+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -1826,7 +1896,7 @@
       ],
       "webcast_live": false,
       "discovered_at": "2026-04-17T05:14:08.259296+00:00",
-      "last_updated_at": "2026-05-03T22:35:47.970594+00:00",
+      "last_updated_at": "2026-05-03T23:39:16.455984+00:00",
       "outcome": "success",
       "failure_reason": null,
       "status_history": [
@@ -6107,5 +6177,5 @@
       ]
     }
   ],
-  "last_updated": "2026-05-03T22:35:47.970980+00:00"
+  "last_updated": "2026-05-03T23:39:16.456432+00:00"
 }
