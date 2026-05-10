@@ -495,7 +495,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-04-09T21:07:11.353167+00:00",
-      "last_updated_at": "2026-05-10T11:53:02.583348+00:00",
+      "last_updated_at": "2026-05-10T13:07:10.552691+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -556,7 +556,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-04-27T15:24:39.972764+00:00",
-      "last_updated_at": "2026-05-10T11:53:02.583341+00:00",
+      "last_updated_at": "2026-05-10T13:07:10.552683+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -664,7 +664,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-04-25T07:07:49.068854+00:00",
-      "last_updated_at": "2026-05-10T11:53:02.583331+00:00",
+      "last_updated_at": "2026-05-10T13:07:10.552675+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -772,7 +772,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-04-08T14:52:10.605497+00:00",
-      "last_updated_at": "2026-05-10T11:53:02.583325+00:00",
+      "last_updated_at": "2026-05-10T13:07:10.552669+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -835,7 +835,7 @@
       ],
       "webcast_live": false,
       "discovered_at": "2026-03-23T08:19:21.926409+00:00",
-      "last_updated_at": "2026-05-10T11:53:02.583318+00:00",
+      "last_updated_at": "2026-05-10T13:07:10.552663+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -979,7 +979,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-04-20T19:38:59.795722+00:00",
-      "last_updated_at": "2026-05-10T11:53:02.583303+00:00",
+      "last_updated_at": "2026-05-10T13:07:10.552651+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -1040,7 +1040,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-04-11T04:18:21.759784+00:00",
-      "last_updated_at": "2026-05-10T11:53:02.583310+00:00",
+      "last_updated_at": "2026-05-10T13:07:10.552657+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -1101,7 +1101,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-03-23T08:19:21.926514+00:00",
-      "last_updated_at": "2026-05-10T11:53:02.583297+00:00",
+      "last_updated_at": "2026-05-10T13:07:10.552644+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -1182,7 +1182,7 @@
       ],
       "webcast_live": false,
       "discovered_at": "2026-05-05T17:02:09.527579+00:00",
-      "last_updated_at": "2026-05-10T11:53:02.583288+00:00",
+      "last_updated_at": "2026-05-10T13:07:10.552636+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -1236,7 +1236,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-03-31T21:34:50.631409+00:00",
-      "last_updated_at": "2026-05-10T11:53:02.583281+00:00",
+      "last_updated_at": "2026-05-10T13:07:10.552628+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -1305,7 +1305,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-04-28T02:31:32.809853+00:00",
-      "last_updated_at": "2026-05-10T11:53:02.583275+00:00",
+      "last_updated_at": "2026-05-10T13:07:10.552619+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -1359,7 +1359,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-05-07T15:11:41.797008+00:00",
-      "last_updated_at": "2026-05-10T11:53:02.583268+00:00",
+      "last_updated_at": "2026-05-10T13:07:10.552614+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -1413,7 +1413,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-04-11T15:28:51.958924+00:00",
-      "last_updated_at": "2026-05-10T11:53:02.583256+00:00",
+      "last_updated_at": "2026-05-10T13:07:10.552607+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -1496,7 +1496,7 @@
       ],
       "webcast_live": false,
       "discovered_at": "2026-03-23T15:34:22.797200+00:00",
-      "last_updated_at": "2026-05-10T11:53:02.583250+00:00",
+      "last_updated_at": "2026-05-10T13:07:10.552600+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -1571,7 +1571,7 @@
       ],
       "webcast_live": false,
       "discovered_at": "2026-05-04T16:28:00.949546+00:00",
-      "last_updated_at": "2026-05-10T11:53:02.583241+00:00",
+      "last_updated_at": "2026-05-10T13:07:10.552591+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -1601,6 +1601,60 @@
           "abbrev": "Go",
           "net": "2026-05-19T02:11:00Z",
           "prev_net": "2026-05-18T02:11:00Z"
+        }
+      ]
+    },
+    {
+      "id": "aef8f8ea-522b-4bdb-9d57-212bbe981946",
+      "name": "Long March 8 | Unknown Payload",
+      "slug": "long-march-8-unknown-payload",
+      "status": {
+        "id": 1,
+        "abbrev": "Go",
+        "name": "Go for Launch",
+        "description": "Current T-0 confirmed by official or reliable sources."
+      },
+      "net": "2026-05-17T14:40:00Z",
+      "window_start": "2026-05-17T14:34:00Z",
+      "window_end": "2026-05-17T14:57:00Z",
+      "probability": null,
+      "rocket": {
+        "name": "Long March 8",
+        "family": "Long March",
+        "manufacturer": "China Aerospace Science and Technology Corporation",
+        "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/cz-8_liftoff_2_image_20240315183218.jpg"
+      },
+      "mission": {
+        "name": "Unknown Payload",
+        "description": "Details TBD.",
+        "type": "Unknown",
+        "orbit": "Unknown"
+      },
+      "pad": {
+        "name": "Commercial LC-1",
+        "location": "Wenchang Space Launch Site, People's Republic of China",
+        "country": "CHN",
+        "latitude": "19.597275",
+        "longitude": "110.930753"
+      },
+      "agency": {
+        "name": "China Aerospace Science and Technology Corporation",
+        "abbrev": "CASC",
+        "type": "Government"
+      },
+      "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/cz-8_liftoff_2_image_20240315183218.jpg",
+      "vidURLs": [],
+      "webcast_live": false,
+      "discovered_at": "2026-05-10T13:07:10.552578+00:00",
+      "last_updated_at": "2026-05-10T13:07:10.552575+00:00",
+      "outcome": null,
+      "failure_reason": null,
+      "status_history": [
+        {
+          "at": "2026-05-10T13:07:10.552581+00:00",
+          "status_id": 1,
+          "abbrev": "Go",
+          "net": "2026-05-17T14:40:00Z"
         }
       ]
     },
@@ -1651,7 +1705,7 @@
       ],
       "webcast_live": false,
       "discovered_at": "2026-05-08T05:26:41.700479+00:00",
-      "last_updated_at": "2026-05-10T11:53:02.583234+00:00",
+      "last_updated_at": "2026-05-10T13:07:10.552566+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -1713,7 +1767,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-03-30T05:09:43.841059+00:00",
-      "last_updated_at": "2026-05-10T11:53:02.583227+00:00",
+      "last_updated_at": "2026-05-10T13:07:10.552559+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -1794,7 +1848,7 @@
       ],
       "webcast_live": false,
       "discovered_at": "2026-04-29T19:17:49.953822+00:00",
-      "last_updated_at": "2026-05-10T11:53:02.583220+00:00",
+      "last_updated_at": "2026-05-10T13:07:10.552552+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -1869,7 +1923,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-05-09T09:14:27.657578+00:00",
-      "last_updated_at": "2026-05-10T11:53:02.583212+00:00",
+      "last_updated_at": "2026-05-10T13:07:10.552544+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -1923,7 +1977,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-03-23T08:19:21.926545+00:00",
-      "last_updated_at": "2026-05-10T11:53:02.583205+00:00",
+      "last_updated_at": "2026-05-10T13:07:10.552531+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -2008,7 +2062,7 @@
       ],
       "webcast_live": false,
       "discovered_at": "2026-04-04T14:29:33.945423+00:00",
-      "last_updated_at": "2026-05-10T11:53:02.583193+00:00",
+      "last_updated_at": "2026-05-10T13:07:10.552524+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -2085,7 +2139,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-05-03T23:39:16.456059+00:00",
-      "last_updated_at": "2026-05-10T11:53:02.583181+00:00",
+      "last_updated_at": "2026-05-10T13:07:10.552514+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -2144,7 +2198,7 @@
       ],
       "webcast_live": false,
       "discovered_at": "2026-05-01T16:52:18.799054+00:00",
-      "last_updated_at": "2026-05-10T11:53:02.583161+00:00",
+      "last_updated_at": "2026-05-10T13:07:10.552501+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -2219,7 +2273,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-04-25T23:32:59.058052+00:00",
-      "last_updated_at": "2026-05-10T11:53:02.583128+00:00",
+      "last_updated_at": "2026-05-10T13:07:10.552477+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -6685,5 +6739,5 @@
       ]
     }
   ],
-  "last_updated": "2026-05-10T11:53:02.583590+00:00"
+  "last_updated": "2026-05-10T13:07:10.552895+00:00"
 }
