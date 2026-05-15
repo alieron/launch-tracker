@@ -279,7 +279,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-05-01T06:11:57.745139+00:00",
-      "last_updated_at": "2026-05-15T22:57:19.124172+00:00",
+      "last_updated_at": "2026-05-15T23:55:50.490745+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -441,7 +441,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-05-06T23:47:31.511670+00:00",
-      "last_updated_at": "2026-05-15T22:57:19.124166+00:00",
+      "last_updated_at": "2026-05-15T23:55:50.490738+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -495,7 +495,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-04-09T21:07:11.353167+00:00",
-      "last_updated_at": "2026-05-15T22:57:19.124158+00:00",
+      "last_updated_at": "2026-05-15T23:55:50.490730+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -556,7 +556,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-04-24T09:15:14.350986+00:00",
-      "last_updated_at": "2026-05-15T22:57:19.124179+00:00",
+      "last_updated_at": "2026-05-15T23:55:50.490752+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -779,7 +779,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-04-25T07:07:49.068854+00:00",
-      "last_updated_at": "2026-05-15T22:57:19.124152+00:00",
+      "last_updated_at": "2026-05-15T23:55:50.490722+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -833,7 +833,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-04-08T14:52:10.605497+00:00",
-      "last_updated_at": "2026-05-15T22:57:19.124146+00:00",
+      "last_updated_at": "2026-05-15T23:55:50.490716+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -896,7 +896,7 @@
       ],
       "webcast_live": false,
       "discovered_at": "2026-03-23T08:19:21.926409+00:00",
-      "last_updated_at": "2026-05-15T22:57:19.124140+00:00",
+      "last_updated_at": "2026-05-15T23:55:50.490709+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -1040,7 +1040,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-04-20T19:38:59.795722+00:00",
-      "last_updated_at": "2026-05-15T22:57:19.124127+00:00",
+      "last_updated_at": "2026-05-15T23:55:50.490694+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -1101,7 +1101,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-04-11T04:18:21.759784+00:00",
-      "last_updated_at": "2026-05-15T22:57:19.124133+00:00",
+      "last_updated_at": "2026-05-15T23:55:50.490700+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -1162,7 +1162,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-05-07T15:11:41.797008+00:00",
-      "last_updated_at": "2026-05-15T22:57:19.124120+00:00",
+      "last_updated_at": "2026-05-15T23:55:50.490685+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -1229,7 +1229,7 @@
       ],
       "webcast_live": false,
       "discovered_at": "2026-05-08T05:26:41.700479+00:00",
-      "last_updated_at": "2026-05-15T22:57:19.124113+00:00",
+      "last_updated_at": "2026-05-15T23:55:50.490677+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -1320,7 +1320,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-04-28T02:31:32.809853+00:00",
-      "last_updated_at": "2026-05-15T22:57:19.124107+00:00",
+      "last_updated_at": "2026-05-15T23:55:50.490670+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -1394,7 +1394,7 @@
       ],
       "webcast_live": false,
       "discovered_at": "2026-05-15T19:46:44.466664+00:00",
-      "last_updated_at": "2026-05-15T22:57:19.124101+00:00",
+      "last_updated_at": "2026-05-15T23:55:50.490664+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -1448,7 +1448,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-03-23T08:19:21.926514+00:00",
-      "last_updated_at": "2026-05-15T22:57:19.124095+00:00",
+      "last_updated_at": "2026-05-15T23:55:50.490657+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -1529,7 +1529,7 @@
       ],
       "webcast_live": false,
       "discovered_at": "2026-05-15T16:01:48.555652+00:00",
-      "last_updated_at": "2026-05-15T22:57:19.124089+00:00",
+      "last_updated_at": "2026-05-15T23:55:50.490651+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -1595,7 +1595,7 @@
       ],
       "webcast_live": false,
       "discovered_at": "2026-04-29T19:17:49.953822+00:00",
-      "last_updated_at": "2026-05-15T22:57:19.124083+00:00",
+      "last_updated_at": "2026-05-15T23:55:50.490644+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -1684,7 +1684,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-03-31T21:34:50.631409+00:00",
-      "last_updated_at": "2026-05-15T22:57:19.124076+00:00",
+      "last_updated_at": "2026-05-15T23:55:50.490635+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -1758,7 +1758,7 @@
       ],
       "webcast_live": false,
       "discovered_at": "2026-05-05T17:02:09.527579+00:00",
-      "last_updated_at": "2026-05-15T22:57:19.124068+00:00",
+      "last_updated_at": "2026-05-15T23:55:50.490625+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -1826,7 +1826,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-04-11T15:28:51.958924+00:00",
-      "last_updated_at": "2026-05-15T22:57:19.124062+00:00",
+      "last_updated_at": "2026-05-15T23:55:50.490619+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -1909,7 +1909,7 @@
       ],
       "webcast_live": false,
       "discovered_at": "2026-05-04T16:28:00.949546+00:00",
-      "last_updated_at": "2026-05-15T22:57:19.124055+00:00",
+      "last_updated_at": "2026-05-15T23:55:50.490612+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -1971,7 +1971,7 @@
       },
       "mission": {
         "name": "Flight 12",
-        "description": "12th test flight of the two-stage Starship launch vehicle. Maiden Flight of Starship V3.\r\n\r\nThe flight test\u2019s primary goal will be to demonstrate each of these new pieces in the flight environment for the first time, with each element of the Starship architecture featuring significant redesigns to enable full and rapid reuse that incorporate learnings from years of development and test.\r\n\r\nThe Starship upper stage will target multiple in-space and reentry objectives, including the deployment of 22 Starlink simulators, similar in size to next-generation Starlink satellites. The last two satellites deployed will scan Starship\u2019s heat shield and transmit imagery down to operators to test methods of analyzing Starship\u2019s heat shield readiness for return to launch site on future missions. Several tiles on Starship have been painted white to simulate missing tiles and serve as imaging targets in the test. The Starlink simulators will be on the same suborbital trajectory as Starship. A relight of a single Raptor engine while in space is also planned.\r\n\r\nFor Starship entry, a single heat shield tile has been intentionally removed to measure the aerodynamic load differences on adjacent tiles when there is a tile missing. Finally, the ship will perform experimental actions tested on previous flight tests, including a maneuver to intentionally stress the structural limits of the vehicle\u2019s rear flaps and a dynamic banking maneuver to mimic the trajectory that future missions returning to Starbase will fly.",
+        "description": "12th test flight of the two-stage Starship launch vehicle. Maiden Flight of Starship V3.\r\n\r\nThe flight test\u2019s primary goal will be to demonstrate each of these new pieces in the flight environment for the first time, with each element of the Starship architecture featuring significant redesigns to enable full and rapid reuse that incorporate learnings from years of development and test.\r\n\r\nThe Starship upper stage will target multiple in-space and reentry objectives, including a payload deployment of 20 Starlink simulators, similar in size to next-generation Starlink V3 satellites, and two specially modified Starlink satellites. The two modified satellites will test hardware planned for Starlink V3 and will attempt to scan Starship\u2019s heat shield and transmit imagery down to operators to test methods of analyzing Starship\u2019s heat shield readiness for return to launch site on future missions. Several tiles on Starship have been painted white to simulate missing tiles and serve as imaging targets in the test. The Starlink simulators will be on the same suborbital trajectory as Starship. A relight of a single Raptor engine while in space is also planned.\r\n\r\nFor Starship entry, a single heat shield tile has been intentionally removed to measure the aerodynamic load differences on adjacent tiles when there is a tile missing. Finally, the ship will perform experimental actions tested on previous flight tests, including a maneuver to intentionally stress the structural limits of the vehicle\u2019s rear flaps and a dynamic banking maneuver to mimic the trajectory that future missions returning to Starbase will fly.",
         "type": "Test Flight",
         "orbit": "Suborbital"
       },
@@ -1991,7 +1991,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-03-30T05:09:43.841059+00:00",
-      "last_updated_at": "2026-05-15T22:57:19.124048+00:00",
+      "last_updated_at": "2026-05-15T23:55:50.490605+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -2086,7 +2086,7 @@
       ],
       "webcast_live": false,
       "discovered_at": "2026-03-23T15:34:22.797200+00:00",
-      "last_updated_at": "2026-05-15T22:57:19.124037+00:00",
+      "last_updated_at": "2026-05-15T23:55:50.490596+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -2156,7 +2156,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-05-10T13:07:10.552578+00:00",
-      "last_updated_at": "2026-05-15T22:57:19.124028+00:00",
+      "last_updated_at": "2026-05-15T23:55:50.490583+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -2231,7 +2231,7 @@
       ],
       "webcast_live": false,
       "discovered_at": "2026-04-04T14:29:33.945423+00:00",
-      "last_updated_at": "2026-05-15T22:57:19.124009+00:00",
+      "last_updated_at": "2026-05-15T23:55:50.490570+00:00",
       "outcome": "success",
       "failure_reason": null,
       "status_history": [
@@ -2357,7 +2357,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-05-09T09:14:27.657578+00:00",
-      "last_updated_at": "2026-05-15T22:57:19.123975+00:00",
+      "last_updated_at": "2026-05-15T23:55:50.490526+00:00",
       "outcome": "success",
       "failure_reason": null,
       "status_history": [
@@ -7166,5 +7166,5 @@
       ]
     }
   ],
-  "last_updated": "2026-05-15T22:57:19.124405+00:00"
+  "last_updated": "2026-05-15T23:55:50.490993+00:00"
 }
