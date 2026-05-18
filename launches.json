@@ -279,7 +279,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-05-01T06:11:57.745139+00:00",
-      "last_updated_at": "2026-05-18T05:45:44.529888+00:00",
+      "last_updated_at": "2026-05-18T09:52:21.628123+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -333,7 +333,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-05-01T10:05:53.337343+00:00",
-      "last_updated_at": "2026-05-18T05:45:44.529902+00:00",
+      "last_updated_at": "2026-05-18T09:52:21.628135+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -441,7 +441,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-05-06T23:47:31.511670+00:00",
-      "last_updated_at": "2026-05-18T05:45:44.529873+00:00",
+      "last_updated_at": "2026-05-18T09:52:21.628109+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -495,7 +495,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-04-09T21:07:11.353167+00:00",
-      "last_updated_at": "2026-05-18T05:45:44.529866+00:00",
+      "last_updated_at": "2026-05-18T09:52:21.628104+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -556,7 +556,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-04-24T09:15:14.350986+00:00",
-      "last_updated_at": "2026-05-18T05:45:44.529896+00:00",
+      "last_updated_at": "2026-05-18T09:52:21.628130+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -676,7 +676,7 @@
       ],
       "webcast_live": false,
       "discovered_at": "2026-05-08T05:26:41.700479+00:00",
-      "last_updated_at": "2026-05-18T05:45:44.529881+00:00",
+      "last_updated_at": "2026-05-18T09:52:21.628117+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -882,7 +882,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-04-25T07:07:49.068854+00:00",
-      "last_updated_at": "2026-05-18T05:45:44.529858+00:00",
+      "last_updated_at": "2026-05-18T09:52:21.628098+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -936,7 +936,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-04-08T14:52:10.605497+00:00",
-      "last_updated_at": "2026-05-18T05:45:44.529851+00:00",
+      "last_updated_at": "2026-05-18T09:52:21.628090+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -999,7 +999,7 @@
       ],
       "webcast_live": false,
       "discovered_at": "2026-03-23T08:19:21.926409+00:00",
-      "last_updated_at": "2026-05-18T05:45:44.529844+00:00",
+      "last_updated_at": "2026-05-18T09:52:21.628084+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -1143,7 +1143,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-04-20T19:38:59.795722+00:00",
-      "last_updated_at": "2026-05-18T05:45:44.529815+00:00",
+      "last_updated_at": "2026-05-18T09:52:21.628065+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -1204,7 +1204,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-04-11T04:18:21.759784+00:00",
-      "last_updated_at": "2026-05-18T05:45:44.529838+00:00",
+      "last_updated_at": "2026-05-18T09:52:21.628078+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -1265,7 +1265,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-05-07T15:11:41.797008+00:00",
-      "last_updated_at": "2026-05-18T05:45:44.529808+00:00",
+      "last_updated_at": "2026-05-18T09:52:21.628057+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -1282,60 +1282,6 @@
           "net": "2026-05-31T00:00:00Z",
           "prev_net": "2026-05-21T03:15:00Z",
           "prev_abbrev": "TBC"
-        }
-      ]
-    },
-    {
-      "id": "a0e0f590-1cb4-4b6b-845c-0087633af132",
-      "name": "Long March 2F/G | Shenzhou 23",
-      "slug": "long-march-2fg-shenzhou-23",
-      "status": {
-        "id": 2,
-        "abbrev": "TBD",
-        "name": "To Be Determined",
-        "description": "Current date is a placeholder or rough estimation based on unreliable or interpreted sources."
-      },
-      "net": "2026-05-31T00:00:00Z",
-      "window_start": "2026-05-31T00:00:00Z",
-      "window_end": "2026-05-31T00:00:00Z",
-      "probability": null,
-      "rocket": {
-        "name": "Long March 2F/G",
-        "family": "Long March",
-        "manufacturer": "China Aerospace Science and Technology Corporation",
-        "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/shenzhou_22_lau_image_20251129175823.jpg"
-      },
-      "mission": {
-        "name": "Shenzhou 23",
-        "description": "Shenzhou 23 will be the 23rd flight of the Shenzhou program.",
-        "type": "Human Exploration",
-        "orbit": "Low Earth Orbit"
-      },
-      "pad": {
-        "name": "Launch Area 91 (SLS-1 / 921)",
-        "location": "Jiuquan Satellite Launch Center, People's Republic of China",
-        "country": "CHN",
-        "latitude": "40.957893",
-        "longitude": "100.290944"
-      },
-      "agency": {
-        "name": "China Aerospace Science and Technology Corporation",
-        "abbrev": "CASC",
-        "type": "Government"
-      },
-      "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/shenzhou_22_lau_image_20251129175823.jpg",
-      "vidURLs": [],
-      "webcast_live": false,
-      "discovered_at": "2026-05-16T02:39:58.184772+00:00",
-      "last_updated_at": "2026-05-18T05:45:44.529823+00:00",
-      "outcome": null,
-      "failure_reason": null,
-      "status_history": [
-        {
-          "at": "2026-05-16T02:39:58.184775+00:00",
-          "status_id": 2,
-          "abbrev": "TBD",
-          "net": "2026-05-31T00:00:00Z"
         }
       ]
     },
@@ -1381,7 +1327,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-04-11T15:28:51.958924+00:00",
-      "last_updated_at": "2026-05-18T05:45:44.529830+00:00",
+      "last_updated_at": "2026-05-18T09:52:21.628071+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -1467,7 +1413,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-04-28T02:31:32.809853+00:00",
-      "last_updated_at": "2026-05-18T05:45:44.529799+00:00",
+      "last_updated_at": "2026-05-18T09:52:21.628051+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -1541,7 +1487,7 @@
       ],
       "webcast_live": false,
       "discovered_at": "2026-05-15T19:46:44.466664+00:00",
-      "last_updated_at": "2026-05-18T05:45:44.529793+00:00",
+      "last_updated_at": "2026-05-18T09:52:21.628045+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -1595,7 +1541,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-03-23T08:19:21.926514+00:00",
-      "last_updated_at": "2026-05-18T05:45:44.529784+00:00",
+      "last_updated_at": "2026-05-18T09:52:21.628038+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -1676,7 +1622,7 @@
       ],
       "webcast_live": false,
       "discovered_at": "2026-05-15T16:01:48.555652+00:00",
-      "last_updated_at": "2026-05-18T05:45:44.529778+00:00",
+      "last_updated_at": "2026-05-18T09:52:21.628029+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -1692,6 +1638,68 @@
           "abbrev": "Go",
           "net": "2026-05-25T11:41:00Z",
           "prev_net": "2026-05-27T11:41:00Z"
+        }
+      ]
+    },
+    {
+      "id": "a0e0f590-1cb4-4b6b-845c-0087633af132",
+      "name": "Long March 2F/G | Shenzhou 23",
+      "slug": "long-march-2fg-shenzhou-23",
+      "status": {
+        "id": 1,
+        "abbrev": "Go",
+        "name": "Go for Launch",
+        "description": "Current T-0 confirmed by official or reliable sources."
+      },
+      "net": "2026-05-24T15:08:00Z",
+      "window_start": "2026-05-24T14:58:00Z",
+      "window_end": "2026-05-24T15:38:00Z",
+      "probability": null,
+      "rocket": {
+        "name": "Long March 2F/G",
+        "family": "Long March",
+        "manufacturer": "China Aerospace Science and Technology Corporation",
+        "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/shenzhou_22_lau_image_20251129175823.jpg"
+      },
+      "mission": {
+        "name": "Shenzhou 23",
+        "description": "Shenzhou 23 will be the 23rd flight of the Shenzhou program.",
+        "type": "Human Exploration",
+        "orbit": "Low Earth Orbit"
+      },
+      "pad": {
+        "name": "Launch Area 91 (SLS-1 / 921)",
+        "location": "Jiuquan Satellite Launch Center, People's Republic of China",
+        "country": "CHN",
+        "latitude": "40.957893",
+        "longitude": "100.290944"
+      },
+      "agency": {
+        "name": "China Aerospace Science and Technology Corporation",
+        "abbrev": "CASC",
+        "type": "Government"
+      },
+      "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/shenzhou_22_lau_image_20251129175823.jpg",
+      "vidURLs": [],
+      "webcast_live": false,
+      "discovered_at": "2026-05-16T02:39:58.184772+00:00",
+      "last_updated_at": "2026-05-18T09:52:21.628019+00:00",
+      "outcome": null,
+      "failure_reason": null,
+      "status_history": [
+        {
+          "at": "2026-05-16T02:39:58.184775+00:00",
+          "status_id": 2,
+          "abbrev": "TBD",
+          "net": "2026-05-31T00:00:00Z"
+        },
+        {
+          "at": "2026-05-18T09:52:21.628021+00:00",
+          "status_id": 1,
+          "abbrev": "Go",
+          "net": "2026-05-24T15:08:00Z",
+          "prev_net": "2026-05-31T00:00:00Z",
+          "prev_abbrev": "TBD"
         }
       ]
     },
@@ -1742,7 +1750,7 @@
       ],
       "webcast_live": false,
       "discovered_at": "2026-04-29T19:17:49.953822+00:00",
-      "last_updated_at": "2026-05-18T05:45:44.529770+00:00",
+      "last_updated_at": "2026-05-18T09:52:21.628012+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -1831,7 +1839,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-03-31T21:34:50.631409+00:00",
-      "last_updated_at": "2026-05-18T05:45:44.529763+00:00",
+      "last_updated_at": "2026-05-18T09:52:21.628006+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -1905,7 +1913,7 @@
       ],
       "webcast_live": false,
       "discovered_at": "2026-05-05T17:02:09.527579+00:00",
-      "last_updated_at": "2026-05-18T05:45:44.529755+00:00",
+      "last_updated_at": "2026-05-18T09:52:21.627999+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -1973,7 +1981,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-03-30T05:09:43.841059+00:00",
-      "last_updated_at": "2026-05-18T05:45:44.529744+00:00",
+      "last_updated_at": "2026-05-18T09:52:21.627991+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -2075,7 +2083,7 @@
       ],
       "webcast_live": false,
       "discovered_at": "2026-05-04T16:28:00.949546+00:00",
-      "last_updated_at": "2026-05-18T05:45:44.529730+00:00",
+      "last_updated_at": "2026-05-18T09:52:21.627975+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -2174,7 +2182,7 @@
       ],
       "webcast_live": false,
       "discovered_at": "2026-03-23T15:34:22.797200+00:00",
-      "last_updated_at": "2026-05-18T05:45:44.529716+00:00",
+      "last_updated_at": "2026-05-18T09:52:21.627963+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -2249,7 +2257,7 @@
       ],
       "webcast_live": false,
       "discovered_at": "2026-05-10T13:07:10.552578+00:00",
-      "last_updated_at": "2026-05-18T05:45:44.529683+00:00",
+      "last_updated_at": "2026-05-18T09:52:21.627938+00:00",
       "outcome": "success",
       "failure_reason": null,
       "status_history": [
@@ -7275,5 +7283,5 @@
       ]
     }
   ],
-  "last_updated": "2026-05-18T05:45:44.530151+00:00"
+  "last_updated": "2026-05-18T09:52:21.628305+00:00"
 }
