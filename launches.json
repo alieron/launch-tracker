@@ -333,7 +333,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-05-01T10:05:53.337343+00:00",
-      "last_updated_at": "2026-05-22T10:45:39.298986+00:00",
+      "last_updated_at": "2026-05-22T13:27:53.818946+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -441,7 +441,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-05-06T23:47:31.511670+00:00",
-      "last_updated_at": "2026-05-22T10:45:39.298937+00:00",
+      "last_updated_at": "2026-05-22T13:27:53.818867+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -495,7 +495,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-04-09T21:07:11.353167+00:00",
-      "last_updated_at": "2026-05-22T10:45:39.298931+00:00",
+      "last_updated_at": "2026-05-22T13:27:53.818853+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -556,7 +556,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-04-24T09:15:14.350986+00:00",
-      "last_updated_at": "2026-05-22T10:45:39.298966+00:00",
+      "last_updated_at": "2026-05-22T13:27:53.818910+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -617,7 +617,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-05-15T13:55:15.723939+00:00",
-      "last_updated_at": "2026-05-22T10:45:39.298993+00:00",
+      "last_updated_at": "2026-05-22T13:27:53.818961+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -676,7 +676,7 @@
       ],
       "webcast_live": false,
       "discovered_at": "2026-05-08T05:26:41.700479+00:00",
-      "last_updated_at": "2026-05-22T10:45:39.298944+00:00",
+      "last_updated_at": "2026-05-22T13:27:53.818882+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -783,7 +783,7 @@
       ],
       "webcast_live": false,
       "discovered_at": "2026-03-23T08:19:21.926409+00:00",
-      "last_updated_at": "2026-05-22T10:45:39.298972+00:00",
+      "last_updated_at": "2026-05-22T13:27:53.818923+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -934,7 +934,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-05-21T02:50:34.747203+00:00",
-      "last_updated_at": "2026-05-22T10:45:39.299003+00:00",
+      "last_updated_at": "2026-05-22T13:27:53.818980+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -988,7 +988,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-04-08T14:52:10.605497+00:00",
-      "last_updated_at": "2026-05-22T10:45:39.298979+00:00",
+      "last_updated_at": "2026-05-22T13:27:53.818935+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -1049,7 +1049,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-05-07T15:11:41.797008+00:00",
-      "last_updated_at": "2026-05-22T10:45:39.298952+00:00",
+      "last_updated_at": "2026-05-22T13:27:53.818896+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -1118,7 +1118,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-05-22T10:45:39.299013+00:00",
-      "last_updated_at": "2026-05-22T10:45:39.299010+00:00",
+      "last_updated_at": "2026-05-22T13:27:53.818992+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -1280,7 +1280,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-04-25T07:07:49.068854+00:00",
-      "last_updated_at": "2026-05-22T10:45:39.298924+00:00",
+      "last_updated_at": "2026-05-22T13:27:53.818841+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -1339,7 +1339,7 @@
       ],
       "webcast_live": false,
       "discovered_at": "2026-05-21T21:09:03.487759+00:00",
-      "last_updated_at": "2026-05-22T10:45:39.298917+00:00",
+      "last_updated_at": "2026-05-22T13:27:53.818830+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -1398,7 +1398,7 @@
       ],
       "webcast_live": false,
       "discovered_at": "2026-05-21T19:24:06.767358+00:00",
-      "last_updated_at": "2026-05-22T10:45:39.298909+00:00",
+      "last_updated_at": "2026-05-22T13:27:53.818818+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -1452,7 +1452,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-04-11T15:28:51.958924+00:00",
-      "last_updated_at": "2026-05-22T10:45:39.298902+00:00",
+      "last_updated_at": "2026-05-22T13:27:53.818803+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -1551,7 +1551,7 @@
       ],
       "webcast_live": false,
       "discovered_at": "2026-05-19T08:23:08.121751+00:00",
-      "last_updated_at": "2026-05-22T10:45:39.298893+00:00",
+      "last_updated_at": "2026-05-22T13:27:53.818792+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -1741,7 +1741,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-04-28T02:31:32.809853+00:00",
-      "last_updated_at": "2026-05-22T10:45:39.298886+00:00",
+      "last_updated_at": "2026-05-22T13:27:53.818780+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -1822,7 +1822,7 @@
       ],
       "webcast_live": false,
       "discovered_at": "2026-05-20T17:37:18.049486+00:00",
-      "last_updated_at": "2026-05-22T10:45:39.298880+00:00",
+      "last_updated_at": "2026-05-22T13:27:53.818766+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -1881,7 +1881,7 @@
       ],
       "webcast_live": false,
       "discovered_at": "2026-05-15T19:46:44.466664+00:00",
-      "last_updated_at": "2026-05-22T10:45:39.298871+00:00",
+      "last_updated_at": "2026-05-22T13:27:53.818754+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -1942,7 +1942,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-03-23T08:19:21.926514+00:00",
-      "last_updated_at": "2026-05-22T10:45:39.298857+00:00",
+      "last_updated_at": "2026-05-22T13:27:53.818737+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -2031,7 +2031,7 @@
       ],
       "webcast_live": false,
       "discovered_at": "2026-05-15T16:01:48.555652+00:00",
-      "last_updated_at": "2026-05-22T10:45:39.298851+00:00",
+      "last_updated_at": "2026-05-22T13:27:53.818720+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -2092,7 +2092,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-05-16T02:39:58.184772+00:00",
-      "last_updated_at": "2026-05-22T10:45:39.298843+00:00",
+      "last_updated_at": "2026-05-22T13:27:53.818706+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -2159,7 +2159,7 @@
       ],
       "webcast_live": false,
       "discovered_at": "2026-04-29T19:17:49.953822+00:00",
-      "last_updated_at": "2026-05-22T10:45:39.298832+00:00",
+      "last_updated_at": "2026-05-22T13:27:53.818691+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -2254,29 +2254,25 @@
       "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/starship_on_the_image_20250111100520.jpg",
       "vidURLs": [
         {
-          "title": "SCRUBBED SpaceX - Starship - Starship Test Flight 12 - Pad 2 - Starbase, Texas - May 21, 2026",
-          "url": "https://www.youtube.com/watch?v=ou6rUKyNmUQ"
+          "title": "GO! - SpaceX - Starship - Starship Test Flight 12 - Pad 2 - Starbase, Texas - Space Affairs Live",
+          "url": "https://www.youtube.com/watch?v=OT_ZXZUrUcU"
         },
         {
           "title": "Watch Live: SpaceX Starship launches on 12th test flight",
-          "url": "https://www.youtube.com/watch?v=JcNsHf607hU"
+          "url": "https://www.youtube.com/watch?v=U4alF1JasLo"
         },
         {
-          "title": "(SCRUB) SpaceX Starship Flight 12 - LAUNCH STREAM",
-          "url": "https://www.youtube.com/watch?v=TBu6JFjt0tk"
+          "title": "SpaceX Starship Flight 12 Attempt 2 - LAUNCH STREAM",
+          "url": "https://www.youtube.com/watch?v=UfQHy4mVcBo"
         },
         {
-          "title": "Starship's Twelfth Flight Test",
-          "url": "https://x.com/i/broadcasts/1YxNrZwwomNxw"
-        },
-        {
-          "title": "[SCRUBBED] Watch the first Starship V3 launch for Flight 12!",
-          "url": "https://www.youtube.com/watch?v=MH3VyLa2eJ0"
+          "title": "Watch the first Starship V3 launch for Flight 12!",
+          "url": "https://www.youtube.com/watch?v=odWYDx3u8A4"
         }
       ],
       "webcast_live": false,
       "discovered_at": "2026-03-30T05:09:43.841059+00:00",
-      "last_updated_at": "2026-05-22T10:45:39.298818+00:00",
+      "last_updated_at": "2026-05-22T13:27:53.818671+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -2372,10 +2368,10 @@
       "name": "Electron | Viva La StriX (StriX Launch 9)",
       "slug": "electron-viva-la-strix-strix-launch-9",
       "status": {
-        "id": 6,
-        "abbrev": "In Flight",
-        "name": "Launch in Flight",
-        "description": "Launch in Flight"
+        "id": 3,
+        "abbrev": "Success",
+        "name": "Launch Successful",
+        "description": "The launch vehicle successfully inserted its payload(s) into the target orbit(s)."
       },
       "net": "2026-05-22T09:33:00Z",
       "window_start": "2026-05-22T09:30:00Z",
@@ -2414,8 +2410,8 @@
       ],
       "webcast_live": false,
       "discovered_at": "2026-03-31T21:34:50.631409+00:00",
-      "last_updated_at": "2026-05-22T10:45:39.298773+00:00",
-      "outcome": null,
+      "last_updated_at": "2026-05-22T13:27:53.818620+00:00",
+      "outcome": "success",
       "failure_reason": null,
       "status_history": [
         {
@@ -2446,6 +2442,13 @@
           "net": "2026-05-22T09:33:00Z",
           "prev_net": "2026-05-22T09:30:00Z",
           "prev_abbrev": "Go"
+        },
+        {
+          "at": "2026-05-22T13:27:53.818644+00:00",
+          "status_id": 3,
+          "abbrev": "Success",
+          "net": "2026-05-22T09:33:00Z",
+          "prev_abbrev": "In Flight"
         }
       ]
     },
@@ -7843,5 +7846,5 @@
       ]
     }
   ],
-  "last_updated": "2026-05-22T10:45:39.299265+00:00"
+  "last_updated": "2026-05-22T13:27:53.819395+00:00"
 }
