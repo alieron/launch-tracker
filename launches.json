@@ -333,7 +333,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-05-01T10:05:53.337343+00:00",
-      "last_updated_at": "2026-05-22T07:39:55.444101+00:00",
+      "last_updated_at": "2026-05-22T10:45:39.298986+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -441,7 +441,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-05-06T23:47:31.511670+00:00",
-      "last_updated_at": "2026-05-22T07:39:55.444055+00:00",
+      "last_updated_at": "2026-05-22T10:45:39.298937+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -495,7 +495,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-04-09T21:07:11.353167+00:00",
-      "last_updated_at": "2026-05-22T07:39:55.444044+00:00",
+      "last_updated_at": "2026-05-22T10:45:39.298931+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -556,7 +556,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-04-24T09:15:14.350986+00:00",
-      "last_updated_at": "2026-05-22T07:39:55.444077+00:00",
+      "last_updated_at": "2026-05-22T10:45:39.298966+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -617,7 +617,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-05-15T13:55:15.723939+00:00",
-      "last_updated_at": "2026-05-21T19:24:06.767437+00:00",
+      "last_updated_at": "2026-05-22T10:45:39.298993+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -676,7 +676,7 @@
       ],
       "webcast_live": false,
       "discovered_at": "2026-05-08T05:26:41.700479+00:00",
-      "last_updated_at": "2026-05-22T07:39:55.444064+00:00",
+      "last_updated_at": "2026-05-22T10:45:39.298944+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -783,7 +783,7 @@
       ],
       "webcast_live": false,
       "discovered_at": "2026-03-23T08:19:21.926409+00:00",
-      "last_updated_at": "2026-05-22T07:39:55.444083+00:00",
+      "last_updated_at": "2026-05-22T10:45:39.298972+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -934,7 +934,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-05-21T02:50:34.747203+00:00",
-      "last_updated_at": "2026-05-21T17:10:41.586187+00:00",
+      "last_updated_at": "2026-05-22T10:45:39.299003+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -988,7 +988,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-04-08T14:52:10.605497+00:00",
-      "last_updated_at": "2026-05-22T07:39:55.444092+00:00",
+      "last_updated_at": "2026-05-22T10:45:39.298979+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -1004,6 +1004,129 @@
           "abbrev": "TBD",
           "net": "2026-06-30T00:00:00Z",
           "prev_net": "2026-05-31T00:00:00Z"
+        }
+      ]
+    },
+    {
+      "id": "17d0ec68-f466-4916-9dc5-16123eda6484",
+      "name": "GSLV Mk II | GISAT-1A (EOS-05)",
+      "slug": "gslv-mk-ii-gisat-1a-eos-05",
+      "status": {
+        "id": 2,
+        "abbrev": "TBD",
+        "name": "To Be Determined",
+        "description": "Current date is a placeholder or rough estimation based on unreliable or interpreted sources."
+      },
+      "net": "2026-06-30T00:00:00Z",
+      "window_start": "2026-06-30T00:00:00Z",
+      "window_end": "2026-06-30T00:00:00Z",
+      "probability": null,
+      "rocket": {
+        "name": "GSLV Mk II",
+        "family": "GSLV",
+        "manufacturer": "Indian Space Research Organization",
+        "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/gslv2520mk2520ii_image_20190825171642.jpg"
+      },
+      "mission": {
+        "name": "GISAT-1A (EOS-05)",
+        "description": "GISAT-1A (GEO Imaging Satellite) is an Indian earth observing satellite operating from geostationary orbit to facilitate continuous observation of Indian sub-continent, quick monitoring of natural hazards and disaster.",
+        "type": "Earth Science",
+        "orbit": "Geostationary Transfer Orbit"
+      },
+      "pad": {
+        "name": "Satish Dhawan Space Centre Second Launch Pad",
+        "location": "Satish Dhawan Space Centre, India",
+        "country": "IND",
+        "latitude": "13.7199",
+        "longitude": "80.2304"
+      },
+      "agency": {
+        "name": "Indian Space Research Organization",
+        "abbrev": "ISRO",
+        "type": "Government"
+      },
+      "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/gslv2520mk2520ii_image_20190825171642.jpg",
+      "vidURLs": [],
+      "webcast_live": false,
+      "discovered_at": "2026-05-07T15:11:41.797008+00:00",
+      "last_updated_at": "2026-05-22T10:45:39.298952+00:00",
+      "outcome": null,
+      "failure_reason": null,
+      "status_history": [
+        {
+          "at": "2026-05-07T15:11:41.797011+00:00",
+          "status_id": 8,
+          "abbrev": "TBC",
+          "net": "2026-05-21T03:15:00Z"
+        },
+        {
+          "at": "2026-05-14T15:39:31.575480+00:00",
+          "status_id": 2,
+          "abbrev": "TBD",
+          "net": "2026-05-31T00:00:00Z",
+          "prev_net": "2026-05-21T03:15:00Z",
+          "prev_abbrev": "TBC"
+        },
+        {
+          "at": "2026-05-22T10:45:39.298959+00:00",
+          "status_id": 2,
+          "abbrev": "TBD",
+          "net": "2026-06-30T00:00:00Z",
+          "prev_net": "2026-05-31T00:00:00Z"
+        }
+      ]
+    },
+    {
+      "id": "fcbc4550-e69e-4458-a9e6-4a5b6b6b15a5",
+      "name": "Falcon 9 Block 5 | SDA Tranche 1 Tracking Layer E",
+      "slug": "falcon-9-block-5-sda-tranche-1-tracking-layer-e",
+      "status": {
+        "id": 2,
+        "abbrev": "TBD",
+        "name": "To Be Determined",
+        "description": "Current date is a placeholder or rough estimation based on unreliable or interpreted sources."
+      },
+      "net": "2026-06-30T00:00:00Z",
+      "window_start": "2026-06-30T00:00:00Z",
+      "window_end": "2026-06-30T00:00:00Z",
+      "probability": null,
+      "rocket": {
+        "name": "Falcon 9",
+        "family": "Falcon",
+        "manufacturer": "SpaceX",
+        "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/falcon_9_image_20230807133459.jpeg"
+      },
+      "mission": {
+        "name": "SDA Tranche 1 Tracking Layer E",
+        "description": "Tranche 1 Tracking Layer E is one of five missions by the United States Space Force Space Development Agency (SDA) for the Proliferated Warfighter Space Architecture (PWSA) Tranche 1 Tracking Layer constellation, which will provide global indications, warning, tracking, and targeting of advanced missile threats, including hypersonic missile systems.",
+        "type": "Government/Top Secret",
+        "orbit": "Polar Orbit"
+      },
+      "pad": {
+        "name": "Space Launch Complex 4E",
+        "location": "Vandenberg SFB, CA, USA",
+        "country": "USA",
+        "latitude": "34.632",
+        "longitude": "-120.611"
+      },
+      "agency": {
+        "name": "SpaceX",
+        "abbrev": "SpX",
+        "type": "Commercial"
+      },
+      "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/falcon_9_image_20230807133459.jpeg",
+      "vidURLs": [],
+      "webcast_live": false,
+      "discovered_at": "2026-05-22T10:45:39.299013+00:00",
+      "last_updated_at": "2026-05-22T10:45:39.299010+00:00",
+      "outcome": null,
+      "failure_reason": null,
+      "status_history": [
+        {
+          "at": "2026-05-22T10:45:39.299015+00:00",
+          "status_id": 2,
+          "abbrev": "TBD",
+          "net": "2026-06-30T00:00:00Z"
         }
       ]
     },
@@ -1157,7 +1280,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-04-25T07:07:49.068854+00:00",
-      "last_updated_at": "2026-05-22T07:39:55.444037+00:00",
+      "last_updated_at": "2026-05-22T10:45:39.298924+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -1216,7 +1339,7 @@
       ],
       "webcast_live": false,
       "discovered_at": "2026-05-21T21:09:03.487759+00:00",
-      "last_updated_at": "2026-05-22T07:39:55.444029+00:00",
+      "last_updated_at": "2026-05-22T10:45:39.298917+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -1275,7 +1398,7 @@
       ],
       "webcast_live": false,
       "discovered_at": "2026-05-21T19:24:06.767358+00:00",
-      "last_updated_at": "2026-05-22T07:39:55.444019+00:00",
+      "last_updated_at": "2026-05-22T10:45:39.298909+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -1329,7 +1452,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-04-11T15:28:51.958924+00:00",
-      "last_updated_at": "2026-05-22T07:39:55.444012+00:00",
+      "last_updated_at": "2026-05-22T10:45:39.298902+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -1428,7 +1551,7 @@
       ],
       "webcast_live": false,
       "discovered_at": "2026-05-19T08:23:08.121751+00:00",
-      "last_updated_at": "2026-05-22T07:39:55.444005+00:00",
+      "last_updated_at": "2026-05-22T10:45:39.298893+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -1577,68 +1700,6 @@
       ]
     },
     {
-      "id": "17d0ec68-f466-4916-9dc5-16123eda6484",
-      "name": "GSLV Mk II | GISAT-1A (EOS-05)",
-      "slug": "gslv-mk-ii-gisat-1a-eos-05",
-      "status": {
-        "id": 2,
-        "abbrev": "TBD",
-        "name": "To Be Determined",
-        "description": "Current date is a placeholder or rough estimation based on unreliable or interpreted sources."
-      },
-      "net": "2026-05-31T00:00:00Z",
-      "window_start": "2026-05-31T00:00:00Z",
-      "window_end": "2026-05-31T00:00:00Z",
-      "probability": null,
-      "rocket": {
-        "name": "GSLV Mk II",
-        "family": "GSLV",
-        "manufacturer": "Indian Space Research Organization",
-        "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/gslv2520mk2520ii_image_20190825171642.jpg"
-      },
-      "mission": {
-        "name": "GISAT-1A (EOS-05)",
-        "description": "GISAT-1A (GEO Imaging Satellite) is an Indian earth observing satellite operating from geostationary orbit to facilitate continuous observation of Indian sub-continent, quick monitoring of natural hazards and disaster.",
-        "type": "Earth Science",
-        "orbit": "Geostationary Transfer Orbit"
-      },
-      "pad": {
-        "name": "Satish Dhawan Space Centre Second Launch Pad",
-        "location": "Satish Dhawan Space Centre, India",
-        "country": "IND",
-        "latitude": "13.7199",
-        "longitude": "80.2304"
-      },
-      "agency": {
-        "name": "Indian Space Research Organization",
-        "abbrev": "ISRO",
-        "type": "Government"
-      },
-      "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/gslv2520mk2520ii_image_20190825171642.jpg",
-      "vidURLs": [],
-      "webcast_live": false,
-      "discovered_at": "2026-05-07T15:11:41.797008+00:00",
-      "last_updated_at": "2026-05-22T07:39:55.443990+00:00",
-      "outcome": null,
-      "failure_reason": null,
-      "status_history": [
-        {
-          "at": "2026-05-07T15:11:41.797011+00:00",
-          "status_id": 8,
-          "abbrev": "TBC",
-          "net": "2026-05-21T03:15:00Z"
-        },
-        {
-          "at": "2026-05-14T15:39:31.575480+00:00",
-          "status_id": 2,
-          "abbrev": "TBD",
-          "net": "2026-05-31T00:00:00Z",
-          "prev_net": "2026-05-21T03:15:00Z",
-          "prev_abbrev": "TBC"
-        }
-      ]
-    },
-    {
       "id": "ff0a6a32-6513-4e85-9fd8-a2d022add74d",
       "name": "Atlas V 551 | Amazon Leo (LA-07)",
       "slug": "atlas-v-551-amazon-leo-la-07",
@@ -1680,7 +1741,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-04-28T02:31:32.809853+00:00",
-      "last_updated_at": "2026-05-22T07:39:55.443983+00:00",
+      "last_updated_at": "2026-05-22T10:45:39.298886+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -1761,7 +1822,7 @@
       ],
       "webcast_live": false,
       "discovered_at": "2026-05-20T17:37:18.049486+00:00",
-      "last_updated_at": "2026-05-22T07:39:55.443977+00:00",
+      "last_updated_at": "2026-05-22T10:45:39.298880+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -1820,7 +1881,7 @@
       ],
       "webcast_live": false,
       "discovered_at": "2026-05-15T19:46:44.466664+00:00",
-      "last_updated_at": "2026-05-22T07:39:55.443962+00:00",
+      "last_updated_at": "2026-05-22T10:45:39.298871+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -1844,14 +1905,14 @@
       "name": "Long March 7A | Unknown Payload",
       "slug": "long-march-7a-unknown-payload",
       "status": {
-        "id": 8,
-        "abbrev": "TBC",
-        "name": "To Be Confirmed",
-        "description": "Awaiting official confirmation - current date is known with some certainty."
+        "id": 1,
+        "abbrev": "Go",
+        "name": "Go for Launch",
+        "description": "Current T-0 confirmed by official or reliable sources."
       },
-      "net": "2026-05-26T16:00:00Z",
-      "window_start": "2026-05-26T16:00:00Z",
-      "window_end": "2026-05-26T22:00:00Z",
+      "net": "2026-05-26T16:15:00Z",
+      "window_start": "2026-05-26T16:08:00Z",
+      "window_end": "2026-05-26T17:08:00Z",
       "probability": null,
       "rocket": {
         "name": "Long March 7A",
@@ -1881,7 +1942,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-03-23T08:19:21.926514+00:00",
-      "last_updated_at": "2026-05-22T07:39:55.443952+00:00",
+      "last_updated_at": "2026-05-22T10:45:39.298857+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -1912,6 +1973,14 @@
           "net": "2026-05-26T16:00:00Z",
           "prev_net": "2026-05-31T00:00:00Z",
           "prev_abbrev": "TBD"
+        },
+        {
+          "at": "2026-05-22T10:45:39.298861+00:00",
+          "status_id": 1,
+          "abbrev": "Go",
+          "net": "2026-05-26T16:15:00Z",
+          "prev_net": "2026-05-26T16:00:00Z",
+          "prev_abbrev": "TBC"
         }
       ]
     },
@@ -1962,7 +2031,7 @@
       ],
       "webcast_live": false,
       "discovered_at": "2026-05-15T16:01:48.555652+00:00",
-      "last_updated_at": "2026-05-22T07:39:55.443945+00:00",
+      "last_updated_at": "2026-05-22T10:45:39.298851+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -2023,7 +2092,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-05-16T02:39:58.184772+00:00",
-      "last_updated_at": "2026-05-22T07:39:55.443937+00:00",
+      "last_updated_at": "2026-05-22T10:45:39.298843+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -2090,7 +2159,7 @@
       ],
       "webcast_live": false,
       "discovered_at": "2026-04-29T19:17:49.953822+00:00",
-      "last_updated_at": "2026-05-22T07:39:55.443927+00:00",
+      "last_updated_at": "2026-05-22T10:45:39.298832+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -2207,7 +2276,7 @@
       ],
       "webcast_live": false,
       "discovered_at": "2026-03-30T05:09:43.841059+00:00",
-      "last_updated_at": "2026-05-22T07:39:55.443915+00:00",
+      "last_updated_at": "2026-05-22T10:45:39.298818+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -2303,14 +2372,14 @@
       "name": "Electron | Viva La StriX (StriX Launch 9)",
       "slug": "electron-viva-la-strix-strix-launch-9",
       "status": {
-        "id": 1,
-        "abbrev": "Go",
-        "name": "Go for Launch",
-        "description": "Current T-0 confirmed by official or reliable sources."
+        "id": 6,
+        "abbrev": "In Flight",
+        "name": "Launch in Flight",
+        "description": "Launch in Flight"
       },
-      "net": "2026-05-22T09:30:00Z",
+      "net": "2026-05-22T09:33:00Z",
       "window_start": "2026-05-22T09:30:00Z",
-      "window_end": "2026-05-22T09:30:00Z",
+      "window_end": "2026-05-22T10:30:00Z",
       "probability": null,
       "rocket": {
         "name": "Electron",
@@ -2336,7 +2405,7 @@
         "abbrev": "RL",
         "type": "Commercial"
       },
-      "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/electron_image_20190705175640.jpeg",
+      "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/electron_on_the_image_20260522081756.jpg",
       "vidURLs": [
         {
           "title": "Rocket Lab - 'Viva La StriX' Launch",
@@ -2345,7 +2414,7 @@
       ],
       "webcast_live": false,
       "discovered_at": "2026-03-31T21:34:50.631409+00:00",
-      "last_updated_at": "2026-05-22T07:39:55.443897+00:00",
+      "last_updated_at": "2026-05-22T10:45:39.298773+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -2369,6 +2438,14 @@
           "net": "2026-05-22T09:30:00Z",
           "prev_net": "2026-05-22T00:00:00Z",
           "prev_abbrev": "TBD"
+        },
+        {
+          "at": "2026-05-22T10:45:39.298797+00:00",
+          "status_id": 6,
+          "abbrev": "In Flight",
+          "net": "2026-05-22T09:33:00Z",
+          "prev_net": "2026-05-22T09:30:00Z",
+          "prev_abbrev": "Go"
         }
       ]
     },
@@ -7766,5 +7843,5 @@
       ]
     }
   ],
-  "last_updated": "2026-05-22T07:39:55.444390+00:00"
+  "last_updated": "2026-05-22T10:45:39.299265+00:00"
 }
