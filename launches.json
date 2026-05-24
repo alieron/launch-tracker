@@ -333,7 +333,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-05-01T10:05:53.337343+00:00",
-      "last_updated_at": "2026-05-23T23:27:53.827735+00:00",
+      "last_updated_at": "2026-05-24T01:29:12.826513+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -441,7 +441,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-05-06T23:47:31.511670+00:00",
-      "last_updated_at": "2026-05-23T23:27:53.827688+00:00",
+      "last_updated_at": "2026-05-24T01:29:12.826475+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -495,7 +495,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-04-09T21:07:11.353167+00:00",
-      "last_updated_at": "2026-05-23T23:27:53.827682+00:00",
+      "last_updated_at": "2026-05-24T01:29:12.826466+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -556,7 +556,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-04-24T09:15:14.350986+00:00",
-      "last_updated_at": "2026-05-23T23:27:53.827712+00:00",
+      "last_updated_at": "2026-05-24T01:29:12.826489+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -617,7 +617,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-05-15T13:55:15.723939+00:00",
-      "last_updated_at": "2026-05-23T23:27:53.827741+00:00",
+      "last_updated_at": "2026-05-24T01:29:12.826521+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -676,7 +676,7 @@
       ],
       "webcast_live": false,
       "discovered_at": "2026-05-08T05:26:41.700479+00:00",
-      "last_updated_at": "2026-05-23T23:27:53.827695+00:00",
+      "last_updated_at": "2026-05-24T01:29:12.826482+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -783,7 +783,7 @@
       ],
       "webcast_live": false,
       "discovered_at": "2026-03-23T08:19:21.926409+00:00",
-      "last_updated_at": "2026-05-23T23:27:53.827719+00:00",
+      "last_updated_at": "2026-05-24T01:29:12.826497+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -934,7 +934,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-05-21T02:50:34.747203+00:00",
-      "last_updated_at": "2026-05-23T23:27:53.827747+00:00",
+      "last_updated_at": "2026-05-24T01:29:12.826527+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -988,7 +988,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-04-08T14:52:10.605497+00:00",
-      "last_updated_at": "2026-05-23T23:27:53.827728+00:00",
+      "last_updated_at": "2026-05-24T01:29:12.826505+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -1000,75 +1000,6 @@
         },
         {
           "at": "2026-05-21T22:47:55.152177+00:00",
-          "status_id": 2,
-          "abbrev": "TBD",
-          "net": "2026-06-30T00:00:00Z",
-          "prev_net": "2026-05-31T00:00:00Z"
-        }
-      ]
-    },
-    {
-      "id": "17d0ec68-f466-4916-9dc5-16123eda6484",
-      "name": "GSLV Mk II | GISAT-1A (EOS-05)",
-      "slug": "gslv-mk-ii-gisat-1a-eos-05",
-      "status": {
-        "id": 2,
-        "abbrev": "TBD",
-        "name": "To Be Determined",
-        "description": "Current date is a placeholder or rough estimation based on unreliable or interpreted sources."
-      },
-      "net": "2026-06-30T00:00:00Z",
-      "window_start": "2026-06-30T00:00:00Z",
-      "window_end": "2026-06-30T00:00:00Z",
-      "probability": null,
-      "rocket": {
-        "name": "GSLV Mk II",
-        "family": "GSLV",
-        "manufacturer": "Indian Space Research Organization",
-        "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/gslv2520mk2520ii_image_20190825171642.jpg"
-      },
-      "mission": {
-        "name": "GISAT-1A (EOS-05)",
-        "description": "GISAT-1A (GEO Imaging Satellite) is an Indian earth observing satellite operating from geostationary orbit to facilitate continuous observation of Indian sub-continent, quick monitoring of natural hazards and disaster.",
-        "type": "Earth Science",
-        "orbit": "Geostationary Transfer Orbit"
-      },
-      "pad": {
-        "name": "Satish Dhawan Space Centre Second Launch Pad",
-        "location": "Satish Dhawan Space Centre, India",
-        "country": "IND",
-        "latitude": "13.7199",
-        "longitude": "80.2304"
-      },
-      "agency": {
-        "name": "Indian Space Research Organization",
-        "abbrev": "ISRO",
-        "type": "Government"
-      },
-      "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/gslv2520mk2520ii_image_20190825171642.jpg",
-      "vidURLs": [],
-      "webcast_live": false,
-      "discovered_at": "2026-05-07T15:11:41.797008+00:00",
-      "last_updated_at": "2026-05-23T23:27:53.827703+00:00",
-      "outcome": null,
-      "failure_reason": null,
-      "status_history": [
-        {
-          "at": "2026-05-07T15:11:41.797011+00:00",
-          "status_id": 8,
-          "abbrev": "TBC",
-          "net": "2026-05-21T03:15:00Z"
-        },
-        {
-          "at": "2026-05-14T15:39:31.575480+00:00",
-          "status_id": 2,
-          "abbrev": "TBD",
-          "net": "2026-05-31T00:00:00Z",
-          "prev_net": "2026-05-21T03:15:00Z",
-          "prev_abbrev": "TBC"
-        },
-        {
-          "at": "2026-05-22T10:45:39.298959+00:00",
           "status_id": 2,
           "abbrev": "TBD",
           "net": "2026-06-30T00:00:00Z",
@@ -1118,7 +1049,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-05-22T10:45:39.299013+00:00",
-      "last_updated_at": "2026-05-23T23:27:53.827756+00:00",
+      "last_updated_at": "2026-05-24T01:29:12.826533+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -1172,7 +1103,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-05-23T10:50:25.590716+00:00",
-      "last_updated_at": "2026-05-23T23:27:53.827762+00:00",
+      "last_updated_at": "2026-05-24T01:29:12.826539+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -1226,7 +1157,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-05-23T23:27:53.827771+00:00",
-      "last_updated_at": "2026-05-23T23:27:53.827768+00:00",
+      "last_updated_at": "2026-05-24T01:29:12.826545+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -1393,7 +1324,7 @@
       ],
       "webcast_live": false,
       "discovered_at": "2026-05-21T21:09:03.487759+00:00",
-      "last_updated_at": "2026-05-23T23:27:53.827675+00:00",
+      "last_updated_at": "2026-05-24T01:29:12.826458+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -1454,7 +1385,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-04-25T07:07:49.068854+00:00",
-      "last_updated_at": "2026-05-23T23:27:53.827668+00:00",
+      "last_updated_at": "2026-05-24T01:29:12.826449+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -1463,6 +1394,82 @@
           "status_id": 1,
           "abbrev": "Go",
           "net": "2026-06-10T00:53:59Z"
+        }
+      ]
+    },
+    {
+      "id": "17d0ec68-f466-4916-9dc5-16123eda6484",
+      "name": "GSLV Mk II | GISAT-1A (EOS-05)",
+      "slug": "gslv-mk-ii-gisat-1a-eos-05",
+      "status": {
+        "id": 2,
+        "abbrev": "TBD",
+        "name": "To Be Determined",
+        "description": "Current date is a placeholder or rough estimation based on unreliable or interpreted sources."
+      },
+      "net": "2026-06-10T00:00:00Z",
+      "window_start": "2026-06-10T00:00:00Z",
+      "window_end": "2026-06-10T00:00:00Z",
+      "probability": null,
+      "rocket": {
+        "name": "GSLV Mk II",
+        "family": "GSLV",
+        "manufacturer": "Indian Space Research Organization",
+        "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/gslv2520mk2520ii_image_20190825171642.jpg"
+      },
+      "mission": {
+        "name": "GISAT-1A (EOS-05)",
+        "description": "GISAT-1A (GEO Imaging Satellite) is an Indian earth observing satellite operating from geostationary orbit to facilitate continuous observation of Indian sub-continent, quick monitoring of natural hazards and disaster.",
+        "type": "Earth Science",
+        "orbit": "Geostationary Transfer Orbit"
+      },
+      "pad": {
+        "name": "Satish Dhawan Space Centre Second Launch Pad",
+        "location": "Satish Dhawan Space Centre, India",
+        "country": "IND",
+        "latitude": "13.7199",
+        "longitude": "80.2304"
+      },
+      "agency": {
+        "name": "Indian Space Research Organization",
+        "abbrev": "ISRO",
+        "type": "Government"
+      },
+      "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/gslv2520mk2520ii_image_20190825171642.jpg",
+      "vidURLs": [],
+      "webcast_live": false,
+      "discovered_at": "2026-05-07T15:11:41.797008+00:00",
+      "last_updated_at": "2026-05-24T01:29:12.826435+00:00",
+      "outcome": null,
+      "failure_reason": null,
+      "status_history": [
+        {
+          "at": "2026-05-07T15:11:41.797011+00:00",
+          "status_id": 8,
+          "abbrev": "TBC",
+          "net": "2026-05-21T03:15:00Z"
+        },
+        {
+          "at": "2026-05-14T15:39:31.575480+00:00",
+          "status_id": 2,
+          "abbrev": "TBD",
+          "net": "2026-05-31T00:00:00Z",
+          "prev_net": "2026-05-21T03:15:00Z",
+          "prev_abbrev": "TBC"
+        },
+        {
+          "at": "2026-05-22T10:45:39.298959+00:00",
+          "status_id": 2,
+          "abbrev": "TBD",
+          "net": "2026-06-30T00:00:00Z",
+          "prev_net": "2026-05-31T00:00:00Z"
+        },
+        {
+          "at": "2026-05-24T01:29:12.826439+00:00",
+          "status_id": 2,
+          "abbrev": "TBD",
+          "net": "2026-06-10T00:00:00Z",
+          "prev_net": "2026-06-30T00:00:00Z"
         }
       ]
     },
@@ -1513,7 +1520,7 @@
       ],
       "webcast_live": false,
       "discovered_at": "2026-05-21T19:24:06.767358+00:00",
-      "last_updated_at": "2026-05-23T23:27:53.827660+00:00",
+      "last_updated_at": "2026-05-24T01:29:12.826429+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -1572,7 +1579,7 @@
       ],
       "webcast_live": false,
       "discovered_at": "2026-05-19T08:23:08.121751+00:00",
-      "last_updated_at": "2026-05-23T23:27:53.827653+00:00",
+      "last_updated_at": "2026-05-24T01:29:12.826422+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -1654,7 +1661,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-04-11T15:28:51.958924+00:00",
-      "last_updated_at": "2026-05-23T23:27:53.827644+00:00",
+      "last_updated_at": "2026-05-24T01:29:12.826413+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -1875,7 +1882,7 @@
       ],
       "webcast_live": false,
       "discovered_at": "2026-05-15T19:46:44.466664+00:00",
-      "last_updated_at": "2026-05-23T23:27:53.827636+00:00",
+      "last_updated_at": "2026-05-24T01:29:12.826404+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -1948,7 +1955,7 @@
       ],
       "webcast_live": false,
       "discovered_at": "2026-04-28T02:31:32.809853+00:00",
-      "last_updated_at": "2026-05-23T23:27:53.827629+00:00",
+      "last_updated_at": "2026-05-24T01:29:12.826397+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -2029,7 +2036,7 @@
       ],
       "webcast_live": false,
       "discovered_at": "2026-05-20T17:37:18.049486+00:00",
-      "last_updated_at": "2026-05-23T23:27:53.827620+00:00",
+      "last_updated_at": "2026-05-24T01:29:12.826390+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -2083,7 +2090,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-03-23T08:19:21.926514+00:00",
-      "last_updated_at": "2026-05-23T23:27:53.827603+00:00",
+      "last_updated_at": "2026-05-24T01:29:12.826377+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -2172,7 +2179,7 @@
       ],
       "webcast_live": false,
       "discovered_at": "2026-04-29T19:17:49.953822+00:00",
-      "last_updated_at": "2026-05-23T23:27:53.827594+00:00",
+      "last_updated_at": "2026-05-24T01:29:12.826364+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -2280,7 +2287,7 @@
       ],
       "webcast_live": false,
       "discovered_at": "2026-05-15T16:01:48.555652+00:00",
-      "last_updated_at": "2026-05-23T23:27:53.827581+00:00",
+      "last_updated_at": "2026-05-24T01:29:12.826351+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -2341,7 +2348,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-05-16T02:39:58.184772+00:00",
-      "last_updated_at": "2026-05-23T23:27:53.827551+00:00",
+      "last_updated_at": "2026-05-24T01:29:12.826321+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -8013,5 +8020,5 @@
       ]
     }
   ],
-  "last_updated": "2026-05-23T23:27:53.828005+00:00"
+  "last_updated": "2026-05-24T01:29:12.826775+00:00"
 }
