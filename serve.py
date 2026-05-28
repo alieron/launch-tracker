@@ -1,7 +1,9 @@
 from http.server import SimpleHTTPRequestHandler, HTTPServer
 import os
+import socket
 
-PORT = 8000
+HOST = "0.0.0.0"
+PORT = 8081
 BASE_DIR = os.path.dirname(os.path.abspath(__file__))
 
 
@@ -17,6 +19,16 @@ class Handler(SimpleHTTPRequestHandler):
         return os.path.join(BASE_DIR, "site", path)
 
 
-httpd = HTTPServer(("localhost", PORT), Handler)
-print(f"Serving on http://localhost:{PORT}")
+def local_ip():
+    try:
+        with socket.socket(socket.AF_INET, socket.SOCK_DGRAM) as s:
+            s.connect(("8.8.8.8", 80))
+            return s.getsockname()[0]
+    except OSError:
+        return "<your-lan-ip>"
+
+
+httpd = HTTPServer((HOST, PORT), Handler)
+print(f"Serving on: http://localhost:{PORT}")
+print(f"LAN URL:    http://{local_ip()}:{PORT}")
 httpd.serve_forever()
