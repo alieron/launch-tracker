@@ -9,24 +9,25 @@
   <link href="https://fonts.googleapis.com/css2?family=JetBrains+Mono:ital,wght@0,400;0,500;0,700;1,400&display=swap" rel="stylesheet" />
   <style>
     :root {
-      --bg:      #07090f;
-      --surf:    #0c0f1a;
-      --surf2:   #101422;
-      --surf3:   #161c2e;
-      --border:  #1c2640;
-      --border2: #243050;
-      --accent:  #e8651a;
-      --adim:    rgba(232,101,26,.13);
-      --ok:      #2ecc8a;
-      --err:     #e85454;
-      --warn:    #f0b429;
-      --info:    #5b9cf6;
-      --txt:     #b8c4d8;
-      --tdim:    #465670;
-      --tmut:    #5e728a;
-      --tbright: #e8edf5;
+      --bg:      #050506;
+      --surf:    #0b0b0d;
+      --surf2:   #101113;
+      --surf3:   #15171a;
+      --border:  #24262a;
+      --border2: #3a3d43;
+      --accent:  #a855f7;
+      --adim:    rgba(168,85,247,.13);
+      --ok:      #35d18f;
+      --err:     #ff5c63;
+      --warn:    #f2b84b;
+      --go:      #38bdf8;
+      --info:    #8b949e;
+      --txt:     #c0c3c7;
+      --tdim:    #62666d;
+      --tmut:    #858a91;
+      --tbright: #f0f1f3;
       --mono:    'JetBrains Mono', monospace;
-      --r:       3px;
+      --r:       0px;
     }
     *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
     html { scroll-behavior: smooth; }
@@ -51,7 +52,7 @@
       content: '';
       position: absolute;
       bottom: -1px; left: 0; right: 0; height: 1px;
-      background: linear-gradient(90deg, transparent, var(--accent) 35%, var(--warn) 65%, transparent);
+      background: linear-gradient(90deg, transparent, var(--border2) 20%, var(--accent) 50%, var(--border2) 80%, transparent);
       opacity: .3;
     }
     .h-inner {
@@ -95,6 +96,51 @@
       letter-spacing: .06em; transition: all .15s;
     }
     .api-btn:hover { color: var(--accent); border-color: var(--accent); background: var(--adim); }
+
+
+    /* ── GLOBE HERO ───────────────────────────────────── */
+    .globe-hero {
+      position: relative;
+      min-height: 520px;
+      border-bottom: 1px solid var(--border);
+      background:
+        linear-gradient(180deg, rgba(255,255,255,.035), transparent 44%),
+        radial-gradient(circle at 50% 18%, rgba(168,85,247,.12), transparent 32%),
+        var(--bg);
+      overflow: hidden;
+    }
+    .globe-hero::before {
+      content: '';
+      position: absolute; inset: 0;
+      background-image:
+        linear-gradient(rgba(255,255,255,.025) 1px, transparent 1px),
+        linear-gradient(90deg, rgba(255,255,255,.025) 1px, transparent 1px);
+      background-size: 36px 36px;
+      mask-image: linear-gradient(to bottom, #000, transparent 88%);
+      pointer-events: none;
+    }
+    .globe-shell { max-width: 1480px; height: 520px; margin: 0 auto; position: relative; }
+    #globe-canvas { width: 100%; height: 100%; display: block; cursor: grab; }
+    #globe-canvas:active { cursor: grabbing; }
+    .globe-key { position: absolute; right: 2rem; bottom: 1.4rem; display: flex; gap: .8rem; flex-wrap: wrap; z-index: 2; }
+    .key-item { font-size: .6rem; letter-spacing: .1em; color: var(--tmut); text-transform: uppercase; display: inline-flex; align-items: center; gap: .35rem; }
+    .key-dot { width: 7px; height: 7px; display: inline-block; border: 1px solid currentColor; background: currentColor; }
+    .globe-tip {
+      position: fixed; z-index: 100; pointer-events: none; display: none;
+      max-width: 300px; padding: .7rem .8rem; background: rgba(11,11,13,.94);
+      border: 1px solid var(--border2); box-shadow: 0 18px 60px rgba(0,0,0,.45);
+      color: var(--txt); backdrop-filter: blur(10px);
+    }
+    .tip-count { color: var(--accent); font-size: .58rem; letter-spacing: .12em; text-transform: uppercase; margin-bottom: .45rem; }
+    .tip-item { border-left: 2px solid var(--tdim); padding: .15rem 0 .25rem .55rem; margin-top: .45rem; }
+    .tip-item:first-child { margin-top: 0; }
+    .tip-name { color: var(--tbright); font-weight: 700; font-size: .78rem; line-height: 1.3; }
+    .tip-meta { color: var(--tmut); font-size: .66rem; line-height: 1.45; margin-top: .1rem; }
+    @media (max-width: 760px) {
+      .globe-hero, .globe-shell { min-height: 440px; height: 440px; }
+      .globe-key { left: 1rem; right: 1rem; bottom: .9rem; }
+    }
+
 
     /* ── STATS BAR ────────────────────────────────────── */
     .stats-bar { border-bottom: 1px solid var(--border); overflow-x: auto; }
@@ -183,7 +229,7 @@
     .card.oc-success::before { background: var(--ok); }
     .card.oc-failure::before { background: var(--err); }
     .card.oc-partial::before { background: var(--warn); }
-    .card.oc-upcoming::before { background: var(--accent); }
+    .card.oc-upcoming::before { background: var(--go); }
     .card.oc-unknown::before  { background: var(--tdim); }
 
     .card-row {
@@ -259,13 +305,13 @@
     .b-ok   { background: rgba(46,204,138,.11);  color: var(--ok);  border: 1px solid rgba(46,204,138,.27); }
     .b-err  { background: rgba(232,84,84,.11);   color: var(--err); border: 1px solid rgba(232,84,84,.27); }
     .b-part { background: rgba(240,180,41,.1);   color: var(--warn);border: 1px solid rgba(240,180,41,.27); }
-    .b-go   { background: rgba(232,101,26,.11);  color: var(--accent);border: 1px solid rgba(232,101,26,.27); animation: gblink 1.8s step-end infinite; }
+    .b-go   { background: rgba(56,189,248,.11);  color: var(--go);border: 1px solid rgba(56,189,248,.27); animation: gblink 1.8s step-end infinite; }
     .b-tbd  { background: rgba(70,86,112,.18);   color: var(--tdim); border: 1px solid var(--border2); }
     .b-hold { background: rgba(240,180,41,.09);  color: var(--warn); border: 1px solid rgba(240,180,41,.22); }
     .b-unk  { background: rgba(70,86,112,.13);   color: var(--tdim); border: 1px solid var(--border); }
     @keyframes gblink { 0%,100%{opacity:1} 50%{opacity:.5} }
 
-    .ccd   { font-size: .75rem; color: var(--accent); letter-spacing: .03em; text-align: right; }
+    .ccd   { font-size: .75rem; color: var(--go); letter-spacing: .03em; text-align: right; }
     .cprob { font-size: .68rem; color: var(--tmut); text-align: right; }
     .cprob .pv { color: var(--warn); }
 
@@ -319,7 +365,7 @@
 
     /* next launch */
     .nl-name { font-size: .9rem; font-weight: 700; color: var(--tbright); line-height: 1.3; margin-bottom: .4rem; }
-    .nl-cd   { font-size: 1.15rem; font-weight: 700; color: var(--accent); letter-spacing: .03em; margin-bottom: .35rem; }
+    .nl-cd   { font-size: 1.15rem; font-weight: 700; color: var(--go); letter-spacing: .03em; margin-bottom: .35rem; }
     .nl-det  { font-size: .75rem; color: var(--tmut); line-height: 1.5; }
     .nl-t    { font-size: .68rem; margin-top: .4rem; line-height: 1.8; }
     .nl-t .u { color: var(--info); display: block; }
@@ -367,7 +413,7 @@
       <div class="row"><span class="utc"   id="sync-utc">—</span></div>
       <div class="row"><span class="local" id="sync-local">—</span></div>
     </div>
-    <a class="api-btn" href="launches.json" target="_blank">
+    <a class="api-btn" href="https://alieron.github.io/launch-tracker/launches.json" target="_blank">
       <svg width="10" height="10" viewBox="0 0 12 12" fill="none">
         <rect x=".5" y=".5" width="11" height="11" rx="1.5" stroke="currentColor"/>
         <path d="M4 6h4M7 4l2 2-2 2" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round"/>
@@ -376,16 +422,31 @@
     </a>
   </div>
 </header>
+<!-- GLOBE -->
+<section class="globe-hero" aria-label="Launch site globe">
+  <div class="globe-shell">
+    <canvas id="globe-canvas"></canvas>
+    <div class="globe-key">
+      <span class="key-item" style="color:var(--go)"><span class="key-dot"></span>Upcoming / GO</span>
+      <span class="key-item" style="color:var(--ok)"><span class="key-dot"></span>Success</span>
+      <span class="key-item" style="color:var(--err)"><span class="key-dot"></span>Failure</span>
+      <span class="key-item" style="color:var(--warn)"><span class="key-dot"></span>Partial / Hold</span>
+    </div>
+  </div>
+  <div class="globe-tip" id="globe-tip"></div>
+</section>
+
 
 <!-- STATS -->
 <div class="stats-bar">
   <div class="stats-inner">
-    <div class="stat"><span class="stat-n" id="s-up">—</span><span class="stat-l">Upcoming</span></div>
+    <div class="stat"><span class="stat-n" style="color:var(--go)" id="s-up">—</span><span class="stat-l">Upcoming</span></div>
     <div class="stat"><span class="stat-n" style="color:var(--ok)"   id="s-ok">—</span><span class="stat-l">Successful</span></div>
     <div class="stat"><span class="stat-n" style="color:var(--err)"  id="s-err">—</span><span class="stat-l">Failed</span></div>
     <div class="stat"><span class="stat-n" style="color:var(--tmut)" id="s-tot">—</span><span class="stat-l">Total Tracked</span></div>
   </div>
 </div>
+
 
 <!-- FILTERS -->
 <div class="filter-bar">
@@ -472,9 +533,17 @@
   </div>
 </footer>
 
+<script src="https://cdn.jsdelivr.net/npm/three@0.128.0/build/three.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/three@0.128.0/examples/js/controls/OrbitControls.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/topojson-client@3/dist/topojson-client.min.js"></script>
 <script>
 // STATE
 let allLaunches = [];
+let globe = null;
+let globeMarkers = [];
+let globeVisualMarkers = [];
+let currentVisibleLaunches = [];
+
 
 // TIME HELPERS
 const MONS = ['JAN','FEB','MAR','APR','MAY','JUN','JUL','AUG','SEP','OCT','NOV','DEC'];
@@ -523,6 +592,289 @@ function relTime(iso) {
   const h = Math.floor(m / 60);
   if (h < 24)  return `${h}h ago`;
   return `${Math.floor(h / 24)}d ago`;
+}
+
+function htmlEsc(v) {
+  return String(v ?? '').replace(/[&<>'"]/g, c => ({
+    '&':'&amp;', '<':'&lt;', '>':'&gt;', "'":'&#39;', '"':'&quot;'
+  }[c]));
+}
+
+// THREE.JS GLOBE
+function cssVar(name) {
+  return getComputedStyle(document.documentElement).getPropertyValue(name).trim();
+}
+
+function latLonToVec(lat, lon, r = 2) {
+  const phi = lat * Math.PI / 180;
+  const theta = lon * Math.PI / 180;
+  return new THREE.Vector3(
+    r * Math.cos(phi) * Math.sin(theta),
+    r * Math.sin(phi),
+    r * Math.cos(phi) * Math.cos(theta)
+  );
+}
+
+function launchStatusColor(l) {
+  if (l.outcome === 'success') return cssVar('--ok');
+  if (l.outcome === 'failure') return cssVar('--err');
+  if (l.outcome === 'partial_failure' || l.status?.abbrev === 'Hold') return cssVar('--warn');
+  if (!l.outcome) return cssVar('--go');
+  return cssVar('--tdim');
+}
+
+function launchStatusText(l) {
+  if (l.outcome === 'success') return 'SUCCESS';
+  if (l.outcome === 'failure') return 'FAILURE';
+  if (l.outcome === 'partial_failure') return 'PARTIAL FAILURE';
+  if (!l.outcome) return l.status?.abbrev === 'Go' ? 'GO FOR LAUNCH' : 'UPCOMING';
+  return 'UNKNOWN';
+}
+
+function addGlobeRings(scene, r) {
+  const mkLine = (points, opacity = .12) => {
+    const geo = new THREE.BufferGeometry().setFromPoints(points);
+    const mat = new THREE.LineBasicMaterial({ color: 0x8b949e, transparent: true, opacity });
+    scene.add(new THREE.LineLoop(geo, mat));
+  };
+
+  const equator = [];
+  for (let lon = -180; lon < 180; lon += 4) equator.push(latLonToVec(0, lon, r + .006));
+  mkLine(equator, .18);
+}
+
+function addOutlineRing(scene, ring, r, mat) {
+  const pts = ring.map(([lon, lat]) => latLonToVec(lat, lon, r + .026));
+  if (pts.length < 2) return;
+  const geo = new THREE.BufferGeometry().setFromPoints(pts);
+  scene.add(new THREE.Line(geo, mat));
+}
+
+function addFallbackLandOutlines(scene, r) {
+  const group = new THREE.Group();
+  const mat = new THREE.LineBasicMaterial({
+    color: 0xe5e7eb, transparent: true, opacity: .22, depthTest: false
+  });
+
+  // coarse fallback only; replaced when 50m Natural Earth data loads
+  [
+    [[-168,72],[-140,69],[-122,55],[-128,46],[-123,32],[-107,22],[-94,15],[-82,24],[-70,43],[-58,50],[-64,62],[-95,73],[-130,72],[-168,72]],
+    [[-82,12],[-74,5],[-78,-8],[-70,-18],[-66,-34],[-58,-52],[-45,-55],[-36,-36],[-50,-18],[-48,-4],[-60,8],[-70,12],[-82,12]],
+    [[-18,35],[4,58],[32,70],[70,66],[110,74],[145,55],[160,44],[138,30],[104,22],[80,8],[44,12],[32,28],[10,35],[-18,35]],
+    [[-18,35],[6,36],[30,31],[42,12],[38,-8],[30,-28],[20,-35],[8,-34],[-6,-18],[-14,5],[-18,35]],
+    [[112,-11],[154,-10],[154,-30],[140,-44],[118,-34],[112,-20],[112,-11]],
+  ].forEach(ring => addOutlineRing(group, ring, r, mat));
+
+  scene.add(group);
+  return group;
+}
+
+function addGeoLines(scene, geometry, r, mat, renderOrder = 0) {
+  const lines = geometry.type === 'MultiLineString' ? geometry.coordinates : [geometry.coordinates];
+  lines.forEach(line => {
+    const pts = line.map(([lon, lat]) => latLonToVec(lat, lon, r + .032));
+    if (pts.length < 2) return;
+    const geo = new THREE.BufferGeometry().setFromPoints(pts);
+    const mesh = new THREE.Line(geo, mat);
+    mesh.renderOrder = renderOrder;
+    scene.add(mesh);
+  });
+}
+
+async function addLandOutlines(scene, r) {
+  const fallback = addFallbackLandOutlines(scene, r);
+  if (!window.topojson) return;
+  try {
+    const topo = await (await fetch('https://cdn.jsdelivr.net/npm/world-atlas@2/countries-50m.json')).json();
+    const group = new THREE.Group();
+    const backCoastMat = new THREE.LineBasicMaterial({
+      color: 0xf0f1f3, transparent: true, opacity: .13, depthTest: false
+    });
+    const backBorderMat = new THREE.LineBasicMaterial({
+      color: 0x9ca3af, transparent: true, opacity: .05, depthTest: false
+    });
+    const frontCoastMat = new THREE.LineBasicMaterial({
+      color: 0xf0f1f3, transparent: true, opacity: .9, depthTest: true
+    });
+    const frontBorderMat = new THREE.LineBasicMaterial({
+      color: 0x9ca3af, transparent: true, opacity: .22, depthTest: true
+    });
+    const countries = topo.objects.countries;
+    const coasts = topojson.mesh(topo, countries, (a, b) => a === b);
+    const borders = topojson.mesh(topo, countries, (a, b) => a !== b);
+
+    const depthSphere = new THREE.Mesh(
+      new THREE.SphereGeometry(r, 64, 32),
+      new THREE.MeshBasicMaterial({ colorWrite: false, depthWrite: true, depthTest: true })
+    );
+    depthSphere.renderOrder = 1;
+
+    addGeoLines(group, coasts, r, backCoastMat, 0);
+    addGeoLines(group, borders, r, backBorderMat, 0);
+    group.add(depthSphere);
+    addGeoLines(group, coasts, r, frontCoastMat, 2);
+    addGeoLines(group, borders, r, frontBorderMat, 2);
+    scene.remove(fallback);
+    scene.add(group);
+  } catch (e) {
+    console.warn('land outline load failed', e);
+  }
+}
+
+function initGlobe() {
+  const canvas = document.getElementById('globe-canvas');
+  if (!canvas || globe || !window.THREE) return;
+
+  const scene = new THREE.Scene();
+  const camera = new THREE.PerspectiveCamera(42, 1, .1, 100);
+  camera.position.set(0, .35, 6.2);
+
+  const renderer = new THREE.WebGLRenderer({ canvas, antialias: true, alpha: true });
+  renderer.setPixelRatio(Math.min(window.devicePixelRatio || 1, 2));
+
+  const globeGroup = new THREE.Group();
+  scene.add(globeGroup);
+
+  const sphere = new THREE.Mesh(
+    new THREE.SphereGeometry(2, 64, 32),
+    new THREE.MeshBasicMaterial({ color: 0x8b949e, wireframe: true, transparent: true, opacity: .018 })
+  );
+  globeGroup.add(sphere);
+  addGlobeRings(globeGroup, 2);
+  addLandOutlines(globeGroup, 2);
+
+  const controls = new THREE.OrbitControls(camera, renderer.domElement);
+  controls.enableDamping = true;
+  controls.dampingFactor = .06;
+  controls.enablePan = false;
+  controls.minDistance = 3.6;
+  controls.maxDistance = 8;
+  controls.autoRotate = true;
+  controls.autoRotateSpeed = .35;
+
+  let rotateTimer = null;
+  const pauseRotate = (ms = 9000) => {
+    controls.autoRotate = false;
+    clearTimeout(rotateTimer);
+    rotateTimer = setTimeout(() => { controls.autoRotate = true; }, ms);
+  };
+
+  const raycaster = new THREE.Raycaster();
+  const pointer = new THREE.Vector2(-9, -9);
+  const tip = document.getElementById('globe-tip');
+
+  function resize() {
+    const rect = canvas.getBoundingClientRect();
+    renderer.setSize(rect.width, rect.height, false);
+    camera.aspect = rect.width / rect.height;
+    camera.updateProjectionMatrix();
+  }
+
+  function move(e) {
+    pauseRotate();
+    const rect = canvas.getBoundingClientRect();
+    pointer.x = ((e.clientX - rect.left) / rect.width) * 2 - 1;
+    pointer.y = -((e.clientY - rect.top) / rect.height) * 2 + 1;
+    if (tip) { tip.style.left = `${e.clientX + 14}px`; tip.style.top = `${e.clientY + 14}px`; }
+  }
+
+  function leave() {
+    pointer.set(-9, -9);
+    canvas.style.cursor = 'grab';
+    if (tip) tip.style.display = 'none';
+  }
+
+  canvas.addEventListener('pointermove', move);
+  canvas.addEventListener('pointerdown', () => pauseRotate());
+  canvas.addEventListener('wheel', () => pauseRotate(), { passive: true });
+  canvas.addEventListener('pointerleave', leave);
+  window.addEventListener('resize', resize);
+  resize();
+
+  function animate() {
+    requestAnimationFrame(animate);
+    controls.update();
+    globeVisualMarkers.forEach(m => {
+      const s = 1 + Math.sin(Date.now() * .003 + (m.userData.phase || 0)) * .16;
+      m.scale.setScalar(s);
+    });
+    raycaster.setFromCamera(pointer, camera);
+    const hits = raycaster.intersectObjects(globeMarkers, false).filter(h => {
+      const p = h.object.getWorldPosition(new THREE.Vector3());
+      const n = p.clone().normalize();
+      const toCam = camera.position.clone().sub(p).normalize();
+      return n.dot(toCam) > 0;
+    });
+    const seen = new Set();
+    const hovered = [];
+    hits.forEach(h => {
+      const l = h.object.userData.launch;
+      if (l?.id && !seen.has(l.id)) {
+        seen.add(l.id);
+        hovered.push(l);
+      }
+    });
+    canvas.style.cursor = hovered.length ? 'crosshair' : 'grab';
+    if (hovered.length && tip) {
+      tip.style.display = 'block';
+      tip.innerHTML = `${hovered.length > 1 ? `<div class="tip-count">${hovered.length} launches here</div>` : ''}
+        ${hovered.slice(0, 8).map(l => `<div class="tip-item" style="border-left-color:${launchStatusColor(l)}">
+          <div class="tip-name">${htmlEsc(l.name)}</div>
+          <div class="tip-meta">${htmlEsc(dateBlock(l.net).day)} ${htmlEsc(dateBlock(l.net).mon)} ${htmlEsc(dateBlock(l.net).yr)} · ${launchStatusText(l)}</div>
+        </div>`).join('')}
+        ${hovered.length > 8 ? `<div class="tip-meta">+${hovered.length - 8} more</div>` : ''}`;
+    } else if (tip) {
+      tip.style.display = 'none';
+    }
+    renderer.render(scene, camera);
+  }
+
+  globe = { scene, group: globeGroup, renderer, camera };
+  animate();
+}
+
+function updateGlobe(launches = allLaunches) {
+  initGlobe();
+  if (!globe) return;
+
+  globeMarkers.forEach(m => globe.group.remove(m));
+  globeVisualMarkers.forEach(m => globe.group.remove(m));
+  globeMarkers = [];
+  globeVisualMarkers = [];
+
+  const now = new Date();
+  const hasCoords = l => Number.isFinite(parseFloat(l.pad?.latitude)) && Number.isFinite(parseFloat(l.pad?.longitude));
+  const upcoming = launches
+    .filter(l => !l.outcome && l.net && new Date(l.net) > now && hasCoords(l))
+    .sort((a, b) => new Date(a.net || 0) - new Date(b.net || 0));
+  const completed = launches
+    .filter(l => l.outcome && l.outcome !== 'postponed' && hasCoords(l))
+    .sort((a, b) => new Date(b.net || 0) - new Date(a.net || 0))
+    .slice(0, 5);
+  const recent = [...upcoming, ...completed];
+
+  recent.forEach((l, i) => {
+    const pos = latLonToVec(parseFloat(l.pad.latitude), parseFloat(l.pad.longitude), 2.08);
+    const color = new THREE.Color(launchStatusColor(l));
+    const marker = new THREE.Mesh(
+      new THREE.OctahedronGeometry(.045, 0),
+      new THREE.MeshBasicMaterial({ color, transparent: true, opacity: .95 })
+    );
+    marker.position.copy(pos);
+    marker.userData = { launch: l, phase: i * .37 };
+
+    const hit = new THREE.Mesh(
+      new THREE.SphereGeometry(.13, 12, 8),
+      new THREE.MeshBasicMaterial({ color, transparent: true, opacity: 0, depthWrite: false })
+    );
+    hit.position.copy(pos);
+    hit.userData = { launch: l };
+
+    globe.group.add(marker);
+    globe.group.add(hit);
+    globeVisualMarkers.push(marker);
+    globeMarkers.push(hit);
+  });
 }
 
 // MISSION TYPE → CSS CLASS
@@ -719,6 +1071,8 @@ window.applyFilters = () => {
 
   if (!allLaunches.length) {
     grid.innerHTML = EMPTY;
+    currentVisibleLaunches = [];
+    updateGlobe([]);
     return;
   }
 
@@ -727,17 +1081,22 @@ window.applyFilters = () => {
   const showConcluded = !['upcoming','go'].includes(st);
 
   const parts = [];
+  const visible = [];
 
   if (showUpcoming) {
+    visible.push(...upcoming);
     parts.push(makeSep('Upcoming', upcoming.length));
     parts.push(upcoming.length ? upcoming.map(renderCard).join('') : NORES);
   }
 
   if (showConcluded) {
+    visible.push(...concluded);
     parts.push(makeSep('Concluded', concluded.length));
     parts.push(concluded.length ? concluded.map(renderCard).join('') : NORES);
   }
 
+  currentVisibleLaunches = visible;
+  updateGlobe(currentVisibleLaunches);
   grid.innerHTML = parts.join('');
 };
 
@@ -853,7 +1212,7 @@ function renderStats() {
 // LOAD DATA
 async function loadData() {
   try {
-    const data = await (await fetch('launches.json?t=' + Date.now())).json();
+    const data = await (await fetch('https://alieron.github.io/launch-tracker/launches.json?t=' + Date.now())).json();
     allLaunches = data.launches || [];
 
     if (data.last_updated) {
