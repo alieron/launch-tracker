@@ -123,67 +123,6 @@
       ]
     },
     {
-      "id": "459225a2-dc1a-43d7-8c2c-78f9552b0a05",
-      "name": "Long March 12B | Demo Flight",
-      "slug": "long-march-12b-demo-flight",
-      "status": {
-        "id": 2,
-        "abbrev": "TBD",
-        "name": "To Be Determined",
-        "description": "Current date is a placeholder or rough estimation based on unreliable or interpreted sources."
-      },
-      "net": "2026-06-30T00:00:00Z",
-      "window_start": "2026-06-30T00:00:00Z",
-      "window_end": "2026-06-30T00:00:00Z",
-      "probability": null,
-      "rocket": {
-        "name": "Long March 12B",
-        "family": "Long March",
-        "manufacturer": "China Aerospace Science and Technology Corporation",
-        "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/long_march_12b__image_20260116122300.jpg"
-      },
-      "mission": {
-        "name": "Demo Flight",
-        "description": "First test launch of CASC\u2019s Long March 12B rocket.",
-        "type": "Test Flight",
-        "orbit": "Unknown"
-      },
-      "pad": {
-        "name": "Long March 12 series Pad",
-        "location": "Jiuquan Satellite Launch Center, People's Republic of China",
-        "country": "CHN",
-        "latitude": "40.891596",
-        "longitude": "100.217289"
-      },
-      "agency": {
-        "name": "China Aerospace Science and Technology Corporation",
-        "abbrev": "CASC",
-        "type": "Government"
-      },
-      "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/long_march_12b__image_20260116122300.jpg",
-      "vidURLs": [],
-      "webcast_live": false,
-      "discovered_at": "2026-03-23T08:19:21.926579+00:00",
-      "last_updated_at": "2026-06-01T10:36:31.108585+00:00",
-      "outcome": null,
-      "failure_reason": null,
-      "status_history": [
-        {
-          "at": "2026-03-23T08:19:21.926581+00:00",
-          "status_id": 2,
-          "abbrev": "TBD",
-          "net": "2026-03-31T00:00:00Z"
-        },
-        {
-          "at": "2026-03-31T01:58:07.948724+00:00",
-          "status_id": 2,
-          "abbrev": "TBD",
-          "net": "2026-06-30T00:00:00Z",
-          "prev_net": "2026-03-31T00:00:00Z"
-        }
-      ]
-    },
-    {
       "id": "a57aed97-b94f-42e1-905e-9421dbd96ac8",
       "name": "Ariane 64 | MTG-I2",
       "slug": "ariane-64-mtg-i2",
@@ -441,7 +380,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-05-06T23:47:31.511670+00:00",
-      "last_updated_at": "2026-06-01T10:36:31.108486+00:00",
+      "last_updated_at": "2026-06-01T16:34:14.559975+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -495,7 +434,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-04-09T21:07:11.353167+00:00",
-      "last_updated_at": "2026-06-01T10:36:31.108473+00:00",
+      "last_updated_at": "2026-06-01T16:34:14.559968+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -556,7 +495,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-04-24T09:15:14.350986+00:00",
-      "last_updated_at": "2026-06-01T10:36:31.108502+00:00",
+      "last_updated_at": "2026-06-01T16:34:14.559988+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -617,7 +556,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-05-15T13:55:15.723939+00:00",
-      "last_updated_at": "2026-06-01T10:36:31.108524+00:00",
+      "last_updated_at": "2026-06-01T16:34:14.560016+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -676,7 +615,7 @@
       ],
       "webcast_live": false,
       "discovered_at": "2026-05-08T05:26:41.700479+00:00",
-      "last_updated_at": "2026-06-01T10:36:31.108495+00:00",
+      "last_updated_at": "2026-06-01T16:34:14.559982+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -783,7 +722,7 @@
       ],
       "webcast_live": false,
       "discovered_at": "2026-03-23T08:19:21.926409+00:00",
-      "last_updated_at": "2026-06-01T10:36:31.108509+00:00",
+      "last_updated_at": "2026-06-01T16:34:14.559994+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -934,7 +873,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-05-21T02:50:34.747203+00:00",
-      "last_updated_at": "2026-06-01T10:36:31.108532+00:00",
+      "last_updated_at": "2026-06-01T16:34:14.560023+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -988,7 +927,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-04-08T14:52:10.605497+00:00",
-      "last_updated_at": "2026-06-01T10:36:31.108516+00:00",
+      "last_updated_at": "2026-06-01T16:34:14.560010+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -1049,7 +988,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-05-22T10:45:39.299013+00:00",
-      "last_updated_at": "2026-06-01T10:36:31.108541+00:00",
+      "last_updated_at": "2026-06-01T16:34:14.560030+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -1103,7 +1042,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-05-23T10:50:25.590716+00:00",
-      "last_updated_at": "2026-06-01T10:36:31.108549+00:00",
+      "last_updated_at": "2026-06-01T16:34:14.560038+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -1157,7 +1096,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-05-23T23:27:53.827771+00:00",
-      "last_updated_at": "2026-06-01T10:36:31.108556+00:00",
+      "last_updated_at": "2026-06-01T16:34:14.560044+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -1211,7 +1150,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-05-25T17:04:27.842481+00:00",
-      "last_updated_at": "2026-06-01T10:36:31.108564+00:00",
+      "last_updated_at": "2026-06-01T16:34:14.560052+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -1265,7 +1204,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-05-26T14:56:49.014989+00:00",
-      "last_updated_at": "2026-06-01T10:36:31.108570+00:00",
+      "last_updated_at": "2026-06-01T16:34:14.560058+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -1455,7 +1394,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-05-31T16:40:18.062998+00:00",
-      "last_updated_at": "2026-06-01T10:36:31.108579+00:00",
+      "last_updated_at": "2026-06-01T16:34:14.560066+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -1622,7 +1561,7 @@
       ],
       "webcast_live": false,
       "discovered_at": "2026-05-21T21:09:03.487759+00:00",
-      "last_updated_at": "2026-06-01T10:36:31.108466+00:00",
+      "last_updated_at": "2026-06-01T16:34:14.559961+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -1683,7 +1622,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-04-25T07:07:49.068854+00:00",
-      "last_updated_at": "2026-06-01T10:36:31.108454+00:00",
+      "last_updated_at": "2026-06-01T16:34:14.559950+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -1737,7 +1676,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-05-29T19:05:54.989181+00:00",
-      "last_updated_at": "2026-06-01T10:36:31.108445+00:00",
+      "last_updated_at": "2026-06-01T16:34:14.559942+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -1791,7 +1730,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-05-07T15:11:41.797008+00:00",
-      "last_updated_at": "2026-06-01T10:36:31.108437+00:00",
+      "last_updated_at": "2026-06-01T16:34:14.559933+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -1822,65 +1761,6 @@
           "abbrev": "TBD",
           "net": "2026-06-10T00:00:00Z",
           "prev_net": "2026-06-30T00:00:00Z"
-        }
-      ]
-    },
-    {
-      "id": "114577dc-7617-461c-aaeb-9bd0f64b5a4b",
-      "name": "Falcon 9 Block 5 | Starlink Group 10-35",
-      "slug": "falcon-9-block-5-starlink-group-10-35",
-      "status": {
-        "id": 1,
-        "abbrev": "Go",
-        "name": "Go for Launch",
-        "description": "Current T-0 confirmed by official or reliable sources."
-      },
-      "net": "2026-06-08T10:07:00Z",
-      "window_start": "2026-06-08T10:07:00Z",
-      "window_end": "2026-06-08T14:07:00Z",
-      "probability": null,
-      "rocket": {
-        "name": "Falcon 9",
-        "family": "Falcon",
-        "manufacturer": "SpaceX",
-        "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/falcon_9_image_20230807133459.jpeg"
-      },
-      "mission": {
-        "name": "Starlink Group 10-35",
-        "description": "A batch of 29 satellites for the Starlink mega-constellation - SpaceX's project for space-based Internet communication system.",
-        "type": "Communications",
-        "orbit": "Low Earth Orbit"
-      },
-      "pad": {
-        "name": "Space Launch Complex 40",
-        "location": "Cape Canaveral SFS, FL, USA",
-        "country": "USA",
-        "latitude": "28.56194122",
-        "longitude": "-80.57735736"
-      },
-      "agency": {
-        "name": "SpaceX",
-        "abbrev": "SpX",
-        "type": "Commercial"
-      },
-      "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/falcon2520925_image_20221009234147.png",
-      "vidURLs": [
-        {
-          "title": "Starlink Mission",
-          "url": "https://x.com/i/broadcasts/1AKEmmPDOpRKL"
-        }
-      ],
-      "webcast_live": false,
-      "discovered_at": "2026-05-27T22:15:23.532281+00:00",
-      "last_updated_at": "2026-06-01T10:36:31.108430+00:00",
-      "outcome": null,
-      "failure_reason": null,
-      "status_history": [
-        {
-          "at": "2026-05-27T22:15:23.532284+00:00",
-          "status_id": 1,
-          "abbrev": "Go",
-          "net": "2026-06-08T10:07:00Z"
         }
       ]
     },
@@ -1926,7 +1806,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-04-11T15:28:51.958924+00:00",
-      "last_updated_at": "2026-06-01T10:36:31.108419+00:00",
+      "last_updated_at": "2026-06-01T16:34:14.559926+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -1993,6 +1873,72 @@
       ]
     },
     {
+      "id": "114577dc-7617-461c-aaeb-9bd0f64b5a4b",
+      "name": "Falcon 9 Block 5 | Starlink Group 10-35",
+      "slug": "falcon-9-block-5-starlink-group-10-35",
+      "status": {
+        "id": 1,
+        "abbrev": "Go",
+        "name": "Go for Launch",
+        "description": "Current T-0 confirmed by official or reliable sources."
+      },
+      "net": "2026-06-07T10:30:00Z",
+      "window_start": "2026-06-07T10:30:00Z",
+      "window_end": "2026-06-07T14:30:00Z",
+      "probability": null,
+      "rocket": {
+        "name": "Falcon 9",
+        "family": "Falcon",
+        "manufacturer": "SpaceX",
+        "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/falcon_9_image_20230807133459.jpeg"
+      },
+      "mission": {
+        "name": "Starlink Group 10-35",
+        "description": "A batch of 29 satellites for the Starlink mega-constellation - SpaceX's project for space-based Internet communication system.",
+        "type": "Communications",
+        "orbit": "Low Earth Orbit"
+      },
+      "pad": {
+        "name": "Space Launch Complex 40",
+        "location": "Cape Canaveral SFS, FL, USA",
+        "country": "USA",
+        "latitude": "28.56194122",
+        "longitude": "-80.57735736"
+      },
+      "agency": {
+        "name": "SpaceX",
+        "abbrev": "SpX",
+        "type": "Commercial"
+      },
+      "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/falcon2520925_image_20221009234147.png",
+      "vidURLs": [
+        {
+          "title": "Starlink Mission",
+          "url": "https://x.com/i/broadcasts/1AKEmmPDOpRKL"
+        }
+      ],
+      "webcast_live": false,
+      "discovered_at": "2026-05-27T22:15:23.532281+00:00",
+      "last_updated_at": "2026-06-01T16:34:14.559915+00:00",
+      "outcome": null,
+      "failure_reason": null,
+      "status_history": [
+        {
+          "at": "2026-05-27T22:15:23.532284+00:00",
+          "status_id": 1,
+          "abbrev": "Go",
+          "net": "2026-06-08T10:07:00Z"
+        },
+        {
+          "at": "2026-06-01T16:34:14.559919+00:00",
+          "status_id": 1,
+          "abbrev": "Go",
+          "net": "2026-06-07T10:30:00Z",
+          "prev_net": "2026-06-08T10:07:00Z"
+        }
+      ]
+    },
+    {
       "id": "3dd21d77-a37d-419c-86fb-8591fe256583",
       "name": "Long March 8 | Unknown Payload",
       "slug": "long-march-8-unknown-payload",
@@ -2034,7 +1980,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-05-26T17:55:08.657133+00:00",
-      "last_updated_at": "2026-06-01T10:36:31.108406+00:00",
+      "last_updated_at": "2026-06-01T16:34:14.559906+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -2149,7 +2095,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-05-28T18:07:04.025826+00:00",
-      "last_updated_at": "2026-06-01T10:36:31.108396+00:00",
+      "last_updated_at": "2026-06-01T16:34:14.559892+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -2208,7 +2154,7 @@
       ],
       "webcast_live": false,
       "discovered_at": "2026-05-19T08:23:08.121751+00:00",
-      "last_updated_at": "2026-06-01T10:36:31.108381+00:00",
+      "last_updated_at": "2026-06-01T16:34:14.559883+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -2302,7 +2248,7 @@
       ],
       "webcast_live": false,
       "discovered_at": "2026-05-21T19:24:06.767358+00:00",
-      "last_updated_at": "2026-06-01T10:36:31.108347+00:00",
+      "last_updated_at": "2026-06-01T16:34:14.559869+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -2311,6 +2257,75 @@
           "status_id": 1,
           "abbrev": "Go",
           "net": "2026-06-03T08:02:00Z"
+        }
+      ]
+    },
+    {
+      "id": "459225a2-dc1a-43d7-8c2c-78f9552b0a05",
+      "name": "Long March 12B | Demo Flight (SpaceSail Polar Group #10)",
+      "slug": "long-march-12b-demo-flight-spacesail-polar-group-1",
+      "status": {
+        "id": 3,
+        "abbrev": "Success",
+        "name": "Launch Successful",
+        "description": "The launch vehicle successfully inserted its payload(s) into the target orbit(s)."
+      },
+      "net": "2026-06-01T08:40:00Z",
+      "window_start": "2026-06-01T08:40:00Z",
+      "window_end": "2026-06-01T08:40:00Z",
+      "probability": null,
+      "rocket": {
+        "name": "Long March 12B",
+        "family": "Long March",
+        "manufacturer": "China Aerospace Science and Technology Corporation",
+        "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/long_march_12b__image_20260601133855.jpeg"
+      },
+      "mission": {
+        "name": "Demo Flight (SpaceSail Polar Group #10)",
+        "description": "First test launch of CASC/CACL\u2019s Long March 12B rocket; carried a batch of 2 operational Low Earth Orbit communication satellites with Ku, Q and V band payloads for the G60 constellation operated by Shanghai Spacesail Technologies with funding backed by the Shanghai local government.\r\n\r\nInitial constellation will consist of 1296 satellites by 2027 with long term plans to expand it to 12000 satellites.",
+        "type": "Test Flight",
+        "orbit": "Polar Orbit"
+      },
+      "pad": {
+        "name": "Long March 12 series Pad",
+        "location": "Jiuquan Satellite Launch Center, People's Republic of China",
+        "country": "CHN",
+        "latitude": "40.891596",
+        "longitude": "100.217289"
+      },
+      "agency": {
+        "name": "China Aerospace Science and Technology Corporation",
+        "abbrev": "CASC",
+        "type": "Government"
+      },
+      "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/long_march_12b__image_20260601133855.jpeg",
+      "vidURLs": [],
+      "webcast_live": false,
+      "discovered_at": "2026-03-23T08:19:21.926579+00:00",
+      "last_updated_at": "2026-06-01T16:34:14.559826+00:00",
+      "outcome": "success",
+      "failure_reason": null,
+      "status_history": [
+        {
+          "at": "2026-03-23T08:19:21.926581+00:00",
+          "status_id": 2,
+          "abbrev": "TBD",
+          "net": "2026-03-31T00:00:00Z"
+        },
+        {
+          "at": "2026-03-31T01:58:07.948724+00:00",
+          "status_id": 2,
+          "abbrev": "TBD",
+          "net": "2026-06-30T00:00:00Z",
+          "prev_net": "2026-03-31T00:00:00Z"
+        },
+        {
+          "at": "2026-06-01T16:34:14.559849+00:00",
+          "status_id": 3,
+          "abbrev": "Success",
+          "net": "2026-06-01T08:40:00Z",
+          "prev_net": "2026-06-30T00:00:00Z",
+          "prev_abbrev": "TBD"
         }
       ]
     },
@@ -8741,5 +8756,5 @@
       ]
     }
   ],
-  "last_updated": "2026-06-01T10:36:31.108857+00:00"
+  "last_updated": "2026-06-01T16:34:14.560349+00:00"
 }
