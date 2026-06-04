@@ -123,6 +123,75 @@
       ]
     },
     {
+      "id": "ca3d56b7-2175-48e4-9a6a-2ecc9996d96b",
+      "name": "New Glenn | Amazon Leo (LN-01)",
+      "slug": "new-glenn-amazon-leo-ln-01",
+      "status": {
+        "id": 2,
+        "abbrev": "TBD",
+        "name": "To Be Determined",
+        "description": "Current date is a placeholder or rough estimation based on unreliable or interpreted sources."
+      },
+      "net": "2026-12-31T00:00:00Z",
+      "window_start": "2026-12-31T00:00:00Z",
+      "window_end": "2026-12-31T00:00:00Z",
+      "probability": null,
+      "rocket": {
+        "name": "New Glenn",
+        "family": "New Glenn",
+        "manufacturer": "Blue Origin",
+        "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/new_glenn_on_lc_image_20240313170026.jpeg"
+      },
+      "mission": {
+        "name": "Amazon Leo (LN-01)",
+        "description": "Amazon Leo, formerly known as Project Kuiper, is a mega constellation of satellites in Low Earth Orbit that will offer broadband internet access, this constellation will be managed by Kuiper Systems LLC, a subsidiary of Amazon. This constellation is planned to be composed of 3,276 satellites. The satellites are projected to be placed in 98 orbital planes in three orbital layers, one at 590 km, 610 km and 630 km altitude.\r\n\r\n48 satellites will be carried on this New Glenn launch.",
+        "type": "Communications",
+        "orbit": "Low Earth Orbit"
+      },
+      "pad": {
+        "name": "Launch Complex 36A",
+        "location": "Cape Canaveral SFS, FL, USA",
+        "country": "USA",
+        "latitude": "28.4705556",
+        "longitude": "-80.542194"
+      },
+      "agency": {
+        "name": "Blue Origin",
+        "abbrev": "BO",
+        "type": "Commercial"
+      },
+      "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/new_glenn_on_lc_image_20240313170026.jpeg",
+      "vidURLs": [],
+      "webcast_live": false,
+      "discovered_at": "2026-05-26T20:02:33.957737+00:00",
+      "last_updated_at": "2026-06-04T19:21:07.513153+00:00",
+      "outcome": null,
+      "failure_reason": null,
+      "status_history": [
+        {
+          "at": "2026-05-26T20:02:33.957739+00:00",
+          "status_id": 8,
+          "abbrev": "TBC",
+          "net": "2026-06-02T18:04:00Z"
+        },
+        {
+          "at": "2026-05-27T17:55:17.833032+00:00",
+          "status_id": 8,
+          "abbrev": "TBC",
+          "net": "2026-06-04T17:21:00Z",
+          "prev_net": "2026-06-02T18:04:00Z"
+        },
+        {
+          "at": "2026-06-04T19:21:07.513171+00:00",
+          "status_id": 2,
+          "abbrev": "TBD",
+          "net": "2026-12-31T00:00:00Z",
+          "prev_net": "2026-06-04T17:21:00Z",
+          "prev_abbrev": "TBC"
+        }
+      ]
+    },
+    {
       "id": "a57aed97-b94f-42e1-905e-9421dbd96ac8",
       "name": "Ariane 64 | MTG-I2",
       "slug": "ariane-64-mtg-i2",
@@ -380,7 +449,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-05-06T23:47:31.511670+00:00",
-      "last_updated_at": "2026-06-04T16:51:57.524474+00:00",
+      "last_updated_at": "2026-06-04T19:21:07.219087+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -434,7 +503,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-04-09T21:07:11.353167+00:00",
-      "last_updated_at": "2026-06-04T16:51:57.524465+00:00",
+      "last_updated_at": "2026-06-04T19:21:07.219081+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -495,7 +564,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-04-24T09:15:14.350986+00:00",
-      "last_updated_at": "2026-06-04T16:51:57.524495+00:00",
+      "last_updated_at": "2026-06-04T19:21:07.219106+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -556,7 +625,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-05-15T13:55:15.723939+00:00",
-      "last_updated_at": "2026-06-04T16:51:57.524540+00:00",
+      "last_updated_at": "2026-06-04T19:21:07.219137+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -615,7 +684,7 @@
       ],
       "webcast_live": false,
       "discovered_at": "2026-05-08T05:26:41.700479+00:00",
-      "last_updated_at": "2026-06-04T16:51:57.524481+00:00",
+      "last_updated_at": "2026-06-04T19:21:07.219093+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -722,7 +791,7 @@
       ],
       "webcast_live": false,
       "discovered_at": "2026-03-23T08:19:21.926409+00:00",
-      "last_updated_at": "2026-06-04T16:51:57.524527+00:00",
+      "last_updated_at": "2026-06-04T19:21:07.219126+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -927,7 +996,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-04-08T14:52:10.605497+00:00",
-      "last_updated_at": "2026-06-04T16:51:57.524533+00:00",
+      "last_updated_at": "2026-06-04T19:21:07.219131+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -1448,7 +1517,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-05-07T15:11:41.797008+00:00",
-      "last_updated_at": "2026-06-04T16:51:57.524488+00:00",
+      "last_updated_at": "2026-06-04T19:21:07.219099+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -1531,7 +1600,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-05-29T19:05:54.989181+00:00",
-      "last_updated_at": "2026-06-04T16:51:57.524501+00:00",
+      "last_updated_at": "2026-06-04T19:21:07.219111+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -1593,7 +1662,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-04-11T15:28:51.958924+00:00",
-      "last_updated_at": "2026-06-04T16:51:57.524514+00:00",
+      "last_updated_at": "2026-06-04T19:21:07.219117+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -1763,7 +1832,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-06-04T13:55:41.980497+00:00",
-      "last_updated_at": "2026-06-04T16:51:57.524458+00:00",
+      "last_updated_at": "2026-06-04T19:21:07.219075+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -1817,7 +1886,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-06-04T13:55:41.980485+00:00",
-      "last_updated_at": "2026-06-04T16:51:57.524450+00:00",
+      "last_updated_at": "2026-06-04T19:21:07.219068+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -1925,7 +1994,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-06-04T13:55:41.980471+00:00",
-      "last_updated_at": "2026-06-04T16:51:57.524443+00:00",
+      "last_updated_at": "2026-06-04T19:21:07.219062+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -1984,7 +2053,7 @@
       ],
       "webcast_live": false,
       "discovered_at": "2026-06-02T21:28:46.464699+00:00",
-      "last_updated_at": "2026-06-04T16:51:57.524431+00:00",
+      "last_updated_at": "2026-06-04T19:21:07.219055+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -2050,7 +2119,7 @@
       ],
       "webcast_live": false,
       "discovered_at": "2026-06-02T21:28:46.464681+00:00",
-      "last_updated_at": "2026-06-04T16:51:57.524424+00:00",
+      "last_updated_at": "2026-06-04T19:21:07.219048+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -2111,7 +2180,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-06-04T13:55:41.980432+00:00",
-      "last_updated_at": "2026-06-04T16:51:57.524415+00:00",
+      "last_updated_at": "2026-06-04T19:21:07.219043+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -2170,7 +2239,7 @@
       ],
       "webcast_live": false,
       "discovered_at": "2026-05-21T21:09:03.487759+00:00",
-      "last_updated_at": "2026-06-04T16:51:57.524408+00:00",
+      "last_updated_at": "2026-06-04T19:21:07.219037+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -2231,7 +2300,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-06-02T05:09:19.680322+00:00",
-      "last_updated_at": "2026-06-04T16:51:57.524395+00:00",
+      "last_updated_at": "2026-06-04T19:21:07.219031+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -2293,7 +2362,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-04-25T07:07:49.068854+00:00",
-      "last_updated_at": "2026-06-04T16:51:57.524387+00:00",
+      "last_updated_at": "2026-06-04T19:21:07.219024+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -2347,7 +2416,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-06-04T13:55:41.980387+00:00",
-      "last_updated_at": "2026-06-04T16:51:57.524380+00:00",
+      "last_updated_at": "2026-06-04T19:21:07.219017+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -2406,7 +2475,7 @@
       ],
       "webcast_live": false,
       "discovered_at": "2026-05-27T22:15:23.532281+00:00",
-      "last_updated_at": "2026-06-04T16:51:57.524372+00:00",
+      "last_updated_at": "2026-06-04T19:21:07.219010+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -2479,7 +2548,7 @@
       ],
       "webcast_live": false,
       "discovered_at": "2026-06-03T17:25:15.157680+00:00",
-      "last_updated_at": "2026-06-04T16:51:57.524362+00:00",
+      "last_updated_at": "2026-06-04T19:21:07.219002+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -2540,7 +2609,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-05-26T17:55:08.657133+00:00",
-      "last_updated_at": "2026-06-04T16:51:57.524352+00:00",
+      "last_updated_at": "2026-06-04T19:21:07.218992+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -2557,67 +2626,6 @@
           "net": "2026-06-05T06:30:00Z",
           "prev_net": "2026-06-05T05:00:00Z",
           "prev_abbrev": "TBC"
-        }
-      ]
-    },
-    {
-      "id": "ca3d56b7-2175-48e4-9a6a-2ecc9996d96b",
-      "name": "New Glenn | Amazon Leo (LN-01)",
-      "slug": "new-glenn-amazon-leo-ln-01",
-      "status": {
-        "id": 8,
-        "abbrev": "TBC",
-        "name": "To Be Confirmed",
-        "description": "Awaiting official confirmation - current date is known with some certainty."
-      },
-      "net": "2026-06-04T17:21:00Z",
-      "window_start": "2026-06-04T17:21:00Z",
-      "window_end": "2026-06-04T19:30:00Z",
-      "probability": null,
-      "rocket": {
-        "name": "New Glenn",
-        "family": "New Glenn",
-        "manufacturer": "Blue Origin",
-        "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/new_glenn_on_lc_image_20240313170026.jpeg"
-      },
-      "mission": {
-        "name": "Amazon Leo (LN-01)",
-        "description": "Amazon Leo, formerly known as Project Kuiper, is a mega constellation of satellites in Low Earth Orbit that will offer broadband internet access, this constellation will be managed by Kuiper Systems LLC, a subsidiary of Amazon. This constellation is planned to be composed of 3,276 satellites. The satellites are projected to be placed in 98 orbital planes in three orbital layers, one at 590 km, 610 km and 630 km altitude.\r\n\r\n48 satellites will be carried on this New Glenn launch.",
-        "type": "Communications",
-        "orbit": "Low Earth Orbit"
-      },
-      "pad": {
-        "name": "Launch Complex 36A",
-        "location": "Cape Canaveral SFS, FL, USA",
-        "country": "USA",
-        "latitude": "28.4705556",
-        "longitude": "-80.542194"
-      },
-      "agency": {
-        "name": "Blue Origin",
-        "abbrev": "BO",
-        "type": "Commercial"
-      },
-      "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/new_glenn_on_lc_image_20240313170026.jpeg",
-      "vidURLs": [],
-      "webcast_live": false,
-      "discovered_at": "2026-05-26T20:02:33.957737+00:00",
-      "last_updated_at": "2026-05-29T00:07:09.632979+00:00",
-      "outcome": null,
-      "failure_reason": null,
-      "status_history": [
-        {
-          "at": "2026-05-26T20:02:33.957739+00:00",
-          "status_id": 8,
-          "abbrev": "TBC",
-          "net": "2026-06-02T18:04:00Z"
-        },
-        {
-          "at": "2026-05-27T17:55:17.833032+00:00",
-          "status_id": 8,
-          "abbrev": "TBC",
-          "net": "2026-06-04T17:21:00Z",
-          "prev_net": "2026-06-02T18:04:00Z"
         }
       ]
     },
@@ -2663,7 +2671,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-05-28T18:07:04.025826+00:00",
-      "last_updated_at": "2026-06-04T16:51:57.524335+00:00",
+      "last_updated_at": "2026-06-04T19:21:07.218978+00:00",
       "outcome": "success",
       "failure_reason": null,
       "status_history": [
@@ -2742,7 +2750,7 @@
       ],
       "webcast_live": false,
       "discovered_at": "2026-05-21T19:24:06.767358+00:00",
-      "last_updated_at": "2026-06-04T16:51:57.524304+00:00",
+      "last_updated_at": "2026-06-04T19:21:07.218943+00:00",
       "outcome": "success",
       "failure_reason": null,
       "status_history": [
@@ -9405,5 +9413,5 @@
       ]
     }
   ],
-  "last_updated": "2026-06-04T16:51:57.524798+00:00"
+  "last_updated": "2026-06-04T19:21:07.513413+00:00"
 }
