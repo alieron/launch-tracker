@@ -449,7 +449,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-05-06T23:47:31.511670+00:00",
-      "last_updated_at": "2026-06-08T10:00:37.458678+00:00",
+      "last_updated_at": "2026-06-08T14:32:27.647581+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -503,7 +503,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-04-09T21:07:11.353167+00:00",
-      "last_updated_at": "2026-06-08T10:00:37.458670+00:00",
+      "last_updated_at": "2026-06-08T14:32:27.647555+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -564,7 +564,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-04-24T09:15:14.350986+00:00",
-      "last_updated_at": "2026-06-08T10:00:37.458700+00:00",
+      "last_updated_at": "2026-06-08T14:32:27.647604+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -625,7 +625,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-05-15T13:55:15.723939+00:00",
-      "last_updated_at": "2026-06-08T10:00:37.458732+00:00",
+      "last_updated_at": "2026-06-08T14:32:27.647634+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -684,7 +684,7 @@
       ],
       "webcast_live": false,
       "discovered_at": "2026-05-08T05:26:41.700479+00:00",
-      "last_updated_at": "2026-06-08T10:00:37.458686+00:00",
+      "last_updated_at": "2026-06-08T14:32:27.647590+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -791,7 +791,7 @@
       ],
       "webcast_live": false,
       "discovered_at": "2026-03-23T08:19:21.926409+00:00",
-      "last_updated_at": "2026-06-08T10:00:37.458725+00:00",
+      "last_updated_at": "2026-06-08T14:32:27.647626+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -942,7 +942,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-05-21T02:50:34.747203+00:00",
-      "last_updated_at": "2026-06-08T10:00:37.458738+00:00",
+      "last_updated_at": "2026-06-08T14:32:27.647641+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -996,7 +996,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-05-22T10:45:39.299013+00:00",
-      "last_updated_at": "2026-06-08T10:00:37.458750+00:00",
+      "last_updated_at": "2026-06-08T14:32:27.647649+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -1456,7 +1456,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-05-07T15:11:41.797008+00:00",
-      "last_updated_at": "2026-06-08T10:00:37.458693+00:00",
+      "last_updated_at": "2026-06-08T14:32:27.647597+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -1539,7 +1539,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-05-29T19:05:54.989181+00:00",
-      "last_updated_at": "2026-06-08T10:00:37.458707+00:00",
+      "last_updated_at": "2026-06-08T14:32:27.647610+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -1601,7 +1601,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-04-11T15:28:51.958924+00:00",
-      "last_updated_at": "2026-06-08T10:00:37.458713+00:00",
+      "last_updated_at": "2026-06-08T14:32:27.647617+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -1771,7 +1771,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-06-04T13:55:41.980497+00:00",
-      "last_updated_at": "2026-06-08T10:00:37.458664+00:00",
+      "last_updated_at": "2026-06-08T14:32:27.647545+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -1825,7 +1825,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-06-08T00:02:18.038497+00:00",
-      "last_updated_at": "2026-06-08T10:00:37.458656+00:00",
+      "last_updated_at": "2026-06-08T14:32:27.647539+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -1879,7 +1879,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-04-08T14:52:10.605497+00:00",
-      "last_updated_at": "2026-06-08T10:00:37.458649+00:00",
+      "last_updated_at": "2026-06-08T14:32:27.647532+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -1948,7 +1948,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-06-04T13:55:41.980485+00:00",
-      "last_updated_at": "2026-06-08T10:00:37.458641+00:00",
+      "last_updated_at": "2026-06-08T14:32:27.647525+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -2019,14 +2019,14 @@
       "name": "Long March 3B/E | Unknown Payload",
       "slug": "long-march-3be-unknown-payload",
       "status": {
-        "id": 8,
-        "abbrev": "TBC",
-        "name": "To Be Confirmed",
-        "description": "Awaiting official confirmation - current date is known with some certainty."
+        "id": 1,
+        "abbrev": "Go",
+        "name": "Go for Launch",
+        "description": "Current T-0 confirmed by official or reliable sources."
       },
-      "net": "2026-06-16T08:00:00Z",
-      "window_start": "2026-06-16T08:00:00Z",
-      "window_end": "2026-06-16T12:00:00Z",
+      "net": "2026-06-16T09:45:00Z",
+      "window_start": "2026-06-16T09:37:00Z",
+      "window_end": "2026-06-16T10:23:00Z",
       "probability": null,
       "rocket": {
         "name": "Long March 3B/E",
@@ -2056,7 +2056,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-06-04T13:55:41.980471+00:00",
-      "last_updated_at": "2026-06-08T10:00:37.458634+00:00",
+      "last_updated_at": "2026-06-08T14:32:27.647514+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -2065,6 +2065,68 @@
           "status_id": 8,
           "abbrev": "TBC",
           "net": "2026-06-16T08:00:00Z"
+        },
+        {
+          "at": "2026-06-08T14:32:27.647518+00:00",
+          "status_id": 1,
+          "abbrev": "Go",
+          "net": "2026-06-16T09:45:00Z",
+          "prev_net": "2026-06-16T08:00:00Z",
+          "prev_abbrev": "TBC"
+        }
+      ]
+    },
+    {
+      "id": "ffc0aee1-fdd7-4638-b098-9d0c01b40663",
+      "name": "Kinetica 1 | Unknown Payload",
+      "slug": "kinetica-1-unknown-payload",
+      "status": {
+        "id": 1,
+        "abbrev": "Go",
+        "name": "Go for Launch",
+        "description": "Current T-0 confirmed by official or reliable sources."
+      },
+      "net": "2026-06-15T03:40:00Z",
+      "window_start": "2026-06-15T03:34:00Z",
+      "window_end": "2026-06-15T03:55:00Z",
+      "probability": null,
+      "rocket": {
+        "name": "Kinetica 1",
+        "family": "",
+        "manufacturer": "CAS Space",
+        "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/zhongke-1a_image_20220912002218.png"
+      },
+      "mission": {
+        "name": "Unknown Payload",
+        "description": "Details TBD.",
+        "type": "Unknown",
+        "orbit": "Unknown"
+      },
+      "pad": {
+        "name": "Launch Area 130",
+        "location": "Jiuquan Satellite Launch Center, People's Republic of China",
+        "country": "CHN",
+        "latitude": "40.8182",
+        "longitude": "100.22514"
+      },
+      "agency": {
+        "name": "CAS Space",
+        "abbrev": "CAS",
+        "type": "Commercial"
+      },
+      "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/zhongke-1a_image_20220912002218.png",
+      "vidURLs": [],
+      "webcast_live": false,
+      "discovered_at": "2026-06-08T14:32:27.647502+00:00",
+      "last_updated_at": "2026-06-08T14:32:27.647498+00:00",
+      "outcome": null,
+      "failure_reason": null,
+      "status_history": [
+        {
+          "at": "2026-06-08T14:32:27.647505+00:00",
+          "status_id": 1,
+          "abbrev": "Go",
+          "net": "2026-06-15T03:40:00Z"
         }
       ]
     },
@@ -2115,7 +2177,7 @@
       ],
       "webcast_live": false,
       "discovered_at": "2026-06-02T21:28:46.464699+00:00",
-      "last_updated_at": "2026-06-08T10:00:37.458626+00:00",
+      "last_updated_at": "2026-06-08T14:32:27.647491+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -2181,7 +2243,7 @@
       ],
       "webcast_live": false,
       "discovered_at": "2026-06-02T21:28:46.464681+00:00",
-      "last_updated_at": "2026-06-08T10:00:37.458618+00:00",
+      "last_updated_at": "2026-06-08T14:32:27.647482+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -2197,6 +2259,137 @@
           "abbrev": "Go",
           "net": "2026-06-12T12:27:00Z",
           "prev_net": "2026-06-11T12:49:00Z"
+        }
+      ]
+    },
+    {
+      "id": "e1a3b702-464f-435d-8c1f-ade9be196b77",
+      "name": "H3-30 | H3-30 Test Flight",
+      "slug": "h3-30-h3-30-test-flight",
+      "status": {
+        "id": 2,
+        "abbrev": "TBD",
+        "name": "To Be Determined",
+        "description": "Current date is a placeholder or rough estimation based on unreliable or interpreted sources."
+      },
+      "net": "2026-06-12T00:00:00Z",
+      "window_start": "2026-06-12T00:00:00Z",
+      "window_end": "2026-06-12T00:00:00Z",
+      "probability": null,
+      "rocket": {
+        "name": "H3-30",
+        "family": "H3",
+        "manufacturer": "Mitsubishi Heavy Industries",
+        "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/h3-30_f6_cft_image_20251028183426.jpg"
+      },
+      "mission": {
+        "name": "H3-30 Test Flight",
+        "description": "Test flight of the H3-30 variant of the H3 launch vehicle with 3 LE-9 engines in the first stage and no SRBs. The flight will carry a dummy main payload (Vehicle Evaluation Payload 5, VEP-5) and several hitchhiking small satellites:\r\n\r\n* PETREL\r\n\r\n* STARS-X\r\n\r\n* BRO-22\r\n\r\n* VERTECS\r\n\r\n* HORN-L/R",
+        "type": "Test Flight",
+        "orbit": "Sun-Synchronous Orbit"
+      },
+      "pad": {
+        "name": "Yoshinobu Launch Complex LP-2",
+        "location": "Tanegashima Space Center, Japan",
+        "country": "JPN",
+        "latitude": "30.400938",
+        "longitude": "130.97564"
+      },
+      "agency": {
+        "name": "Mitsubishi Heavy Industries",
+        "abbrev": "MHI",
+        "type": "Commercial"
+      },
+      "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/h3-30_f6_cft_image_20251028183426.jpg",
+      "vidURLs": [],
+      "webcast_live": false,
+      "discovered_at": "2026-04-25T07:07:49.068854+00:00",
+      "last_updated_at": "2026-06-08T14:32:27.647472+00:00",
+      "outcome": null,
+      "failure_reason": null,
+      "status_history": [
+        {
+          "at": "2026-04-25T07:07:49.068857+00:00",
+          "status_id": 1,
+          "abbrev": "Go",
+          "net": "2026-06-10T00:53:59Z"
+        },
+        {
+          "at": "2026-06-08T14:32:27.647475+00:00",
+          "status_id": 2,
+          "abbrev": "TBD",
+          "net": "2026-06-12T00:00:00Z",
+          "prev_net": "2026-06-10T00:53:59Z",
+          "prev_abbrev": "Go"
+        }
+      ]
+    },
+    {
+      "id": "2670e4f1-d58b-4787-9c3f-f9eb03349513",
+      "name": "Long March 5 | Unknown Payload",
+      "slug": "long-march-5-unknown-payload",
+      "status": {
+        "id": 1,
+        "abbrev": "Go",
+        "name": "Go for Launch",
+        "description": "Current T-0 confirmed by official or reliable sources."
+      },
+      "net": "2026-06-11T07:30:00Z",
+      "window_start": "2026-06-11T07:22:00Z",
+      "window_end": "2026-06-11T08:40:00Z",
+      "probability": null,
+      "rocket": {
+        "name": "Long March 5",
+        "family": "Long March",
+        "manufacturer": "China Aerospace Science and Technology Corporation",
+        "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/long2520march_image_20201119165033.png"
+      },
+      "mission": {
+        "name": "Unknown Payload",
+        "description": "Details TBD.",
+        "type": "Unknown",
+        "orbit": "Unknown"
+      },
+      "pad": {
+        "name": "101",
+        "location": "Wenchang Space Launch Site, People's Republic of China",
+        "country": "CHN",
+        "latitude": "19.614334",
+        "longitude": "110.951011"
+      },
+      "agency": {
+        "name": "China Aerospace Science and Technology Corporation",
+        "abbrev": "CASC",
+        "type": "Government"
+      },
+      "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/long2520march_image_20201119165033.png",
+      "vidURLs": [],
+      "webcast_live": false,
+      "discovered_at": "2026-06-02T05:09:19.680322+00:00",
+      "last_updated_at": "2026-06-08T14:32:27.647460+00:00",
+      "outcome": null,
+      "failure_reason": null,
+      "status_history": [
+        {
+          "at": "2026-06-02T05:09:19.680327+00:00",
+          "status_id": 8,
+          "abbrev": "TBC",
+          "net": "2026-06-10T06:00:00Z"
+        },
+        {
+          "at": "2026-06-04T16:51:57.524399+00:00",
+          "status_id": 1,
+          "abbrev": "Go",
+          "net": "2026-06-10T07:30:00Z",
+          "prev_net": "2026-06-10T06:00:00Z",
+          "prev_abbrev": "TBC"
+        },
+        {
+          "at": "2026-06-08T14:32:27.647464+00:00",
+          "status_id": 1,
+          "abbrev": "Go",
+          "net": "2026-06-11T07:30:00Z",
+          "prev_net": "2026-06-10T07:30:00Z"
         }
       ]
     },
@@ -2242,7 +2435,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-06-04T13:55:41.980432+00:00",
-      "last_updated_at": "2026-06-08T10:00:37.458611+00:00",
+      "last_updated_at": "2026-06-08T14:32:27.647450+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -2301,7 +2494,7 @@
       ],
       "webcast_live": false,
       "discovered_at": "2026-05-21T21:09:03.487759+00:00",
-      "last_updated_at": "2026-06-08T10:00:37.458602+00:00",
+      "last_updated_at": "2026-06-08T14:32:27.647437+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -2317,122 +2510,6 @@
           "abbrev": "Go",
           "net": "2026-06-10T14:00:00Z",
           "prev_net": "2026-06-04T14:00:00Z"
-        }
-      ]
-    },
-    {
-      "id": "2670e4f1-d58b-4787-9c3f-f9eb03349513",
-      "name": "Long March 5 | Unknown Payload",
-      "slug": "long-march-5-unknown-payload",
-      "status": {
-        "id": 1,
-        "abbrev": "Go",
-        "name": "Go for Launch",
-        "description": "Current T-0 confirmed by official or reliable sources."
-      },
-      "net": "2026-06-10T07:30:00Z",
-      "window_start": "2026-06-10T07:22:00Z",
-      "window_end": "2026-06-10T08:40:00Z",
-      "probability": null,
-      "rocket": {
-        "name": "Long March 5",
-        "family": "Long March",
-        "manufacturer": "China Aerospace Science and Technology Corporation",
-        "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/long2520march_image_20201119165033.png"
-      },
-      "mission": {
-        "name": "Unknown Payload",
-        "description": "Details TBD.",
-        "type": "Unknown",
-        "orbit": "Unknown"
-      },
-      "pad": {
-        "name": "101",
-        "location": "Wenchang Space Launch Site, People's Republic of China",
-        "country": "CHN",
-        "latitude": "19.614334",
-        "longitude": "110.951011"
-      },
-      "agency": {
-        "name": "China Aerospace Science and Technology Corporation",
-        "abbrev": "CASC",
-        "type": "Government"
-      },
-      "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/long2520march_image_20201119165033.png",
-      "vidURLs": [],
-      "webcast_live": false,
-      "discovered_at": "2026-06-02T05:09:19.680322+00:00",
-      "last_updated_at": "2026-06-08T10:00:37.458592+00:00",
-      "outcome": null,
-      "failure_reason": null,
-      "status_history": [
-        {
-          "at": "2026-06-02T05:09:19.680327+00:00",
-          "status_id": 8,
-          "abbrev": "TBC",
-          "net": "2026-06-10T06:00:00Z"
-        },
-        {
-          "at": "2026-06-04T16:51:57.524399+00:00",
-          "status_id": 1,
-          "abbrev": "Go",
-          "net": "2026-06-10T07:30:00Z",
-          "prev_net": "2026-06-10T06:00:00Z",
-          "prev_abbrev": "TBC"
-        }
-      ]
-    },
-    {
-      "id": "e1a3b702-464f-435d-8c1f-ade9be196b77",
-      "name": "H3-30 | H3-30 Test Flight",
-      "slug": "h3-30-h3-30-test-flight",
-      "status": {
-        "id": 1,
-        "abbrev": "Go",
-        "name": "Go for Launch",
-        "description": "Current T-0 confirmed by official or reliable sources."
-      },
-      "net": "2026-06-10T00:53:59Z",
-      "window_start": "2026-06-10T00:53:59Z",
-      "window_end": "2026-06-10T02:52:46Z",
-      "probability": null,
-      "rocket": {
-        "name": "H3-30",
-        "family": "H3",
-        "manufacturer": "Mitsubishi Heavy Industries",
-        "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/h3-30_f6_cft_image_20251028183426.jpg"
-      },
-      "mission": {
-        "name": "H3-30 Test Flight",
-        "description": "Test flight of the H3-30 variant of the H3 launch vehicle with 3 LE-9 engines in the first stage and no SRBs. The flight will carry a dummy main payload (Vehicle Evaluation Payload 5, VEP-5) and several hitchhiking small satellites:\r\n\r\n* PETREL\r\n\r\n* STARS-X\r\n\r\n* BRO-22\r\n\r\n* VERTECS\r\n\r\n* HORN-L/R",
-        "type": "Test Flight",
-        "orbit": "Sun-Synchronous Orbit"
-      },
-      "pad": {
-        "name": "Yoshinobu Launch Complex LP-2",
-        "location": "Tanegashima Space Center, Japan",
-        "country": "JPN",
-        "latitude": "30.400938",
-        "longitude": "130.97564"
-      },
-      "agency": {
-        "name": "Mitsubishi Heavy Industries",
-        "abbrev": "MHI",
-        "type": "Commercial"
-      },
-      "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/h3-30_f6_cft_image_20251028183426.jpg",
-      "vidURLs": [],
-      "webcast_live": false,
-      "discovered_at": "2026-04-25T07:07:49.068854+00:00",
-      "last_updated_at": "2026-06-08T10:00:37.458583+00:00",
-      "outcome": null,
-      "failure_reason": null,
-      "status_history": [
-        {
-          "at": "2026-04-25T07:07:49.068857+00:00",
-          "status_id": 1,
-          "abbrev": "Go",
-          "net": "2026-06-10T00:53:59Z"
         }
       ]
     },
@@ -2478,7 +2555,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-06-04T13:55:41.980387+00:00",
-      "last_updated_at": "2026-06-08T10:00:37.458568+00:00",
+      "last_updated_at": "2026-06-08T14:32:27.647425+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -2495,10 +2572,10 @@
       "name": "Falcon 9 Block 5 | Starlink Group 10-35",
       "slug": "falcon-9-block-5-starlink-group-10-35",
       "status": {
-        "id": 1,
-        "abbrev": "Go",
-        "name": "Go for Launch",
-        "description": "Current T-0 confirmed by official or reliable sources."
+        "id": 3,
+        "abbrev": "Success",
+        "name": "Launch Successful",
+        "description": "The launch vehicle successfully inserted its payload(s) into the target orbit(s)."
       },
       "net": "2026-06-08T10:13:50Z",
       "window_start": "2026-06-08T10:07:00Z",
@@ -2531,8 +2608,8 @@
       "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/falcon2520925_image_20221009234147.png",
       "vidURLs": [
         {
-          "title": "GO! - SpaceX - Falcon 9 - Starlink 10-35 - SLC-40 - Cape Canaveral SFS - Space Affairs LIve",
-          "url": "https://www.youtube.com/watch?v=pGDQkw3Bevg"
+          "title": "SpaceX Starlink Group 10-35",
+          "url": "https://www.youtube.com/watch?v=oCtjRao7f0k"
         },
         {
           "title": "Live: SpaceX Falcon 9 rocket launches 29 Starlink satellites from Cape Canaveral, Florida",
@@ -2547,10 +2624,10 @@
           "url": "https://x.com/i/broadcasts/1AKEmmPDOpRKL"
         }
       ],
-      "webcast_live": true,
+      "webcast_live": false,
       "discovered_at": "2026-05-27T22:15:23.532281+00:00",
-      "last_updated_at": "2026-06-08T10:00:37.458538+00:00",
-      "outcome": null,
+      "last_updated_at": "2026-06-08T14:32:27.647388+00:00",
+      "outcome": "success",
       "failure_reason": null,
       "status_history": [
         {
@@ -2579,6 +2656,13 @@
           "abbrev": "Go",
           "net": "2026-06-08T10:13:50Z",
           "prev_net": "2026-06-08T10:07:00Z"
+        },
+        {
+          "at": "2026-06-08T14:32:27.647408+00:00",
+          "status_id": 3,
+          "abbrev": "Success",
+          "net": "2026-06-08T10:13:50Z",
+          "prev_abbrev": "Go"
         }
       ]
     },
@@ -9537,5 +9621,5 @@
       ]
     }
   ],
-  "last_updated": "2026-06-08T10:00:37.459026+00:00"
+  "last_updated": "2026-06-08T14:32:27.647906+00:00"
 }
