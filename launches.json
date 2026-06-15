@@ -449,7 +449,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-04-09T21:07:11.353167+00:00",
-      "last_updated_at": "2026-06-15T15:46:35.150109+00:00",
+      "last_updated_at": "2026-06-15T19:43:01.341706+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -510,7 +510,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-04-24T09:15:14.350986+00:00",
-      "last_updated_at": "2026-06-15T15:46:35.150114+00:00",
+      "last_updated_at": "2026-06-15T19:43:01.341723+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -571,7 +571,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-05-15T13:55:15.723939+00:00",
-      "last_updated_at": "2026-06-15T15:46:35.150141+00:00",
+      "last_updated_at": "2026-06-15T19:43:01.341749+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -625,7 +625,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-05-21T02:50:34.747203+00:00",
-      "last_updated_at": "2026-06-15T15:46:35.150148+00:00",
+      "last_updated_at": "2026-06-15T19:43:01.341755+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -679,7 +679,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-05-22T10:45:39.299013+00:00",
-      "last_updated_at": "2026-06-15T15:46:35.150154+00:00",
+      "last_updated_at": "2026-06-15T19:43:01.341762+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -733,7 +733,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-05-23T10:50:25.590716+00:00",
-      "last_updated_at": "2026-06-15T15:46:35.150159+00:00",
+      "last_updated_at": "2026-06-15T19:43:01.341768+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -787,7 +787,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-05-23T23:27:53.827771+00:00",
-      "last_updated_at": "2026-06-15T15:46:35.150165+00:00",
+      "last_updated_at": "2026-06-15T19:43:01.341774+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -841,7 +841,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-05-25T17:04:27.842481+00:00",
-      "last_updated_at": "2026-06-15T15:46:35.150170+00:00",
+      "last_updated_at": "2026-06-15T19:43:01.341782+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -895,7 +895,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-05-26T14:56:49.014989+00:00",
-      "last_updated_at": "2026-06-15T15:46:35.150176+00:00",
+      "last_updated_at": "2026-06-15T19:43:01.341788+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -1222,7 +1222,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-05-29T19:05:54.989181+00:00",
-      "last_updated_at": "2026-06-15T15:46:35.150121+00:00",
+      "last_updated_at": "2026-06-15T19:43:01.341732+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -1284,7 +1284,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-04-11T15:28:51.958924+00:00",
-      "last_updated_at": "2026-06-15T15:46:35.150134+00:00",
+      "last_updated_at": "2026-06-15T19:43:01.341739+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -1459,7 +1459,7 @@
       ],
       "webcast_live": false,
       "discovered_at": "2026-06-10T20:23:13.406414+00:00",
-      "last_updated_at": "2026-06-15T15:46:35.150103+00:00",
+      "last_updated_at": "2026-06-15T19:43:01.341700+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -1527,7 +1527,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-06-04T13:55:41.980497+00:00",
-      "last_updated_at": "2026-06-15T15:46:35.150096+00:00",
+      "last_updated_at": "2026-06-15T19:43:01.341693+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -1586,7 +1586,7 @@
       ],
       "webcast_live": false,
       "discovered_at": "2026-06-10T20:23:13.406386+00:00",
-      "last_updated_at": "2026-06-15T15:46:35.150091+00:00",
+      "last_updated_at": "2026-06-15T19:43:01.341685+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -1645,7 +1645,7 @@
       ],
       "webcast_live": false,
       "discovered_at": "2026-05-08T05:26:41.700479+00:00",
-      "last_updated_at": "2026-06-15T15:46:35.150084+00:00",
+      "last_updated_at": "2026-06-15T19:43:01.341678+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -1756,7 +1756,7 @@
       ],
       "webcast_live": false,
       "discovered_at": "2026-06-09T13:41:10.766225+00:00",
-      "last_updated_at": "2026-06-15T15:46:35.150077+00:00",
+      "last_updated_at": "2026-06-15T19:43:01.341670+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -1818,7 +1818,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-06-08T00:02:18.038497+00:00",
-      "last_updated_at": "2026-06-15T15:46:35.150071+00:00",
+      "last_updated_at": "2026-06-15T19:43:01.341663+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -1872,7 +1872,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-04-08T14:52:10.605497+00:00",
-      "last_updated_at": "2026-06-15T15:46:35.150065+00:00",
+      "last_updated_at": "2026-06-15T19:43:01.341652+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -1941,7 +1941,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-05-06T23:47:31.511670+00:00",
-      "last_updated_at": "2026-06-15T15:46:35.150058+00:00",
+      "last_updated_at": "2026-06-15T19:43:01.341645+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -2003,7 +2003,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-06-13T14:36:17.600835+00:00",
-      "last_updated_at": "2026-06-15T15:46:35.150050+00:00",
+      "last_updated_at": "2026-06-15T19:43:01.341633+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -2057,7 +2057,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-06-04T13:55:41.980485+00:00",
-      "last_updated_at": "2026-06-15T15:46:35.150044+00:00",
+      "last_updated_at": "2026-06-15T19:43:01.341623+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -2140,80 +2140,18 @@
       ]
     },
     {
-      "id": "0ff43072-5407-425b-8c8d-6bca068143b9",
-      "name": "Long March 3B/E | Unknown Payload",
-      "slug": "long-march-3be-unknown-payload",
-      "status": {
-        "id": 1,
-        "abbrev": "Go",
-        "name": "Go for Launch",
-        "description": "Current T-0 confirmed by official or reliable sources."
-      },
-      "net": "2026-06-16T09:45:00Z",
-      "window_start": "2026-06-16T09:37:00Z",
-      "window_end": "2026-06-16T10:23:00Z",
-      "probability": null,
-      "rocket": {
-        "name": "Long March 3B/E",
-        "family": "Long March",
-        "manufacturer": "China Aerospace Science and Technology Corporation",
-        "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/long2520march_image_20230907120240.jpeg"
-      },
-      "mission": {
-        "name": "Unknown Payload",
-        "description": "Details TBD.",
-        "type": "Unknown",
-        "orbit": "Unknown"
-      },
-      "pad": {
-        "name": "Launch Complex 2 (LC-2)",
-        "location": "Xichang Satellite Launch Center, People's Republic of China",
-        "country": "CHN",
-        "latitude": "28.245504",
-        "longitude": "102.026768"
-      },
-      "agency": {
-        "name": "China Aerospace Science and Technology Corporation",
-        "abbrev": "CASC",
-        "type": "Government"
-      },
-      "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/long2520march_image_20230907120240.jpeg",
-      "vidURLs": [],
-      "webcast_live": false,
-      "discovered_at": "2026-06-04T13:55:41.980471+00:00",
-      "last_updated_at": "2026-06-15T15:46:35.150036+00:00",
-      "outcome": null,
-      "failure_reason": null,
-      "status_history": [
-        {
-          "at": "2026-06-04T13:55:41.980473+00:00",
-          "status_id": 8,
-          "abbrev": "TBC",
-          "net": "2026-06-16T08:00:00Z"
-        },
-        {
-          "at": "2026-06-08T14:32:27.647518+00:00",
-          "status_id": 1,
-          "abbrev": "Go",
-          "net": "2026-06-16T09:45:00Z",
-          "prev_net": "2026-06-16T08:00:00Z",
-          "prev_abbrev": "TBC"
-        }
-      ]
-    },
-    {
       "id": "1b23eb18-e06e-4058-9b42-e95ca0980511",
       "name": "Spectrum | Onward and Upward",
       "slug": "spectrum-onward-and-upward",
       "status": {
-        "id": 1,
-        "abbrev": "Go",
-        "name": "Go for Launch",
-        "description": "Current T-0 confirmed by official or reliable sources."
+        "id": 8,
+        "abbrev": "TBC",
+        "name": "To Be Confirmed",
+        "description": "Awaiting official confirmation - current date is known with some certainty."
       },
-      "net": "2026-06-15T20:00:00Z",
-      "window_start": "2026-06-15T20:00:00Z",
-      "window_end": "2026-06-15T21:00:00Z",
+      "net": "2026-06-16T20:00:00Z",
+      "window_start": "2026-06-16T20:00:00Z",
+      "window_end": "2026-06-16T21:00:00Z",
       "probability": null,
       "rocket": {
         "name": "Spectrum",
@@ -2252,7 +2190,7 @@
       ],
       "webcast_live": false,
       "discovered_at": "2026-03-23T08:19:21.926409+00:00",
-      "last_updated_at": "2026-06-15T15:46:35.150027+00:00",
+      "last_updated_at": "2026-06-15T19:43:01.341608+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -2373,6 +2311,76 @@
           "abbrev": "Go",
           "net": "2026-06-15T20:00:00Z",
           "prev_abbrev": "TBC"
+        },
+        {
+          "at": "2026-06-15T19:43:01.341613+00:00",
+          "status_id": 8,
+          "abbrev": "TBC",
+          "net": "2026-06-16T20:00:00Z",
+          "prev_net": "2026-06-15T20:00:00Z",
+          "prev_abbrev": "Go"
+        }
+      ]
+    },
+    {
+      "id": "0ff43072-5407-425b-8c8d-6bca068143b9",
+      "name": "Long March 3B/E | Unknown Payload",
+      "slug": "long-march-3be-unknown-payload",
+      "status": {
+        "id": 1,
+        "abbrev": "Go",
+        "name": "Go for Launch",
+        "description": "Current T-0 confirmed by official or reliable sources."
+      },
+      "net": "2026-06-16T09:45:00Z",
+      "window_start": "2026-06-16T09:37:00Z",
+      "window_end": "2026-06-16T10:23:00Z",
+      "probability": null,
+      "rocket": {
+        "name": "Long March 3B/E",
+        "family": "Long March",
+        "manufacturer": "China Aerospace Science and Technology Corporation",
+        "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/long2520march_image_20230907120240.jpeg"
+      },
+      "mission": {
+        "name": "Unknown Payload",
+        "description": "Details TBD.",
+        "type": "Unknown",
+        "orbit": "Unknown"
+      },
+      "pad": {
+        "name": "Launch Complex 2 (LC-2)",
+        "location": "Xichang Satellite Launch Center, People's Republic of China",
+        "country": "CHN",
+        "latitude": "28.245504",
+        "longitude": "102.026768"
+      },
+      "agency": {
+        "name": "China Aerospace Science and Technology Corporation",
+        "abbrev": "CASC",
+        "type": "Government"
+      },
+      "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/long2520march_image_20230907120240.jpeg",
+      "vidURLs": [],
+      "webcast_live": false,
+      "discovered_at": "2026-06-04T13:55:41.980471+00:00",
+      "last_updated_at": "2026-06-15T19:43:01.341597+00:00",
+      "outcome": null,
+      "failure_reason": null,
+      "status_history": [
+        {
+          "at": "2026-06-04T13:55:41.980473+00:00",
+          "status_id": 8,
+          "abbrev": "TBC",
+          "net": "2026-06-16T08:00:00Z"
+        },
+        {
+          "at": "2026-06-08T14:32:27.647518+00:00",
+          "status_id": 1,
+          "abbrev": "Go",
+          "net": "2026-06-16T09:45:00Z",
+          "prev_net": "2026-06-16T08:00:00Z",
+          "prev_abbrev": "TBC"
         }
       ]
     },
@@ -2381,10 +2389,10 @@
       "name": "Falcon 9 Block 5 | Starlink Group 17-54",
       "slug": "falcon-9-block-5-starlink-group-17-54",
       "status": {
-        "id": 6,
-        "abbrev": "In Flight",
-        "name": "Launch in Flight",
-        "description": "The launch vehicle has lifted off from the launchpad."
+        "id": 3,
+        "abbrev": "Success",
+        "name": "Launch Successful",
+        "description": "The launch vehicle successfully inserted its payload(s) into the target orbit(s)."
       },
       "net": "2026-06-15T15:34:35Z",
       "window_start": "2026-06-15T14:00:00Z",
@@ -2417,8 +2425,8 @@
       "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/falcon2520925_image_20221009234147.png",
       "vidURLs": [
         {
-          "title": "GO! - SpaceX - Falcon 9 - Starlink 17-54 - SLC-4E - Vandenberg SFB - Space Affairs Live",
-          "url": "https://www.youtube.com/watch?v=gWyMGLqlFvE"
+          "title": "SpaceX Starlink Group 17-54",
+          "url": "https://www.youtube.com/watch?v=pQacpTrYEYA"
         },
         {
           "title": "Live: SpaceX Falcon 9 rocket launches 24 internet relay satellites for Starlink from California",
@@ -2429,10 +2437,10 @@
           "url": "https://x.com/i/broadcasts/1qKVmmnzPgmxB"
         }
       ],
-      "webcast_live": true,
+      "webcast_live": false,
       "discovered_at": "2026-06-02T21:28:46.464699+00:00",
-      "last_updated_at": "2026-06-15T15:46:35.150007+00:00",
-      "outcome": null,
+      "last_updated_at": "2026-06-15T19:43:01.341577+00:00",
+      "outcome": "success",
       "failure_reason": null,
       "status_history": [
         {
@@ -2469,6 +2477,13 @@
           "net": "2026-06-15T15:34:35Z",
           "prev_net": "2026-06-15T14:38:40Z",
           "prev_abbrev": "Go"
+        },
+        {
+          "at": "2026-06-15T19:43:01.341583+00:00",
+          "status_id": 3,
+          "abbrev": "Success",
+          "net": "2026-06-15T15:34:35Z",
+          "prev_abbrev": "In Flight"
         }
       ]
     },
@@ -2514,7 +2529,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-06-08T14:32:27.647502+00:00",
-      "last_updated_at": "2026-06-15T15:46:35.149975+00:00",
+      "last_updated_at": "2026-06-15T19:43:01.341533+00:00",
       "outcome": "success",
       "failure_reason": null,
       "status_history": [
@@ -10113,5 +10128,5 @@
       ]
     }
   ],
-  "last_updated": "2026-06-15T15:46:35.150436+00:00"
+  "last_updated": "2026-06-15T19:43:01.342095+00:00"
 }
