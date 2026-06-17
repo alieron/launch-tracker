@@ -510,7 +510,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-04-09T21:07:11.353167+00:00",
-      "last_updated_at": "2026-06-17T08:57:31.692006+00:00",
+      "last_updated_at": "2026-06-17T12:52:02.511079+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -571,7 +571,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-05-15T13:55:15.723939+00:00",
-      "last_updated_at": "2026-06-17T08:57:31.692034+00:00",
+      "last_updated_at": "2026-06-17T12:52:02.511112+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -625,7 +625,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-05-21T02:50:34.747203+00:00",
-      "last_updated_at": "2026-06-17T08:57:31.692041+00:00",
+      "last_updated_at": "2026-06-17T12:52:02.511118+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -679,7 +679,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-05-22T10:45:39.299013+00:00",
-      "last_updated_at": "2026-06-17T08:57:31.692049+00:00",
+      "last_updated_at": "2026-06-17T12:52:02.511127+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -733,7 +733,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-05-23T10:50:25.590716+00:00",
-      "last_updated_at": "2026-06-17T08:57:31.692055+00:00",
+      "last_updated_at": "2026-06-17T12:52:02.511134+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -787,7 +787,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-05-23T23:27:53.827771+00:00",
-      "last_updated_at": "2026-06-17T08:57:31.692063+00:00",
+      "last_updated_at": "2026-06-17T12:52:02.511141+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -841,7 +841,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-05-25T17:04:27.842481+00:00",
-      "last_updated_at": "2026-06-17T08:57:31.692074+00:00",
+      "last_updated_at": "2026-06-17T12:52:02.511147+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -895,7 +895,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-05-26T14:56:49.014989+00:00",
-      "last_updated_at": "2026-06-17T08:57:31.692080+00:00",
+      "last_updated_at": "2026-06-17T12:52:02.511153+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -1085,7 +1085,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-05-31T16:40:18.062998+00:00",
-      "last_updated_at": "2026-06-17T08:57:31.692086+00:00",
+      "last_updated_at": "2026-06-17T12:52:02.511162+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -1222,7 +1222,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-05-29T19:05:54.989181+00:00",
-      "last_updated_at": "2026-06-17T08:57:31.692020+00:00",
+      "last_updated_at": "2026-06-17T12:52:02.511094+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -1284,7 +1284,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-04-11T15:28:51.958924+00:00",
-      "last_updated_at": "2026-06-17T08:57:31.692028+00:00",
+      "last_updated_at": "2026-06-17T12:52:02.511103+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -1405,7 +1405,7 @@
       ],
       "webcast_live": false,
       "discovered_at": "2026-05-08T05:26:41.700479+00:00",
-      "last_updated_at": "2026-06-17T08:57:31.692013+00:00",
+      "last_updated_at": "2026-06-17T12:52:02.511086+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -1519,7 +1519,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-06-08T00:02:18.038497+00:00",
-      "last_updated_at": "2026-06-17T08:57:31.692000+00:00",
+      "last_updated_at": "2026-06-17T12:52:02.511070+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -1536,6 +1536,60 @@
           "net": "2026-06-30T00:00:00Z",
           "prev_net": "2026-06-17T20:40:00Z",
           "prev_abbrev": "Go"
+        }
+      ]
+    },
+    {
+      "id": "3b94ad50-3505-496e-8a95-b0bc4c0dadc6",
+      "name": "Themis Demonstrator | T1H-1",
+      "slug": "themis-demonstrator-t1h-1",
+      "status": {
+        "id": 2,
+        "abbrev": "TBD",
+        "name": "To Be Determined",
+        "description": "Current date is a placeholder or rough estimation based on unreliable or interpreted sources."
+      },
+      "net": "2026-06-30T00:00:00Z",
+      "window_start": "2026-06-30T00:00:00Z",
+      "window_end": "2026-06-30T00:00:00Z",
+      "probability": null,
+      "rocket": {
+        "name": "Themis Demonstrator",
+        "family": "",
+        "manufacturer": "ArianeGroup",
+        "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/themis_demonstr_image_20250916085603.jpg"
+      },
+      "mission": {
+        "name": "T1H-1",
+        "description": "First low-altitude hop test of a Themis demonstrator, with a targeted altitude up to 100 m.",
+        "type": "Test Flight",
+        "orbit": "Suborbital"
+      },
+      "pad": {
+        "name": "Launch Complex 3B",
+        "location": "Esrange Space Center",
+        "country": "SWE",
+        "latitude": "67.877368",
+        "longitude": "21.165001"
+      },
+      "agency": {
+        "name": "European Space Agency",
+        "abbrev": "ESA",
+        "type": "Multinational"
+      },
+      "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/themis_t1h_on_t_image_20250919095336.jpg",
+      "vidURLs": [],
+      "webcast_live": false,
+      "discovered_at": "2026-06-17T12:52:02.511173+00:00",
+      "last_updated_at": "2026-06-17T12:52:02.511171+00:00",
+      "outcome": null,
+      "failure_reason": null,
+      "status_history": [
+        {
+          "at": "2026-06-17T12:52:02.511176+00:00",
+          "status_id": 2,
+          "abbrev": "TBD",
+          "net": "2026-06-30T00:00:00Z"
         }
       ]
     },
@@ -1581,7 +1635,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-04-24T09:15:14.350986+00:00",
-      "last_updated_at": "2026-06-17T08:57:31.691993+00:00",
+      "last_updated_at": "2026-06-17T12:52:02.511062+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -1709,7 +1763,7 @@
       ],
       "webcast_live": false,
       "discovered_at": "2026-06-10T20:23:13.406414+00:00",
-      "last_updated_at": "2026-06-17T08:57:31.691977+00:00",
+      "last_updated_at": "2026-06-17T12:52:02.511056+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -1777,7 +1831,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-06-04T13:55:41.980497+00:00",
-      "last_updated_at": "2026-06-17T08:57:31.691969+00:00",
+      "last_updated_at": "2026-06-17T12:52:02.511049+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -1831,7 +1885,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-06-16T00:08:22.271990+00:00",
-      "last_updated_at": "2026-06-17T08:57:31.691963+00:00",
+      "last_updated_at": "2026-06-17T12:52:02.511041+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -1890,7 +1944,7 @@
       ],
       "webcast_live": false,
       "discovered_at": "2026-06-10T20:23:13.406386+00:00",
-      "last_updated_at": "2026-06-17T08:57:31.691956+00:00",
+      "last_updated_at": "2026-06-17T12:52:02.511031+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -1953,7 +2007,7 @@
       ],
       "webcast_live": false,
       "discovered_at": "2026-03-23T08:19:21.926409+00:00",
-      "last_updated_at": "2026-06-17T08:57:31.691948+00:00",
+      "last_updated_at": "2026-06-17T12:52:02.511018+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -2148,7 +2202,7 @@
       ],
       "webcast_live": false,
       "discovered_at": "2026-06-09T13:41:10.766225+00:00",
-      "last_updated_at": "2026-06-17T08:57:31.691941+00:00",
+      "last_updated_at": "2026-06-17T12:52:02.511009+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -2173,14 +2227,14 @@
       "name": "Ariane 64 Block 2 | Amazon Leo (LE-03)",
       "slug": "ariane-64-block-2-amazon-leo-le-03",
       "status": {
-        "id": 1,
-        "abbrev": "Go",
-        "name": "Go for Launch",
-        "description": "Current T-0 confirmed by official or reliable sources."
+        "id": 6,
+        "abbrev": "In Flight",
+        "name": "Launch in Flight",
+        "description": "The launch vehicle has lifted off from the launchpad."
       },
-      "net": "2026-06-17T11:53:00Z",
-      "window_start": "2026-06-17T11:53:00Z",
-      "window_end": "2026-06-17T12:22:00Z",
+      "net": "2026-06-17T12:21:52Z",
+      "window_start": "2026-06-17T11:53:22Z",
+      "window_end": "2026-06-17T12:22:22Z",
       "probability": null,
       "rocket": {
         "name": "Ariane 64",
@@ -2209,13 +2263,29 @@
       "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/ariane_64_lifto_image_20260213070745.jpg",
       "vidURLs": [
         {
+          "title": "Flight VA269 | Amazon Leo LE-03 | Ariane 6 | Arianespace",
+          "url": "https://www.youtube.com/watch?v=GFyhszzyiJA"
+        },
+        {
+          "title": "Vol VA269 | Amazon Leo LE-03 | Ariane 6 | Arianespace",
+          "url": "https://www.youtube.com/watch?v=Xm5edBUndBo"
+        },
+        {
+          "title": "Lancement Ariane 6 avec les nouveaux propulseurs P160C (Amazon LEO - VA269)",
+          "url": "https://www.youtube.com/watch?v=Y8x91j8LSMY"
+        },
+        {
           "title": "Ariane 6 Debuts New Booster Upgrade launching Amazon Leo (LE-03)",
           "url": "https://www.youtube.com/watch?v=oZ1pzt4VFFc"
+        },
+        {
+          "title": "Arianespace - Ariane 64 - Amazon Leo (LE-03) - ELA-4 - Guiana SC, French Guiana - June 17, 2026",
+          "url": "https://www.youtube.com/watch?v=hlpgvkRyZIs"
         }
       ],
-      "webcast_live": false,
+      "webcast_live": true,
       "discovered_at": "2026-04-08T14:52:10.605497+00:00",
-      "last_updated_at": "2026-06-17T08:57:31.691932+00:00",
+      "last_updated_at": "2026-06-17T12:52:02.510994+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -2239,6 +2309,14 @@
           "net": "2026-06-17T11:53:00Z",
           "prev_net": "2026-06-30T00:00:00Z",
           "prev_abbrev": "TBD"
+        },
+        {
+          "at": "2026-06-17T12:52:02.510998+00:00",
+          "status_id": 6,
+          "abbrev": "In Flight",
+          "net": "2026-06-17T12:21:52Z",
+          "prev_net": "2026-06-17T11:53:00Z",
+          "prev_abbrev": "Go"
         }
       ]
     },
@@ -2247,10 +2325,10 @@
       "name": "Falcon 9 Block 5 | BlueBird Block 2 #3-5",
       "slug": "falcon-9-block-5-bluebird-block-2-3-5",
       "status": {
-        "id": 6,
-        "abbrev": "In Flight",
-        "name": "Launch in Flight",
-        "description": "Launch in Flight"
+        "id": 3,
+        "abbrev": "Success",
+        "name": "Launch Successful",
+        "description": "The launch vehicle successfully inserted its payload(s) into the target orbit(s)."
       },
       "net": "2026-06-17T06:39:00Z",
       "window_start": "2026-06-17T06:39:00Z",
@@ -2283,8 +2361,8 @@
       "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/f9_on_slc-40_2_image_20240919072420.jpg",
       "vidURLs": [
         {
-          "title": "SpaceX - Falcon 9 - BlueBird 8-10 - SLC-40 - Cape Canaveral SFS - June 17, 2026",
-          "url": "https://www.youtube.com/watch?v=VfU7BI6EeQE"
+          "title": "SpaceX BlueBird Block 2 #3-5",
+          "url": "https://www.youtube.com/watch?v=YxVvwgWPgT8"
         },
         {
           "title": "Live: SpaceX Falcon 9 rocket launches three BlueBird direct-to-cell satellites from Cape Canaveral",
@@ -2305,8 +2383,8 @@
       ],
       "webcast_live": false,
       "discovered_at": "2026-05-06T23:47:31.511670+00:00",
-      "last_updated_at": "2026-06-17T08:57:31.691915+00:00",
-      "outcome": null,
+      "last_updated_at": "2026-06-17T12:52:02.510975+00:00",
+      "outcome": "success",
       "failure_reason": null,
       "status_history": [
         {
@@ -2329,6 +2407,13 @@
           "abbrev": "In Flight",
           "net": "2026-06-17T06:39:00Z",
           "prev_abbrev": "Go"
+        },
+        {
+          "at": "2026-06-17T12:52:02.510980+00:00",
+          "status_id": 3,
+          "abbrev": "Success",
+          "net": "2026-06-17T06:39:00Z",
+          "prev_abbrev": "In Flight"
         }
       ]
     },
@@ -2374,7 +2459,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-06-13T14:36:17.600835+00:00",
-      "last_updated_at": "2026-06-17T08:57:31.691904+00:00",
+      "last_updated_at": "2026-06-17T12:52:02.510956+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -2428,7 +2513,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-06-04T13:55:41.980485+00:00",
-      "last_updated_at": "2026-06-17T08:57:31.691884+00:00",
+      "last_updated_at": "2026-06-17T12:52:02.510918+00:00",
       "outcome": "success",
       "failure_reason": null,
       "status_history": [
@@ -10284,5 +10369,5 @@
       ]
     }
   ],
-  "last_updated": "2026-06-17T08:57:31.692375+00:00"
+  "last_updated": "2026-06-17T12:52:02.511494+00:00"
 }
