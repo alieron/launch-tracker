@@ -192,6 +192,67 @@
       ]
     },
     {
+      "id": "d793ba47-faf5-4bab-a386-39a9ccc49c90",
+      "name": "Soyuz 2.1b | Progress MS-35 (96P)",
+      "slug": "soyuz-21b-progress-ms-35-96p",
+      "status": {
+        "id": 8,
+        "abbrev": "TBC",
+        "name": "To Be Confirmed",
+        "description": "Awaiting official confirmation - current date is known with some certainty."
+      },
+      "net": "2026-09-09T16:10:00Z",
+      "window_start": "2026-09-09T16:10:00Z",
+      "window_end": "2026-09-09T16:10:00Z",
+      "probability": null,
+      "rocket": {
+        "name": "Soyuz 2.1b",
+        "family": "Soyuz",
+        "manufacturer": "Progress Rocket Space Center",
+        "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/soyuz_2.1b_image_20230802085331.jpg"
+      },
+      "mission": {
+        "name": "Progress MS-35 (96P)",
+        "description": "Progress resupply mission to the International Space Station.",
+        "type": "Resupply",
+        "orbit": "Low Earth Orbit"
+      },
+      "pad": {
+        "name": "31/6",
+        "location": "Baikonur Cosmodrome, Republic of Kazakhstan",
+        "country": "KAZ",
+        "latitude": "45.996034",
+        "longitude": "63.564003"
+      },
+      "agency": {
+        "name": "Russian Federal Space Agency (ROSCOSMOS)",
+        "abbrev": "RFSA",
+        "type": "Government"
+      },
+      "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/soyuz_2.1b_image_20230802085331.jpg",
+      "vidURLs": [],
+      "webcast_live": false,
+      "discovered_at": "2026-04-26T23:04:51.622698+00:00",
+      "last_updated_at": "2026-06-17T03:34:38.916992+00:00",
+      "outcome": null,
+      "failure_reason": null,
+      "status_history": [
+        {
+          "at": "2026-04-26T23:04:51.622701+00:00",
+          "status_id": 8,
+          "abbrev": "TBC",
+          "net": "2026-06-17T01:40:00Z"
+        },
+        {
+          "at": "2026-06-17T03:34:38.917011+00:00",
+          "status_id": 8,
+          "abbrev": "TBC",
+          "net": "2026-09-09T16:10:00Z",
+          "prev_net": "2026-06-17T01:40:00Z"
+        }
+      ]
+    },
+    {
       "id": "a57aed97-b94f-42e1-905e-9421dbd96ac8",
       "name": "Ariane 64 | MTG-I2",
       "slug": "ariane-64-mtg-i2",
@@ -449,7 +510,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-04-09T21:07:11.353167+00:00",
-      "last_updated_at": "2026-06-16T23:54:11.190771+00:00",
+      "last_updated_at": "2026-06-17T03:34:38.432837+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -510,7 +571,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-05-15T13:55:15.723939+00:00",
-      "last_updated_at": "2026-06-16T23:54:11.190798+00:00",
+      "last_updated_at": "2026-06-17T03:34:38.432874+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -564,7 +625,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-05-21T02:50:34.747203+00:00",
-      "last_updated_at": "2026-06-16T23:54:11.190807+00:00",
+      "last_updated_at": "2026-06-17T03:34:38.432884+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -618,7 +679,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-05-22T10:45:39.299013+00:00",
-      "last_updated_at": "2026-06-16T23:54:11.190822+00:00",
+      "last_updated_at": "2026-06-17T03:34:38.432891+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -672,7 +733,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-05-23T10:50:25.590716+00:00",
-      "last_updated_at": "2026-06-16T23:54:11.190829+00:00",
+      "last_updated_at": "2026-06-17T03:34:38.432898+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -726,7 +787,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-05-23T23:27:53.827771+00:00",
-      "last_updated_at": "2026-06-16T23:54:11.190835+00:00",
+      "last_updated_at": "2026-06-17T03:34:38.432905+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -780,7 +841,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-05-25T17:04:27.842481+00:00",
-      "last_updated_at": "2026-06-16T23:54:11.190841+00:00",
+      "last_updated_at": "2026-06-17T03:34:38.432911+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -834,7 +895,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-05-26T14:56:49.014989+00:00",
-      "last_updated_at": "2026-06-16T23:54:11.190849+00:00",
+      "last_updated_at": "2026-06-17T03:34:38.432920+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -1024,7 +1085,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-05-31T16:40:18.062998+00:00",
-      "last_updated_at": "2026-06-16T23:54:11.190861+00:00",
+      "last_updated_at": "2026-06-17T03:34:38.432928+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -1161,7 +1222,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-05-29T19:05:54.989181+00:00",
-      "last_updated_at": "2026-06-16T23:54:11.190785+00:00",
+      "last_updated_at": "2026-06-17T03:34:38.432851+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -1223,7 +1284,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-04-11T15:28:51.958924+00:00",
-      "last_updated_at": "2026-06-16T23:54:11.190791+00:00",
+      "last_updated_at": "2026-06-17T03:34:38.432858+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -1344,7 +1405,7 @@
       ],
       "webcast_live": false,
       "discovered_at": "2026-05-08T05:26:41.700479+00:00",
-      "last_updated_at": "2026-06-16T23:54:11.190778+00:00",
+      "last_updated_at": "2026-06-17T03:34:38.432845+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -1417,6 +1478,68 @@
       ]
     },
     {
+      "id": "add0a5be-1cf0-49cb-975a-e8c8e18d37ec",
+      "name": "Electron | Ten Owl Of Ten (StriX Launch 10)",
+      "slug": "electron-ten-owl-of-ten-strix-launch-10",
+      "status": {
+        "id": 2,
+        "abbrev": "TBD",
+        "name": "To Be Determined",
+        "description": "Current date is a placeholder or rough estimation based on unreliable or interpreted sources."
+      },
+      "net": "2026-06-30T00:00:00Z",
+      "window_start": "2026-06-30T00:00:00Z",
+      "window_end": "2026-06-30T00:00:00Z",
+      "probability": null,
+      "rocket": {
+        "name": "Electron",
+        "family": "",
+        "manufacturer": "Rocket Lab",
+        "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/electron_image_20190705175640.jpeg"
+      },
+      "mission": {
+        "name": "Ten Owl Of Ten (StriX Launch 10)",
+        "description": "Synthetic aperture radar satellite for Japanese Earth imaging company Synspective.",
+        "type": "Earth Science",
+        "orbit": "Sun-Synchronous Orbit"
+      },
+      "pad": {
+        "name": "Unknown Pad",
+        "location": "Rocket Lab Launch Complex 1, Mahia Peninsula, New Zealand",
+        "country": "NZL",
+        "latitude": "-39.260881",
+        "longitude": "177.865826"
+      },
+      "agency": {
+        "name": "Rocket Lab",
+        "abbrev": "RL",
+        "type": "Commercial"
+      },
+      "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/electron_image_20190705175640.jpeg",
+      "vidURLs": [],
+      "webcast_live": false,
+      "discovered_at": "2026-06-08T00:02:18.038497+00:00",
+      "last_updated_at": "2026-06-17T03:34:38.432825+00:00",
+      "outcome": null,
+      "failure_reason": null,
+      "status_history": [
+        {
+          "at": "2026-06-08T00:02:18.038499+00:00",
+          "status_id": 1,
+          "abbrev": "Go",
+          "net": "2026-06-17T20:40:00Z"
+        },
+        {
+          "at": "2026-06-17T03:34:38.432828+00:00",
+          "status_id": 2,
+          "abbrev": "TBD",
+          "net": "2026-06-30T00:00:00Z",
+          "prev_net": "2026-06-17T20:40:00Z",
+          "prev_abbrev": "Go"
+        }
+      ]
+    },
+    {
       "id": "f596ad48-881e-47d6-806d-113c6dd97427",
       "name": "Pegasus XL | Swift Boost Mission",
       "slug": "pegasus-xl-swift-boost-mission",
@@ -1458,7 +1581,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-04-24T09:15:14.350986+00:00",
-      "last_updated_at": "2026-06-16T23:54:11.190763+00:00",
+      "last_updated_at": "2026-06-17T03:34:38.432817+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -1586,7 +1709,7 @@
       ],
       "webcast_live": false,
       "discovered_at": "2026-06-10T20:23:13.406414+00:00",
-      "last_updated_at": "2026-06-16T23:54:11.190755+00:00",
+      "last_updated_at": "2026-06-17T03:34:38.432810+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -1654,7 +1777,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-06-04T13:55:41.980497+00:00",
-      "last_updated_at": "2026-06-16T23:54:11.190746+00:00",
+      "last_updated_at": "2026-06-17T03:34:38.432801+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -1708,7 +1831,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-06-16T00:08:22.271990+00:00",
-      "last_updated_at": "2026-06-16T23:54:11.190739+00:00",
+      "last_updated_at": "2026-06-17T03:34:38.432794+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -1767,7 +1890,7 @@
       ],
       "webcast_live": false,
       "discovered_at": "2026-06-10T20:23:13.406386+00:00",
-      "last_updated_at": "2026-06-16T23:54:11.190732+00:00",
+      "last_updated_at": "2026-06-17T03:34:38.432787+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -1830,7 +1953,7 @@
       ],
       "webcast_live": false,
       "discovered_at": "2026-03-23T08:19:21.926409+00:00",
-      "last_updated_at": "2026-06-16T23:54:11.190725+00:00",
+      "last_updated_at": "2026-06-17T03:34:38.432778+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -2025,7 +2148,7 @@
       ],
       "webcast_live": false,
       "discovered_at": "2026-06-09T13:41:10.766225+00:00",
-      "last_updated_at": "2026-06-16T23:54:11.190718+00:00",
+      "last_updated_at": "2026-06-17T03:34:38.432768+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -2042,60 +2165,6 @@
           "net": "2026-06-18T08:54:00Z",
           "prev_net": "2026-06-17T09:08:00Z",
           "prev_abbrev": "TBC"
-        }
-      ]
-    },
-    {
-      "id": "add0a5be-1cf0-49cb-975a-e8c8e18d37ec",
-      "name": "Electron | Ten Owl Of Ten (StriX Launch 10)",
-      "slug": "electron-ten-owl-of-ten-strix-launch-10",
-      "status": {
-        "id": 1,
-        "abbrev": "Go",
-        "name": "Go for Launch",
-        "description": "Current T-0 confirmed by official or reliable sources."
-      },
-      "net": "2026-06-17T20:40:00Z",
-      "window_start": "2026-06-17T20:40:00Z",
-      "window_end": "2026-06-17T20:40:00Z",
-      "probability": null,
-      "rocket": {
-        "name": "Electron",
-        "family": "",
-        "manufacturer": "Rocket Lab",
-        "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/electron_image_20190705175640.jpeg"
-      },
-      "mission": {
-        "name": "Ten Owl Of Ten (StriX Launch 10)",
-        "description": "Synthetic aperture radar satellite for Japanese Earth imaging company Synspective.",
-        "type": "Earth Science",
-        "orbit": "Sun-Synchronous Orbit"
-      },
-      "pad": {
-        "name": "Unknown Pad",
-        "location": "Rocket Lab Launch Complex 1, Mahia Peninsula, New Zealand",
-        "country": "NZL",
-        "latitude": "-39.260881",
-        "longitude": "177.865826"
-      },
-      "agency": {
-        "name": "Rocket Lab",
-        "abbrev": "RL",
-        "type": "Commercial"
-      },
-      "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/electron_image_20190705175640.jpeg",
-      "vidURLs": [],
-      "webcast_live": false,
-      "discovered_at": "2026-06-08T00:02:18.038497+00:00",
-      "last_updated_at": "2026-06-16T23:54:11.190708+00:00",
-      "outcome": null,
-      "failure_reason": null,
-      "status_history": [
-        {
-          "at": "2026-06-08T00:02:18.038499+00:00",
-          "status_id": 1,
-          "abbrev": "Go",
-          "net": "2026-06-17T20:40:00Z"
         }
       ]
     },
@@ -2146,7 +2215,7 @@
       ],
       "webcast_live": false,
       "discovered_at": "2026-04-08T14:52:10.605497+00:00",
-      "last_updated_at": "2026-06-16T23:54:11.190700+00:00",
+      "last_updated_at": "2026-06-17T03:34:38.432760+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -2228,7 +2297,7 @@
       ],
       "webcast_live": false,
       "discovered_at": "2026-05-06T23:47:31.511670+00:00",
-      "last_updated_at": "2026-06-16T23:54:11.190687+00:00",
+      "last_updated_at": "2026-06-17T03:34:38.432751+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -2290,7 +2359,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-06-13T14:36:17.600835+00:00",
-      "last_updated_at": "2026-06-16T23:54:11.190673+00:00",
+      "last_updated_at": "2026-06-17T03:34:38.432737+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -2307,10 +2376,10 @@
       "name": "Long March 12 | Unknown Payload",
       "slug": "long-march-12-unknown-payload",
       "status": {
-        "id": 1,
-        "abbrev": "Go",
-        "name": "Go for Launch",
-        "description": "Current T-0 confirmed by official or reliable sources."
+        "id": 6,
+        "abbrev": "In Flight",
+        "name": "Launch in Flight",
+        "description": "The launch vehicle has lifted off from the launchpad."
       },
       "net": "2026-06-17T02:45:00Z",
       "window_start": "2026-06-17T02:37:00Z",
@@ -2344,7 +2413,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-06-04T13:55:41.980485+00:00",
-      "last_updated_at": "2026-06-16T23:54:11.190658+00:00",
+      "last_updated_at": "2026-06-17T03:34:38.432717+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -2369,60 +2438,13 @@
           "net": "2026-06-17T02:45:00Z",
           "prev_net": "2026-06-30T00:00:00Z",
           "prev_abbrev": "TBD"
-        }
-      ]
-    },
-    {
-      "id": "d793ba47-faf5-4bab-a386-39a9ccc49c90",
-      "name": "Soyuz 2.1a | Progress MS-35 (96P)",
-      "slug": "soyuz-21a-progress-ms-35-96p",
-      "status": {
-        "id": 8,
-        "abbrev": "TBC",
-        "name": "To Be Confirmed",
-        "description": "Awaiting official confirmation - current date is known with some certainty."
-      },
-      "net": "2026-06-17T01:40:00Z",
-      "window_start": "2026-06-17T01:40:00Z",
-      "window_end": "2026-06-17T01:40:00Z",
-      "probability": null,
-      "rocket": {
-        "name": "Soyuz 2.1a",
-        "family": "Soyuz",
-        "manufacturer": "Progress Rocket Space Center",
-        "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/soyuz_2.1a_image_20230805184309.jpg"
-      },
-      "mission": {
-        "name": "Progress MS-35 (96P)",
-        "description": "Progress resupply mission to the International Space Station.",
-        "type": "Resupply",
-        "orbit": "Low Earth Orbit"
-      },
-      "pad": {
-        "name": "31/6",
-        "location": "Baikonur Cosmodrome, Republic of Kazakhstan",
-        "country": "KAZ",
-        "latitude": "45.996034",
-        "longitude": "63.564003"
-      },
-      "agency": {
-        "name": "Russian Federal Space Agency (ROSCOSMOS)",
-        "abbrev": "RFSA",
-        "type": "Government"
-      },
-      "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/soyuz_2.1a_image_20230805184309.jpg",
-      "vidURLs": [],
-      "webcast_live": false,
-      "discovered_at": "2026-04-26T23:04:51.622698+00:00",
-      "last_updated_at": "2026-04-29T20:38:07.367973+00:00",
-      "outcome": null,
-      "failure_reason": null,
-      "status_history": [
+        },
         {
-          "at": "2026-04-26T23:04:51.622701+00:00",
-          "status_id": 8,
-          "abbrev": "TBC",
-          "net": "2026-06-17T01:40:00Z"
+          "at": "2026-06-17T03:34:38.432724+00:00",
+          "status_id": 6,
+          "abbrev": "In Flight",
+          "net": "2026-06-17T02:45:00Z",
+          "prev_abbrev": "Go"
         }
       ]
     },
@@ -2468,7 +2490,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-06-04T13:55:41.980471+00:00",
-      "last_updated_at": "2026-06-16T23:54:11.190619+00:00",
+      "last_updated_at": "2026-06-17T03:34:38.432682+00:00",
       "outcome": "success",
       "failure_reason": null,
       "status_history": [
@@ -10239,5 +10261,5 @@
       ]
     }
   ],
-  "last_updated": "2026-06-16T23:54:11.191145+00:00"
+  "last_updated": "2026-06-17T03:34:38.917342+00:00"
 }
