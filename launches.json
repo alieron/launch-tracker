@@ -253,6 +253,394 @@
       ]
     },
     {
+      "id": "a6db1e67-5860-47c9-a674-adc0f35b62e0",
+      "name": "Falcon 9 Block 5 | Transporter 17 (Dedicated SSO Rideshare)",
+      "slug": "falcon-9-block-5-transporter-17-dedicated-sso-ride",
+      "status": {
+        "id": 2,
+        "abbrev": "TBD",
+        "name": "To Be Determined",
+        "description": "Current date is a placeholder or rough estimation based on unreliable or interpreted sources."
+      },
+      "net": "2026-07-31T00:00:00Z",
+      "window_start": "2026-07-31T00:00:00Z",
+      "window_end": "2026-07-31T00:00:00Z",
+      "probability": null,
+      "rocket": {
+        "name": "Falcon 9",
+        "family": "Falcon",
+        "manufacturer": "SpaceX",
+        "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/falcon_9_image_20230807133459.jpeg"
+      },
+      "mission": {
+        "name": "Transporter 17 (Dedicated SSO Rideshare)",
+        "description": "Dedicated rideshare flight to a sun-synchronous orbit with dozens of small microsatellites and nanosatellites for commercial and government customers.",
+        "type": "Dedicated Rideshare",
+        "orbit": "Sun-Synchronous Orbit"
+      },
+      "pad": {
+        "name": "Space Launch Complex 4E",
+        "location": "Vandenberg SFB, CA, USA",
+        "country": "USA",
+        "latitude": "34.632",
+        "longitude": "-120.611"
+      },
+      "agency": {
+        "name": "SpaceX",
+        "abbrev": "SpX",
+        "type": "Commercial"
+      },
+      "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/falcon_9_image_20230807133459.jpeg",
+      "vidURLs": [],
+      "webcast_live": false,
+      "discovered_at": "2026-05-01T06:11:57.745139+00:00",
+      "last_updated_at": "2026-06-19T15:46:40.307018+00:00",
+      "outcome": null,
+      "failure_reason": null,
+      "status_history": [
+        {
+          "at": "2026-05-01T06:11:57.745141+00:00",
+          "status_id": 2,
+          "abbrev": "TBD",
+          "net": "2026-06-30T00:00:00Z"
+        },
+        {
+          "at": "2026-06-19T15:46:40.307021+00:00",
+          "status_id": 2,
+          "abbrev": "TBD",
+          "net": "2026-07-31T00:00:00Z",
+          "prev_net": "2026-06-30T00:00:00Z"
+        }
+      ]
+    },
+    {
+      "id": "1e79a5e9-c02c-470f-882f-884120100fef",
+      "name": "Long March 10B | Demo Flight",
+      "slug": "long-march-10b-demo-flight",
+      "status": {
+        "id": 2,
+        "abbrev": "TBD",
+        "name": "To Be Determined",
+        "description": "Current date is a placeholder or rough estimation based on unreliable or interpreted sources."
+      },
+      "net": "2026-07-31T00:00:00Z",
+      "window_start": "2026-07-31T00:00:00Z",
+      "window_end": "2026-07-31T00:00:00Z",
+      "probability": null,
+      "rocket": {
+        "name": "Long March 10B",
+        "family": "Long March",
+        "manufacturer": "China Aerospace Science and Technology Corporation",
+        "image_url": null
+      },
+      "mission": {
+        "name": "Demo Flight",
+        "description": "First test launch of CASC\u2019s Long March 10B rocket.",
+        "type": "Test Flight",
+        "orbit": "Unknown"
+      },
+      "pad": {
+        "name": "Commercial LC-2",
+        "location": "Wenchang Space Launch Site, People's Republic of China",
+        "country": "CHN",
+        "latitude": "19.59755",
+        "longitude": "110.936481"
+      },
+      "agency": {
+        "name": "China Aerospace Science and Technology Corporation",
+        "abbrev": "CASC",
+        "type": "Government"
+      },
+      "image_url": null,
+      "vidURLs": [],
+      "webcast_live": false,
+      "discovered_at": "2026-04-20T19:38:59.795722+00:00",
+      "last_updated_at": "2026-06-19T15:46:40.307050+00:00",
+      "outcome": null,
+      "failure_reason": null,
+      "status_history": [
+        {
+          "at": "2026-04-20T19:38:59.795725+00:00",
+          "status_id": 2,
+          "abbrev": "TBD",
+          "net": "2026-04-30T00:00:00Z"
+        },
+        {
+          "at": "2026-04-25T23:32:59.058032+00:00",
+          "status_id": 2,
+          "abbrev": "TBD",
+          "net": "2026-05-31T00:00:00Z",
+          "prev_net": "2026-04-30T00:00:00Z"
+        },
+        {
+          "at": "2026-05-31T04:44:27.420815+00:00",
+          "status_id": 2,
+          "abbrev": "TBD",
+          "net": "2026-06-30T00:00:00Z",
+          "prev_net": "2026-05-31T00:00:00Z"
+        },
+        {
+          "at": "2026-06-19T15:46:40.307053+00:00",
+          "status_id": 2,
+          "abbrev": "TBD",
+          "net": "2026-07-31T00:00:00Z",
+          "prev_net": "2026-06-30T00:00:00Z"
+        }
+      ]
+    },
+    {
+      "id": "17d0ec68-f466-4916-9dc5-16123eda6484",
+      "name": "GSLV Mk II | GISAT-1A (EOS-05)",
+      "slug": "gslv-mk-ii-gisat-1a-eos-05",
+      "status": {
+        "id": 2,
+        "abbrev": "TBD",
+        "name": "To Be Determined",
+        "description": "Current date is a placeholder or rough estimation based on unreliable or interpreted sources."
+      },
+      "net": "2026-07-31T00:00:00Z",
+      "window_start": "2026-07-31T00:00:00Z",
+      "window_end": "2026-07-31T00:00:00Z",
+      "probability": null,
+      "rocket": {
+        "name": "GSLV Mk II",
+        "family": "GSLV",
+        "manufacturer": "Indian Space Research Organization",
+        "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/gslv2520mk2520ii_image_20190825171642.jpg"
+      },
+      "mission": {
+        "name": "GISAT-1A (EOS-05)",
+        "description": "GISAT-1A (GEO Imaging Satellite) is an Indian earth observing satellite operating from geostationary orbit to facilitate continuous observation of Indian sub-continent, quick monitoring of natural hazards and disaster.",
+        "type": "Earth Science",
+        "orbit": "Geostationary Transfer Orbit"
+      },
+      "pad": {
+        "name": "Satish Dhawan Space Centre Second Launch Pad",
+        "location": "Satish Dhawan Space Centre, India",
+        "country": "IND",
+        "latitude": "13.7199",
+        "longitude": "80.2304"
+      },
+      "agency": {
+        "name": "Indian Space Research Organization",
+        "abbrev": "ISRO",
+        "type": "Government"
+      },
+      "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/gslv2520mk2520ii_image_20190825171642.jpg",
+      "vidURLs": [],
+      "webcast_live": false,
+      "discovered_at": "2026-05-07T15:11:41.797008+00:00",
+      "last_updated_at": "2026-06-19T15:46:40.307030+00:00",
+      "outcome": null,
+      "failure_reason": null,
+      "status_history": [
+        {
+          "at": "2026-05-07T15:11:41.797011+00:00",
+          "status_id": 8,
+          "abbrev": "TBC",
+          "net": "2026-05-21T03:15:00Z"
+        },
+        {
+          "at": "2026-05-14T15:39:31.575480+00:00",
+          "status_id": 2,
+          "abbrev": "TBD",
+          "net": "2026-05-31T00:00:00Z",
+          "prev_net": "2026-05-21T03:15:00Z",
+          "prev_abbrev": "TBC"
+        },
+        {
+          "at": "2026-05-22T10:45:39.298959+00:00",
+          "status_id": 2,
+          "abbrev": "TBD",
+          "net": "2026-06-30T00:00:00Z",
+          "prev_net": "2026-05-31T00:00:00Z"
+        },
+        {
+          "at": "2026-05-24T01:29:12.826439+00:00",
+          "status_id": 2,
+          "abbrev": "TBD",
+          "net": "2026-06-10T00:00:00Z",
+          "prev_net": "2026-06-30T00:00:00Z"
+        },
+        {
+          "at": "2026-06-02T05:09:19.680378+00:00",
+          "status_id": 2,
+          "abbrev": "TBD",
+          "net": "2026-06-30T00:00:00Z",
+          "prev_net": "2026-06-10T00:00:00Z"
+        },
+        {
+          "at": "2026-06-19T15:46:40.307033+00:00",
+          "status_id": 2,
+          "abbrev": "TBD",
+          "net": "2026-07-31T00:00:00Z",
+          "prev_net": "2026-06-30T00:00:00Z"
+        }
+      ]
+    },
+    {
+      "id": "56a85c82-ea71-449b-828c-b583f6f4a18b",
+      "name": "Falcon 9 Block 5 | BlueBird Block 2 #6-8",
+      "slug": "falcon-9-block-5-bluebird-block-2-6-8",
+      "status": {
+        "id": 2,
+        "abbrev": "TBD",
+        "name": "To Be Determined",
+        "description": "Current date is a placeholder or rough estimation based on unreliable or interpreted sources."
+      },
+      "net": "2026-07-31T00:00:00Z",
+      "window_start": "2026-07-31T00:00:00Z",
+      "window_end": "2026-07-31T00:00:00Z",
+      "probability": null,
+      "rocket": {
+        "name": "Falcon 9",
+        "family": "Falcon",
+        "manufacturer": "SpaceX",
+        "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/falcon_9_image_20230807133459.jpeg"
+      },
+      "mission": {
+        "name": "BlueBird Block 2 #6-8",
+        "description": "AST SpaceMobile\u2019s Block 2 BlueBird satellites are designed to deliver up to 10 times the bandwidth capacity of the BlueBird Block 1 satellites, required to achieve 24/7 continuous cellular broadband service coverage in the United States, with beams designed to support a capacity of up to 40 MHz, enabling peak data transmission speeds up to 120 Mbps, supporting voice, full data and video applications. The Block 2 BlueBirds, featuring as large as 2400 square foot communications arrays, will be the largest satellites ever commercially deployed in Low Earth orbit once launched.\r\n\r\nThis launch will feature 3 satellites.",
+        "type": "Communications",
+        "orbit": "Low Earth Orbit"
+      },
+      "pad": {
+        "name": "Space Launch Complex 40",
+        "location": "Cape Canaveral SFS, FL, USA",
+        "country": "USA",
+        "latitude": "28.56194122",
+        "longitude": "-80.57735736"
+      },
+      "agency": {
+        "name": "SpaceX",
+        "abbrev": "SpX",
+        "type": "Commercial"
+      },
+      "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/f9_on_slc-40_2_image_20240919072420.jpg",
+      "vidURLs": [],
+      "webcast_live": false,
+      "discovered_at": "2026-06-19T15:46:40.307006+00:00",
+      "last_updated_at": "2026-06-19T15:46:40.307004+00:00",
+      "outcome": null,
+      "failure_reason": null,
+      "status_history": [
+        {
+          "at": "2026-06-19T15:46:40.307009+00:00",
+          "status_id": 2,
+          "abbrev": "TBD",
+          "net": "2026-07-31T00:00:00Z"
+        }
+      ]
+    },
+    {
+      "id": "a2234679-5efe-4a00-9aff-cf82dbac22b0",
+      "name": "H3-24 | HTV-X2",
+      "slug": "h3-24-htv-x2",
+      "status": {
+        "id": 2,
+        "abbrev": "TBD",
+        "name": "To Be Determined",
+        "description": "Current date is a placeholder or rough estimation based on unreliable or interpreted sources."
+      },
+      "net": "2026-07-31T00:00:00Z",
+      "window_start": "2026-07-31T00:00:00Z",
+      "window_end": "2026-07-31T00:00:00Z",
+      "probability": null,
+      "rocket": {
+        "name": "H3-24",
+        "family": "H3",
+        "manufacturer": "Mitsubishi Heavy Industries",
+        "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/h3-24_liftoff__image_20251028184029.jpeg"
+      },
+      "mission": {
+        "name": "HTV-X2",
+        "description": "Second flight of the upgraded Japanese HTV-X spacecraft designed to resupply the International Space Station.",
+        "type": "Resupply",
+        "orbit": "Low Earth Orbit"
+      },
+      "pad": {
+        "name": "Yoshinobu Launch Complex LP-2",
+        "location": "Tanegashima Space Center, Japan",
+        "country": "JPN",
+        "latitude": "30.400938",
+        "longitude": "130.97564"
+      },
+      "agency": {
+        "name": "Mitsubishi Heavy Industries",
+        "abbrev": "MHI",
+        "type": "Commercial"
+      },
+      "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/h3-24_liftoff__image_20251028184029.jpeg",
+      "vidURLs": [],
+      "webcast_live": false,
+      "discovered_at": "2026-06-19T15:46:40.307041+00:00",
+      "last_updated_at": "2026-06-19T15:46:40.307039+00:00",
+      "outcome": null,
+      "failure_reason": null,
+      "status_history": [
+        {
+          "at": "2026-06-19T15:46:40.307043+00:00",
+          "status_id": 2,
+          "abbrev": "TBD",
+          "net": "2026-07-31T00:00:00Z"
+        }
+      ]
+    },
+    {
+      "id": "ac897b9f-44d2-4ff4-8416-1a0a076e98a2",
+      "name": "Starship | Flight 13",
+      "slug": "starship-flight-13",
+      "status": {
+        "id": 2,
+        "abbrev": "TBD",
+        "name": "To Be Determined",
+        "description": "Current date is a placeholder or rough estimation based on unreliable or interpreted sources."
+      },
+      "net": "2026-07-31T00:00:00Z",
+      "window_start": "2026-07-31T00:00:00Z",
+      "window_end": "2026-07-31T00:00:00Z",
+      "probability": null,
+      "rocket": {
+        "name": "Starship",
+        "family": "Starship",
+        "manufacturer": "SpaceX",
+        "image_url": null
+      },
+      "mission": {
+        "name": "Flight 13",
+        "description": "13th test flight of the two-stage Starship launch vehicle. Second flight of Starship V3",
+        "type": "Test Flight",
+        "orbit": "Suborbital"
+      },
+      "pad": {
+        "name": "Orbital Launch Pad 2",
+        "location": "SpaceX Starbase, TX, USA",
+        "country": "USA",
+        "latitude": "25.99677",
+        "longitude": "-97.15799"
+      },
+      "agency": {
+        "name": "SpaceX",
+        "abbrev": "SpX",
+        "type": "Commercial"
+      },
+      "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/starship_on_the_image_20250111100520.jpg",
+      "vidURLs": [],
+      "webcast_live": false,
+      "discovered_at": "2026-06-19T15:46:40.307063+00:00",
+      "last_updated_at": "2026-06-19T15:46:40.307061+00:00",
+      "outcome": null,
+      "failure_reason": null,
+      "status_history": [
+        {
+          "at": "2026-06-19T15:46:40.307064+00:00",
+          "status_id": 2,
+          "abbrev": "TBD",
+          "net": "2026-07-31T00:00:00Z"
+        }
+      ]
+    },
+    {
       "id": "599ba2df-7483-4b2f-a083-2b5ddc06e069",
       "name": "Electron | LOXSAT 1",
       "slug": "electron-loxsat-1",
@@ -294,7 +682,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-04-27T15:24:39.972764+00:00",
-      "last_updated_at": "2026-06-19T07:36:24.217077+00:00",
+      "last_updated_at": "2026-06-19T15:46:40.306997+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -355,7 +743,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-06-18T12:48:06.313811+00:00",
-      "last_updated_at": "2026-06-19T07:36:24.217071+00:00",
+      "last_updated_at": "2026-06-19T15:46:40.306988+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -409,7 +797,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-05-01T10:05:53.337343+00:00",
-      "last_updated_at": "2026-06-19T07:36:24.217064+00:00",
+      "last_updated_at": "2026-06-19T15:46:40.306981+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -484,60 +872,6 @@
       "status_history": [
         {
           "at": "2026-04-30T15:48:07.790105+00:00",
-          "status_id": 2,
-          "abbrev": "TBD",
-          "net": "2026-06-30T00:00:00Z"
-        }
-      ]
-    },
-    {
-      "id": "a6db1e67-5860-47c9-a674-adc0f35b62e0",
-      "name": "Falcon 9 Block 5 | Transporter 17 (Dedicated SSO Rideshare)",
-      "slug": "falcon-9-block-5-transporter-17-dedicated-sso-ride",
-      "status": {
-        "id": 2,
-        "abbrev": "TBD",
-        "name": "To Be Determined",
-        "description": "Current date is a placeholder or rough estimation based on unreliable or interpreted sources."
-      },
-      "net": "2026-06-30T00:00:00Z",
-      "window_start": "2026-06-30T00:00:00Z",
-      "window_end": "2026-06-30T00:00:00Z",
-      "probability": null,
-      "rocket": {
-        "name": "Falcon 9",
-        "family": "Falcon",
-        "manufacturer": "SpaceX",
-        "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/falcon_9_image_20230807133459.jpeg"
-      },
-      "mission": {
-        "name": "Transporter 17 (Dedicated SSO Rideshare)",
-        "description": "Dedicated rideshare flight to a sun-synchronous orbit with dozens of small microsatellites and nanosatellites for commercial and government customers.",
-        "type": "Dedicated Rideshare",
-        "orbit": "Sun-Synchronous Orbit"
-      },
-      "pad": {
-        "name": "Space Launch Complex 4E",
-        "location": "Vandenberg SFB, CA, USA",
-        "country": "USA",
-        "latitude": "34.632",
-        "longitude": "-120.611"
-      },
-      "agency": {
-        "name": "SpaceX",
-        "abbrev": "SpX",
-        "type": "Commercial"
-      },
-      "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/falcon_9_image_20230807133459.jpeg",
-      "vidURLs": [],
-      "webcast_live": false,
-      "discovered_at": "2026-05-01T06:11:57.745139+00:00",
-      "last_updated_at": "2026-05-22T07:39:55.444071+00:00",
-      "outcome": null,
-      "failure_reason": null,
-      "status_history": [
-        {
-          "at": "2026-05-01T06:11:57.745141+00:00",
           "status_id": 2,
           "abbrev": "TBD",
           "net": "2026-06-30T00:00:00Z"
@@ -640,7 +974,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-04-09T21:07:11.353167+00:00",
-      "last_updated_at": "2026-06-19T07:36:24.216951+00:00",
+      "last_updated_at": "2026-06-19T15:46:40.306916+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -1038,74 +1372,6 @@
       ]
     },
     {
-      "id": "1e79a5e9-c02c-470f-882f-884120100fef",
-      "name": "Long March 10B | Demo Flight",
-      "slug": "long-march-10b-demo-flight",
-      "status": {
-        "id": 2,
-        "abbrev": "TBD",
-        "name": "To Be Determined",
-        "description": "Current date is a placeholder or rough estimation based on unreliable or interpreted sources."
-      },
-      "net": "2026-06-30T00:00:00Z",
-      "window_start": "2026-06-30T00:00:00Z",
-      "window_end": "2026-06-30T00:00:00Z",
-      "probability": null,
-      "rocket": {
-        "name": "Long March 10B",
-        "family": "Long March",
-        "manufacturer": "China Aerospace Science and Technology Corporation",
-        "image_url": null
-      },
-      "mission": {
-        "name": "Demo Flight",
-        "description": "First test launch of CASC\u2019s Long March 10B rocket.",
-        "type": "Test Flight",
-        "orbit": "Unknown"
-      },
-      "pad": {
-        "name": "Commercial LC-2",
-        "location": "Wenchang Space Launch Site, People's Republic of China",
-        "country": "CHN",
-        "latitude": "19.59755",
-        "longitude": "110.936481"
-      },
-      "agency": {
-        "name": "China Aerospace Science and Technology Corporation",
-        "abbrev": "CASC",
-        "type": "Government"
-      },
-      "image_url": null,
-      "vidURLs": [],
-      "webcast_live": false,
-      "discovered_at": "2026-04-20T19:38:59.795722+00:00",
-      "last_updated_at": "2026-05-31T04:44:27.420751+00:00",
-      "outcome": null,
-      "failure_reason": null,
-      "status_history": [
-        {
-          "at": "2026-04-20T19:38:59.795725+00:00",
-          "status_id": 2,
-          "abbrev": "TBD",
-          "net": "2026-04-30T00:00:00Z"
-        },
-        {
-          "at": "2026-04-25T23:32:59.058032+00:00",
-          "status_id": 2,
-          "abbrev": "TBD",
-          "net": "2026-05-31T00:00:00Z",
-          "prev_net": "2026-04-30T00:00:00Z"
-        },
-        {
-          "at": "2026-05-31T04:44:27.420815+00:00",
-          "status_id": 2,
-          "abbrev": "TBD",
-          "net": "2026-06-30T00:00:00Z",
-          "prev_net": "2026-05-31T00:00:00Z"
-        }
-      ]
-    },
-    {
       "id": "aafe107e-46d8-420c-bcb9-192069d80893",
       "name": "Soyuz 2.1b | 16 x Rassvet-3",
       "slug": "soyuz-21b-16-x-rassvet-3-2",
@@ -1215,7 +1481,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-05-31T16:40:18.062998+00:00",
-      "last_updated_at": "2026-06-19T07:36:24.217040+00:00",
+      "last_updated_at": "2026-06-19T15:46:40.306959+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -1224,89 +1490,6 @@
           "status_id": 2,
           "abbrev": "TBD",
           "net": "2026-06-30T00:00:00Z"
-        }
-      ]
-    },
-    {
-      "id": "17d0ec68-f466-4916-9dc5-16123eda6484",
-      "name": "GSLV Mk II | GISAT-1A (EOS-05)",
-      "slug": "gslv-mk-ii-gisat-1a-eos-05",
-      "status": {
-        "id": 2,
-        "abbrev": "TBD",
-        "name": "To Be Determined",
-        "description": "Current date is a placeholder or rough estimation based on unreliable or interpreted sources."
-      },
-      "net": "2026-06-30T00:00:00Z",
-      "window_start": "2026-06-30T00:00:00Z",
-      "window_end": "2026-06-30T00:00:00Z",
-      "probability": null,
-      "rocket": {
-        "name": "GSLV Mk II",
-        "family": "GSLV",
-        "manufacturer": "Indian Space Research Organization",
-        "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/gslv2520mk2520ii_image_20190825171642.jpg"
-      },
-      "mission": {
-        "name": "GISAT-1A (EOS-05)",
-        "description": "GISAT-1A (GEO Imaging Satellite) is an Indian earth observing satellite operating from geostationary orbit to facilitate continuous observation of Indian sub-continent, quick monitoring of natural hazards and disaster.",
-        "type": "Earth Science",
-        "orbit": "Geostationary Transfer Orbit"
-      },
-      "pad": {
-        "name": "Satish Dhawan Space Centre Second Launch Pad",
-        "location": "Satish Dhawan Space Centre, India",
-        "country": "IND",
-        "latitude": "13.7199",
-        "longitude": "80.2304"
-      },
-      "agency": {
-        "name": "Indian Space Research Organization",
-        "abbrev": "ISRO",
-        "type": "Government"
-      },
-      "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/gslv2520mk2520ii_image_20190825171642.jpg",
-      "vidURLs": [],
-      "webcast_live": false,
-      "discovered_at": "2026-05-07T15:11:41.797008+00:00",
-      "last_updated_at": "2026-06-13T17:51:40.558920+00:00",
-      "outcome": null,
-      "failure_reason": null,
-      "status_history": [
-        {
-          "at": "2026-05-07T15:11:41.797011+00:00",
-          "status_id": 8,
-          "abbrev": "TBC",
-          "net": "2026-05-21T03:15:00Z"
-        },
-        {
-          "at": "2026-05-14T15:39:31.575480+00:00",
-          "status_id": 2,
-          "abbrev": "TBD",
-          "net": "2026-05-31T00:00:00Z",
-          "prev_net": "2026-05-21T03:15:00Z",
-          "prev_abbrev": "TBC"
-        },
-        {
-          "at": "2026-05-22T10:45:39.298959+00:00",
-          "status_id": 2,
-          "abbrev": "TBD",
-          "net": "2026-06-30T00:00:00Z",
-          "prev_net": "2026-05-31T00:00:00Z"
-        },
-        {
-          "at": "2026-05-24T01:29:12.826439+00:00",
-          "status_id": 2,
-          "abbrev": "TBD",
-          "net": "2026-06-10T00:00:00Z",
-          "prev_net": "2026-06-30T00:00:00Z"
-        },
-        {
-          "at": "2026-06-02T05:09:19.680378+00:00",
-          "status_id": 2,
-          "abbrev": "TBD",
-          "net": "2026-06-30T00:00:00Z",
-          "prev_net": "2026-06-10T00:00:00Z"
         }
       ]
     },
@@ -1352,7 +1535,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-05-29T19:05:54.989181+00:00",
-      "last_updated_at": "2026-06-19T07:36:24.216967+00:00",
+      "last_updated_at": "2026-06-19T15:46:40.306936+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -1414,7 +1597,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-04-11T15:28:51.958924+00:00",
-      "last_updated_at": "2026-06-19T07:36:24.216974+00:00",
+      "last_updated_at": "2026-06-19T15:46:40.306945+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -1535,7 +1718,7 @@
       ],
       "webcast_live": false,
       "discovered_at": "2026-05-08T05:26:41.700479+00:00",
-      "last_updated_at": "2026-06-19T07:36:24.216958+00:00",
+      "last_updated_at": "2026-06-19T15:46:40.306925+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -1649,7 +1832,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-06-08T00:02:18.038497+00:00",
-      "last_updated_at": "2026-06-19T07:36:24.216943+00:00",
+      "last_updated_at": "2026-06-19T15:46:40.306905+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -1711,7 +1894,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-06-17T12:52:02.511173+00:00",
-      "last_updated_at": "2026-06-19T07:36:24.217046+00:00",
+      "last_updated_at": "2026-06-19T15:46:40.306967+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -1774,7 +1957,7 @@
       ],
       "webcast_live": false,
       "discovered_at": "2026-03-23T08:19:21.926409+00:00",
-      "last_updated_at": "2026-06-19T07:36:24.216981+00:00",
+      "last_updated_at": "2026-06-19T15:46:40.306952+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -1973,7 +2156,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-06-18T05:14:01.659052+00:00",
-      "last_updated_at": "2026-06-19T07:36:24.217054+00:00",
+      "last_updated_at": "2026-06-19T15:46:40.306973+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -1982,6 +2165,65 @@
           "status_id": 2,
           "abbrev": "TBD",
           "net": "2026-06-30T00:00:00Z"
+        }
+      ]
+    },
+    {
+      "id": "0740c699-9877-4331-8aef-4e29ea6281c0",
+      "name": "Falcon 9 Block 5 | Starlink Group 17-40",
+      "slug": "falcon-9-block-5-starlink-group-17-40",
+      "status": {
+        "id": 1,
+        "abbrev": "Go",
+        "name": "Go for Launch",
+        "description": "Current T-0 confirmed by official or reliable sources."
+      },
+      "net": "2026-06-28T14:00:00Z",
+      "window_start": "2026-06-28T14:00:00Z",
+      "window_end": "2026-06-28T18:00:00Z",
+      "probability": null,
+      "rocket": {
+        "name": "Falcon 9",
+        "family": "Falcon",
+        "manufacturer": "SpaceX",
+        "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/falcon_9_image_20230807133459.jpeg"
+      },
+      "mission": {
+        "name": "Starlink Group 17-40",
+        "description": "A batch of 24 satellites for the Starlink mega-constellation - SpaceX's project for space-based Internet communication system.",
+        "type": "Communications",
+        "orbit": "Low Earth Orbit"
+      },
+      "pad": {
+        "name": "Space Launch Complex 4E",
+        "location": "Vandenberg SFB, CA, USA",
+        "country": "USA",
+        "latitude": "34.632",
+        "longitude": "-120.611"
+      },
+      "agency": {
+        "name": "SpaceX",
+        "abbrev": "SpX",
+        "type": "Commercial"
+      },
+      "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/falcon2520925_image_20221009234147.png",
+      "vidURLs": [
+        {
+          "title": "Starlink Mission",
+          "url": "https://x.com/i/broadcasts/1MJgNNPnkqlGL"
+        }
+      ],
+      "webcast_live": false,
+      "discovered_at": "2026-06-19T15:46:40.306891+00:00",
+      "last_updated_at": "2026-06-19T15:46:40.306888+00:00",
+      "outcome": null,
+      "failure_reason": null,
+      "status_history": [
+        {
+          "at": "2026-06-19T15:46:40.306894+00:00",
+          "status_id": 1,
+          "abbrev": "Go",
+          "net": "2026-06-28T14:00:00Z"
         }
       ]
     },
@@ -2027,7 +2269,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-04-24T09:15:14.350986+00:00",
-      "last_updated_at": "2026-06-19T07:36:24.216932+00:00",
+      "last_updated_at": "2026-06-19T15:46:40.306879+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -2108,7 +2350,7 @@
       ],
       "webcast_live": false,
       "discovered_at": "2026-06-10T20:23:13.406414+00:00",
-      "last_updated_at": "2026-06-19T07:36:24.216924+00:00",
+      "last_updated_at": "2026-06-19T15:46:40.306871+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -2188,7 +2430,7 @@
       ],
       "webcast_live": false,
       "discovered_at": "2026-06-16T00:08:22.271990+00:00",
-      "last_updated_at": "2026-06-19T07:36:24.216910+00:00",
+      "last_updated_at": "2026-06-19T15:46:40.306863+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -2256,7 +2498,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-06-04T13:55:41.980497+00:00",
-      "last_updated_at": "2026-06-19T07:36:24.216898+00:00",
+      "last_updated_at": "2026-06-19T15:46:40.306849+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -2323,7 +2565,7 @@
       ],
       "webcast_live": false,
       "discovered_at": "2026-06-10T20:23:13.406386+00:00",
-      "last_updated_at": "2026-06-19T07:36:24.216882+00:00",
+      "last_updated_at": "2026-06-19T15:46:40.306835+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -2347,10 +2589,10 @@
       "name": "Falcon 9 Block 5 | NROL-179",
       "slug": "falcon-9-block-5-nrol-179",
       "status": {
-        "id": 1,
-        "abbrev": "Go",
-        "name": "Go for Launch",
-        "description": "Current T-0 confirmed by official or reliable sources."
+        "id": 3,
+        "abbrev": "Success",
+        "name": "Launch Successful",
+        "description": "The launch vehicle successfully inserted its payload(s) into the target orbit(s)."
       },
       "net": "2026-06-19T08:50:45Z",
       "window_start": "2026-06-19T08:40:00Z",
@@ -2383,22 +2625,22 @@
       "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/falcon_9_on_slc_image_20241024165956.jpg",
       "vidURLs": [
         {
-          "title": "GO! - SpaceX - Falcon 9 - NROL-179 - SLC-4E - Vandenberg SFB - Space Affairs Live",
-          "url": "https://www.youtube.com/watch?v=QoA12hmA3co"
+          "title": "SpaceX NROL-179",
+          "url": "https://www.youtube.com/watch?v=zXIu4nsv5uQ"
         },
         {
           "title": "Live: SpaceX Falcon 9 rocket launches from California with satellites for U.S. spy satellite agency",
           "url": "https://www.youtube.com/watch?v=pFLI1BTVfkM"
         },
         {
-          "title": "Livestream on X",
-          "url": "https://x.com/i/broadcasts/1dGYllVmbpAKX"
+          "title": "NROL-179 Mission",
+          "url": "https://x.com/i/broadcasts/1XGyggljXpdxM"
         }
       ],
       "webcast_live": false,
       "discovered_at": "2026-06-09T13:41:10.766225+00:00",
-      "last_updated_at": "2026-06-19T07:36:24.216842+00:00",
-      "outcome": null,
+      "last_updated_at": "2026-06-19T15:46:40.306793+00:00",
+      "outcome": "success",
       "failure_reason": null,
       "status_history": [
         {
@@ -2428,6 +2670,13 @@
           "abbrev": "Go",
           "net": "2026-06-19T08:50:45Z",
           "prev_net": "2026-06-19T08:40:00Z"
+        },
+        {
+          "at": "2026-06-19T15:46:40.306814+00:00",
+          "status_id": 3,
+          "abbrev": "Success",
+          "net": "2026-06-19T08:50:45Z",
+          "prev_abbrev": "Go"
         }
       ]
     },
@@ -10585,5 +10834,5 @@
       ]
     }
   ],
-  "last_updated": "2026-06-19T07:36:24.217366+00:00"
+  "last_updated": "2026-06-19T15:46:40.307364+00:00"
 }
