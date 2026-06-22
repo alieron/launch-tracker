@@ -253,6 +253,60 @@
       ]
     },
     {
+      "id": "0d6ad64c-3aed-4041-b095-e1d951bc6d29",
+      "name": "Electron | Aspera",
+      "slug": "electron-aspera",
+      "status": {
+        "id": 2,
+        "abbrev": "TBD",
+        "name": "To Be Determined",
+        "description": "Current date is a placeholder or rough estimation based on unreliable or interpreted sources."
+      },
+      "net": "2026-08-15T00:00:00Z",
+      "window_start": "2026-08-15T00:00:00Z",
+      "window_end": "2026-08-15T00:00:00Z",
+      "probability": null,
+      "rocket": {
+        "name": "Electron",
+        "family": "",
+        "manufacturer": "Rocket Lab",
+        "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/electron_image_20190705175640.jpeg"
+      },
+      "mission": {
+        "name": "Aspera",
+        "description": "Aspera houses an ultraviolet telescope and will examine hot gas in the  intergalactic medium, thought to be contributing to the birth of stars and planets. Aspera will be the first NASA astrophysics mission to gather and map these ultraviolet light signatures, potentially unlocking a deeper understanding of the origins of stars, planets, and life in the universe.",
+        "type": "Astrophysics",
+        "orbit": "Low Earth Orbit"
+      },
+      "pad": {
+        "name": "Unknown Pad",
+        "location": "Rocket Lab Launch Complex 1, Mahia Peninsula, New Zealand",
+        "country": "NZL",
+        "latitude": "-39.260881",
+        "longitude": "177.865826"
+      },
+      "agency": {
+        "name": "Rocket Lab",
+        "abbrev": "RL",
+        "type": "Commercial"
+      },
+      "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/electron_image_20190705175640.jpeg",
+      "vidURLs": [],
+      "webcast_live": false,
+      "discovered_at": "2026-06-22T18:09:58.923838+00:00",
+      "last_updated_at": "2026-06-22T18:09:58.923836+00:00",
+      "outcome": null,
+      "failure_reason": null,
+      "status_history": [
+        {
+          "at": "2026-06-22T18:09:58.923842+00:00",
+          "status_id": 2,
+          "abbrev": "TBD",
+          "net": "2026-08-15T00:00:00Z"
+        }
+      ]
+    },
+    {
       "id": "b89ab080-66c3-4831-85a9-38d85da71d30",
       "name": "H3-22 | Michibiki 7 (QZS-7)",
       "slug": "h3-22-michibiki-7-qzs-7",
@@ -294,7 +348,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-06-20T10:09:46.182370+00:00",
-      "last_updated_at": "2026-06-22T13:30:29.363559+00:00",
+      "last_updated_at": "2026-06-22T18:09:58.923829+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -348,7 +402,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-05-01T06:11:57.745139+00:00",
-      "last_updated_at": "2026-06-22T13:30:29.363524+00:00",
+      "last_updated_at": "2026-06-22T18:09:58.923791+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -409,7 +463,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-04-20T19:38:59.795722+00:00",
-      "last_updated_at": "2026-06-22T13:30:29.363546+00:00",
+      "last_updated_at": "2026-06-22T18:09:58.923814+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -484,7 +538,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-05-07T15:11:41.797008+00:00",
-      "last_updated_at": "2026-06-22T13:30:29.363530+00:00",
+      "last_updated_at": "2026-06-22T18:09:58.923800+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -574,7 +628,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-06-19T15:46:40.307006+00:00",
-      "last_updated_at": "2026-06-22T13:30:29.363517+00:00",
+      "last_updated_at": "2026-06-22T18:09:58.923783+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -628,7 +682,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-06-19T15:46:40.307041+00:00",
-      "last_updated_at": "2026-06-22T13:30:29.363538+00:00",
+      "last_updated_at": "2026-06-22T18:09:58.923807+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -682,7 +736,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-06-19T15:46:40.307063+00:00",
-      "last_updated_at": "2026-06-22T13:30:29.363552+00:00",
+      "last_updated_at": "2026-06-22T18:09:58.923821+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -736,7 +790,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-04-27T15:24:39.972764+00:00",
-      "last_updated_at": "2026-06-22T13:30:29.363509+00:00",
+      "last_updated_at": "2026-06-22T18:09:58.923774+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -797,7 +851,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-06-18T12:48:06.313811+00:00",
-      "last_updated_at": "2026-06-22T13:30:29.363502+00:00",
+      "last_updated_at": "2026-06-22T18:09:58.923758+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -851,7 +905,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-05-01T10:05:53.337343+00:00",
-      "last_updated_at": "2026-06-22T13:30:29.363496+00:00",
+      "last_updated_at": "2026-06-22T18:09:58.923751+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -1028,7 +1082,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-04-09T21:07:11.353167+00:00",
-      "last_updated_at": "2026-06-22T13:30:29.363434+00:00",
+      "last_updated_at": "2026-06-22T18:09:58.923694+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -1494,60 +1548,6 @@
       ]
     },
     {
-      "id": "ce3db8f7-ba9b-4a2a-953c-c6c6ee926541",
-      "name": "Falcon 9 Block 5 | Sirius SXM-11",
-      "slug": "falcon-9-block-5-sirius-sxm-11",
-      "status": {
-        "id": 2,
-        "abbrev": "TBD",
-        "name": "To Be Determined",
-        "description": "Current date is a placeholder or rough estimation based on unreliable or interpreted sources."
-      },
-      "net": "2026-06-30T00:00:00Z",
-      "window_start": "2026-06-30T00:00:00Z",
-      "window_end": "2026-06-30T00:00:00Z",
-      "probability": null,
-      "rocket": {
-        "name": "Falcon 9",
-        "family": "Falcon",
-        "manufacturer": "SpaceX",
-        "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/falcon_9_image_20230807133459.jpeg"
-      },
-      "mission": {
-        "name": "Sirius SXM-11",
-        "description": "SXM-11 is the 12th high-powered, digital, audio radio satellite built by Lanteris Space (ex-Maxar, Space System/Loral) for SiriusXM. The SXM-11 satellite will be based on the proven IM-1300 (ex-LS-1300)-class platform and built at the company\u2019s manufacturing facility in Palo Alto, California. SXM-11 has a large, mesh, unfurlable reflector almost 10 meters in diameter that allows SiriusXM programming to reach its radios, including those in moving vehicles.",
-        "type": "Communications",
-        "orbit": "Geostationary Transfer Orbit"
-      },
-      "pad": {
-        "name": "Space Launch Complex 40",
-        "location": "Cape Canaveral SFS, FL, USA",
-        "country": "USA",
-        "latitude": "28.56194122",
-        "longitude": "-80.57735736"
-      },
-      "agency": {
-        "name": "SpaceX",
-        "abbrev": "SpX",
-        "type": "Commercial"
-      },
-      "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/falcon_9_liftof_image_20241206131356.jpg",
-      "vidURLs": [],
-      "webcast_live": false,
-      "discovered_at": "2026-05-31T16:40:18.062998+00:00",
-      "last_updated_at": "2026-06-22T13:30:29.363475+00:00",
-      "outcome": null,
-      "failure_reason": null,
-      "status_history": [
-        {
-          "at": "2026-05-31T16:40:18.063001+00:00",
-          "status_id": 2,
-          "abbrev": "TBD",
-          "net": "2026-06-30T00:00:00Z"
-        }
-      ]
-    },
-    {
       "id": "d8eb4b68-5307-4b3b-b585-5598958defc2",
       "name": "Smart Dragon 3 | Unknown Payload",
       "slug": "smart-dragon-3-unknown-payload",
@@ -1589,7 +1589,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-05-29T19:05:54.989181+00:00",
-      "last_updated_at": "2026-06-22T13:30:29.363448+00:00",
+      "last_updated_at": "2026-06-22T18:09:58.923711+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -1651,7 +1651,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-04-11T15:28:51.958924+00:00",
-      "last_updated_at": "2026-06-22T13:30:29.363455+00:00",
+      "last_updated_at": "2026-06-22T18:09:58.923721+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -1772,7 +1772,7 @@
       ],
       "webcast_live": false,
       "discovered_at": "2026-05-08T05:26:41.700479+00:00",
-      "last_updated_at": "2026-06-22T13:30:29.363442+00:00",
+      "last_updated_at": "2026-06-22T18:09:58.923701+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -1886,7 +1886,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-06-08T00:02:18.038497+00:00",
-      "last_updated_at": "2026-06-22T13:30:29.363426+00:00",
+      "last_updated_at": "2026-06-22T18:09:58.923686+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -1948,7 +1948,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-06-17T12:52:02.511173+00:00",
-      "last_updated_at": "2026-06-22T13:30:29.363482+00:00",
+      "last_updated_at": "2026-06-22T18:09:58.923736+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -2011,7 +2011,7 @@
       ],
       "webcast_live": false,
       "discovered_at": "2026-03-23T08:19:21.926409+00:00",
-      "last_updated_at": "2026-06-22T13:30:29.363464+00:00",
+      "last_updated_at": "2026-06-22T18:09:58.923729+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -2210,7 +2210,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-06-18T05:14:01.659052+00:00",
-      "last_updated_at": "2026-06-22T13:30:29.363487+00:00",
+      "last_updated_at": "2026-06-22T18:09:58.923743+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -2219,6 +2219,68 @@
           "status_id": 2,
           "abbrev": "TBD",
           "net": "2026-06-30T00:00:00Z"
+        }
+      ]
+    },
+    {
+      "id": "ce3db8f7-ba9b-4a2a-953c-c6c6ee926541",
+      "name": "Falcon 9 Block 5 | Sirius SXM-11",
+      "slug": "falcon-9-block-5-sirius-sxm-11",
+      "status": {
+        "id": 1,
+        "abbrev": "Go",
+        "name": "Go for Launch",
+        "description": "Current T-0 confirmed by official or reliable sources."
+      },
+      "net": "2026-06-29T02:25:00Z",
+      "window_start": "2026-06-29T02:25:00Z",
+      "window_end": "2026-06-29T06:21:00Z",
+      "probability": null,
+      "rocket": {
+        "name": "Falcon 9",
+        "family": "Falcon",
+        "manufacturer": "SpaceX",
+        "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/falcon_9_image_20230807133459.jpeg"
+      },
+      "mission": {
+        "name": "Sirius SXM-11",
+        "description": "SXM-11 is the 12th high-powered, digital, audio radio satellite built by Lanteris Space (ex-Maxar, Space System/Loral) for SiriusXM. The SXM-11 satellite will be based on the proven IM-1300 (ex-LS-1300)-class platform and built at the company\u2019s manufacturing facility in Palo Alto, California. SXM-11 has a large, mesh, unfurlable reflector almost 10 meters in diameter that allows SiriusXM programming to reach its radios, including those in moving vehicles.",
+        "type": "Communications",
+        "orbit": "Geostationary Transfer Orbit"
+      },
+      "pad": {
+        "name": "Space Launch Complex 40",
+        "location": "Cape Canaveral SFS, FL, USA",
+        "country": "USA",
+        "latitude": "28.56194122",
+        "longitude": "-80.57735736"
+      },
+      "agency": {
+        "name": "SpaceX",
+        "abbrev": "SpX",
+        "type": "Commercial"
+      },
+      "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/falcon_9_liftof_image_20241206131356.jpg",
+      "vidURLs": [],
+      "webcast_live": false,
+      "discovered_at": "2026-05-31T16:40:18.062998+00:00",
+      "last_updated_at": "2026-06-22T18:09:58.923672+00:00",
+      "outcome": null,
+      "failure_reason": null,
+      "status_history": [
+        {
+          "at": "2026-05-31T16:40:18.063001+00:00",
+          "status_id": 2,
+          "abbrev": "TBD",
+          "net": "2026-06-30T00:00:00Z"
+        },
+        {
+          "at": "2026-06-22T18:09:58.923676+00:00",
+          "status_id": 1,
+          "abbrev": "Go",
+          "net": "2026-06-29T02:25:00Z",
+          "prev_net": "2026-06-30T00:00:00Z",
+          "prev_abbrev": "TBD"
         }
       ]
     },
@@ -2269,7 +2331,7 @@
       ],
       "webcast_live": false,
       "discovered_at": "2026-06-19T15:46:40.306891+00:00",
-      "last_updated_at": "2026-06-22T13:30:29.363417+00:00",
+      "last_updated_at": "2026-06-22T18:09:58.923664+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -2323,7 +2385,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-04-24T09:15:14.350986+00:00",
-      "last_updated_at": "2026-06-22T13:30:29.363409+00:00",
+      "last_updated_at": "2026-06-22T18:09:58.923652+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -2404,7 +2466,7 @@
       ],
       "webcast_live": false,
       "discovered_at": "2026-06-10T20:23:13.406414+00:00",
-      "last_updated_at": "2026-06-22T13:30:29.363401+00:00",
+      "last_updated_at": "2026-06-22T18:09:58.923641+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -2484,7 +2546,7 @@
       ],
       "webcast_live": false,
       "discovered_at": "2026-06-16T00:08:22.271990+00:00",
-      "last_updated_at": "2026-06-22T13:30:29.363391+00:00",
+      "last_updated_at": "2026-06-22T18:09:58.923627+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -2552,7 +2614,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-06-04T13:55:41.980497+00:00",
-      "last_updated_at": "2026-06-22T13:30:29.363377+00:00",
+      "last_updated_at": "2026-06-22T18:09:58.923588+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -10931,5 +10993,5 @@
       ]
     }
   ],
-  "last_updated": "2026-06-22T13:30:29.363844+00:00"
+  "last_updated": "2026-06-22T18:09:58.924153+00:00"
 }
