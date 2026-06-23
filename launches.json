@@ -348,7 +348,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-06-20T10:09:46.182370+00:00",
-      "last_updated_at": "2026-06-23T12:21:37.483239+00:00",
+      "last_updated_at": "2026-06-23T15:29:56.877640+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -402,7 +402,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-05-01T06:11:57.745139+00:00",
-      "last_updated_at": "2026-06-23T12:21:37.483206+00:00",
+      "last_updated_at": "2026-06-23T15:29:56.877593+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -463,7 +463,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-04-20T19:38:59.795722+00:00",
-      "last_updated_at": "2026-06-23T12:21:37.483227+00:00",
+      "last_updated_at": "2026-06-23T15:29:56.877617+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -538,7 +538,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-05-07T15:11:41.797008+00:00",
-      "last_updated_at": "2026-06-23T12:21:37.483214+00:00",
+      "last_updated_at": "2026-06-23T15:29:56.877602+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -682,7 +682,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-06-19T15:46:40.307041+00:00",
-      "last_updated_at": "2026-06-23T12:21:37.483221+00:00",
+      "last_updated_at": "2026-06-23T15:29:56.877609+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -736,7 +736,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-06-19T15:46:40.307063+00:00",
-      "last_updated_at": "2026-06-23T12:21:37.483233+00:00",
+      "last_updated_at": "2026-06-23T15:29:56.877633+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -795,7 +795,7 @@
       ],
       "webcast_live": false,
       "discovered_at": "2026-05-08T05:26:41.700479+00:00",
-      "last_updated_at": "2026-06-23T12:21:37.483198+00:00",
+      "last_updated_at": "2026-06-23T15:29:56.877585+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -875,6 +875,214 @@
       ]
     },
     {
+      "id": "1b23eb18-e06e-4058-9b42-e95ca0980511",
+      "name": "Spectrum | Onward and Upward",
+      "slug": "spectrum-onward-and-upward",
+      "status": {
+        "id": 2,
+        "abbrev": "TBD",
+        "name": "To Be Determined",
+        "description": "Current date is a placeholder or rough estimation based on unreliable or interpreted sources."
+      },
+      "net": "2026-07-31T00:00:00Z",
+      "window_start": "2026-07-31T00:00:00Z",
+      "window_end": "2026-07-31T00:00:00Z",
+      "probability": null,
+      "rocket": {
+        "name": "Spectrum",
+        "family": "",
+        "manufacturer": "Isar Aerospace",
+        "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/spectrum_on_the_image_20250321072643.jpeg"
+      },
+      "mission": {
+        "name": "Onward and Upward",
+        "description": "Second test flight of the Isar Spectrum launch vehicle. This launch will carry 5 cubesats and 1 non-separable experiment as part of European Space Agency (ESA)'s \u201cBoost!\u201d program:\r\n\r\n* CyBEEsat (TU Berlin)\r\n* TriSat-S (University of Maribor)\r\n* Platform 6 (EnduroSat)\r\n* FramSat-1 (NTNU)\r\n* SpaceTeamSat1 (TU Wien Space Team)\r\n* Let It Go (Dcubed, non-separable experiment)",
+        "type": "Test Flight",
+        "orbit": "Sun-Synchronous Orbit"
+      },
+      "pad": {
+        "name": "Orbital Launch Pad",
+        "location": "And\u00f8ya Spaceport",
+        "country": "NOR",
+        "latitude": "69.1084",
+        "longitude": "15.5895"
+      },
+      "agency": {
+        "name": "Isar Aerospace",
+        "abbrev": "ISAR",
+        "type": "Private"
+      },
+      "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/spectrum_on_the_image_20250321072643.jpeg",
+      "vidURLs": [
+        {
+          "title": "\"Onward and Upward\" Mission of Isar Aerospace",
+          "url": "https://www.youtube.com/watch?v=Ss1DUqLjecc"
+        },
+        {
+          "title": "Isar Aerospace Launches \"Onward and Upward\" Mission",
+          "url": "https://www.youtube.com/watch?v=uUc2d_NPBN0"
+        }
+      ],
+      "webcast_live": false,
+      "discovered_at": "2026-03-23T08:19:21.926409+00:00",
+      "last_updated_at": "2026-06-23T15:29:56.877624+00:00",
+      "outcome": null,
+      "failure_reason": null,
+      "status_history": [
+        {
+          "at": "2026-03-25T05:42:46.752362+00:00",
+          "status_id": 1,
+          "abbrev": "Go",
+          "net": "2026-03-25T20:00:00Z",
+          "prev_abbrev": "TBC"
+        },
+        {
+          "at": "2026-03-25T19:24:09.575404+00:00",
+          "status_id": 1,
+          "abbrev": "Go",
+          "net": "2026-03-25T20:06:00Z",
+          "prev_net": "2026-03-25T20:00:00Z"
+        },
+        {
+          "at": "2026-03-25T19:59:48.284319+00:00",
+          "status_id": 1,
+          "abbrev": "Go",
+          "net": "2026-03-25T20:20:00Z",
+          "prev_net": "2026-03-25T20:06:00Z"
+        },
+        {
+          "at": "2026-03-25T20:50:37.889553+00:00",
+          "status_id": 2,
+          "abbrev": "TBD",
+          "net": "2026-03-31T00:00:00Z",
+          "prev_net": "2026-03-25T20:20:00Z",
+          "prev_abbrev": "Go"
+        },
+        {
+          "at": "2026-03-26T14:03:46.059457+00:00",
+          "status_id": 8,
+          "abbrev": "TBC",
+          "net": "2026-03-28T20:00:00Z",
+          "prev_net": "2026-03-31T00:00:00Z",
+          "prev_abbrev": "TBD"
+        },
+        {
+          "at": "2026-03-27T20:41:51.203825+00:00",
+          "status_id": 2,
+          "abbrev": "TBD",
+          "net": "2026-03-31T00:00:00Z",
+          "prev_net": "2026-03-28T20:00:00Z",
+          "prev_abbrev": "TBC"
+        },
+        {
+          "at": "2026-03-29T09:32:47.100873+00:00",
+          "status_id": 2,
+          "abbrev": "TBD",
+          "net": "2026-04-30T00:00:00Z",
+          "prev_net": "2026-03-31T00:00:00Z"
+        },
+        {
+          "at": "2026-04-07T06:17:26.649106+00:00",
+          "status_id": 8,
+          "abbrev": "TBC",
+          "net": "2026-04-08T20:00:00Z",
+          "prev_net": "2026-04-30T00:00:00Z",
+          "prev_abbrev": "TBD"
+        },
+        {
+          "at": "2026-04-07T14:06:33.274660+00:00",
+          "status_id": 1,
+          "abbrev": "Go",
+          "net": "2026-04-09T20:00:00Z",
+          "prev_net": "2026-04-08T20:00:00Z",
+          "prev_abbrev": "TBC"
+        },
+        {
+          "at": "2026-04-09T19:03:12.586287+00:00",
+          "status_id": 2,
+          "abbrev": "TBD",
+          "net": "2026-04-30T00:00:00Z",
+          "prev_net": "2026-04-09T20:00:00Z",
+          "prev_abbrev": "Go"
+        },
+        {
+          "at": "2026-04-18T16:33:55.809156+00:00",
+          "status_id": 2,
+          "abbrev": "TBD",
+          "net": "2026-05-31T00:00:00Z",
+          "prev_net": "2026-04-30T00:00:00Z"
+        },
+        {
+          "at": "2026-05-19T22:42:48.532646+00:00",
+          "status_id": 2,
+          "abbrev": "TBD",
+          "net": "2026-06-30T00:00:00Z",
+          "prev_net": "2026-05-31T00:00:00Z"
+        },
+        {
+          "at": "2026-06-09T13:41:10.766188+00:00",
+          "status_id": 8,
+          "abbrev": "TBC",
+          "net": "2026-06-15T20:00:00Z",
+          "prev_net": "2026-06-30T00:00:00Z",
+          "prev_abbrev": "TBD"
+        },
+        {
+          "at": "2026-06-14T10:21:27.681179+00:00",
+          "status_id": 1,
+          "abbrev": "Go",
+          "net": "2026-06-15T20:00:00Z",
+          "prev_abbrev": "TBC"
+        },
+        {
+          "at": "2026-06-15T19:43:01.341613+00:00",
+          "status_id": 8,
+          "abbrev": "TBC",
+          "net": "2026-06-16T20:00:00Z",
+          "prev_net": "2026-06-15T20:00:00Z",
+          "prev_abbrev": "Go"
+        },
+        {
+          "at": "2026-06-16T05:43:39.897422+00:00",
+          "status_id": 2,
+          "abbrev": "TBD",
+          "net": "2026-06-30T00:00:00Z",
+          "prev_net": "2026-06-16T20:00:00Z",
+          "prev_abbrev": "TBC"
+        },
+        {
+          "at": "2026-06-16T16:08:33.729727+00:00",
+          "status_id": 8,
+          "abbrev": "TBC",
+          "net": "2026-06-18T20:00:00Z",
+          "prev_net": "2026-06-30T00:00:00Z",
+          "prev_abbrev": "TBD"
+        },
+        {
+          "at": "2026-06-17T16:35:21.456273+00:00",
+          "status_id": 8,
+          "abbrev": "TBC",
+          "net": "2026-06-20T20:00:00Z",
+          "prev_net": "2026-06-18T20:00:00Z"
+        },
+        {
+          "at": "2026-06-18T05:14:01.658968+00:00",
+          "status_id": 2,
+          "abbrev": "TBD",
+          "net": "2026-06-30T00:00:00Z",
+          "prev_net": "2026-06-20T20:00:00Z",
+          "prev_abbrev": "TBC"
+        },
+        {
+          "at": "2026-06-23T15:29:56.877627+00:00",
+          "status_id": 2,
+          "abbrev": "TBD",
+          "net": "2026-07-31T00:00:00Z",
+          "prev_net": "2026-06-30T00:00:00Z"
+        }
+      ]
+    },
+    {
       "id": "599ba2df-7483-4b2f-a083-2b5ddc06e069",
       "name": "Electron | LOXSAT 1",
       "slug": "electron-loxsat-1",
@@ -916,7 +1124,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-04-27T15:24:39.972764+00:00",
-      "last_updated_at": "2026-06-23T12:21:37.483182+00:00",
+      "last_updated_at": "2026-06-23T15:29:56.877576+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -977,7 +1185,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-06-18T12:48:06.313811+00:00",
-      "last_updated_at": "2026-06-23T12:21:37.483176+00:00",
+      "last_updated_at": "2026-06-23T15:29:56.877546+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -986,6 +1194,65 @@
           "status_id": 8,
           "abbrev": "TBC",
           "net": "2026-07-14T14:43:00Z"
+        }
+      ]
+    },
+    {
+      "id": "1ef27ca1-af91-48bb-b934-3da5abd9f711",
+      "name": "Falcon 9 Block 5 | Starlink Group 10-50",
+      "slug": "falcon-9-block-5-starlink-group-10-50",
+      "status": {
+        "id": 1,
+        "abbrev": "Go",
+        "name": "Go for Launch",
+        "description": "Current T-0 confirmed by official or reliable sources."
+      },
+      "net": "2026-07-03T11:20:00Z",
+      "window_start": "2026-07-03T11:20:00Z",
+      "window_end": "2026-07-03T15:20:00Z",
+      "probability": null,
+      "rocket": {
+        "name": "Falcon 9",
+        "family": "Falcon",
+        "manufacturer": "SpaceX",
+        "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/falcon_9_image_20230807133459.jpeg"
+      },
+      "mission": {
+        "name": "Starlink Group 10-50",
+        "description": "A batch of 29 satellites for the Starlink mega-constellation - SpaceX's project for space-based Internet communication system.",
+        "type": "Communications",
+        "orbit": "Low Earth Orbit"
+      },
+      "pad": {
+        "name": "Space Launch Complex 40",
+        "location": "Cape Canaveral SFS, FL, USA",
+        "country": "USA",
+        "latitude": "28.56194122",
+        "longitude": "-80.57735736"
+      },
+      "agency": {
+        "name": "SpaceX",
+        "abbrev": "SpX",
+        "type": "Commercial"
+      },
+      "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/falcon2520925_image_20221009234147.png",
+      "vidURLs": [
+        {
+          "title": "Starlink Mission",
+          "url": "https://x.com/i/broadcasts/1oKMvvkZZAOGQ"
+        }
+      ],
+      "webcast_live": false,
+      "discovered_at": "2026-06-23T15:29:56.877529+00:00",
+      "last_updated_at": "2026-06-23T15:29:56.877527+00:00",
+      "outcome": null,
+      "failure_reason": null,
+      "status_history": [
+        {
+          "at": "2026-06-23T15:29:56.877532+00:00",
+          "status_id": 1,
+          "abbrev": "Go",
+          "net": "2026-07-03T11:20:00Z"
         }
       ]
     },
@@ -1031,7 +1298,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-05-01T10:05:53.337343+00:00",
-      "last_updated_at": "2026-06-23T12:21:37.483170+00:00",
+      "last_updated_at": "2026-06-23T15:29:56.877519+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -1097,10 +1364,15 @@
         "type": "Commercial"
       },
       "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/falcon2520925_image_20221009234147.png",
-      "vidURLs": [],
+      "vidURLs": [
+        {
+          "title": "Starlink Mission",
+          "url": "https://x.com/i/broadcasts/1qKVmmrbbEdxB"
+        }
+      ],
       "webcast_live": false,
       "discovered_at": "2026-06-23T01:28:40.116000+00:00",
-      "last_updated_at": "2026-06-23T12:21:37.483163+00:00",
+      "last_updated_at": "2026-06-23T15:29:56.877512+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -1262,7 +1534,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-04-09T21:07:11.353167+00:00",
-      "last_updated_at": "2026-06-23T12:21:37.483117+00:00",
+      "last_updated_at": "2026-06-23T15:29:56.877482+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -1769,7 +2041,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-05-29T19:05:54.989181+00:00",
-      "last_updated_at": "2026-06-23T12:21:37.483126+00:00",
+      "last_updated_at": "2026-06-23T15:29:56.877491+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -1790,9 +2062,9 @@
       ]
     },
     {
-      "id": "9e27a1ed-e81a-4918-b32b-0380cf3a9f8f",
-      "name": "South Korean ADD Solid-Fuel SLV | Demo Flight",
-      "slug": "south-korean-add-solid-fuel-slv-demo-flight",
+      "id": "add0a5be-1cf0-49cb-975a-e8c8e18d37ec",
+      "name": "Electron | Ten Owl Of Ten (StriX Launch 10)",
+      "slug": "electron-ten-owl-of-ten-strix-launch-10",
       "status": {
         "id": 2,
         "abbrev": "TBD",
@@ -1802,6 +2074,176 @@
       "net": "2026-06-30T00:00:00Z",
       "window_start": "2026-06-30T00:00:00Z",
       "window_end": "2026-06-30T00:00:00Z",
+      "probability": null,
+      "rocket": {
+        "name": "Electron",
+        "family": "",
+        "manufacturer": "Rocket Lab",
+        "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/electron_image_20190705175640.jpeg"
+      },
+      "mission": {
+        "name": "Ten Owl Of Ten (StriX Launch 10)",
+        "description": "Synthetic aperture radar satellite for Japanese Earth imaging company Synspective.",
+        "type": "Earth Science",
+        "orbit": "Sun-Synchronous Orbit"
+      },
+      "pad": {
+        "name": "Unknown Pad",
+        "location": "Rocket Lab Launch Complex 1, Mahia Peninsula, New Zealand",
+        "country": "NZL",
+        "latitude": "-39.260881",
+        "longitude": "177.865826"
+      },
+      "agency": {
+        "name": "Rocket Lab",
+        "abbrev": "RL",
+        "type": "Commercial"
+      },
+      "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/electron_image_20190705175640.jpeg",
+      "vidURLs": [],
+      "webcast_live": false,
+      "discovered_at": "2026-06-08T00:02:18.038497+00:00",
+      "last_updated_at": "2026-06-23T15:29:56.877475+00:00",
+      "outcome": null,
+      "failure_reason": null,
+      "status_history": [
+        {
+          "at": "2026-06-08T00:02:18.038499+00:00",
+          "status_id": 1,
+          "abbrev": "Go",
+          "net": "2026-06-17T20:40:00Z"
+        },
+        {
+          "at": "2026-06-17T03:34:38.432828+00:00",
+          "status_id": 2,
+          "abbrev": "TBD",
+          "net": "2026-06-30T00:00:00Z",
+          "prev_net": "2026-06-17T20:40:00Z",
+          "prev_abbrev": "Go"
+        }
+      ]
+    },
+    {
+      "id": "3b94ad50-3505-496e-8a95-b0bc4c0dadc6",
+      "name": "Themis Demonstrator | T1H-1",
+      "slug": "themis-demonstrator-t1h-1",
+      "status": {
+        "id": 2,
+        "abbrev": "TBD",
+        "name": "To Be Determined",
+        "description": "Current date is a placeholder or rough estimation based on unreliable or interpreted sources."
+      },
+      "net": "2026-06-30T00:00:00Z",
+      "window_start": "2026-06-30T00:00:00Z",
+      "window_end": "2026-06-30T00:00:00Z",
+      "probability": null,
+      "rocket": {
+        "name": "Themis Demonstrator",
+        "family": "",
+        "manufacturer": "ArianeGroup",
+        "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/themis_demonstr_image_20250916085603.jpg"
+      },
+      "mission": {
+        "name": "T1H-1",
+        "description": "First low-altitude hop test of a Themis demonstrator, with a targeted altitude up to 100 m.",
+        "type": "Test Flight",
+        "orbit": "Suborbital"
+      },
+      "pad": {
+        "name": "Launch Complex 3B",
+        "location": "Esrange Space Center",
+        "country": "SWE",
+        "latitude": "67.877368",
+        "longitude": "21.165001"
+      },
+      "agency": {
+        "name": "European Space Agency",
+        "abbrev": "ESA",
+        "type": "Multinational"
+      },
+      "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/themis_t1h_on_t_image_20250919095336.jpg",
+      "vidURLs": [],
+      "webcast_live": false,
+      "discovered_at": "2026-06-17T12:52:02.511173+00:00",
+      "last_updated_at": "2026-06-23T15:29:56.877497+00:00",
+      "outcome": null,
+      "failure_reason": null,
+      "status_history": [
+        {
+          "at": "2026-06-17T12:52:02.511176+00:00",
+          "status_id": 2,
+          "abbrev": "TBD",
+          "net": "2026-06-30T00:00:00Z"
+        }
+      ]
+    },
+    {
+      "id": "a8d8d683-3ab0-40ab-beb0-e66bb55afd91",
+      "name": "Nebula-1 | Demo Flight",
+      "slug": "nebula-1-demo-flight",
+      "status": {
+        "id": 2,
+        "abbrev": "TBD",
+        "name": "To Be Determined",
+        "description": "Current date is a placeholder or rough estimation based on unreliable or interpreted sources."
+      },
+      "net": "2026-06-30T00:00:00Z",
+      "window_start": "2026-06-30T00:00:00Z",
+      "window_end": "2026-06-30T00:00:00Z",
+      "probability": null,
+      "rocket": {
+        "name": "Nebula-1",
+        "family": "",
+        "manufacturer": "Deep Blue Aerospace",
+        "image_url": null
+      },
+      "mission": {
+        "name": "Demo Flight",
+        "description": "First test launch of Deep Blue Aerospace\u2019s Nebula-1 rocket.\r\n\r\nThe test flight profile is reported to be sub-orbital.",
+        "type": "Test Flight",
+        "orbit": "Suborbital"
+      },
+      "pad": {
+        "name": "Land Launch Pad 1",
+        "location": "Haiyang Oriental Spaceport",
+        "country": "CHN",
+        "latitude": "36.664312",
+        "longitude": "121.188333"
+      },
+      "agency": {
+        "name": "Deep Blue Aerospace",
+        "abbrev": "DBA Space",
+        "type": "Commercial"
+      },
+      "image_url": null,
+      "vidURLs": [],
+      "webcast_live": false,
+      "discovered_at": "2026-06-18T05:14:01.659052+00:00",
+      "last_updated_at": "2026-06-23T15:29:56.877504+00:00",
+      "outcome": null,
+      "failure_reason": null,
+      "status_history": [
+        {
+          "at": "2026-06-18T05:14:01.659055+00:00",
+          "status_id": 2,
+          "abbrev": "TBD",
+          "net": "2026-06-30T00:00:00Z"
+        }
+      ]
+    },
+    {
+      "id": "9e27a1ed-e81a-4918-b32b-0380cf3a9f8f",
+      "name": "South Korean ADD Solid-Fuel SLV | Demo Flight",
+      "slug": "south-korean-add-solid-fuel-slv-demo-flight",
+      "status": {
+        "id": 1,
+        "abbrev": "Go",
+        "name": "Go for Launch",
+        "description": "Current T-0 confirmed by official or reliable sources."
+      },
+      "net": "2026-06-29T05:00:00Z",
+      "window_start": "2026-06-29T05:00:00Z",
+      "window_end": "2026-06-29T09:00:00Z",
       "probability": null,
       "rocket": {
         "name": "South Korean ADD Solid-Fuel SLV",
@@ -1831,7 +2273,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-04-11T15:28:51.958924+00:00",
-      "last_updated_at": "2026-06-23T12:21:37.483132+00:00",
+      "last_updated_at": "2026-06-23T15:29:56.877460+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -1902,384 +2344,14 @@
           "net": "2026-06-30T00:00:00Z",
           "prev_net": "2026-06-08T05:00:00Z",
           "prev_abbrev": "Go"
-        }
-      ]
-    },
-    {
-      "id": "add0a5be-1cf0-49cb-975a-e8c8e18d37ec",
-      "name": "Electron | Ten Owl Of Ten (StriX Launch 10)",
-      "slug": "electron-ten-owl-of-ten-strix-launch-10",
-      "status": {
-        "id": 2,
-        "abbrev": "TBD",
-        "name": "To Be Determined",
-        "description": "Current date is a placeholder or rough estimation based on unreliable or interpreted sources."
-      },
-      "net": "2026-06-30T00:00:00Z",
-      "window_start": "2026-06-30T00:00:00Z",
-      "window_end": "2026-06-30T00:00:00Z",
-      "probability": null,
-      "rocket": {
-        "name": "Electron",
-        "family": "",
-        "manufacturer": "Rocket Lab",
-        "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/electron_image_20190705175640.jpeg"
-      },
-      "mission": {
-        "name": "Ten Owl Of Ten (StriX Launch 10)",
-        "description": "Synthetic aperture radar satellite for Japanese Earth imaging company Synspective.",
-        "type": "Earth Science",
-        "orbit": "Sun-Synchronous Orbit"
-      },
-      "pad": {
-        "name": "Unknown Pad",
-        "location": "Rocket Lab Launch Complex 1, Mahia Peninsula, New Zealand",
-        "country": "NZL",
-        "latitude": "-39.260881",
-        "longitude": "177.865826"
-      },
-      "agency": {
-        "name": "Rocket Lab",
-        "abbrev": "RL",
-        "type": "Commercial"
-      },
-      "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/electron_image_20190705175640.jpeg",
-      "vidURLs": [],
-      "webcast_live": false,
-      "discovered_at": "2026-06-08T00:02:18.038497+00:00",
-      "last_updated_at": "2026-06-23T12:21:37.483109+00:00",
-      "outcome": null,
-      "failure_reason": null,
-      "status_history": [
+        },
         {
-          "at": "2026-06-08T00:02:18.038499+00:00",
+          "at": "2026-06-23T15:29:56.877464+00:00",
           "status_id": 1,
           "abbrev": "Go",
-          "net": "2026-06-17T20:40:00Z"
-        },
-        {
-          "at": "2026-06-17T03:34:38.432828+00:00",
-          "status_id": 2,
-          "abbrev": "TBD",
-          "net": "2026-06-30T00:00:00Z",
-          "prev_net": "2026-06-17T20:40:00Z",
-          "prev_abbrev": "Go"
-        }
-      ]
-    },
-    {
-      "id": "3b94ad50-3505-496e-8a95-b0bc4c0dadc6",
-      "name": "Themis Demonstrator | T1H-1",
-      "slug": "themis-demonstrator-t1h-1",
-      "status": {
-        "id": 2,
-        "abbrev": "TBD",
-        "name": "To Be Determined",
-        "description": "Current date is a placeholder or rough estimation based on unreliable or interpreted sources."
-      },
-      "net": "2026-06-30T00:00:00Z",
-      "window_start": "2026-06-30T00:00:00Z",
-      "window_end": "2026-06-30T00:00:00Z",
-      "probability": null,
-      "rocket": {
-        "name": "Themis Demonstrator",
-        "family": "",
-        "manufacturer": "ArianeGroup",
-        "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/themis_demonstr_image_20250916085603.jpg"
-      },
-      "mission": {
-        "name": "T1H-1",
-        "description": "First low-altitude hop test of a Themis demonstrator, with a targeted altitude up to 100 m.",
-        "type": "Test Flight",
-        "orbit": "Suborbital"
-      },
-      "pad": {
-        "name": "Launch Complex 3B",
-        "location": "Esrange Space Center",
-        "country": "SWE",
-        "latitude": "67.877368",
-        "longitude": "21.165001"
-      },
-      "agency": {
-        "name": "European Space Agency",
-        "abbrev": "ESA",
-        "type": "Multinational"
-      },
-      "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/themis_t1h_on_t_image_20250919095336.jpg",
-      "vidURLs": [],
-      "webcast_live": false,
-      "discovered_at": "2026-06-17T12:52:02.511173+00:00",
-      "last_updated_at": "2026-06-23T12:21:37.483147+00:00",
-      "outcome": null,
-      "failure_reason": null,
-      "status_history": [
-        {
-          "at": "2026-06-17T12:52:02.511176+00:00",
-          "status_id": 2,
-          "abbrev": "TBD",
-          "net": "2026-06-30T00:00:00Z"
-        }
-      ]
-    },
-    {
-      "id": "1b23eb18-e06e-4058-9b42-e95ca0980511",
-      "name": "Spectrum | Onward and Upward",
-      "slug": "spectrum-onward-and-upward",
-      "status": {
-        "id": 2,
-        "abbrev": "TBD",
-        "name": "To Be Determined",
-        "description": "Current date is a placeholder or rough estimation based on unreliable or interpreted sources."
-      },
-      "net": "2026-06-30T00:00:00Z",
-      "window_start": "2026-06-30T00:00:00Z",
-      "window_end": "2026-06-30T00:00:00Z",
-      "probability": null,
-      "rocket": {
-        "name": "Spectrum",
-        "family": "",
-        "manufacturer": "Isar Aerospace",
-        "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/spectrum_on_the_image_20250321072643.jpeg"
-      },
-      "mission": {
-        "name": "Onward and Upward",
-        "description": "Second test flight of the Isar Spectrum launch vehicle. This launch will carry 5 cubesats and 1 non-separable experiment as part of European Space Agency (ESA)'s \u201cBoost!\u201d program:\r\n\r\n* CyBEEsat (TU Berlin)\r\n* TriSat-S (University of Maribor)\r\n* Platform 6 (EnduroSat)\r\n* FramSat-1 (NTNU)\r\n* SpaceTeamSat1 (TU Wien Space Team)\r\n* Let It Go (Dcubed, non-separable experiment)",
-        "type": "Test Flight",
-        "orbit": "Sun-Synchronous Orbit"
-      },
-      "pad": {
-        "name": "Orbital Launch Pad",
-        "location": "And\u00f8ya Spaceport",
-        "country": "NOR",
-        "latitude": "69.1084",
-        "longitude": "15.5895"
-      },
-      "agency": {
-        "name": "Isar Aerospace",
-        "abbrev": "ISAR",
-        "type": "Private"
-      },
-      "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/spectrum_on_the_image_20250321072643.jpeg",
-      "vidURLs": [
-        {
-          "title": "\"Onward and Upward\" Mission of Isar Aerospace",
-          "url": "https://www.youtube.com/watch?v=Ss1DUqLjecc"
-        },
-        {
-          "title": "Isar Aerospace Launches \"Onward and Upward\" Mission",
-          "url": "https://www.youtube.com/watch?v=uUc2d_NPBN0"
-        }
-      ],
-      "webcast_live": false,
-      "discovered_at": "2026-03-23T08:19:21.926409+00:00",
-      "last_updated_at": "2026-06-23T12:21:37.483140+00:00",
-      "outcome": null,
-      "failure_reason": null,
-      "status_history": [
-        {
-          "at": "2026-03-23T11:41:05.419404+00:00",
-          "status_id": 8,
-          "abbrev": "TBC",
-          "net": "2026-03-25T20:00:00Z",
-          "prev_net": "2026-03-23T20:00:00Z"
-        },
-        {
-          "at": "2026-03-25T05:42:46.752362+00:00",
-          "status_id": 1,
-          "abbrev": "Go",
-          "net": "2026-03-25T20:00:00Z",
-          "prev_abbrev": "TBC"
-        },
-        {
-          "at": "2026-03-25T19:24:09.575404+00:00",
-          "status_id": 1,
-          "abbrev": "Go",
-          "net": "2026-03-25T20:06:00Z",
-          "prev_net": "2026-03-25T20:00:00Z"
-        },
-        {
-          "at": "2026-03-25T19:59:48.284319+00:00",
-          "status_id": 1,
-          "abbrev": "Go",
-          "net": "2026-03-25T20:20:00Z",
-          "prev_net": "2026-03-25T20:06:00Z"
-        },
-        {
-          "at": "2026-03-25T20:50:37.889553+00:00",
-          "status_id": 2,
-          "abbrev": "TBD",
-          "net": "2026-03-31T00:00:00Z",
-          "prev_net": "2026-03-25T20:20:00Z",
-          "prev_abbrev": "Go"
-        },
-        {
-          "at": "2026-03-26T14:03:46.059457+00:00",
-          "status_id": 8,
-          "abbrev": "TBC",
-          "net": "2026-03-28T20:00:00Z",
-          "prev_net": "2026-03-31T00:00:00Z",
-          "prev_abbrev": "TBD"
-        },
-        {
-          "at": "2026-03-27T20:41:51.203825+00:00",
-          "status_id": 2,
-          "abbrev": "TBD",
-          "net": "2026-03-31T00:00:00Z",
-          "prev_net": "2026-03-28T20:00:00Z",
-          "prev_abbrev": "TBC"
-        },
-        {
-          "at": "2026-03-29T09:32:47.100873+00:00",
-          "status_id": 2,
-          "abbrev": "TBD",
-          "net": "2026-04-30T00:00:00Z",
-          "prev_net": "2026-03-31T00:00:00Z"
-        },
-        {
-          "at": "2026-04-07T06:17:26.649106+00:00",
-          "status_id": 8,
-          "abbrev": "TBC",
-          "net": "2026-04-08T20:00:00Z",
-          "prev_net": "2026-04-30T00:00:00Z",
-          "prev_abbrev": "TBD"
-        },
-        {
-          "at": "2026-04-07T14:06:33.274660+00:00",
-          "status_id": 1,
-          "abbrev": "Go",
-          "net": "2026-04-09T20:00:00Z",
-          "prev_net": "2026-04-08T20:00:00Z",
-          "prev_abbrev": "TBC"
-        },
-        {
-          "at": "2026-04-09T19:03:12.586287+00:00",
-          "status_id": 2,
-          "abbrev": "TBD",
-          "net": "2026-04-30T00:00:00Z",
-          "prev_net": "2026-04-09T20:00:00Z",
-          "prev_abbrev": "Go"
-        },
-        {
-          "at": "2026-04-18T16:33:55.809156+00:00",
-          "status_id": 2,
-          "abbrev": "TBD",
-          "net": "2026-05-31T00:00:00Z",
-          "prev_net": "2026-04-30T00:00:00Z"
-        },
-        {
-          "at": "2026-05-19T22:42:48.532646+00:00",
-          "status_id": 2,
-          "abbrev": "TBD",
-          "net": "2026-06-30T00:00:00Z",
-          "prev_net": "2026-05-31T00:00:00Z"
-        },
-        {
-          "at": "2026-06-09T13:41:10.766188+00:00",
-          "status_id": 8,
-          "abbrev": "TBC",
-          "net": "2026-06-15T20:00:00Z",
+          "net": "2026-06-29T05:00:00Z",
           "prev_net": "2026-06-30T00:00:00Z",
           "prev_abbrev": "TBD"
-        },
-        {
-          "at": "2026-06-14T10:21:27.681179+00:00",
-          "status_id": 1,
-          "abbrev": "Go",
-          "net": "2026-06-15T20:00:00Z",
-          "prev_abbrev": "TBC"
-        },
-        {
-          "at": "2026-06-15T19:43:01.341613+00:00",
-          "status_id": 8,
-          "abbrev": "TBC",
-          "net": "2026-06-16T20:00:00Z",
-          "prev_net": "2026-06-15T20:00:00Z",
-          "prev_abbrev": "Go"
-        },
-        {
-          "at": "2026-06-16T05:43:39.897422+00:00",
-          "status_id": 2,
-          "abbrev": "TBD",
-          "net": "2026-06-30T00:00:00Z",
-          "prev_net": "2026-06-16T20:00:00Z",
-          "prev_abbrev": "TBC"
-        },
-        {
-          "at": "2026-06-16T16:08:33.729727+00:00",
-          "status_id": 8,
-          "abbrev": "TBC",
-          "net": "2026-06-18T20:00:00Z",
-          "prev_net": "2026-06-30T00:00:00Z",
-          "prev_abbrev": "TBD"
-        },
-        {
-          "at": "2026-06-17T16:35:21.456273+00:00",
-          "status_id": 8,
-          "abbrev": "TBC",
-          "net": "2026-06-20T20:00:00Z",
-          "prev_net": "2026-06-18T20:00:00Z"
-        },
-        {
-          "at": "2026-06-18T05:14:01.658968+00:00",
-          "status_id": 2,
-          "abbrev": "TBD",
-          "net": "2026-06-30T00:00:00Z",
-          "prev_net": "2026-06-20T20:00:00Z",
-          "prev_abbrev": "TBC"
-        }
-      ]
-    },
-    {
-      "id": "a8d8d683-3ab0-40ab-beb0-e66bb55afd91",
-      "name": "Nebula-1 | Demo Flight",
-      "slug": "nebula-1-demo-flight",
-      "status": {
-        "id": 2,
-        "abbrev": "TBD",
-        "name": "To Be Determined",
-        "description": "Current date is a placeholder or rough estimation based on unreliable or interpreted sources."
-      },
-      "net": "2026-06-30T00:00:00Z",
-      "window_start": "2026-06-30T00:00:00Z",
-      "window_end": "2026-06-30T00:00:00Z",
-      "probability": null,
-      "rocket": {
-        "name": "Nebula-1",
-        "family": "",
-        "manufacturer": "Deep Blue Aerospace",
-        "image_url": null
-      },
-      "mission": {
-        "name": "Demo Flight",
-        "description": "First test launch of Deep Blue Aerospace\u2019s Nebula-1 rocket.\r\n\r\nThe test flight profile is reported to be sub-orbital.",
-        "type": "Test Flight",
-        "orbit": "Suborbital"
-      },
-      "pad": {
-        "name": "Land Launch Pad 1",
-        "location": "Haiyang Oriental Spaceport",
-        "country": "CHN",
-        "latitude": "36.664312",
-        "longitude": "121.188333"
-      },
-      "agency": {
-        "name": "Deep Blue Aerospace",
-        "abbrev": "DBA Space",
-        "type": "Commercial"
-      },
-      "image_url": null,
-      "vidURLs": [],
-      "webcast_live": false,
-      "discovered_at": "2026-06-18T05:14:01.659052+00:00",
-      "last_updated_at": "2026-06-23T12:21:37.483155+00:00",
-      "outcome": null,
-      "failure_reason": null,
-      "status_history": [
-        {
-          "at": "2026-06-18T05:14:01.659055+00:00",
-          "status_id": 2,
-          "abbrev": "TBD",
-          "net": "2026-06-30T00:00:00Z"
         }
       ]
     },
@@ -2330,7 +2402,7 @@
       ],
       "webcast_live": false,
       "discovered_at": "2026-05-31T16:40:18.062998+00:00",
-      "last_updated_at": "2026-06-23T12:21:37.483101+00:00",
+      "last_updated_at": "2026-06-23T15:29:56.877453+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -2397,7 +2469,7 @@
       ],
       "webcast_live": false,
       "discovered_at": "2026-06-19T15:46:40.306891+00:00",
-      "last_updated_at": "2026-06-23T12:21:37.483093+00:00",
+      "last_updated_at": "2026-06-23T15:29:56.877442+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -2451,7 +2523,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-04-24T09:15:14.350986+00:00",
-      "last_updated_at": "2026-06-23T12:21:37.483082+00:00",
+      "last_updated_at": "2026-06-23T15:29:56.877431+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -2532,7 +2604,7 @@
       ],
       "webcast_live": false,
       "discovered_at": "2026-06-10T20:23:13.406414+00:00",
-      "last_updated_at": "2026-06-23T12:21:37.483073+00:00",
+      "last_updated_at": "2026-06-23T15:29:56.877417+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -2573,7 +2645,7 @@
         "id": 6,
         "abbrev": "In Flight",
         "name": "Launch in Flight",
-        "description": "The launch vehicle has lifted off from the launchpad."
+        "description": "Launch in Flight"
       },
       "net": "2026-06-23T10:53:00Z",
       "window_start": "2026-06-23T10:43:00Z",
@@ -2606,8 +2678,8 @@
       "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/falcon_9_liftof_image_20241206131356.jpg",
       "vidURLs": [
         {
-          "title": "SpaceX - Falcon 9 - Starfall Demo Mission - SLC-40 - Cape Canaveral SFS - June 23, 2026",
-          "url": "https://www.youtube.com/watch?v=IrVeYmLouSU"
+          "title": "SpaceX Project Starfall Demonstration Mission",
+          "url": "https://www.youtube.com/watch?v=BKicbMA9pyM"
         },
         {
           "title": "Live: SpaceX Falcon 9 rocket launches Starfall reentry demonstration mission from Cape Canaveral",
@@ -2624,7 +2696,7 @@
       ],
       "webcast_live": false,
       "discovered_at": "2026-06-16T00:08:22.271990+00:00",
-      "last_updated_at": "2026-06-23T12:21:37.483053+00:00",
+      "last_updated_at": "2026-06-23T15:29:56.877403+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -2706,7 +2778,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-06-04T13:55:41.980497+00:00",
-      "last_updated_at": "2026-06-23T12:21:37.483018+00:00",
+      "last_updated_at": "2026-06-23T15:29:56.877370+00:00",
       "outcome": "success",
       "failure_reason": null,
       "status_history": [
@@ -11092,5 +11164,5 @@
       ]
     }
   ],
-  "last_updated": "2026-06-23T12:21:37.483518+00:00"
+  "last_updated": "2026-06-23T15:29:56.877925+00:00"
 }
