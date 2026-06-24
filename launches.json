@@ -253,6 +253,67 @@
       ]
     },
     {
+      "id": "a57aed97-b94f-42e1-905e-9421dbd96ac8",
+      "name": "Ariane 62 | MTG-I2",
+      "slug": "ariane-62-mtg-i2",
+      "status": {
+        "id": 2,
+        "abbrev": "TBD",
+        "name": "To Be Determined",
+        "description": "Current date is a placeholder or rough estimation based on unreliable or interpreted sources."
+      },
+      "net": "2026-08-27T00:00:00Z",
+      "window_start": "2026-08-27T00:00:00Z",
+      "window_end": "2026-08-27T00:00:00Z",
+      "probability": null,
+      "rocket": {
+        "name": "Ariane 62",
+        "family": "Ariane",
+        "manufacturer": "ArianeGroup",
+        "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/ariane_62_lifto_image_20240711132056.jpeg"
+      },
+      "mission": {
+        "name": "MTG-I2",
+        "description": "Third of EUMETSAT's third generation of weather satellite.",
+        "type": "Earth Science",
+        "orbit": "Geostationary Transfer Orbit"
+      },
+      "pad": {
+        "name": "Ariane Launch Area 4",
+        "location": "Guiana Space Centre, French Guiana",
+        "country": "GUF",
+        "latitude": "5.256319",
+        "longitude": "-52.786838"
+      },
+      "agency": {
+        "name": "Arianespace",
+        "abbrev": "ASA",
+        "type": "Commercial"
+      },
+      "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/ariane_62_lifto_image_20240711132056.jpeg",
+      "vidURLs": [],
+      "webcast_live": false,
+      "discovered_at": "2026-04-30T15:48:07.790075+00:00",
+      "last_updated_at": "2026-06-24T12:32:26.043442+00:00",
+      "outcome": null,
+      "failure_reason": null,
+      "status_history": [
+        {
+          "at": "2026-04-30T15:48:07.790105+00:00",
+          "status_id": 2,
+          "abbrev": "TBD",
+          "net": "2026-06-30T00:00:00Z"
+        },
+        {
+          "at": "2026-06-24T12:32:26.043445+00:00",
+          "status_id": 2,
+          "abbrev": "TBD",
+          "net": "2026-08-27T00:00:00Z",
+          "prev_net": "2026-06-30T00:00:00Z"
+        }
+      ]
+    },
+    {
       "id": "0d6ad64c-3aed-4041-b095-e1d951bc6d29",
       "name": "Electron | Aspera",
       "slug": "electron-aspera",
@@ -294,7 +355,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-06-22T18:09:58.923838+00:00",
-      "last_updated_at": "2026-06-24T10:18:16.024523+00:00",
+      "last_updated_at": "2026-06-24T12:32:26.043437+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -348,7 +409,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-06-20T10:09:46.182370+00:00",
-      "last_updated_at": "2026-06-24T10:18:16.024514+00:00",
+      "last_updated_at": "2026-06-24T12:32:26.043432+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -402,7 +463,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-05-01T06:11:57.745139+00:00",
-      "last_updated_at": "2026-06-24T10:18:16.024470+00:00",
+      "last_updated_at": "2026-06-24T12:32:26.043399+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -463,7 +524,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-04-20T19:38:59.795722+00:00",
-      "last_updated_at": "2026-06-24T10:18:16.024492+00:00",
+      "last_updated_at": "2026-06-24T12:32:26.043415+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -538,7 +599,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-05-07T15:11:41.797008+00:00",
-      "last_updated_at": "2026-06-24T10:18:16.024477+00:00",
+      "last_updated_at": "2026-06-24T12:32:26.043405+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -682,7 +743,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-06-19T15:46:40.307041+00:00",
-      "last_updated_at": "2026-06-24T10:18:16.024483+00:00",
+      "last_updated_at": "2026-06-24T12:32:26.043409+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -736,7 +797,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-06-19T15:46:40.307063+00:00",
-      "last_updated_at": "2026-06-24T10:18:16.024508+00:00",
+      "last_updated_at": "2026-06-24T12:32:26.043426+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -795,7 +856,7 @@
       ],
       "webcast_live": false,
       "discovered_at": "2026-05-08T05:26:41.700479+00:00",
-      "last_updated_at": "2026-06-24T10:18:16.024463+00:00",
+      "last_updated_at": "2026-06-24T12:32:26.043394+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -925,7 +986,7 @@
       ],
       "webcast_live": false,
       "discovered_at": "2026-03-23T08:19:21.926409+00:00",
-      "last_updated_at": "2026-06-24T10:18:16.024499+00:00",
+      "last_updated_at": "2026-06-24T12:32:26.043420+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -1124,7 +1185,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-04-27T15:24:39.972764+00:00",
-      "last_updated_at": "2026-06-24T10:18:16.024456+00:00",
+      "last_updated_at": "2026-06-24T12:32:26.043389+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -1185,7 +1246,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-06-18T12:48:06.313811+00:00",
-      "last_updated_at": "2026-06-24T10:18:16.024448+00:00",
+      "last_updated_at": "2026-06-24T12:32:26.043385+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -1244,7 +1305,7 @@
       ],
       "webcast_live": false,
       "discovered_at": "2026-06-23T15:29:56.877529+00:00",
-      "last_updated_at": "2026-06-24T10:18:16.024437+00:00",
+      "last_updated_at": "2026-06-24T12:32:26.043379+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -1298,7 +1359,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-05-01T10:05:53.337343+00:00",
-      "last_updated_at": "2026-06-24T10:18:16.024428+00:00",
+      "last_updated_at": "2026-06-24T12:32:26.043374+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -1372,7 +1433,7 @@
       ],
       "webcast_live": false,
       "discovered_at": "2026-06-23T01:28:40.116000+00:00",
-      "last_updated_at": "2026-06-24T10:18:16.024421+00:00",
+      "last_updated_at": "2026-06-24T12:32:26.043368+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -1381,60 +1442,6 @@
           "status_id": 1,
           "abbrev": "Go",
           "net": "2026-07-02T02:00:00Z"
-        }
-      ]
-    },
-    {
-      "id": "a57aed97-b94f-42e1-905e-9421dbd96ac8",
-      "name": "Ariane 64 | MTG-I2",
-      "slug": "ariane-64-mtg-i2",
-      "status": {
-        "id": 2,
-        "abbrev": "TBD",
-        "name": "To Be Determined",
-        "description": "Current date is a placeholder or rough estimation based on unreliable or interpreted sources."
-      },
-      "net": "2026-06-30T00:00:00Z",
-      "window_start": "2026-06-30T00:00:00Z",
-      "window_end": "2026-06-30T00:00:00Z",
-      "probability": null,
-      "rocket": {
-        "name": "Ariane 64",
-        "family": "Ariane",
-        "manufacturer": "ArianeGroup",
-        "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/ariane_64_lifto_image_20260213070745.jpg"
-      },
-      "mission": {
-        "name": "MTG-I2",
-        "description": "Third of EUMETSAT's third generation of weather satellite.",
-        "type": "Earth Science",
-        "orbit": "Geostationary Transfer Orbit"
-      },
-      "pad": {
-        "name": "Ariane Launch Area 4",
-        "location": "Guiana Space Centre, French Guiana",
-        "country": "GUF",
-        "latitude": "5.256319",
-        "longitude": "-52.786838"
-      },
-      "agency": {
-        "name": "Arianespace",
-        "abbrev": "ASA",
-        "type": "Commercial"
-      },
-      "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/ariane_64_lifto_image_20260213070745.jpg",
-      "vidURLs": [],
-      "webcast_live": false,
-      "discovered_at": "2026-04-30T15:48:07.790075+00:00",
-      "last_updated_at": "2026-05-06T22:44:52.392167+00:00",
-      "outcome": null,
-      "failure_reason": null,
-      "status_history": [
-        {
-          "at": "2026-04-30T15:48:07.790105+00:00",
-          "status_id": 2,
-          "abbrev": "TBD",
-          "net": "2026-06-30T00:00:00Z"
         }
       ]
     },
@@ -1534,7 +1541,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-04-09T21:07:11.353167+00:00",
-      "last_updated_at": "2026-06-24T10:18:16.024375+00:00",
+      "last_updated_at": "2026-06-24T12:32:26.043344+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -2041,7 +2048,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-05-29T19:05:54.989181+00:00",
-      "last_updated_at": "2026-06-24T10:18:16.024386+00:00",
+      "last_updated_at": "2026-06-24T12:32:26.043353+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -2103,7 +2110,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-06-08T00:02:18.038497+00:00",
-      "last_updated_at": "2026-06-24T10:18:16.024366+00:00",
+      "last_updated_at": "2026-06-24T12:32:26.043339+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -2165,7 +2172,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-06-17T12:52:02.511173+00:00",
-      "last_updated_at": "2026-06-24T10:18:16.024393+00:00",
+      "last_updated_at": "2026-06-24T12:32:26.043358+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -2219,7 +2226,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-06-18T05:14:01.659052+00:00",
-      "last_updated_at": "2026-06-24T10:18:16.024400+00:00",
+      "last_updated_at": "2026-06-24T12:32:26.043364+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -2273,7 +2280,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-04-11T15:28:51.958924+00:00",
-      "last_updated_at": "2026-06-24T10:18:16.024358+00:00",
+      "last_updated_at": "2026-06-24T12:32:26.043334+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -2402,7 +2409,7 @@
       ],
       "webcast_live": false,
       "discovered_at": "2026-05-31T16:40:18.062998+00:00",
-      "last_updated_at": "2026-06-24T10:18:16.024351+00:00",
+      "last_updated_at": "2026-06-24T12:32:26.043328+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -2469,7 +2476,7 @@
       ],
       "webcast_live": false,
       "discovered_at": "2026-06-19T15:46:40.306891+00:00",
-      "last_updated_at": "2026-06-24T10:18:16.024340+00:00",
+      "last_updated_at": "2026-06-24T12:32:26.043321+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -2523,7 +2530,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-04-24T09:15:14.350986+00:00",
-      "last_updated_at": "2026-06-24T10:18:16.024330+00:00",
+      "last_updated_at": "2026-06-24T12:32:26.043311+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -2604,7 +2611,7 @@
       ],
       "webcast_live": false,
       "discovered_at": "2026-06-10T20:23:13.406414+00:00",
-      "last_updated_at": "2026-06-24T10:18:16.024313+00:00",
+      "last_updated_at": "2026-06-24T12:32:26.043277+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -11178,5 +11185,5 @@
       ]
     }
   ],
-  "last_updated": "2026-06-24T10:18:16.024820+00:00"
+  "last_updated": "2026-06-24T12:32:26.043692+00:00"
 }
