@@ -1094,7 +1094,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-06-22T18:09:58.923838+00:00",
-      "last_updated_at": "2026-06-30T20:27:16.119435+00:00",
+      "last_updated_at": "2026-06-30T21:55:26.780754+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -1148,7 +1148,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-06-20T10:09:46.182370+00:00",
-      "last_updated_at": "2026-06-30T20:27:16.119429+00:00",
+      "last_updated_at": "2026-06-30T21:55:26.780747+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -1202,7 +1202,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-05-07T15:11:41.797008+00:00",
-      "last_updated_at": "2026-06-30T20:27:16.119384+00:00",
+      "last_updated_at": "2026-06-30T21:55:26.780703+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -1346,7 +1346,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-06-19T15:46:40.307041+00:00",
-      "last_updated_at": "2026-06-30T20:27:16.119392+00:00",
+      "last_updated_at": "2026-06-30T21:55:26.780710+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -1400,7 +1400,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-06-19T15:46:40.307063+00:00",
-      "last_updated_at": "2026-06-30T20:27:16.119421+00:00",
+      "last_updated_at": "2026-06-30T21:55:26.780739+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -1459,7 +1459,7 @@
       ],
       "webcast_live": false,
       "discovered_at": "2026-05-08T05:26:41.700479+00:00",
-      "last_updated_at": "2026-06-30T20:27:16.119376+00:00",
+      "last_updated_at": "2026-06-30T21:55:26.780693+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -1589,7 +1589,7 @@
       ],
       "webcast_live": false,
       "discovered_at": "2026-03-23T08:19:21.926409+00:00",
-      "last_updated_at": "2026-06-30T20:27:16.119413+00:00",
+      "last_updated_at": "2026-06-30T21:55:26.780733+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -1788,7 +1788,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-05-29T19:05:54.989181+00:00",
-      "last_updated_at": "2026-06-30T20:27:16.119400+00:00",
+      "last_updated_at": "2026-06-30T21:55:26.780717+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -1857,7 +1857,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-06-27T00:00:59.521069+00:00",
-      "last_updated_at": "2026-06-30T20:27:16.119369+00:00",
+      "last_updated_at": "2026-06-30T21:55:26.780686+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -1911,7 +1911,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-04-11T15:28:51.958924+00:00",
-      "last_updated_at": "2026-06-30T20:27:16.119406+00:00",
+      "last_updated_at": "2026-06-30T21:55:26.780725+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -2050,7 +2050,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-04-27T15:24:39.972764+00:00",
-      "last_updated_at": "2026-06-30T20:27:16.119363+00:00",
+      "last_updated_at": "2026-06-30T21:55:26.780680+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -2111,7 +2111,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-06-18T12:48:06.313811+00:00",
-      "last_updated_at": "2026-06-30T20:27:16.119357+00:00",
+      "last_updated_at": "2026-06-30T21:55:26.780673+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -2170,7 +2170,7 @@
       ],
       "webcast_live": false,
       "discovered_at": "2026-06-29T21:50:24.546321+00:00",
-      "last_updated_at": "2026-06-30T20:27:16.119350+00:00",
+      "last_updated_at": "2026-06-30T21:55:26.780666+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -2236,7 +2236,7 @@
       ],
       "webcast_live": false,
       "discovered_at": "2026-06-25T18:30:53.018136+00:00",
-      "last_updated_at": "2026-06-30T20:27:16.119339+00:00",
+      "last_updated_at": "2026-06-30T21:55:26.780659+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -2311,7 +2311,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-04-20T19:38:59.795722+00:00",
-      "last_updated_at": "2026-06-30T20:27:16.119330+00:00",
+      "last_updated_at": "2026-06-30T21:55:26.780649+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -2399,7 +2399,7 @@
       ],
       "webcast_live": false,
       "discovered_at": "2026-06-25T18:30:53.018156+00:00",
-      "last_updated_at": "2026-06-30T20:27:16.119323+00:00",
+      "last_updated_at": "2026-06-30T21:55:26.780640+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -2453,7 +2453,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-05-01T06:11:57.745139+00:00",
-      "last_updated_at": "2026-06-30T20:27:16.119315+00:00",
+      "last_updated_at": "2026-06-30T21:55:26.780633+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -2522,7 +2522,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-06-26T12:30:12.929988+00:00",
-      "last_updated_at": "2026-06-30T20:27:16.119308+00:00",
+      "last_updated_at": "2026-06-30T21:55:26.780627+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -2581,7 +2581,7 @@
       ],
       "webcast_live": false,
       "discovered_at": "2026-06-23T15:29:56.877529+00:00",
-      "last_updated_at": "2026-06-30T20:27:16.119299+00:00",
+      "last_updated_at": "2026-06-30T21:55:26.780620+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -2635,7 +2635,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-06-26T12:30:12.929966+00:00",
-      "last_updated_at": "2026-06-30T20:27:16.119285+00:00",
+      "last_updated_at": "2026-06-30T21:55:26.780613+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -2702,7 +2702,7 @@
       ],
       "webcast_live": false,
       "discovered_at": "2026-05-01T10:05:53.337343+00:00",
-      "last_updated_at": "2026-06-30T20:27:16.119277+00:00",
+      "last_updated_at": "2026-06-30T21:55:26.780602+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -2776,7 +2776,7 @@
       ],
       "webcast_live": false,
       "discovered_at": "2026-06-23T01:28:40.116000+00:00",
-      "last_updated_at": "2026-06-30T20:27:16.119266+00:00",
+      "last_updated_at": "2026-06-30T21:55:26.780593+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -2830,7 +2830,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-06-26T12:30:12.929934+00:00",
-      "last_updated_at": "2026-06-30T20:27:16.119256+00:00",
+      "last_updated_at": "2026-06-30T21:55:26.780583+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -2839,82 +2839,6 @@
           "status_id": 1,
           "abbrev": "Go",
           "net": "2026-07-01T23:45:00Z"
-        }
-      ]
-    },
-    {
-      "id": "8b7e748c-6ed5-4681-a898-827b4a23b8d7",
-      "name": "Electron | The Grain Goddess Provides (iQPS Launch 7)",
-      "slug": "electron-the-grain-goddess-provides-iqps-launch-7",
-      "status": {
-        "id": 1,
-        "abbrev": "Go",
-        "name": "Go for Launch",
-        "description": "Current T-0 confirmed by official or reliable sources."
-      },
-      "net": "2026-07-01T13:00:00Z",
-      "window_start": "2026-07-01T13:00:00Z",
-      "window_end": "2026-07-01T13:00:00Z",
-      "probability": null,
-      "rocket": {
-        "name": "Electron",
-        "family": "",
-        "manufacturer": "Rocket Lab",
-        "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/electron_image_20190705175640.jpeg"
-      },
-      "mission": {
-        "name": "The Grain Goddess Provides (iQPS Launch 7)",
-        "description": "Synthetic aperture radar Earth observation satellite for Japanese Earth imaging company iQPS.",
-        "type": "Earth Science",
-        "orbit": "Low Earth Orbit"
-      },
-      "pad": {
-        "name": "Unknown Pad",
-        "location": "Rocket Lab Launch Complex 1, Mahia Peninsula, New Zealand",
-        "country": "NZL",
-        "latitude": "-39.260881",
-        "longitude": "177.865826"
-      },
-      "agency": {
-        "name": "Rocket Lab",
-        "abbrev": "RL",
-        "type": "Commercial"
-      },
-      "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/electron_image_20190705175640.jpeg",
-      "vidURLs": [],
-      "webcast_live": false,
-      "discovered_at": "2026-04-09T21:07:11.353167+00:00",
-      "last_updated_at": "2026-06-30T20:27:16.119239+00:00",
-      "outcome": null,
-      "failure_reason": null,
-      "status_history": [
-        {
-          "at": "2026-04-09T21:07:11.353172+00:00",
-          "status_id": 2,
-          "abbrev": "TBD",
-          "net": "2026-05-31T00:00:00Z"
-        },
-        {
-          "at": "2026-05-07T15:11:41.797107+00:00",
-          "status_id": 2,
-          "abbrev": "TBD",
-          "net": "2026-06-30T00:00:00Z",
-          "prev_net": "2026-05-31T00:00:00Z"
-        },
-        {
-          "at": "2026-06-28T19:52:20.477321+00:00",
-          "status_id": 1,
-          "abbrev": "Go",
-          "net": "2026-06-30T01:15:00Z",
-          "prev_net": "2026-06-30T00:00:00Z",
-          "prev_abbrev": "TBD"
-        },
-        {
-          "at": "2026-06-29T06:41:24.245309+00:00",
-          "status_id": 1,
-          "abbrev": "Go",
-          "net": "2026-07-01T13:00:00Z",
-          "prev_net": "2026-06-30T01:15:00Z"
         }
       ]
     },
@@ -2960,7 +2884,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-04-24T09:15:14.350986+00:00",
-      "last_updated_at": "2026-06-30T20:27:16.119208+00:00",
+      "last_updated_at": "2026-06-30T21:55:26.780571+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -3019,6 +2943,94 @@
           "abbrev": "Go",
           "net": "2026-07-01T09:43:00Z",
           "prev_net": "2026-06-30T10:17:00Z"
+        }
+      ]
+    },
+    {
+      "id": "8b7e748c-6ed5-4681-a898-827b4a23b8d7",
+      "name": "Electron | The Grain Goddess Provides (iQPS Launch 7)",
+      "slug": "electron-the-grain-goddess-provides-iqps-launch-7",
+      "status": {
+        "id": 1,
+        "abbrev": "Go",
+        "name": "Go for Launch",
+        "description": "Current T-0 confirmed by official or reliable sources."
+      },
+      "net": "2026-07-01T01:00:00Z",
+      "window_start": "2026-07-01T01:00:00Z",
+      "window_end": "2026-07-01T01:00:00Z",
+      "probability": null,
+      "rocket": {
+        "name": "Electron",
+        "family": "",
+        "manufacturer": "Rocket Lab",
+        "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/electron_image_20190705175640.jpeg"
+      },
+      "mission": {
+        "name": "The Grain Goddess Provides (iQPS Launch 7)",
+        "description": "Synthetic aperture radar Earth observation satellite for Japanese Earth imaging company iQPS.",
+        "type": "Earth Science",
+        "orbit": "Low Earth Orbit"
+      },
+      "pad": {
+        "name": "Rocket Lab Launch Complex 1A",
+        "location": "Rocket Lab Launch Complex 1, Mahia Peninsula, New Zealand",
+        "country": "NZL",
+        "latitude": "-39.262833",
+        "longitude": "177.864469"
+      },
+      "agency": {
+        "name": "Rocket Lab",
+        "abbrev": "RL",
+        "type": "Commercial"
+      },
+      "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/electron_image_20190705175640.jpeg",
+      "vidURLs": [
+        {
+          "title": "Rocket Lab - 'The Grain Goddess Provides' Launch",
+          "url": "https://www.youtube.com/watch?v=C_JarlUSk5I"
+        }
+      ],
+      "webcast_live": false,
+      "discovered_at": "2026-04-09T21:07:11.353167+00:00",
+      "last_updated_at": "2026-06-30T21:55:26.780539+00:00",
+      "outcome": null,
+      "failure_reason": null,
+      "status_history": [
+        {
+          "at": "2026-04-09T21:07:11.353172+00:00",
+          "status_id": 2,
+          "abbrev": "TBD",
+          "net": "2026-05-31T00:00:00Z"
+        },
+        {
+          "at": "2026-05-07T15:11:41.797107+00:00",
+          "status_id": 2,
+          "abbrev": "TBD",
+          "net": "2026-06-30T00:00:00Z",
+          "prev_net": "2026-05-31T00:00:00Z"
+        },
+        {
+          "at": "2026-06-28T19:52:20.477321+00:00",
+          "status_id": 1,
+          "abbrev": "Go",
+          "net": "2026-06-30T01:15:00Z",
+          "prev_net": "2026-06-30T00:00:00Z",
+          "prev_abbrev": "TBD"
+        },
+        {
+          "at": "2026-06-29T06:41:24.245309+00:00",
+          "status_id": 1,
+          "abbrev": "Go",
+          "net": "2026-07-01T13:00:00Z",
+          "prev_net": "2026-06-30T01:15:00Z"
+        },
+        {
+          "at": "2026-06-30T21:55:26.780556+00:00",
+          "status_id": 1,
+          "abbrev": "Go",
+          "net": "2026-07-01T01:00:00Z",
+          "prev_net": "2026-07-01T13:00:00Z"
         }
       ]
     },
@@ -11950,5 +11962,5 @@
       ]
     }
   ],
-  "last_updated": "2026-06-30T20:27:16.119719+00:00"
+  "last_updated": "2026-06-30T21:55:26.781030+00:00"
 }
