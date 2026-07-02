@@ -1033,7 +1033,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-04-30T15:48:07.790075+00:00",
-      "last_updated_at": "2026-07-01T23:17:51.350295+00:00",
+      "last_updated_at": "2026-07-02T01:30:20.743563+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -1148,7 +1148,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-06-20T10:09:46.182370+00:00",
-      "last_updated_at": "2026-07-01T23:17:51.350289+00:00",
+      "last_updated_at": "2026-07-02T01:30:20.743555+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -1202,7 +1202,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-05-07T15:11:41.797008+00:00",
-      "last_updated_at": "2026-07-01T23:17:51.350245+00:00",
+      "last_updated_at": "2026-07-02T01:30:20.743506+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -1346,7 +1346,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-06-19T15:46:40.307041+00:00",
-      "last_updated_at": "2026-07-01T23:17:51.350252+00:00",
+      "last_updated_at": "2026-07-02T01:30:20.743514+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -1400,7 +1400,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-06-19T15:46:40.307063+00:00",
-      "last_updated_at": "2026-07-01T23:17:51.350283+00:00",
+      "last_updated_at": "2026-07-02T01:30:20.743547+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -1459,7 +1459,7 @@
       ],
       "webcast_live": false,
       "discovered_at": "2026-05-08T05:26:41.700479+00:00",
-      "last_updated_at": "2026-07-01T23:17:51.350238+00:00",
+      "last_updated_at": "2026-07-02T01:30:20.743498+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -1589,7 +1589,7 @@
       ],
       "webcast_live": false,
       "discovered_at": "2026-03-23T08:19:21.926409+00:00",
-      "last_updated_at": "2026-07-01T23:17:51.350275+00:00",
+      "last_updated_at": "2026-07-02T01:30:20.743535+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -1788,7 +1788,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-05-29T19:05:54.989181+00:00",
-      "last_updated_at": "2026-07-01T23:17:51.350259+00:00",
+      "last_updated_at": "2026-07-02T01:30:20.743520+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -1857,7 +1857,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-06-27T00:00:59.521069+00:00",
-      "last_updated_at": "2026-07-01T23:17:51.350225+00:00",
+      "last_updated_at": "2026-07-02T01:30:20.743480+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -1911,7 +1911,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-04-11T15:28:51.958924+00:00",
-      "last_updated_at": "2026-07-01T23:17:51.350268+00:00",
+      "last_updated_at": "2026-07-02T01:30:20.743526+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -2055,7 +2055,7 @@
       ],
       "webcast_live": false,
       "discovered_at": "2026-04-09T21:07:11.353167+00:00",
-      "last_updated_at": "2026-07-01T23:17:51.350231+00:00",
+      "last_updated_at": "2026-07-02T01:30:20.743487+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -2146,7 +2146,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-04-27T15:24:39.972764+00:00",
-      "last_updated_at": "2026-07-01T23:17:51.350216+00:00",
+      "last_updated_at": "2026-07-02T01:30:20.743473+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -2170,14 +2170,14 @@
       "name": "Soyuz 2.1a | Soyuz MS-29",
       "slug": "soyuz-21a-soyuz-ms-29",
       "status": {
-        "id": 8,
-        "abbrev": "TBC",
-        "name": "To Be Confirmed",
-        "description": "Awaiting official confirmation - current date is known with some certainty."
+        "id": 1,
+        "abbrev": "Go",
+        "name": "Go for Launch",
+        "description": "Current T-0 confirmed by official or reliable sources."
       },
-      "net": "2026-07-14T14:43:00Z",
-      "window_start": "2026-07-14T14:43:00Z",
-      "window_end": "2026-07-14T14:43:00Z",
+      "net": "2026-07-14T14:47:00Z",
+      "window_start": "2026-07-14T14:47:00Z",
+      "window_end": "2026-07-14T14:47:00Z",
       "probability": null,
       "rocket": {
         "name": "Soyuz 2.1a",
@@ -2207,7 +2207,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-06-18T12:48:06.313811+00:00",
-      "last_updated_at": "2026-07-01T23:17:51.350209+00:00",
+      "last_updated_at": "2026-07-02T01:30:20.743462+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -2216,6 +2216,14 @@
           "status_id": 8,
           "abbrev": "TBC",
           "net": "2026-07-14T14:43:00Z"
+        },
+        {
+          "at": "2026-07-02T01:30:20.743465+00:00",
+          "status_id": 1,
+          "abbrev": "Go",
+          "net": "2026-07-14T14:47:00Z",
+          "prev_net": "2026-07-14T14:43:00Z",
+          "prev_abbrev": "TBC"
         }
       ]
     },
@@ -2266,7 +2274,7 @@
       ],
       "webcast_live": false,
       "discovered_at": "2026-06-29T21:50:24.546321+00:00",
-      "last_updated_at": "2026-07-01T23:17:51.350202+00:00",
+      "last_updated_at": "2026-07-02T01:30:20.743456+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -2332,7 +2340,7 @@
       ],
       "webcast_live": false,
       "discovered_at": "2026-06-25T18:30:53.018136+00:00",
-      "last_updated_at": "2026-07-01T23:17:51.350196+00:00",
+      "last_updated_at": "2026-07-02T01:30:20.743444+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -2414,7 +2422,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-04-20T19:38:59.795722+00:00",
-      "last_updated_at": "2026-07-01T23:17:51.350187+00:00",
+      "last_updated_at": "2026-07-02T01:30:20.743413+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -2502,7 +2510,7 @@
       ],
       "webcast_live": false,
       "discovered_at": "2026-06-25T18:30:53.018156+00:00",
-      "last_updated_at": "2026-07-01T23:17:51.350180+00:00",
+      "last_updated_at": "2026-07-02T01:30:20.743405+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -2561,7 +2569,7 @@
       ],
       "webcast_live": false,
       "discovered_at": "2026-05-01T06:11:57.745139+00:00",
-      "last_updated_at": "2026-07-01T23:17:51.350171+00:00",
+      "last_updated_at": "2026-07-02T01:30:20.743398+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -2643,7 +2651,7 @@
       ],
       "webcast_live": false,
       "discovered_at": "2026-06-23T15:29:56.877529+00:00",
-      "last_updated_at": "2026-07-01T23:17:51.350162+00:00",
+      "last_updated_at": "2026-07-02T01:30:20.743391+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -2704,7 +2712,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-06-26T12:30:12.929988+00:00",
-      "last_updated_at": "2026-07-01T23:17:51.350155+00:00",
+      "last_updated_at": "2026-07-02T01:30:20.743381+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -2758,7 +2766,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-06-26T12:30:12.929966+00:00",
-      "last_updated_at": "2026-07-01T23:17:51.350147+00:00",
+      "last_updated_at": "2026-07-02T01:30:20.743374+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -2820,7 +2828,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-04-24T09:15:14.350986+00:00",
-      "last_updated_at": "2026-07-01T23:17:51.350139+00:00",
+      "last_updated_at": "2026-07-02T01:30:20.743365+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -2932,11 +2940,19 @@
         {
           "title": "Rocket Launch: Atlas V Amazon Leo 8",
           "url": "https://www.youtube.com/watch?v=IxEYrkqNH8s"
+        },
+        {
+          "title": "Watch live: ULA Atlas 5 rocket launches 29 Amazon Leo satellites from Cape Canaveral, Florida",
+          "url": "https://www.youtube.com/watch?v=o1HtMe5qJy0"
+        },
+        {
+          "title": "Final Atlas V Satellite Launch lofts Amazon Leo Atlas 8 (LA-08)",
+          "url": "https://www.youtube.com/watch?v=dcdbmqJ3vkw"
         }
       ],
       "webcast_live": false,
       "discovered_at": "2026-05-01T10:05:53.337343+00:00",
-      "last_updated_at": "2026-07-01T23:17:51.350129+00:00",
+      "last_updated_at": "2026-07-02T01:30:20.743355+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -3004,13 +3020,21 @@
       "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/falcon2520925_image_20221009234147.png",
       "vidURLs": [
         {
+          "title": "GO! - SpaceX - Falcon 9 - Starlink 17-46 - SLC-4E - Vandenberg SFB - Space Affairs Live",
+          "url": "https://www.youtube.com/watch?v=O1eT8GNVhU8"
+        },
+        {
+          "title": "Live: SpaceX Falcon 9 rocket launches 24 Starlink satellites from Vandenberg, California",
+          "url": "https://www.youtube.com/watch?v=5usMlga4NnM"
+        },
+        {
           "title": "Starlink Mission",
           "url": "https://x.com/i/broadcasts/1qKVmmrbbEdxB"
         }
       ],
       "webcast_live": false,
       "discovered_at": "2026-06-23T01:28:40.116000+00:00",
-      "last_updated_at": "2026-07-01T23:17:51.350112+00:00",
+      "last_updated_at": "2026-07-02T01:30:20.743341+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -3038,29 +3062,29 @@
     },
     {
       "id": "2bedbf8c-8df2-4e24-8397-8c2a08fab581",
-      "name": "Long March 4C | Unknown Payload",
-      "slug": "long-march-4c-unknown-payload",
+      "name": "Long March 4B | Haiyang 2E",
+      "slug": "long-march-4b-haiyang-2e",
       "status": {
-        "id": 1,
-        "abbrev": "Go",
-        "name": "Go for Launch",
-        "description": "Current T-0 confirmed by official or reliable sources."
+        "id": 3,
+        "abbrev": "Success",
+        "name": "Launch Successful",
+        "description": "The launch vehicle successfully inserted its payload(s) into the target orbit(s)."
       },
-      "net": "2026-07-01T23:45:00Z",
+      "net": "2026-07-01T23:46:00Z",
       "window_start": "2026-07-01T23:38:00Z",
       "window_end": "2026-07-02T00:07:00Z",
       "probability": null,
       "rocket": {
-        "name": "Long March 4C",
+        "name": "Long March 4B",
         "family": "Long March",
         "manufacturer": "China Aerospace Science and Technology Corporation",
-        "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/long_march_4c_image_20230801172338.jpeg"
+        "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/long_march_4b_l_image_20251209044050.jpeg"
       },
       "mission": {
-        "name": "Unknown Payload",
-        "description": "Details TBD.",
-        "type": "Unknown",
-        "orbit": "Unknown"
+        "name": "Haiyang 2E",
+        "description": "Haiyang 2E (Chinese: \"Ocean\"), abbreviated HY-2E, is a marine remote sensing satellite of China. The HY-2 series' primary objective is to measure ocean dynamic and regional environmental trends in the microwave spectral range, plus measurements of parameters such as marine wind vector, marine surface heat and Sea Surface Temperature (SST). These ocean dynamics real-time data aid aero-marine forecasts for the prevention of, and relief in the event of, natural disasters.\r\n\r\nInstruments carried include:\r\n\r\n* Microwave Radiometer Imager (MWRI)\r\n\r\n* Radar Altimeter (RA)\r\n\r\n* Ku-band Rotational Fan-beam Scatterometer (SCAT)",
+        "type": "Earth Science",
+        "orbit": "Sun-Synchronous Orbit"
       },
       "pad": {
         "name": "Launch Area 94 (SLS-2 / 603)",
@@ -3074,12 +3098,12 @@
         "abbrev": "CASC",
         "type": "Government"
       },
-      "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/long_march_4c_image_20230801172338.jpeg",
+      "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/long_march_4b_l_image_20251209044050.jpeg",
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-06-26T12:30:12.929934+00:00",
-      "last_updated_at": "2026-07-01T23:17:51.350082+00:00",
-      "outcome": null,
+      "last_updated_at": "2026-07-02T01:30:20.743297+00:00",
+      "outcome": "success",
       "failure_reason": null,
       "status_history": [
         {
@@ -3087,6 +3111,14 @@
           "status_id": 1,
           "abbrev": "Go",
           "net": "2026-07-01T23:45:00Z"
+        },
+        {
+          "at": "2026-07-02T01:30:20.743319+00:00",
+          "status_id": 3,
+          "abbrev": "Success",
+          "net": "2026-07-01T23:46:00Z",
+          "prev_net": "2026-07-01T23:45:00Z",
+          "prev_abbrev": "Go"
         }
       ]
     },
@@ -12018,5 +12050,5 @@
       ]
     }
   ],
-  "last_updated": "2026-07-01T23:17:51.350603+00:00"
+  "last_updated": "2026-07-02T01:30:20.743857+00:00"
 }
