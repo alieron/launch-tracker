@@ -1087,7 +1087,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-06-20T10:09:46.182370+00:00",
-      "last_updated_at": "2026-07-02T08:48:28.198536+00:00",
+      "last_updated_at": "2026-07-02T11:29:53.424081+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -1141,7 +1141,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-03-31T11:25:55.426549+00:00",
-      "last_updated_at": "2026-07-02T08:48:28.198520+00:00",
+      "last_updated_at": "2026-07-02T11:29:53.424073+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -1209,7 +1209,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-05-07T15:11:41.797008+00:00",
-      "last_updated_at": "2026-07-02T08:48:28.198477+00:00",
+      "last_updated_at": "2026-07-02T11:29:53.424017+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -1353,7 +1353,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-06-19T15:46:40.307041+00:00",
-      "last_updated_at": "2026-07-02T08:48:28.198484+00:00",
+      "last_updated_at": "2026-07-02T11:29:53.424023+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -1407,7 +1407,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-06-19T15:46:40.307063+00:00",
-      "last_updated_at": "2026-07-02T08:48:28.198514+00:00",
+      "last_updated_at": "2026-07-02T11:29:53.424067+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -1466,7 +1466,7 @@
       ],
       "webcast_live": false,
       "discovered_at": "2026-05-08T05:26:41.700479+00:00",
-      "last_updated_at": "2026-07-02T08:48:28.198467+00:00",
+      "last_updated_at": "2026-07-02T11:29:53.424008+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -1596,7 +1596,7 @@
       ],
       "webcast_live": false,
       "discovered_at": "2026-03-23T08:19:21.926409+00:00",
-      "last_updated_at": "2026-07-02T08:48:28.198507+00:00",
+      "last_updated_at": "2026-07-02T11:29:53.424060+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -1795,7 +1795,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-05-29T19:05:54.989181+00:00",
-      "last_updated_at": "2026-07-02T08:48:28.198491+00:00",
+      "last_updated_at": "2026-07-02T11:29:53.424044+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -1864,7 +1864,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-06-27T00:00:59.521069+00:00",
-      "last_updated_at": "2026-07-02T08:48:28.198450+00:00",
+      "last_updated_at": "2026-07-02T11:29:53.423988+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -1918,7 +1918,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-04-11T15:28:51.958924+00:00",
-      "last_updated_at": "2026-07-02T08:48:28.198500+00:00",
+      "last_updated_at": "2026-07-02T11:29:53.424053+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -2062,7 +2062,7 @@
       ],
       "webcast_live": false,
       "discovered_at": "2026-04-09T21:07:11.353167+00:00",
-      "last_updated_at": "2026-07-02T08:48:28.198459+00:00",
+      "last_updated_at": "2026-07-02T11:29:53.423996+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -2112,6 +2112,125 @@
       ]
     },
     {
+      "id": "f596ad48-881e-47d6-806d-113c6dd97427",
+      "name": "Pegasus XL | Swift Boost Mission",
+      "slug": "pegasus-xl-swift-boost-mission",
+      "status": {
+        "id": 2,
+        "abbrev": "TBD",
+        "name": "To Be Determined",
+        "description": "Current date is a placeholder or rough estimation based on unreliable or interpreted sources."
+      },
+      "net": "2026-07-31T00:00:00Z",
+      "window_start": "2026-07-31T00:00:00Z",
+      "window_end": "2026-07-31T00:00:00Z",
+      "probability": null,
+      "rocket": {
+        "name": "Pegasus XL",
+        "family": "Pegasus",
+        "manufacturer": "Orbital Sciences Corporation",
+        "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/pegasus_xl_moun_image_20240307124328.jpeg"
+      },
+      "mission": {
+        "name": "Swift Boost Mission",
+        "description": "Contracted by NASA under the Small Business Innovation Research Phase 3 contract, Katalyst Space Technologies' LINK servicing spacecraft will rendezvous and attach to NASA\u2019s Neil Gehrels Swift Observatory to re-boost its orbit. This aims to demonstrate a key capability for the future of space exploration and extending the Swift mission\u2019s science lifetime in gamma ray astronomy.",
+        "type": "Mission Extension",
+        "orbit": "Low Earth Orbit"
+      },
+      "pad": {
+        "name": "Kwajalein Atoll",
+        "location": "Air launch to orbit",
+        "country": "???",
+        "latitude": "8.716667",
+        "longitude": "167.733333"
+      },
+      "agency": {
+        "name": "Northrop Grumman Space Systems",
+        "abbrev": "NGSS",
+        "type": "Commercial"
+      },
+      "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/pegasus_xl_moun_image_20240307124328.jpeg",
+      "vidURLs": [],
+      "webcast_live": false,
+      "discovered_at": "2026-04-24T09:15:14.350986+00:00",
+      "last_updated_at": "2026-07-02T11:29:53.424030+00:00",
+      "outcome": null,
+      "failure_reason": null,
+      "status_history": [
+        {
+          "at": "2026-04-24T09:15:14.350991+00:00",
+          "status_id": 2,
+          "abbrev": "TBD",
+          "net": "2026-06-01T00:00:00Z"
+        },
+        {
+          "at": "2026-05-13T11:59:31.574838+00:00",
+          "status_id": 2,
+          "abbrev": "TBD",
+          "net": "2026-06-30T00:00:00Z",
+          "prev_net": "2026-06-01T00:00:00Z"
+        },
+        {
+          "at": "2026-06-16T16:08:33.729774+00:00",
+          "status_id": 8,
+          "abbrev": "TBC",
+          "net": "2026-06-27T09:00:00Z",
+          "prev_net": "2026-06-30T00:00:00Z",
+          "prev_abbrev": "TBD"
+        },
+        {
+          "at": "2026-06-18T12:48:06.313677+00:00",
+          "status_id": 1,
+          "abbrev": "Go",
+          "net": "2026-06-27T09:00:00Z",
+          "prev_abbrev": "TBC"
+        },
+        {
+          "at": "2026-06-26T12:30:12.929920+00:00",
+          "status_id": 1,
+          "abbrev": "Go",
+          "net": "2026-06-30T07:30:00Z",
+          "prev_net": "2026-06-27T09:00:00Z"
+        },
+        {
+          "at": "2026-06-26T19:16:10.805076+00:00",
+          "status_id": 1,
+          "abbrev": "Go",
+          "net": "2026-06-30T10:23:00Z",
+          "prev_net": "2026-06-30T07:30:00Z"
+        },
+        {
+          "at": "2026-06-30T08:04:46.449887+00:00",
+          "status_id": 1,
+          "abbrev": "Go",
+          "net": "2026-06-30T10:17:00Z",
+          "prev_net": "2026-06-30T10:23:00Z"
+        },
+        {
+          "at": "2026-06-30T11:25:08.137996+00:00",
+          "status_id": 1,
+          "abbrev": "Go",
+          "net": "2026-07-01T09:43:00Z",
+          "prev_net": "2026-06-30T10:17:00Z"
+        },
+        {
+          "at": "2026-07-01T13:17:03.349110+00:00",
+          "status_id": 1,
+          "abbrev": "Go",
+          "net": "2026-07-02T09:09:00Z",
+          "prev_net": "2026-07-01T09:43:00Z"
+        },
+        {
+          "at": "2026-07-02T11:29:53.424033+00:00",
+          "status_id": 2,
+          "abbrev": "TBD",
+          "net": "2026-07-31T00:00:00Z",
+          "prev_net": "2026-07-02T09:09:00Z",
+          "prev_abbrev": "Go"
+        }
+      ]
+    },
+    {
       "id": "599ba2df-7483-4b2f-a083-2b5ddc06e069",
       "name": "Electron | LOXSAT 1",
       "slug": "electron-loxsat-1",
@@ -2153,7 +2272,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-04-27T15:24:39.972764+00:00",
-      "last_updated_at": "2026-07-02T08:48:28.198441+00:00",
+      "last_updated_at": "2026-07-02T11:29:53.423982+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -2214,7 +2333,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-06-18T12:48:06.313811+00:00",
-      "last_updated_at": "2026-07-02T08:48:28.198433+00:00",
+      "last_updated_at": "2026-07-02T11:29:53.423975+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -2281,7 +2400,7 @@
       ],
       "webcast_live": false,
       "discovered_at": "2026-06-29T21:50:24.546321+00:00",
-      "last_updated_at": "2026-07-02T08:48:28.198426+00:00",
+      "last_updated_at": "2026-07-02T11:29:53.423968+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -2347,7 +2466,7 @@
       ],
       "webcast_live": false,
       "discovered_at": "2026-06-25T18:30:53.018136+00:00",
-      "last_updated_at": "2026-07-02T08:48:28.198418+00:00",
+      "last_updated_at": "2026-07-02T11:29:53.423961+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -2429,7 +2548,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-04-20T19:38:59.795722+00:00",
-      "last_updated_at": "2026-07-02T08:48:28.198408+00:00",
+      "last_updated_at": "2026-07-02T11:29:53.423953+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -2517,7 +2636,7 @@
       ],
       "webcast_live": false,
       "discovered_at": "2026-06-25T18:30:53.018156+00:00",
-      "last_updated_at": "2026-07-02T08:48:28.198401+00:00",
+      "last_updated_at": "2026-07-02T11:29:53.423944+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -2576,7 +2695,7 @@
       ],
       "webcast_live": false,
       "discovered_at": "2026-05-01T06:11:57.745139+00:00",
-      "last_updated_at": "2026-07-02T08:48:28.198392+00:00",
+      "last_updated_at": "2026-07-02T11:29:53.423937+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -2658,7 +2777,7 @@
       ],
       "webcast_live": false,
       "discovered_at": "2026-06-23T15:29:56.877529+00:00",
-      "last_updated_at": "2026-07-02T08:48:28.198385+00:00",
+      "last_updated_at": "2026-07-02T11:29:53.423929+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -2719,7 +2838,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-06-26T12:30:12.929966+00:00",
-      "last_updated_at": "2026-07-02T08:48:28.198377+00:00",
+      "last_updated_at": "2026-07-02T11:29:53.423920+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -2789,7 +2908,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-06-26T12:30:12.929988+00:00",
-      "last_updated_at": "2026-07-02T08:48:28.198367+00:00",
+      "last_updated_at": "2026-07-02T11:29:53.423909+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -2798,117 +2917,6 @@
           "status_id": 1,
           "abbrev": "Go",
           "net": "2026-07-04T09:31:00Z"
-        }
-      ]
-    },
-    {
-      "id": "f596ad48-881e-47d6-806d-113c6dd97427",
-      "name": "Pegasus XL | Swift Boost Mission",
-      "slug": "pegasus-xl-swift-boost-mission",
-      "status": {
-        "id": 1,
-        "abbrev": "Go",
-        "name": "Go for Launch",
-        "description": "Current T-0 confirmed by official or reliable sources."
-      },
-      "net": "2026-07-02T09:09:00Z",
-      "window_start": "2026-07-02T07:30:00Z",
-      "window_end": "2026-07-02T13:28:00Z",
-      "probability": null,
-      "rocket": {
-        "name": "Pegasus XL",
-        "family": "Pegasus",
-        "manufacturer": "Orbital Sciences Corporation",
-        "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/pegasus_xl_moun_image_20240307124328.jpeg"
-      },
-      "mission": {
-        "name": "Swift Boost Mission",
-        "description": "Contracted by NASA under the Small Business Innovation Research Phase 3 contract, Katalyst Space Technologies' LINK servicing spacecraft will rendezvous and attach to NASA\u2019s Neil Gehrels Swift Observatory to re-boost its orbit. This aims to demonstrate a key capability for the future of space exploration and extending the Swift mission\u2019s science lifetime in gamma ray astronomy.",
-        "type": "Mission Extension",
-        "orbit": "Low Earth Orbit"
-      },
-      "pad": {
-        "name": "Kwajalein Atoll",
-        "location": "Air launch to orbit",
-        "country": "???",
-        "latitude": "8.716667",
-        "longitude": "167.733333"
-      },
-      "agency": {
-        "name": "Northrop Grumman Space Systems",
-        "abbrev": "NGSS",
-        "type": "Commercial"
-      },
-      "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/pegasus_xl_moun_image_20240307124328.jpeg",
-      "vidURLs": [],
-      "webcast_live": false,
-      "discovered_at": "2026-04-24T09:15:14.350986+00:00",
-      "last_updated_at": "2026-07-02T08:48:28.198356+00:00",
-      "outcome": null,
-      "failure_reason": null,
-      "status_history": [
-        {
-          "at": "2026-04-24T09:15:14.350991+00:00",
-          "status_id": 2,
-          "abbrev": "TBD",
-          "net": "2026-06-01T00:00:00Z"
-        },
-        {
-          "at": "2026-05-13T11:59:31.574838+00:00",
-          "status_id": 2,
-          "abbrev": "TBD",
-          "net": "2026-06-30T00:00:00Z",
-          "prev_net": "2026-06-01T00:00:00Z"
-        },
-        {
-          "at": "2026-06-16T16:08:33.729774+00:00",
-          "status_id": 8,
-          "abbrev": "TBC",
-          "net": "2026-06-27T09:00:00Z",
-          "prev_net": "2026-06-30T00:00:00Z",
-          "prev_abbrev": "TBD"
-        },
-        {
-          "at": "2026-06-18T12:48:06.313677+00:00",
-          "status_id": 1,
-          "abbrev": "Go",
-          "net": "2026-06-27T09:00:00Z",
-          "prev_abbrev": "TBC"
-        },
-        {
-          "at": "2026-06-26T12:30:12.929920+00:00",
-          "status_id": 1,
-          "abbrev": "Go",
-          "net": "2026-06-30T07:30:00Z",
-          "prev_net": "2026-06-27T09:00:00Z"
-        },
-        {
-          "at": "2026-06-26T19:16:10.805076+00:00",
-          "status_id": 1,
-          "abbrev": "Go",
-          "net": "2026-06-30T10:23:00Z",
-          "prev_net": "2026-06-30T07:30:00Z"
-        },
-        {
-          "at": "2026-06-30T08:04:46.449887+00:00",
-          "status_id": 1,
-          "abbrev": "Go",
-          "net": "2026-06-30T10:17:00Z",
-          "prev_net": "2026-06-30T10:23:00Z"
-        },
-        {
-          "at": "2026-06-30T11:25:08.137996+00:00",
-          "status_id": 1,
-          "abbrev": "Go",
-          "net": "2026-07-01T09:43:00Z",
-          "prev_net": "2026-06-30T10:17:00Z"
-        },
-        {
-          "at": "2026-07-01T13:17:03.349110+00:00",
-          "status_id": 1,
-          "abbrev": "Go",
-          "net": "2026-07-02T09:09:00Z",
-          "prev_net": "2026-07-01T09:43:00Z"
         }
       ]
     },
@@ -2967,7 +2975,7 @@
       ],
       "webcast_live": false,
       "discovered_at": "2026-05-01T10:05:53.337343+00:00",
-      "last_updated_at": "2026-07-02T08:48:28.198342+00:00",
+      "last_updated_at": "2026-07-02T11:29:53.423895+00:00",
       "outcome": "success",
       "failure_reason": null,
       "status_history": [
@@ -3061,7 +3069,7 @@
       ],
       "webcast_live": false,
       "discovered_at": "2026-06-23T01:28:40.116000+00:00",
-      "last_updated_at": "2026-07-02T08:48:28.198326+00:00",
+      "last_updated_at": "2026-07-02T11:29:53.423881+00:00",
       "outcome": "success",
       "failure_reason": null,
       "status_history": [
@@ -3136,7 +3144,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-06-26T12:30:12.929934+00:00",
-      "last_updated_at": "2026-07-02T08:48:28.198285+00:00",
+      "last_updated_at": "2026-07-02T11:29:53.423850+00:00",
       "outcome": "success",
       "failure_reason": null,
       "status_history": [
@@ -12084,5 +12092,5 @@
       ]
     }
   ],
-  "last_updated": "2026-07-02T08:48:28.198879+00:00"
+  "last_updated": "2026-07-02T11:29:53.424374+00:00"
 }
