@@ -877,6 +877,67 @@
       ]
     },
     {
+      "id": "56a85c82-ea71-449b-828c-b583f6f4a18b",
+      "name": "Falcon 9 Block 5 | BlueBird Block 2 #6-8",
+      "slug": "falcon-9-block-5-bluebird-block-2-6-8",
+      "status": {
+        "id": 2,
+        "abbrev": "TBD",
+        "name": "To Be Determined",
+        "description": "Current date is a placeholder or rough estimation based on unreliable or interpreted sources."
+      },
+      "net": "2026-08-31T00:00:00Z",
+      "window_start": "2026-08-31T00:00:00Z",
+      "window_end": "2026-08-31T00:00:00Z",
+      "probability": null,
+      "rocket": {
+        "name": "Falcon 9",
+        "family": "Falcon",
+        "manufacturer": "SpaceX",
+        "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/falcon_9_image_20230807133459.jpeg"
+      },
+      "mission": {
+        "name": "BlueBird Block 2 #6-8",
+        "description": "AST SpaceMobile\u2019s Block 2 BlueBird satellites are designed to deliver up to 10 times the bandwidth capacity of the BlueBird Block 1 satellites, required to achieve 24/7 continuous cellular broadband service coverage in the United States, with beams designed to support a capacity of up to 40 MHz, enabling peak data transmission speeds up to 120 Mbps, supporting voice, full data and video applications. The Block 2 BlueBirds, featuring as large as 2400 square foot communications arrays, will be the largest satellites ever commercially deployed in Low Earth orbit once launched.\r\n\r\nThis launch will feature 3 satellites.",
+        "type": "Communications",
+        "orbit": "Low Earth Orbit"
+      },
+      "pad": {
+        "name": "Space Launch Complex 40",
+        "location": "Cape Canaveral SFS, FL, USA",
+        "country": "USA",
+        "latitude": "28.56194122",
+        "longitude": "-80.57735736"
+      },
+      "agency": {
+        "name": "SpaceX",
+        "abbrev": "SpX",
+        "type": "Commercial"
+      },
+      "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/f9_on_slc-40_2_image_20240919072420.jpg",
+      "vidURLs": [],
+      "webcast_live": false,
+      "discovered_at": "2026-06-19T15:46:40.307006+00:00",
+      "last_updated_at": "2026-07-03T06:09:15.749624+00:00",
+      "outcome": null,
+      "failure_reason": null,
+      "status_history": [
+        {
+          "at": "2026-06-19T15:46:40.307009+00:00",
+          "status_id": 2,
+          "abbrev": "TBD",
+          "net": "2026-07-31T00:00:00Z"
+        },
+        {
+          "at": "2026-07-03T06:09:15.749626+00:00",
+          "status_id": 2,
+          "abbrev": "TBD",
+          "net": "2026-08-31T00:00:00Z",
+          "prev_net": "2026-07-31T00:00:00Z"
+        }
+      ]
+    },
+    {
       "id": "521f3a1c-f977-4306-9b7f-495858719adf",
       "name": "Falcon Heavy | Nancy Grace Roman Space Telescope",
       "slug": "falcon-heavy-nancy-grace-roman-space-telescope",
@@ -918,7 +979,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-06-25T13:33:42.830541+00:00",
-      "last_updated_at": "2026-06-26T10:19:42.900211+00:00",
+      "last_updated_at": "2026-07-03T06:09:15.749617+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -972,7 +1033,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-04-30T15:48:07.790075+00:00",
-      "last_updated_at": "2026-07-03T02:29:39.145660+00:00",
+      "last_updated_at": "2026-07-03T06:09:15.749612+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -1087,7 +1148,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-06-20T10:09:46.182370+00:00",
-      "last_updated_at": "2026-07-03T02:29:39.145654+00:00",
+      "last_updated_at": "2026-07-03T06:09:15.749605+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -1141,7 +1202,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-03-31T11:25:55.426549+00:00",
-      "last_updated_at": "2026-07-03T02:29:39.145647+00:00",
+      "last_updated_at": "2026-07-03T06:09:15.749600+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -1209,7 +1270,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-05-07T15:11:41.797008+00:00",
-      "last_updated_at": "2026-07-03T02:29:39.145604+00:00",
+      "last_updated_at": "2026-07-03T06:09:15.749564+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -1258,60 +1319,6 @@
       ]
     },
     {
-      "id": "56a85c82-ea71-449b-828c-b583f6f4a18b",
-      "name": "Falcon 9 Block 5 | BlueBird Block 2 #6-8",
-      "slug": "falcon-9-block-5-bluebird-block-2-6-8",
-      "status": {
-        "id": 2,
-        "abbrev": "TBD",
-        "name": "To Be Determined",
-        "description": "Current date is a placeholder or rough estimation based on unreliable or interpreted sources."
-      },
-      "net": "2026-07-31T00:00:00Z",
-      "window_start": "2026-07-31T00:00:00Z",
-      "window_end": "2026-07-31T00:00:00Z",
-      "probability": null,
-      "rocket": {
-        "name": "Falcon 9",
-        "family": "Falcon",
-        "manufacturer": "SpaceX",
-        "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/falcon_9_image_20230807133459.jpeg"
-      },
-      "mission": {
-        "name": "BlueBird Block 2 #6-8",
-        "description": "AST SpaceMobile\u2019s Block 2 BlueBird satellites are designed to deliver up to 10 times the bandwidth capacity of the BlueBird Block 1 satellites, required to achieve 24/7 continuous cellular broadband service coverage in the United States, with beams designed to support a capacity of up to 40 MHz, enabling peak data transmission speeds up to 120 Mbps, supporting voice, full data and video applications. The Block 2 BlueBirds, featuring as large as 2400 square foot communications arrays, will be the largest satellites ever commercially deployed in Low Earth orbit once launched.\r\n\r\nThis launch will feature 3 satellites.",
-        "type": "Communications",
-        "orbit": "Low Earth Orbit"
-      },
-      "pad": {
-        "name": "Space Launch Complex 40",
-        "location": "Cape Canaveral SFS, FL, USA",
-        "country": "USA",
-        "latitude": "28.56194122",
-        "longitude": "-80.57735736"
-      },
-      "agency": {
-        "name": "SpaceX",
-        "abbrev": "SpX",
-        "type": "Commercial"
-      },
-      "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/f9_on_slc-40_2_image_20240919072420.jpg",
-      "vidURLs": [],
-      "webcast_live": false,
-      "discovered_at": "2026-06-19T15:46:40.307006+00:00",
-      "last_updated_at": "2026-06-23T12:21:37.483189+00:00",
-      "outcome": null,
-      "failure_reason": null,
-      "status_history": [
-        {
-          "at": "2026-06-19T15:46:40.307009+00:00",
-          "status_id": 2,
-          "abbrev": "TBD",
-          "net": "2026-07-31T00:00:00Z"
-        }
-      ]
-    },
-    {
       "id": "a2234679-5efe-4a00-9aff-cf82dbac22b0",
       "name": "H3-24 | HTV-X2",
       "slug": "h3-24-htv-x2",
@@ -1353,7 +1360,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-06-19T15:46:40.307041+00:00",
-      "last_updated_at": "2026-07-03T02:29:39.145611+00:00",
+      "last_updated_at": "2026-07-03T06:09:15.749569+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -1407,7 +1414,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-06-19T15:46:40.307063+00:00",
-      "last_updated_at": "2026-07-03T02:29:39.145641+00:00",
+      "last_updated_at": "2026-07-03T06:09:15.749596+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -1466,7 +1473,7 @@
       ],
       "webcast_live": false,
       "discovered_at": "2026-05-08T05:26:41.700479+00:00",
-      "last_updated_at": "2026-07-03T02:29:39.145597+00:00",
+      "last_updated_at": "2026-07-03T06:09:15.749558+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -1596,7 +1603,7 @@
       ],
       "webcast_live": false,
       "discovered_at": "2026-03-23T08:19:21.926409+00:00",
-      "last_updated_at": "2026-07-03T02:29:39.145633+00:00",
+      "last_updated_at": "2026-07-03T06:09:15.749590+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -1795,7 +1802,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-05-29T19:05:54.989181+00:00",
-      "last_updated_at": "2026-07-03T02:29:39.145618+00:00",
+      "last_updated_at": "2026-07-03T06:09:15.749574+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -1864,7 +1871,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-06-27T00:00:59.521069+00:00",
-      "last_updated_at": "2026-07-03T02:29:39.145580+00:00",
+      "last_updated_at": "2026-07-03T06:09:15.749541+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -1918,7 +1925,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-04-11T15:28:51.958924+00:00",
-      "last_updated_at": "2026-07-03T02:29:39.145625+00:00",
+      "last_updated_at": "2026-07-03T06:09:15.749579+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -2062,7 +2069,7 @@
       ],
       "webcast_live": false,
       "discovered_at": "2026-04-09T21:07:11.353167+00:00",
-      "last_updated_at": "2026-07-03T02:29:39.145586+00:00",
+      "last_updated_at": "2026-07-03T06:09:15.749552+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -2153,7 +2160,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-04-27T15:24:39.972764+00:00",
-      "last_updated_at": "2026-07-03T02:29:39.145568+00:00",
+      "last_updated_at": "2026-07-03T06:09:15.749534+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -2214,7 +2221,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-06-18T12:48:06.313811+00:00",
-      "last_updated_at": "2026-07-03T02:29:39.145562+00:00",
+      "last_updated_at": "2026-07-03T06:09:15.749523+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -2281,7 +2288,7 @@
       ],
       "webcast_live": false,
       "discovered_at": "2026-06-29T21:50:24.546321+00:00",
-      "last_updated_at": "2026-07-03T02:29:39.145556+00:00",
+      "last_updated_at": "2026-07-03T06:09:15.749518+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -2347,7 +2354,7 @@
       ],
       "webcast_live": false,
       "discovered_at": "2026-06-25T18:30:53.018136+00:00",
-      "last_updated_at": "2026-07-03T02:29:39.145549+00:00",
+      "last_updated_at": "2026-07-03T06:09:15.749513+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -2429,7 +2436,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-04-20T19:38:59.795722+00:00",
-      "last_updated_at": "2026-07-03T02:29:39.145541+00:00",
+      "last_updated_at": "2026-07-03T06:09:15.749506+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -2517,7 +2524,7 @@
       ],
       "webcast_live": false,
       "discovered_at": "2026-06-25T18:30:53.018156+00:00",
-      "last_updated_at": "2026-07-03T02:29:39.145533+00:00",
+      "last_updated_at": "2026-07-03T06:09:15.749499+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -2576,7 +2583,7 @@
       ],
       "webcast_live": false,
       "discovered_at": "2026-05-01T06:11:57.745139+00:00",
-      "last_updated_at": "2026-07-03T02:29:39.145526+00:00",
+      "last_updated_at": "2026-07-03T06:09:15.749493+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -2658,7 +2665,7 @@
       ],
       "webcast_live": false,
       "discovered_at": "2026-06-23T15:29:56.877529+00:00",
-      "last_updated_at": "2026-07-03T02:29:39.145519+00:00",
+      "last_updated_at": "2026-07-03T06:09:15.749485+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -2719,7 +2726,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-06-26T12:30:12.929966+00:00",
-      "last_updated_at": "2026-07-03T02:29:39.145508+00:00",
+      "last_updated_at": "2026-07-03T06:09:15.749477+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -2789,7 +2796,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-06-26T12:30:12.929988+00:00",
-      "last_updated_at": "2026-07-03T02:29:39.145498+00:00",
+      "last_updated_at": "2026-07-03T06:09:15.749464+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -2843,7 +2850,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-04-24T09:15:14.350986+00:00",
-      "last_updated_at": "2026-07-03T02:29:39.145479+00:00",
+      "last_updated_at": "2026-07-03T06:09:15.749434+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -12100,5 +12107,5 @@
       ]
     }
   ],
-  "last_updated": "2026-07-03T02:29:39.145925+00:00"
+  "last_updated": "2026-07-03T06:09:15.749893+00:00"
 }
