@@ -1033,7 +1033,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-04-30T15:48:07.790075+00:00",
-      "last_updated_at": "2026-07-03T12:05:26.157953+00:00",
+      "last_updated_at": "2026-07-03T14:39:12.590180+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -1148,7 +1148,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-06-20T10:09:46.182370+00:00",
-      "last_updated_at": "2026-07-03T12:05:26.157945+00:00",
+      "last_updated_at": "2026-07-03T14:39:12.590174+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -1157,74 +1157,6 @@
           "status_id": 1,
           "abbrev": "Go",
           "net": "2026-08-06T19:30:00Z"
-        }
-      ]
-    },
-    {
-      "id": "10fa7952-f00b-4292-80a2-4207e208844e",
-      "name": "Vikram-I | Demo Flight",
-      "slug": "vikram-i-demo-flight",
-      "status": {
-        "id": 2,
-        "abbrev": "TBD",
-        "name": "To Be Determined",
-        "description": "Current date is a placeholder or rough estimation based on unreliable or interpreted sources."
-      },
-      "net": "2026-07-31T00:00:00Z",
-      "window_start": "2026-07-31T00:00:00Z",
-      "window_end": "2026-07-31T00:00:00Z",
-      "probability": null,
-      "rocket": {
-        "name": "Vikram-I",
-        "family": "Vikram",
-        "manufacturer": "Skyroot Aerospace",
-        "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/vikram-i_artist_image_20251115043247.jpg"
-      },
-      "mission": {
-        "name": "Demo Flight",
-        "description": "First launch of Skyroot Aerospace's Vikram-I launch vehicle, with several cubesats on board. Payload identities TBD.",
-        "type": "Test Flight",
-        "orbit": "Low Earth Orbit"
-      },
-      "pad": {
-        "name": "Satish Dhawan Space Centre First Launch Pad",
-        "location": "Satish Dhawan Space Centre, India",
-        "country": "IND",
-        "latitude": "13.733",
-        "longitude": "80.235"
-      },
-      "agency": {
-        "name": "Skyroot Aerospace",
-        "abbrev": "Skyroot",
-        "type": "Private"
-      },
-      "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/vikram-i_artist_image_20251115043247.jpg",
-      "vidURLs": [],
-      "webcast_live": false,
-      "discovered_at": "2026-03-31T11:25:55.426549+00:00",
-      "last_updated_at": "2026-07-03T12:05:26.157939+00:00",
-      "outcome": null,
-      "failure_reason": null,
-      "status_history": [
-        {
-          "at": "2026-03-31T11:25:55.426552+00:00",
-          "status_id": 2,
-          "abbrev": "TBD",
-          "net": "2026-04-30T00:00:00Z"
-        },
-        {
-          "at": "2026-04-30T02:32:39.125519+00:00",
-          "status_id": 2,
-          "abbrev": "TBD",
-          "net": "2026-12-31T00:00:00Z",
-          "prev_net": "2026-04-30T00:00:00Z"
-        },
-        {
-          "at": "2026-07-02T08:48:28.198524+00:00",
-          "status_id": 2,
-          "abbrev": "TBD",
-          "net": "2026-07-31T00:00:00Z",
-          "prev_net": "2026-12-31T00:00:00Z"
         }
       ]
     },
@@ -1270,7 +1202,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-05-07T15:11:41.797008+00:00",
-      "last_updated_at": "2026-07-03T12:05:26.157897+00:00",
+      "last_updated_at": "2026-07-03T14:39:12.590138+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -1360,7 +1292,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-06-19T15:46:40.307041+00:00",
-      "last_updated_at": "2026-07-03T12:05:26.157903+00:00",
+      "last_updated_at": "2026-07-03T14:39:12.590145+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -1414,7 +1346,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-06-19T15:46:40.307063+00:00",
-      "last_updated_at": "2026-07-03T12:05:26.157933+00:00",
+      "last_updated_at": "2026-07-03T14:39:12.590167+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -1473,7 +1405,7 @@
       ],
       "webcast_live": false,
       "discovered_at": "2026-05-08T05:26:41.700479+00:00",
-      "last_updated_at": "2026-07-03T12:05:26.157890+00:00",
+      "last_updated_at": "2026-07-03T14:39:12.590128+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -1603,7 +1535,7 @@
       ],
       "webcast_live": false,
       "discovered_at": "2026-03-23T08:19:21.926409+00:00",
-      "last_updated_at": "2026-07-03T12:05:26.157926+00:00",
+      "last_updated_at": "2026-07-03T14:39:12.590158+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -1761,75 +1693,6 @@
       ]
     },
     {
-      "id": "d8eb4b68-5307-4b3b-b585-5598958defc2",
-      "name": "Smart Dragon 3 | Unknown Payload",
-      "slug": "smart-dragon-3-unknown-payload",
-      "status": {
-        "id": 2,
-        "abbrev": "TBD",
-        "name": "To Be Determined",
-        "description": "Current date is a placeholder or rough estimation based on unreliable or interpreted sources."
-      },
-      "net": "2026-07-31T00:00:00Z",
-      "window_start": "2026-07-31T00:00:00Z",
-      "window_end": "2026-07-31T00:00:00Z",
-      "probability": null,
-      "rocket": {
-        "name": "Smart Dragon 3",
-        "family": "Smart Dragon",
-        "manufacturer": "China Rocket Co. Ltd.",
-        "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/smart_dragon_3__image_20240925074606.jpg"
-      },
-      "mission": {
-        "name": "Unknown Payload",
-        "description": "Details TBD.",
-        "type": "Unknown",
-        "orbit": "Unknown"
-      },
-      "pad": {
-        "name": "Haiyang offshore launch location",
-        "location": "Haiyang Oriental Spaceport",
-        "country": "CHN",
-        "latitude": "36.631333",
-        "longitude": "121.198361"
-      },
-      "agency": {
-        "name": "China Rocket Co. Ltd.",
-        "abbrev": "CHNR",
-        "type": "Commercial"
-      },
-      "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/smart_dragon_3__image_20240925074606.jpg",
-      "vidURLs": [],
-      "webcast_live": false,
-      "discovered_at": "2026-05-29T19:05:54.989181+00:00",
-      "last_updated_at": "2026-07-03T12:05:26.157909+00:00",
-      "outcome": null,
-      "failure_reason": null,
-      "status_history": [
-        {
-          "at": "2026-05-29T19:05:54.989183+00:00",
-          "status_id": 8,
-          "abbrev": "TBC",
-          "net": "2026-06-10T00:30:00Z"
-        },
-        {
-          "at": "2026-06-04T13:55:41.980551+00:00",
-          "status_id": 2,
-          "abbrev": "TBD",
-          "net": "2026-06-30T00:00:00Z",
-          "prev_net": "2026-06-10T00:30:00Z",
-          "prev_abbrev": "TBC"
-        },
-        {
-          "at": "2026-06-26T06:51:34.279677+00:00",
-          "status_id": 2,
-          "abbrev": "TBD",
-          "net": "2026-07-31T00:00:00Z",
-          "prev_net": "2026-06-30T00:00:00Z"
-        }
-      ]
-    },
-    {
       "id": "9f5a4cb6-63f9-47e1-9512-b468bae2a8e6",
       "name": "Electron | StriX Launch 11",
       "slug": "electron-strix-launch-11",
@@ -1871,7 +1734,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-06-27T00:00:59.521069+00:00",
-      "last_updated_at": "2026-07-03T12:05:26.157870+00:00",
+      "last_updated_at": "2026-07-03T14:39:12.590112+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -1885,8 +1748,8 @@
     },
     {
       "id": "9e27a1ed-e81a-4918-b32b-0380cf3a9f8f",
-      "name": "South Korean ADD Solid-Fuel SLV | Demo Flight",
-      "slug": "south-korean-add-solid-fuel-slv-demo-flight",
+      "name": "Mir | Demo Flight",
+      "slug": "mir-demo-flight",
       "status": {
         "id": 2,
         "abbrev": "TBD",
@@ -1898,8 +1761,8 @@
       "window_end": "2026-07-31T00:00:00Z",
       "probability": null,
       "rocket": {
-        "name": "South Korean ADD Solid-Fuel SLV",
-        "family": "South Korean ADD Solid-Fuel SLV",
+        "name": "Mir",
+        "family": "Mir",
         "manufacturer": "Agency for Defense Development",
         "image_url": null
       },
@@ -1925,7 +1788,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-04-11T15:28:51.958924+00:00",
-      "last_updated_at": "2026-07-03T12:05:26.157917+00:00",
+      "last_updated_at": "2026-07-03T14:39:12.590151+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -2069,7 +1932,7 @@
       ],
       "webcast_live": false,
       "discovered_at": "2026-04-09T21:07:11.353167+00:00",
-      "last_updated_at": "2026-07-03T12:05:26.157883+00:00",
+      "last_updated_at": "2026-07-03T14:39:12.590119+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -2119,6 +1982,114 @@
       ]
     },
     {
+      "id": "5421e43a-1623-40ac-9dac-201075064e24",
+      "name": "Long March 3B/E | Unknown Payload",
+      "slug": "long-march-3be-unknown-payload",
+      "status": {
+        "id": 8,
+        "abbrev": "TBC",
+        "name": "To Be Confirmed",
+        "description": "Awaiting official confirmation - current date is known with some certainty."
+      },
+      "net": "2026-07-23T11:00:00Z",
+      "window_start": "2026-07-23T11:00:00Z",
+      "window_end": "2026-07-23T14:00:00Z",
+      "probability": null,
+      "rocket": {
+        "name": "Long March 3B/E",
+        "family": "Long March",
+        "manufacturer": "China Aerospace Science and Technology Corporation",
+        "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/long2520march_image_20230907120240.jpeg"
+      },
+      "mission": {
+        "name": "Unknown Payload",
+        "description": "Details TBD.",
+        "type": "Unknown",
+        "orbit": "Unknown"
+      },
+      "pad": {
+        "name": "Launch Complex 2 (LC-2)",
+        "location": "Xichang Satellite Launch Center, People's Republic of China",
+        "country": "CHN",
+        "latitude": "28.245504",
+        "longitude": "102.026768"
+      },
+      "agency": {
+        "name": "China Aerospace Science and Technology Corporation",
+        "abbrev": "CASC",
+        "type": "Government"
+      },
+      "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/long2520march_image_20230907120240.jpeg",
+      "vidURLs": [],
+      "webcast_live": false,
+      "discovered_at": "2026-07-03T14:39:12.590101+00:00",
+      "last_updated_at": "2026-07-03T14:39:12.590098+00:00",
+      "outcome": null,
+      "failure_reason": null,
+      "status_history": [
+        {
+          "at": "2026-07-03T14:39:12.590104+00:00",
+          "status_id": 8,
+          "abbrev": "TBC",
+          "net": "2026-07-23T11:00:00Z"
+        }
+      ]
+    },
+    {
+      "id": "beac6ac1-97dd-4eb2-912c-8b4d4d15cd4e",
+      "name": "Long March 7A | Unknown Payload",
+      "slug": "long-march-7a-unknown-payload",
+      "status": {
+        "id": 8,
+        "abbrev": "TBC",
+        "name": "To Be Confirmed",
+        "description": "Awaiting official confirmation - current date is known with some certainty."
+      },
+      "net": "2026-07-17T11:00:00Z",
+      "window_start": "2026-07-17T11:00:00Z",
+      "window_end": "2026-07-17T14:00:00Z",
+      "probability": null,
+      "rocket": {
+        "name": "Long March 7A",
+        "family": "Long March",
+        "manufacturer": "China Aerospace Science and Technology Corporation",
+        "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/cz-7a_launch_2_image_20251206093324.jpeg"
+      },
+      "mission": {
+        "name": "Unknown Payload",
+        "description": "Details TBD.",
+        "type": "Unknown",
+        "orbit": "Unknown"
+      },
+      "pad": {
+        "name": "201",
+        "location": "Wenchang Space Launch Site, People's Republic of China",
+        "country": "CHN",
+        "latitude": "19.618452",
+        "longitude": "110.955356"
+      },
+      "agency": {
+        "name": "China Aerospace Science and Technology Corporation",
+        "abbrev": "CASC",
+        "type": "Government"
+      },
+      "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/cz-7a_launch_2_image_20251206093324.jpeg",
+      "vidURLs": [],
+      "webcast_live": false,
+      "discovered_at": "2026-07-03T14:39:12.590083+00:00",
+      "last_updated_at": "2026-07-03T14:39:12.590081+00:00",
+      "outcome": null,
+      "failure_reason": null,
+      "status_history": [
+        {
+          "at": "2026-07-03T14:39:12.590086+00:00",
+          "status_id": 8,
+          "abbrev": "TBC",
+          "net": "2026-07-17T11:00:00Z"
+        }
+      ]
+    },
+    {
       "id": "599ba2df-7483-4b2f-a083-2b5ddc06e069",
       "name": "Electron | LOXSAT 1",
       "slug": "electron-loxsat-1",
@@ -2160,7 +2131,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-04-27T15:24:39.972764+00:00",
-      "last_updated_at": "2026-07-03T12:05:26.157864+00:00",
+      "last_updated_at": "2026-07-03T14:39:12.590073+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -2221,7 +2192,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-06-18T12:48:06.313811+00:00",
-      "last_updated_at": "2026-07-03T12:05:26.157858+00:00",
+      "last_updated_at": "2026-07-03T14:39:12.590064+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -2288,7 +2259,7 @@
       ],
       "webcast_live": false,
       "discovered_at": "2026-06-29T21:50:24.546321+00:00",
-      "last_updated_at": "2026-07-03T12:05:26.157849+00:00",
+      "last_updated_at": "2026-07-03T14:39:12.590049+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -2304,6 +2275,159 @@
           "abbrev": "Go",
           "net": "2026-07-13T08:00:00Z",
           "prev_net": "2026-07-12T08:00:00Z"
+        }
+      ]
+    },
+    {
+      "id": "10fa7952-f00b-4292-80a2-4207e208844e",
+      "name": "Vikram-I | Demo Flight",
+      "slug": "vikram-i-demo-flight",
+      "status": {
+        "id": 8,
+        "abbrev": "TBC",
+        "name": "To Be Confirmed",
+        "description": "Awaiting official confirmation - current date is known with some certainty."
+      },
+      "net": "2026-07-12T05:00:00Z",
+      "window_start": "2026-07-12T05:00:00Z",
+      "window_end": "2026-07-12T09:00:00Z",
+      "probability": null,
+      "rocket": {
+        "name": "Vikram-I",
+        "family": "Vikram",
+        "manufacturer": "Skyroot Aerospace",
+        "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/vikram-i_artist_image_20251115043247.jpg"
+      },
+      "mission": {
+        "name": "Demo Flight",
+        "description": "First launch of Skyroot Aerospace's Vikram-I launch vehicle, with several cubesats on board. Payload identities TBD.",
+        "type": "Test Flight",
+        "orbit": "Low Earth Orbit"
+      },
+      "pad": {
+        "name": "Satish Dhawan Space Centre First Launch Pad",
+        "location": "Satish Dhawan Space Centre, India",
+        "country": "IND",
+        "latitude": "13.733",
+        "longitude": "80.235"
+      },
+      "agency": {
+        "name": "Skyroot Aerospace",
+        "abbrev": "Skyroot",
+        "type": "Private"
+      },
+      "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/vikram-i_artist_image_20251115043247.jpg",
+      "vidURLs": [],
+      "webcast_live": false,
+      "discovered_at": "2026-03-31T11:25:55.426549+00:00",
+      "last_updated_at": "2026-07-03T14:39:12.590023+00:00",
+      "outcome": null,
+      "failure_reason": null,
+      "status_history": [
+        {
+          "at": "2026-03-31T11:25:55.426552+00:00",
+          "status_id": 2,
+          "abbrev": "TBD",
+          "net": "2026-04-30T00:00:00Z"
+        },
+        {
+          "at": "2026-04-30T02:32:39.125519+00:00",
+          "status_id": 2,
+          "abbrev": "TBD",
+          "net": "2026-12-31T00:00:00Z",
+          "prev_net": "2026-04-30T00:00:00Z"
+        },
+        {
+          "at": "2026-07-02T08:48:28.198524+00:00",
+          "status_id": 2,
+          "abbrev": "TBD",
+          "net": "2026-07-31T00:00:00Z",
+          "prev_net": "2026-12-31T00:00:00Z"
+        },
+        {
+          "at": "2026-07-03T14:39:12.590026+00:00",
+          "status_id": 8,
+          "abbrev": "TBC",
+          "net": "2026-07-12T05:00:00Z",
+          "prev_net": "2026-07-31T00:00:00Z",
+          "prev_abbrev": "TBD"
+        }
+      ]
+    },
+    {
+      "id": "d8eb4b68-5307-4b3b-b585-5598958defc2",
+      "name": "Gravity-1 | Unknown Payload",
+      "slug": "gravity-1-unknown-payload",
+      "status": {
+        "id": 8,
+        "abbrev": "TBC",
+        "name": "To Be Confirmed",
+        "description": "Awaiting official confirmation - current date is known with some certainty."
+      },
+      "net": "2026-07-12T02:00:00Z",
+      "window_start": "2026-07-12T02:00:00Z",
+      "window_end": "2026-07-12T06:00:00Z",
+      "probability": null,
+      "rocket": {
+        "name": "Gravity-1",
+        "family": "",
+        "manufacturer": "Orienspace Technology",
+        "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/gravity-1_image_20240108105446.jpeg"
+      },
+      "mission": {
+        "name": "Unknown Payload",
+        "description": "Details TBD.",
+        "type": "Unknown",
+        "orbit": "Unknown"
+      },
+      "pad": {
+        "name": "Haiyang offshore launch location",
+        "location": "Haiyang Oriental Spaceport",
+        "country": "CHN",
+        "latitude": "36.631333",
+        "longitude": "121.198361"
+      },
+      "agency": {
+        "name": "Orienspace Technology",
+        "abbrev": "OrienSpace",
+        "type": "Commercial"
+      },
+      "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/gravity-1_image_20240108105446.jpeg",
+      "vidURLs": [],
+      "webcast_live": false,
+      "discovered_at": "2026-05-29T19:05:54.989181+00:00",
+      "last_updated_at": "2026-07-03T14:39:12.590014+00:00",
+      "outcome": null,
+      "failure_reason": null,
+      "status_history": [
+        {
+          "at": "2026-05-29T19:05:54.989183+00:00",
+          "status_id": 8,
+          "abbrev": "TBC",
+          "net": "2026-06-10T00:30:00Z"
+        },
+        {
+          "at": "2026-06-04T13:55:41.980551+00:00",
+          "status_id": 2,
+          "abbrev": "TBD",
+          "net": "2026-06-30T00:00:00Z",
+          "prev_net": "2026-06-10T00:30:00Z",
+          "prev_abbrev": "TBC"
+        },
+        {
+          "at": "2026-06-26T06:51:34.279677+00:00",
+          "status_id": 2,
+          "abbrev": "TBD",
+          "net": "2026-07-31T00:00:00Z",
+          "prev_net": "2026-06-30T00:00:00Z"
+        },
+        {
+          "at": "2026-07-03T14:39:12.590017+00:00",
+          "status_id": 8,
+          "abbrev": "TBC",
+          "net": "2026-07-12T02:00:00Z",
+          "prev_net": "2026-07-31T00:00:00Z",
+          "prev_abbrev": "TBD"
         }
       ]
     },
@@ -2354,7 +2478,7 @@
       ],
       "webcast_live": false,
       "discovered_at": "2026-06-25T18:30:53.018136+00:00",
-      "last_updated_at": "2026-07-03T12:05:26.157843+00:00",
+      "last_updated_at": "2026-07-03T14:39:12.590002+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -2399,14 +2523,14 @@
       "name": "Long March 10B | Demo Flight",
       "slug": "long-march-10b-demo-flight",
       "status": {
-        "id": 8,
-        "abbrev": "TBC",
-        "name": "To Be Confirmed",
-        "description": "Awaiting official confirmation - current date is known with some certainty."
+        "id": 1,
+        "abbrev": "Go",
+        "name": "Go for Launch",
+        "description": "Current T-0 confirmed by official or reliable sources."
       },
-      "net": "2026-07-10T05:00:00Z",
-      "window_start": "2026-07-10T05:00:00Z",
-      "window_end": "2026-07-10T09:00:00Z",
+      "net": "2026-07-10T05:20:00Z",
+      "window_start": "2026-07-10T05:12:00Z",
+      "window_end": "2026-07-10T07:19:00Z",
       "probability": null,
       "rocket": {
         "name": "Long March 10B",
@@ -2436,7 +2560,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-04-20T19:38:59.795722+00:00",
-      "last_updated_at": "2026-07-03T12:05:26.157836+00:00",
+      "last_updated_at": "2026-07-03T14:39:12.589991+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -2474,6 +2598,14 @@
           "net": "2026-07-10T05:00:00Z",
           "prev_net": "2026-07-31T00:00:00Z",
           "prev_abbrev": "TBD"
+        },
+        {
+          "at": "2026-07-03T14:39:12.589995+00:00",
+          "status_id": 1,
+          "abbrev": "Go",
+          "net": "2026-07-10T05:20:00Z",
+          "prev_net": "2026-07-10T05:00:00Z",
+          "prev_abbrev": "TBC"
         }
       ]
     },
@@ -2524,7 +2656,7 @@
       ],
       "webcast_live": false,
       "discovered_at": "2026-06-25T18:30:53.018156+00:00",
-      "last_updated_at": "2026-07-03T12:05:26.157827+00:00",
+      "last_updated_at": "2026-07-03T14:39:12.589984+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -2583,7 +2715,7 @@
       ],
       "webcast_live": false,
       "discovered_at": "2026-05-01T06:11:57.745139+00:00",
-      "last_updated_at": "2026-07-03T12:05:26.157820+00:00",
+      "last_updated_at": "2026-07-03T14:39:12.589973+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -2615,6 +2747,84 @@
           "net": "2026-07-07T07:10:00Z",
           "prev_net": "2026-07-07T06:51:00Z",
           "prev_abbrev": "TBC"
+        }
+      ]
+    },
+    {
+      "id": "888e0de3-ce4d-4daf-8140-bb0d3a4c8245",
+      "name": "Long March 8A | SpaceSail Polar Group TBD",
+      "slug": "long-march-8a-spacesail-polar-group-tbd",
+      "status": {
+        "id": 1,
+        "abbrev": "Go",
+        "name": "Go for Launch",
+        "description": "Current T-0 confirmed by official or reliable sources."
+      },
+      "net": "2026-07-05T13:40:00Z",
+      "window_start": "2026-07-05T13:32:00Z",
+      "window_end": "2026-07-05T13:57:00Z",
+      "probability": null,
+      "rocket": {
+        "name": "Long March 8A",
+        "family": "Long March",
+        "manufacturer": "China Aerospace Science and Technology Corporation",
+        "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/cz-8a_launch_2_image_20251206093107.jpeg"
+      },
+      "mission": {
+        "name": "SpaceSail Polar Group TBD",
+        "description": "Low Earth Orbit communication satellites with Ku, Q and V band payloads for the G60 constellation operated by Shanghai Spacesail Technologies with funding backed by the Shanghai local government.\r\n\r\nInitial constellation will consist of 1296 satellites by 2027 with long term plans to expand it to 12000 satellites.",
+        "type": "Communications",
+        "orbit": "Polar Orbit"
+      },
+      "pad": {
+        "name": "Commercial LC-1",
+        "location": "Wenchang Space Launch Site, People's Republic of China",
+        "country": "CHN",
+        "latitude": "19.597275",
+        "longitude": "110.930753"
+      },
+      "agency": {
+        "name": "China Aerospace Science and Technology Corporation",
+        "abbrev": "CASC",
+        "type": "Government"
+      },
+      "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/cz-8a_launch_2_image_20251206093107.jpeg",
+      "vidURLs": [],
+      "webcast_live": false,
+      "discovered_at": "2026-06-26T12:30:12.929966+00:00",
+      "last_updated_at": "2026-07-03T14:39:12.589959+00:00",
+      "outcome": null,
+      "failure_reason": null,
+      "status_history": [
+        {
+          "at": "2026-06-26T12:30:12.929968+00:00",
+          "status_id": 8,
+          "abbrev": "TBC",
+          "net": "2026-07-02T12:00:00Z"
+        },
+        {
+          "at": "2026-06-27T16:08:58.918928+00:00",
+          "status_id": 1,
+          "abbrev": "Go",
+          "net": "2026-07-02T13:50:00Z",
+          "prev_net": "2026-07-02T12:00:00Z",
+          "prev_abbrev": "TBC"
+        },
+        {
+          "at": "2026-07-02T05:54:59.256720+00:00",
+          "status_id": 2,
+          "abbrev": "TBD",
+          "net": "2026-07-05T00:00:00Z",
+          "prev_net": "2026-07-02T13:50:00Z",
+          "prev_abbrev": "Go"
+        },
+        {
+          "at": "2026-07-03T14:39:12.589962+00:00",
+          "status_id": 1,
+          "abbrev": "Go",
+          "net": "2026-07-05T13:40:00Z",
+          "prev_net": "2026-07-05T00:00:00Z",
+          "prev_abbrev": "TBD"
         }
       ]
     },
@@ -2665,7 +2875,7 @@
       ],
       "webcast_live": false,
       "discovered_at": "2026-06-23T15:29:56.877529+00:00",
-      "last_updated_at": "2026-07-03T12:05:26.157811+00:00",
+      "last_updated_at": "2026-07-03T14:39:12.589949+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -2681,76 +2891,6 @@
           "abbrev": "Go",
           "net": "2026-07-05T10:36:00Z",
           "prev_net": "2026-07-03T11:20:00Z"
-        }
-      ]
-    },
-    {
-      "id": "888e0de3-ce4d-4daf-8140-bb0d3a4c8245",
-      "name": "Long March 8A | SpaceSail Polar Group TBD",
-      "slug": "long-march-8a-spacesail-polar-group-tbd",
-      "status": {
-        "id": 2,
-        "abbrev": "TBD",
-        "name": "To Be Determined",
-        "description": "Current date is a placeholder or rough estimation based on unreliable or interpreted sources."
-      },
-      "net": "2026-07-05T00:00:00Z",
-      "window_start": "2026-07-05T00:00:00Z",
-      "window_end": "2026-07-05T00:00:00Z",
-      "probability": null,
-      "rocket": {
-        "name": "Long March 8A",
-        "family": "Long March",
-        "manufacturer": "China Aerospace Science and Technology Corporation",
-        "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/cz-8a_launch_2_image_20251206093107.jpeg"
-      },
-      "mission": {
-        "name": "SpaceSail Polar Group TBD",
-        "description": "Low Earth Orbit communication satellites with Ku, Q and V band payloads for the G60 constellation operated by Shanghai Spacesail Technologies with funding backed by the Shanghai local government.\r\n\r\nInitial constellation will consist of 1296 satellites by 2027 with long term plans to expand it to 12000 satellites.",
-        "type": "Communications",
-        "orbit": "Polar Orbit"
-      },
-      "pad": {
-        "name": "Commercial LC-1",
-        "location": "Wenchang Space Launch Site, People's Republic of China",
-        "country": "CHN",
-        "latitude": "19.597275",
-        "longitude": "110.930753"
-      },
-      "agency": {
-        "name": "China Aerospace Science and Technology Corporation",
-        "abbrev": "CASC",
-        "type": "Government"
-      },
-      "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/cz-8a_launch_2_image_20251206093107.jpeg",
-      "vidURLs": [],
-      "webcast_live": false,
-      "discovered_at": "2026-06-26T12:30:12.929966+00:00",
-      "last_updated_at": "2026-07-03T12:05:26.157800+00:00",
-      "outcome": null,
-      "failure_reason": null,
-      "status_history": [
-        {
-          "at": "2026-06-26T12:30:12.929968+00:00",
-          "status_id": 8,
-          "abbrev": "TBC",
-          "net": "2026-07-02T12:00:00Z"
-        },
-        {
-          "at": "2026-06-27T16:08:58.918928+00:00",
-          "status_id": 1,
-          "abbrev": "Go",
-          "net": "2026-07-02T13:50:00Z",
-          "prev_net": "2026-07-02T12:00:00Z",
-          "prev_abbrev": "TBC"
-        },
-        {
-          "at": "2026-07-02T05:54:59.256720+00:00",
-          "status_id": 2,
-          "abbrev": "TBD",
-          "net": "2026-07-05T00:00:00Z",
-          "prev_net": "2026-07-02T13:50:00Z",
-          "prev_abbrev": "Go"
         }
       ]
     },
@@ -2796,7 +2936,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-06-26T12:30:12.929988+00:00",
-      "last_updated_at": "2026-07-03T12:05:26.157786+00:00",
+      "last_updated_at": "2026-07-03T14:39:12.589936+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -2850,7 +2990,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-04-24T09:15:14.350986+00:00",
-      "last_updated_at": "2026-07-03T12:05:26.157747+00:00",
+      "last_updated_at": "2026-07-03T14:39:12.589902+00:00",
       "outcome": "success",
       "failure_reason": null,
       "status_history": [
@@ -12115,5 +12255,5 @@
       ]
     }
   ],
-  "last_updated": "2026-07-03T12:05:26.158257+00:00"
+  "last_updated": "2026-07-03T14:39:12.590474+00:00"
 }
