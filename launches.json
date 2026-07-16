@@ -721,7 +721,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-06-19T15:46:40.307006+00:00",
-      "last_updated_at": "2026-07-16T02:06:46.529051+00:00",
+      "last_updated_at": "2026-07-16T05:23:20.378763+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -782,7 +782,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-07-06T16:15:52.339958+00:00",
-      "last_updated_at": "2026-07-16T02:06:46.529058+00:00",
+      "last_updated_at": "2026-07-16T05:23:20.378769+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -836,7 +836,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-07-08T08:18:26.468548+00:00",
-      "last_updated_at": "2026-07-16T02:06:46.529063+00:00",
+      "last_updated_at": "2026-07-16T05:23:20.378777+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -890,7 +890,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-07-15T16:16:11.182989+00:00",
-      "last_updated_at": "2026-07-16T02:06:46.529069+00:00",
+      "last_updated_at": "2026-07-16T05:23:20.378784+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -944,7 +944,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-06-25T13:33:42.830541+00:00",
-      "last_updated_at": "2026-07-16T02:06:46.529044+00:00",
+      "last_updated_at": "2026-07-16T05:23:20.378754+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -998,7 +998,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-04-30T15:48:07.790075+00:00",
-      "last_updated_at": "2026-07-16T02:06:46.529037+00:00",
+      "last_updated_at": "2026-07-16T05:23:20.378746+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -1113,7 +1113,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-06-20T10:09:46.182370+00:00",
-      "last_updated_at": "2026-07-16T02:06:46.529030+00:00",
+      "last_updated_at": "2026-07-16T05:23:20.378740+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -1176,7 +1176,7 @@
       ],
       "webcast_live": false,
       "discovered_at": "2026-03-23T08:19:21.926409+00:00",
-      "last_updated_at": "2026-07-16T02:06:46.529022+00:00",
+      "last_updated_at": "2026-07-16T05:23:20.378733+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -1375,7 +1375,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-04-11T04:18:21.759784+00:00",
-      "last_updated_at": "2026-07-16T02:06:46.529016+00:00",
+      "last_updated_at": "2026-07-16T05:23:20.378724+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -1457,7 +1457,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-05-07T15:11:41.797008+00:00",
-      "last_updated_at": "2026-07-16T02:06:46.528999+00:00",
+      "last_updated_at": "2026-07-16T05:23:20.378712+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -1606,7 +1606,7 @@
       ],
       "webcast_live": false,
       "discovered_at": "2026-05-08T05:26:41.700479+00:00",
-      "last_updated_at": "2026-07-16T02:06:46.528986+00:00",
+      "last_updated_at": "2026-07-16T05:23:20.378704+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -1727,7 +1727,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-06-27T00:00:59.521069+00:00",
-      "last_updated_at": "2026-07-16T02:06:46.528971+00:00",
+      "last_updated_at": "2026-07-16T05:23:20.378689+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -1781,7 +1781,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-04-11T15:28:51.958924+00:00",
-      "last_updated_at": "2026-07-16T02:06:46.529007+00:00",
+      "last_updated_at": "2026-07-16T05:23:20.378718+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -1925,7 +1925,7 @@
       ],
       "webcast_live": false,
       "discovered_at": "2026-04-09T21:07:11.353167+00:00",
-      "last_updated_at": "2026-07-16T02:06:46.528977+00:00",
+      "last_updated_at": "2026-07-16T05:23:20.378697+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -1975,91 +1975,6 @@
       ]
     },
     {
-      "id": "d8eb4b68-5307-4b3b-b585-5598958defc2",
-      "name": "Gravity-1 | Unknown Payload",
-      "slug": "gravity-1-unknown-payload",
-      "status": {
-        "id": 2,
-        "abbrev": "TBD",
-        "name": "To Be Determined",
-        "description": "Current date is a placeholder or rough estimation based on unreliable or interpreted sources."
-      },
-      "net": "2026-07-31T00:00:00Z",
-      "window_start": "2026-07-31T00:00:00Z",
-      "window_end": "2026-07-31T00:00:00Z",
-      "probability": null,
-      "rocket": {
-        "name": "Gravity-1",
-        "family": "",
-        "manufacturer": "Orienspace Technology",
-        "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/gravity-1_image_20240108105446.jpeg"
-      },
-      "mission": {
-        "name": "Unknown Payload",
-        "description": "Details TBD.",
-        "type": "Unknown",
-        "orbit": "Unknown"
-      },
-      "pad": {
-        "name": "Haiyang offshore launch location",
-        "location": "Haiyang Oriental Spaceport",
-        "country": "CHN",
-        "latitude": "36.631333",
-        "longitude": "121.198361"
-      },
-      "agency": {
-        "name": "Orienspace Technology",
-        "abbrev": "OrienSpace",
-        "type": "Commercial"
-      },
-      "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/gravity-1_image_20240108105446.jpeg",
-      "vidURLs": [],
-      "webcast_live": false,
-      "discovered_at": "2026-05-29T19:05:54.989181+00:00",
-      "last_updated_at": "2026-07-16T02:06:46.528992+00:00",
-      "outcome": null,
-      "failure_reason": null,
-      "status_history": [
-        {
-          "at": "2026-05-29T19:05:54.989183+00:00",
-          "status_id": 8,
-          "abbrev": "TBC",
-          "net": "2026-06-10T00:30:00Z"
-        },
-        {
-          "at": "2026-06-04T13:55:41.980551+00:00",
-          "status_id": 2,
-          "abbrev": "TBD",
-          "net": "2026-06-30T00:00:00Z",
-          "prev_net": "2026-06-10T00:30:00Z",
-          "prev_abbrev": "TBC"
-        },
-        {
-          "at": "2026-06-26T06:51:34.279677+00:00",
-          "status_id": 2,
-          "abbrev": "TBD",
-          "net": "2026-07-31T00:00:00Z",
-          "prev_net": "2026-06-30T00:00:00Z"
-        },
-        {
-          "at": "2026-07-03T14:39:12.590017+00:00",
-          "status_id": 8,
-          "abbrev": "TBC",
-          "net": "2026-07-12T02:00:00Z",
-          "prev_net": "2026-07-31T00:00:00Z",
-          "prev_abbrev": "TBD"
-        },
-        {
-          "at": "2026-07-10T06:39:34.021695+00:00",
-          "status_id": 2,
-          "abbrev": "TBD",
-          "net": "2026-07-31T00:00:00Z",
-          "prev_net": "2026-07-12T02:00:00Z",
-          "prev_abbrev": "TBC"
-        }
-      ]
-    },
-    {
       "id": "599ba2df-7483-4b2f-a083-2b5ddc06e069",
       "name": "Electron | LOXSAT 1",
       "slug": "electron-loxsat-1",
@@ -2101,7 +2016,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-04-27T15:24:39.972764+00:00",
-      "last_updated_at": "2026-07-16T02:06:46.528963+00:00",
+      "last_updated_at": "2026-07-16T05:23:20.378681+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -2174,7 +2089,7 @@
       ],
       "webcast_live": false,
       "discovered_at": "2026-07-10T17:19:28.625174+00:00",
-      "last_updated_at": "2026-07-16T02:06:46.528954+00:00",
+      "last_updated_at": "2026-07-16T05:23:20.378672+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -2235,7 +2150,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-07-13T16:54:43.145777+00:00",
-      "last_updated_at": "2026-07-16T02:06:46.528947+00:00",
+      "last_updated_at": "2026-07-16T05:23:20.378664+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -2289,7 +2204,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-07-03T14:39:12.590101+00:00",
-      "last_updated_at": "2026-07-16T02:06:46.528940+00:00",
+      "last_updated_at": "2026-07-16T05:23:20.378656+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -2298,6 +2213,99 @@
           "status_id": 8,
           "abbrev": "TBC",
           "net": "2026-07-23T11:00:00Z"
+        }
+      ]
+    },
+    {
+      "id": "d8eb4b68-5307-4b3b-b585-5598958defc2",
+      "name": "Gravity-1 | Unknown Payload",
+      "slug": "gravity-1-unknown-payload",
+      "status": {
+        "id": 1,
+        "abbrev": "Go",
+        "name": "Go for Launch",
+        "description": "Current T-0 confirmed by official or reliable sources."
+      },
+      "net": "2026-07-22T02:50:00Z",
+      "window_start": "2026-07-22T02:44:00Z",
+      "window_end": "2026-07-22T03:09:00Z",
+      "probability": null,
+      "rocket": {
+        "name": "Gravity-1",
+        "family": "",
+        "manufacturer": "Orienspace Technology",
+        "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/gravity-1_image_20240108105446.jpeg"
+      },
+      "mission": {
+        "name": "Unknown Payload",
+        "description": "Details TBD.",
+        "type": "Unknown",
+        "orbit": "Unknown"
+      },
+      "pad": {
+        "name": "Yellow Sea (launch location 5)",
+        "location": "Haiyang Oriental Spaceport",
+        "country": "CHN",
+        "latitude": "31.2",
+        "longitude": "123.7"
+      },
+      "agency": {
+        "name": "Orienspace Technology",
+        "abbrev": "OrienSpace",
+        "type": "Commercial"
+      },
+      "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/gravity-1_image_20240108105446.jpeg",
+      "vidURLs": [],
+      "webcast_live": false,
+      "discovered_at": "2026-05-29T19:05:54.989181+00:00",
+      "last_updated_at": "2026-07-16T05:23:20.378643+00:00",
+      "outcome": null,
+      "failure_reason": null,
+      "status_history": [
+        {
+          "at": "2026-05-29T19:05:54.989183+00:00",
+          "status_id": 8,
+          "abbrev": "TBC",
+          "net": "2026-06-10T00:30:00Z"
+        },
+        {
+          "at": "2026-06-04T13:55:41.980551+00:00",
+          "status_id": 2,
+          "abbrev": "TBD",
+          "net": "2026-06-30T00:00:00Z",
+          "prev_net": "2026-06-10T00:30:00Z",
+          "prev_abbrev": "TBC"
+        },
+        {
+          "at": "2026-06-26T06:51:34.279677+00:00",
+          "status_id": 2,
+          "abbrev": "TBD",
+          "net": "2026-07-31T00:00:00Z",
+          "prev_net": "2026-06-30T00:00:00Z"
+        },
+        {
+          "at": "2026-07-03T14:39:12.590017+00:00",
+          "status_id": 8,
+          "abbrev": "TBC",
+          "net": "2026-07-12T02:00:00Z",
+          "prev_net": "2026-07-31T00:00:00Z",
+          "prev_abbrev": "TBD"
+        },
+        {
+          "at": "2026-07-10T06:39:34.021695+00:00",
+          "status_id": 2,
+          "abbrev": "TBD",
+          "net": "2026-07-31T00:00:00Z",
+          "prev_net": "2026-07-12T02:00:00Z",
+          "prev_abbrev": "TBC"
+        },
+        {
+          "at": "2026-07-16T05:23:20.378647+00:00",
+          "status_id": 1,
+          "abbrev": "Go",
+          "net": "2026-07-22T02:50:00Z",
+          "prev_net": "2026-07-31T00:00:00Z",
+          "prev_abbrev": "TBD"
         }
       ]
     },
@@ -2348,7 +2356,7 @@
       ],
       "webcast_live": false,
       "discovered_at": "2026-05-02T18:07:51.089304+00:00",
-      "last_updated_at": "2026-07-16T02:06:46.528932+00:00",
+      "last_updated_at": "2026-07-16T05:23:20.378633+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -2436,7 +2444,7 @@
       ],
       "webcast_live": false,
       "discovered_at": "2026-07-10T17:19:28.625148+00:00",
-      "last_updated_at": "2026-07-16T02:06:46.528924+00:00",
+      "last_updated_at": "2026-07-16T05:23:20.378626+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -2497,7 +2505,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-03-31T11:25:55.426549+00:00",
-      "last_updated_at": "2026-07-16T02:06:46.528910+00:00",
+      "last_updated_at": "2026-07-16T05:23:20.378618+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -2587,7 +2595,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-07-03T14:39:12.590083+00:00",
-      "last_updated_at": "2026-07-16T02:06:46.528901+00:00",
+      "last_updated_at": "2026-07-16T05:23:20.378609+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -2646,10 +2654,27 @@
         "type": "Commercial"
       },
       "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/starship_on_the_image_20250111100520.jpg",
-      "vidURLs": [],
+      "vidURLs": [
+        {
+          "title": "GO! - SpaceX - Starship - Starship Flight 13 - Pad 2 - Starbase, TX - Space Affairs Live",
+          "url": "https://www.youtube.com/watch?v=ubVe02oNDww"
+        },
+        {
+          "title": "Watch Live: SpaceX Starship launches on 13th test flight",
+          "url": "https://www.youtube.com/watch?v=dZ6-A4iZFWU"
+        },
+        {
+          "title": "SpaceX Starship Flight 13- Launch & Landing - LAUNCH STREAM",
+          "url": "https://www.youtube.com/watch?v=vYpQwwf1XNw"
+        },
+        {
+          "title": "[4K] Watch SpaceX's Starship Flight 13!",
+          "url": "https://www.youtube.com/watch?v=2r31rEkUUaA"
+        }
+      ],
       "webcast_live": false,
       "discovered_at": "2026-06-19T15:46:40.307063+00:00",
-      "last_updated_at": "2026-07-16T02:06:46.528888+00:00",
+      "last_updated_at": "2026-07-16T05:23:20.378596+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -2725,13 +2750,21 @@
       "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/falcon_9_image_20230807133459.jpeg",
       "vidURLs": [
         {
+          "title": "GO! - SpaceX - Falcon 9 - Tranche 1 Transport Layer E - SLC-4E - Vandenberg SFB - Space Affairs Live",
+          "url": "https://www.youtube.com/watch?v=M0agOywbDIU"
+        },
+        {
+          "title": "Live: SpaceX Falcon 9 rocket launches from California for U.S. Military's Space Development Agency",
+          "url": "https://www.youtube.com/watch?v=rLAfNp2CtrY"
+        },
+        {
           "title": "SDA's Third Tranche 1 Mission",
           "url": "https://x.com/i/broadcasts/1kJzDDmBBArKv"
         }
       ],
       "webcast_live": false,
       "discovered_at": "2026-05-25T17:04:27.842481+00:00",
-      "last_updated_at": "2026-07-16T02:06:46.528856+00:00",
+      "last_updated_at": "2026-07-16T05:23:20.378560+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -13089,5 +13122,5 @@
       ]
     }
   ],
-  "last_updated": "2026-07-16T02:06:46.529376+00:00"
+  "last_updated": "2026-07-16T05:23:20.379107+00:00"
 }
