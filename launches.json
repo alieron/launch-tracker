@@ -721,7 +721,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-06-19T15:46:40.307006+00:00",
-      "last_updated_at": "2026-07-20T11:20:25.023704+00:00",
+      "last_updated_at": "2026-07-20T13:23:41.091306+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -849,60 +849,6 @@
       ]
     },
     {
-      "id": "9d402fb6-9115-424d-b6f0-bd3b13ee310e",
-      "name": "Long March 5 | Chang'e 7",
-      "slug": "long-march-5-change-7",
-      "status": {
-        "id": 2,
-        "abbrev": "TBD",
-        "name": "To Be Determined",
-        "description": "Current date is a placeholder or rough estimation based on unreliable or interpreted sources."
-      },
-      "net": "2026-08-31T00:00:00Z",
-      "window_start": "2026-08-31T00:00:00Z",
-      "window_end": "2026-08-31T00:00:00Z",
-      "probability": null,
-      "rocket": {
-        "name": "Long March 5",
-        "family": "Long March",
-        "manufacturer": "China Aerospace Science and Technology Corporation",
-        "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/long_march_5_tj_image_20260612043435.jpg"
-      },
-      "mission": {
-        "name": "Chang'e 7",
-        "description": "Chang'e 7/CE-7 is scheduled to launch in 2026, including an orbiter, a lander, a mini-hopping probe, and a rover. The mission will land in the South Pole regions of the Moon to study lunar surface environment around the South Pole, especially in looking for water ice in lunar soil.",
-        "type": "Planetary Science",
-        "orbit": "Lunar Orbit"
-      },
-      "pad": {
-        "name": "101",
-        "location": "Wenchang Space Launch Site, People's Republic of China",
-        "country": "CHN",
-        "latitude": "19.614334",
-        "longitude": "110.951011"
-      },
-      "agency": {
-        "name": "China Aerospace Science and Technology Corporation",
-        "abbrev": "CASC",
-        "type": "Government"
-      },
-      "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/long_march_5_tj_image_20260612043435.jpg",
-      "vidURLs": [],
-      "webcast_live": false,
-      "discovered_at": "2026-07-15T16:16:11.182989+00:00",
-      "last_updated_at": "2026-07-20T11:20:25.023720+00:00",
-      "outcome": null,
-      "failure_reason": null,
-      "status_history": [
-        {
-          "at": "2026-07-15T16:16:11.182992+00:00",
-          "status_id": 2,
-          "abbrev": "TBD",
-          "net": "2026-08-31T00:00:00Z"
-        }
-      ]
-    },
-    {
       "id": "be8b4b0d-1989-48a5-a96d-e8e4d59ed8b3",
       "name": "Falcon 9 Block 5 | Globalstar 2-R Mission 1 (x 9)",
       "slug": "falcon-9-block-5-globalstar-2-r-mission-1-x-9",
@@ -949,7 +895,7 @@
       ],
       "webcast_live": false,
       "discovered_at": "2026-05-08T05:26:41.700479+00:00",
-      "last_updated_at": "2026-07-20T11:20:25.023714+00:00",
+      "last_updated_at": "2026-07-20T13:23:41.091312+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -1185,7 +1131,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-06-25T13:33:42.830541+00:00",
-      "last_updated_at": "2026-07-20T11:20:25.023665+00:00",
+      "last_updated_at": "2026-07-20T13:23:41.091300+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -1254,7 +1200,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-04-30T15:48:07.790075+00:00",
-      "last_updated_at": "2026-07-20T11:20:25.023657+00:00",
+      "last_updated_at": "2026-07-20T13:23:41.091293+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -1270,6 +1216,122 @@
           "abbrev": "TBD",
           "net": "2026-08-27T00:00:00Z",
           "prev_net": "2026-06-30T00:00:00Z"
+        }
+      ]
+    },
+    {
+      "id": "9d402fb6-9115-424d-b6f0-bd3b13ee310e",
+      "name": "Long March 5 | Chang'e 7",
+      "slug": "long-march-5-change-7",
+      "status": {
+        "id": 8,
+        "abbrev": "TBC",
+        "name": "To Be Confirmed",
+        "description": "Awaiting official confirmation - current date is known with some certainty."
+      },
+      "net": "2026-08-24T00:00:00Z",
+      "window_start": "2026-08-24T00:00:00Z",
+      "window_end": "2026-08-24T04:00:00Z",
+      "probability": null,
+      "rocket": {
+        "name": "Long March 5",
+        "family": "Long March",
+        "manufacturer": "China Aerospace Science and Technology Corporation",
+        "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/long_march_5_tj_image_20260612043435.jpg"
+      },
+      "mission": {
+        "name": "Chang'e 7",
+        "description": "Chang'e 7/CE-7 is scheduled to launch in 2026, including an orbiter, a lander, a mini-hopping probe, and a rover. The mission will land in the South Pole regions of the Moon to study lunar surface environment around the South Pole, especially in looking for water ice in lunar soil.",
+        "type": "Planetary Science",
+        "orbit": "Lunar Orbit"
+      },
+      "pad": {
+        "name": "101",
+        "location": "Wenchang Space Launch Site, People's Republic of China",
+        "country": "CHN",
+        "latitude": "19.614334",
+        "longitude": "110.951011"
+      },
+      "agency": {
+        "name": "China Aerospace Science and Technology Corporation",
+        "abbrev": "CASC",
+        "type": "Government"
+      },
+      "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/long_march_5_tj_image_20260612043435.jpg",
+      "vidURLs": [],
+      "webcast_live": false,
+      "discovered_at": "2026-07-15T16:16:11.182989+00:00",
+      "last_updated_at": "2026-07-20T13:23:41.091284+00:00",
+      "outcome": null,
+      "failure_reason": null,
+      "status_history": [
+        {
+          "at": "2026-07-15T16:16:11.182992+00:00",
+          "status_id": 2,
+          "abbrev": "TBD",
+          "net": "2026-08-31T00:00:00Z"
+        },
+        {
+          "at": "2026-07-20T13:23:41.091287+00:00",
+          "status_id": 8,
+          "abbrev": "TBC",
+          "net": "2026-08-24T00:00:00Z",
+          "prev_net": "2026-08-31T00:00:00Z",
+          "prev_abbrev": "TBD"
+        }
+      ]
+    },
+    {
+      "id": "b0e7d1cc-24dd-4da4-bb60-b15b6791d08e",
+      "name": "Long March 12 | Unknown Payload",
+      "slug": "long-march-12-unknown-payload",
+      "status": {
+        "id": 8,
+        "abbrev": "TBC",
+        "name": "To Be Confirmed",
+        "description": "Awaiting official confirmation - current date is known with some certainty."
+      },
+      "net": "2026-08-17T02:00:00Z",
+      "window_start": "2026-08-17T02:00:00Z",
+      "window_end": "2026-08-17T06:00:00Z",
+      "probability": null,
+      "rocket": {
+        "name": "Long March 12",
+        "family": "Long March",
+        "manufacturer": "China Aerospace Science and Technology Corporation",
+        "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/cz-12_on_its_la_image_20241128132937.jpg"
+      },
+      "mission": {
+        "name": "Unknown Payload",
+        "description": "Details TBD.",
+        "type": "Unknown",
+        "orbit": "Unknown"
+      },
+      "pad": {
+        "name": "Commercial LC-2",
+        "location": "Wenchang Space Launch Site, People's Republic of China",
+        "country": "CHN",
+        "latitude": "19.59755",
+        "longitude": "110.936481"
+      },
+      "agency": {
+        "name": "China Aerospace Science and Technology Corporation",
+        "abbrev": "CASC",
+        "type": "Government"
+      },
+      "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/cz-12_on_its_la_image_20241128132937.jpg",
+      "vidURLs": [],
+      "webcast_live": false,
+      "discovered_at": "2026-07-20T13:23:41.091275+00:00",
+      "last_updated_at": "2026-07-20T13:23:41.091273+00:00",
+      "outcome": null,
+      "failure_reason": null,
+      "status_history": [
+        {
+          "at": "2026-07-20T13:23:41.091277+00:00",
+          "status_id": 8,
+          "abbrev": "TBC",
+          "net": "2026-08-17T02:00:00Z"
         }
       ]
     },
@@ -1328,6 +1390,60 @@
       ]
     },
     {
+      "id": "cff704ab-8098-4f65-899e-50adaf908e59",
+      "name": "Long March 7A | Unknown Payload",
+      "slug": "long-march-7a-unknown-payload-2",
+      "status": {
+        "id": 8,
+        "abbrev": "TBC",
+        "name": "To Be Confirmed",
+        "description": "Awaiting official confirmation - current date is known with some certainty."
+      },
+      "net": "2026-08-09T11:00:00Z",
+      "window_start": "2026-08-09T11:00:00Z",
+      "window_end": "2026-08-09T14:00:00Z",
+      "probability": null,
+      "rocket": {
+        "name": "Long March 7A",
+        "family": "Long March",
+        "manufacturer": "China Aerospace Science and Technology Corporation",
+        "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/cz-7a_launch_2_image_20251206093324.jpeg"
+      },
+      "mission": {
+        "name": "Unknown Payload",
+        "description": "Details TBD.",
+        "type": "Unknown",
+        "orbit": "Unknown"
+      },
+      "pad": {
+        "name": "201",
+        "location": "Wenchang Space Launch Site, People's Republic of China",
+        "country": "CHN",
+        "latitude": "19.618452",
+        "longitude": "110.955356"
+      },
+      "agency": {
+        "name": "China Aerospace Science and Technology Corporation",
+        "abbrev": "CASC",
+        "type": "Government"
+      },
+      "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/cz-7a_launch_2_image_20251206093324.jpeg",
+      "vidURLs": [],
+      "webcast_live": false,
+      "discovered_at": "2026-07-20T13:23:41.091261+00:00",
+      "last_updated_at": "2026-07-20T13:23:41.091259+00:00",
+      "outcome": null,
+      "failure_reason": null,
+      "status_history": [
+        {
+          "at": "2026-07-20T13:23:41.091265+00:00",
+          "status_id": 8,
+          "abbrev": "TBC",
+          "net": "2026-08-09T11:00:00Z"
+        }
+      ]
+    },
+    {
       "id": "b89ab080-66c3-4831-85a9-38d85da71d30",
       "name": "H3-22 | Michibiki 7 (QZS-7)",
       "slug": "h3-22-michibiki-7-qzs-7",
@@ -1369,7 +1485,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-06-20T10:09:46.182370+00:00",
-      "last_updated_at": "2026-07-20T11:20:25.023649+00:00",
+      "last_updated_at": "2026-07-20T13:23:41.091252+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -1432,7 +1548,7 @@
       ],
       "webcast_live": false,
       "discovered_at": "2026-03-23T08:19:21.926409+00:00",
-      "last_updated_at": "2026-07-20T11:20:25.023643+00:00",
+      "last_updated_at": "2026-07-20T13:23:41.091245+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -1590,6 +1706,67 @@
       ]
     },
     {
+      "id": "12b9454b-d48b-4fd5-9c11-17c18f45dafe",
+      "name": "Long March 8A | Unknown Payload",
+      "slug": "long-march-8a-unknown-payload",
+      "status": {
+        "id": 8,
+        "abbrev": "TBC",
+        "name": "To Be Confirmed",
+        "description": "Awaiting official confirmation - current date is known with some certainty."
+      },
+      "net": "2026-08-04T11:00:00Z",
+      "window_start": "2026-08-04T11:00:00Z",
+      "window_end": "2026-08-04T14:00:00Z",
+      "probability": null,
+      "rocket": {
+        "name": "Long March 8A",
+        "family": "Long March",
+        "manufacturer": "China Aerospace Science and Technology Corporation",
+        "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/cz-8a_launch_2_image_20251206093107.jpeg"
+      },
+      "mission": {
+        "name": "Unknown Payload",
+        "description": "Details TBD.",
+        "type": "Unknown",
+        "orbit": "Unknown"
+      },
+      "pad": {
+        "name": "Commercial LC-1",
+        "location": "Wenchang Space Launch Site, People's Republic of China",
+        "country": "CHN",
+        "latitude": "19.597275",
+        "longitude": "110.930753"
+      },
+      "agency": {
+        "name": "China Aerospace Science and Technology Corporation",
+        "abbrev": "CASC",
+        "type": "Government"
+      },
+      "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/cz-8a_launch_2_image_20251206093107.jpeg",
+      "vidURLs": [],
+      "webcast_live": false,
+      "discovered_at": "2026-07-13T16:54:43.145777+00:00",
+      "last_updated_at": "2026-07-20T13:23:41.091234+00:00",
+      "outcome": null,
+      "failure_reason": null,
+      "status_history": [
+        {
+          "at": "2026-07-13T16:54:43.145779+00:00",
+          "status_id": 8,
+          "abbrev": "TBC",
+          "net": "2026-07-24T11:00:00Z"
+        },
+        {
+          "at": "2026-07-20T13:23:41.091237+00:00",
+          "status_id": 8,
+          "abbrev": "TBC",
+          "net": "2026-08-04T11:00:00Z",
+          "prev_net": "2026-07-24T11:00:00Z"
+        }
+      ]
+    },
+    {
       "id": "aafe107e-46d8-420c-bcb9-192069d80893",
       "name": "Soyuz 2.1b | 16 x Rassvet-3",
       "slug": "soyuz-21b-16-x-rassvet-3-2",
@@ -1631,7 +1808,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-04-11T04:18:21.759784+00:00",
-      "last_updated_at": "2026-07-20T11:20:25.023628+00:00",
+      "last_updated_at": "2026-07-20T13:23:41.091223+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -1857,7 +2034,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-06-27T00:00:59.521069+00:00",
-      "last_updated_at": "2026-07-20T11:20:25.023600+00:00",
+      "last_updated_at": "2026-07-20T13:23:41.091202+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -1911,7 +2088,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-04-11T15:28:51.958924+00:00",
-      "last_updated_at": "2026-07-20T11:20:25.023622+00:00",
+      "last_updated_at": "2026-07-20T13:23:41.091216+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -2055,7 +2232,7 @@
       ],
       "webcast_live": false,
       "discovered_at": "2026-04-09T21:07:11.353167+00:00",
-      "last_updated_at": "2026-07-20T11:20:25.023607+00:00",
+      "last_updated_at": "2026-07-20T13:23:41.091210+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -2146,7 +2323,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-04-27T15:24:39.972764+00:00",
-      "last_updated_at": "2026-07-20T11:20:25.023592+00:00",
+      "last_updated_at": "2026-07-20T13:23:41.091196+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -2169,76 +2346,6 @@
           "abbrev": "TBD",
           "net": "2026-07-31T00:00:00Z",
           "prev_net": "2026-07-17T00:00:00Z"
-        }
-      ]
-    },
-    {
-      "id": "beac6ac1-97dd-4eb2-912c-8b4d4d15cd4e",
-      "name": "Long March 7A | Unknown Payload",
-      "slug": "long-march-7a-unknown-payload",
-      "status": {
-        "id": 2,
-        "abbrev": "TBD",
-        "name": "To Be Determined",
-        "description": "Current date is a placeholder or rough estimation based on unreliable or interpreted sources."
-      },
-      "net": "2026-07-31T00:00:00Z",
-      "window_start": "2026-07-31T00:00:00Z",
-      "window_end": "2026-07-31T00:00:00Z",
-      "probability": null,
-      "rocket": {
-        "name": "Long March 7A",
-        "family": "Long March",
-        "manufacturer": "China Aerospace Science and Technology Corporation",
-        "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/cz-7a_launch_2_image_20251206093324.jpeg"
-      },
-      "mission": {
-        "name": "Unknown Payload",
-        "description": "Details TBD.",
-        "type": "Unknown",
-        "orbit": "Unknown"
-      },
-      "pad": {
-        "name": "201",
-        "location": "Wenchang Space Launch Site, People's Republic of China",
-        "country": "CHN",
-        "latitude": "19.618452",
-        "longitude": "110.955356"
-      },
-      "agency": {
-        "name": "China Aerospace Science and Technology Corporation",
-        "abbrev": "CASC",
-        "type": "Government"
-      },
-      "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/cz-7a_launch_2_image_20251206093324.jpeg",
-      "vidURLs": [],
-      "webcast_live": false,
-      "discovered_at": "2026-07-03T14:39:12.590083+00:00",
-      "last_updated_at": "2026-07-20T11:20:25.023614+00:00",
-      "outcome": null,
-      "failure_reason": null,
-      "status_history": [
-        {
-          "at": "2026-07-03T14:39:12.590086+00:00",
-          "status_id": 8,
-          "abbrev": "TBC",
-          "net": "2026-07-17T11:00:00Z"
-        },
-        {
-          "at": "2026-07-13T16:54:43.145743+00:00",
-          "status_id": 1,
-          "abbrev": "Go",
-          "net": "2026-07-17T11:50:00Z",
-          "prev_net": "2026-07-17T11:00:00Z",
-          "prev_abbrev": "TBC"
-        },
-        {
-          "at": "2026-07-16T15:53:20.795017+00:00",
-          "status_id": 2,
-          "abbrev": "TBD",
-          "net": "2026-07-31T00:00:00Z",
-          "prev_net": "2026-07-17T11:50:00Z",
-          "prev_abbrev": "Go"
         }
       ]
     },
@@ -2284,7 +2391,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-07-16T15:53:20.795043+00:00",
-      "last_updated_at": "2026-07-20T11:20:25.023634+00:00",
+      "last_updated_at": "2026-07-20T13:23:41.091229+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -2293,6 +2400,84 @@
           "status_id": 2,
           "abbrev": "TBD",
           "net": "2026-07-31T00:00:00Z"
+        }
+      ]
+    },
+    {
+      "id": "beac6ac1-97dd-4eb2-912c-8b4d4d15cd4e",
+      "name": "Long March 7A | Unknown Payload",
+      "slug": "long-march-7a-unknown-payload",
+      "status": {
+        "id": 1,
+        "abbrev": "Go",
+        "name": "Go for Launch",
+        "description": "Current T-0 confirmed by official or reliable sources."
+      },
+      "net": "2026-07-29T11:50:00Z",
+      "window_start": "2026-07-29T11:42:00Z",
+      "window_end": "2026-07-29T13:39:00Z",
+      "probability": null,
+      "rocket": {
+        "name": "Long March 7A",
+        "family": "Long March",
+        "manufacturer": "China Aerospace Science and Technology Corporation",
+        "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/cz-7a_launch_2_image_20251206093324.jpeg"
+      },
+      "mission": {
+        "name": "Unknown Payload",
+        "description": "Details TBD.",
+        "type": "Unknown",
+        "orbit": "Unknown"
+      },
+      "pad": {
+        "name": "201",
+        "location": "Wenchang Space Launch Site, People's Republic of China",
+        "country": "CHN",
+        "latitude": "19.618452",
+        "longitude": "110.955356"
+      },
+      "agency": {
+        "name": "China Aerospace Science and Technology Corporation",
+        "abbrev": "CASC",
+        "type": "Government"
+      },
+      "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/cz-7a_launch_2_image_20251206093324.jpeg",
+      "vidURLs": [],
+      "webcast_live": false,
+      "discovered_at": "2026-07-03T14:39:12.590083+00:00",
+      "last_updated_at": "2026-07-20T13:23:41.091187+00:00",
+      "outcome": null,
+      "failure_reason": null,
+      "status_history": [
+        {
+          "at": "2026-07-03T14:39:12.590086+00:00",
+          "status_id": 8,
+          "abbrev": "TBC",
+          "net": "2026-07-17T11:00:00Z"
+        },
+        {
+          "at": "2026-07-13T16:54:43.145743+00:00",
+          "status_id": 1,
+          "abbrev": "Go",
+          "net": "2026-07-17T11:50:00Z",
+          "prev_net": "2026-07-17T11:00:00Z",
+          "prev_abbrev": "TBC"
+        },
+        {
+          "at": "2026-07-16T15:53:20.795017+00:00",
+          "status_id": 2,
+          "abbrev": "TBD",
+          "net": "2026-07-31T00:00:00Z",
+          "prev_net": "2026-07-17T11:50:00Z",
+          "prev_abbrev": "Go"
+        },
+        {
+          "at": "2026-07-20T13:23:41.091190+00:00",
+          "status_id": 1,
+          "abbrev": "Go",
+          "net": "2026-07-29T11:50:00Z",
+          "prev_net": "2026-07-31T00:00:00Z",
+          "prev_abbrev": "TBD"
         }
       ]
     },
@@ -2343,7 +2528,7 @@
       ],
       "webcast_live": false,
       "discovered_at": "2026-07-16T21:05:04.827942+00:00",
-      "last_updated_at": "2026-07-20T11:20:25.023585+00:00",
+      "last_updated_at": "2026-07-20T13:23:41.091181+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -2402,7 +2587,7 @@
       ],
       "webcast_live": false,
       "discovered_at": "2026-07-10T17:19:28.625174+00:00",
-      "last_updated_at": "2026-07-20T11:20:25.023576+00:00",
+      "last_updated_at": "2026-07-20T13:23:41.091174+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -2418,60 +2603,6 @@
           "abbrev": "Go",
           "net": "2026-07-24T14:00:00Z",
           "prev_net": "2026-07-23T14:00:00Z"
-        }
-      ]
-    },
-    {
-      "id": "12b9454b-d48b-4fd5-9c11-17c18f45dafe",
-      "name": "Long March 8A | Unknown Payload",
-      "slug": "long-march-8a-unknown-payload",
-      "status": {
-        "id": 8,
-        "abbrev": "TBC",
-        "name": "To Be Confirmed",
-        "description": "Awaiting official confirmation - current date is known with some certainty."
-      },
-      "net": "2026-07-24T11:00:00Z",
-      "window_start": "2026-07-24T11:00:00Z",
-      "window_end": "2026-07-24T14:00:00Z",
-      "probability": null,
-      "rocket": {
-        "name": "Long March 8A",
-        "family": "Long March",
-        "manufacturer": "China Aerospace Science and Technology Corporation",
-        "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/cz-8a_launch_2_image_20251206093107.jpeg"
-      },
-      "mission": {
-        "name": "Unknown Payload",
-        "description": "Details TBD.",
-        "type": "Unknown",
-        "orbit": "Unknown"
-      },
-      "pad": {
-        "name": "Commercial LC-1",
-        "location": "Wenchang Space Launch Site, People's Republic of China",
-        "country": "CHN",
-        "latitude": "19.597275",
-        "longitude": "110.930753"
-      },
-      "agency": {
-        "name": "China Aerospace Science and Technology Corporation",
-        "abbrev": "CASC",
-        "type": "Government"
-      },
-      "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/cz-8a_launch_2_image_20251206093107.jpeg",
-      "vidURLs": [],
-      "webcast_live": false,
-      "discovered_at": "2026-07-13T16:54:43.145777+00:00",
-      "last_updated_at": "2026-07-20T11:20:25.023569+00:00",
-      "outcome": null,
-      "failure_reason": null,
-      "status_history": [
-        {
-          "at": "2026-07-13T16:54:43.145779+00:00",
-          "status_id": 8,
-          "abbrev": "TBC",
-          "net": "2026-07-24T11:00:00Z"
         }
       ]
     },
@@ -2517,7 +2648,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-07-17T06:35:31.621974+00:00",
-      "last_updated_at": "2026-07-20T11:20:25.023560+00:00",
+      "last_updated_at": "2026-07-20T13:23:41.091167+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -2588,7 +2719,7 @@
       ],
       "webcast_live": false,
       "discovered_at": "2026-06-19T15:46:40.307063+00:00",
-      "last_updated_at": "2026-07-20T11:20:25.023552+00:00",
+      "last_updated_at": "2026-07-20T13:23:41.091158+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -2702,7 +2833,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-07-03T14:39:12.590101+00:00",
-      "last_updated_at": "2026-07-20T11:20:25.023543+00:00",
+      "last_updated_at": "2026-07-20T13:23:41.091148+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -2764,7 +2895,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-05-29T19:05:54.989181+00:00",
-      "last_updated_at": "2026-07-20T11:20:25.023531+00:00",
+      "last_updated_at": "2026-07-20T13:23:41.091140+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -2866,7 +2997,7 @@
       ],
       "webcast_live": false,
       "discovered_at": "2026-05-02T18:07:51.089304+00:00",
-      "last_updated_at": "2026-07-20T11:20:25.023515+00:00",
+      "last_updated_at": "2026-07-20T13:23:41.091128+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -2917,7 +3048,7 @@
         "name": "Go for Launch",
         "description": "Current T-0 confirmed by official or reliable sources."
       },
-      "net": "2026-07-20T14:36:26Z",
+      "net": "2026-07-20T14:49:32Z",
       "window_start": "2026-07-20T14:00:00Z",
       "window_end": "2026-07-20T18:00:00Z",
       "probability": null,
@@ -2952,13 +3083,17 @@
           "url": "https://www.youtube.com/watch?v=p648NlL0fi4"
         },
         {
+          "title": "Live: SpaceX Falcon 9 rocket launches 24 Starlink internet satellites from Vandenberg, California",
+          "url": "https://www.youtube.com/watch?v=mXVL1SQKNvE"
+        },
+        {
           "title": "Starlink Mission",
           "url": "https://x.com/i/broadcasts/1qGoNNQZvEMKv"
         }
       ],
       "webcast_live": false,
       "discovered_at": "2026-07-10T17:19:28.625148+00:00",
-      "last_updated_at": "2026-07-20T11:20:25.023482+00:00",
+      "last_updated_at": "2026-07-20T13:23:41.091091+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -2981,6 +3116,13 @@
           "abbrev": "Go",
           "net": "2026-07-20T14:36:26Z",
           "prev_net": "2026-07-20T14:00:00Z"
+        },
+        {
+          "at": "2026-07-20T13:23:41.091112+00:00",
+          "status_id": 1,
+          "abbrev": "Go",
+          "net": "2026-07-20T14:49:32Z",
+          "prev_net": "2026-07-20T14:36:26Z"
         }
       ]
     },
@@ -13547,5 +13689,5 @@
       ]
     }
   ],
-  "last_updated": "2026-07-20T11:20:25.024062+00:00"
+  "last_updated": "2026-07-20T13:23:41.091645+00:00"
 }
