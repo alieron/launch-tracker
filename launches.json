@@ -775,7 +775,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-06-19T15:46:40.307006+00:00",
-      "last_updated_at": "2026-07-23T15:51:12.319131+00:00",
+      "last_updated_at": "2026-07-23T17:14:45.179063+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -949,7 +949,7 @@
       ],
       "webcast_live": false,
       "discovered_at": "2026-05-08T05:26:41.700479+00:00",
-      "last_updated_at": "2026-07-23T15:51:12.319138+00:00",
+      "last_updated_at": "2026-07-23T17:14:45.179071+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -1077,7 +1077,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-07-18T14:33:15.387606+00:00",
-      "last_updated_at": "2026-07-23T15:51:12.319144+00:00",
+      "last_updated_at": "2026-07-23T17:14:45.179078+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -1131,7 +1131,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-07-19T07:03:08.589464+00:00",
-      "last_updated_at": "2026-07-23T15:51:12.319152+00:00",
+      "last_updated_at": "2026-07-23T17:14:45.179086+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -1185,7 +1185,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-06-25T13:33:42.830541+00:00",
-      "last_updated_at": "2026-07-23T15:51:12.319124+00:00",
+      "last_updated_at": "2026-07-23T17:14:45.179057+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -1254,7 +1254,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-04-30T15:48:07.790075+00:00",
-      "last_updated_at": "2026-07-23T15:51:12.319118+00:00",
+      "last_updated_at": "2026-07-23T17:14:45.179050+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -1315,7 +1315,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-07-15T16:16:11.182989+00:00",
-      "last_updated_at": "2026-07-23T15:51:12.319110+00:00",
+      "last_updated_at": "2026-07-23T17:14:45.179042+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -1377,7 +1377,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-07-20T13:23:41.091275+00:00",
-      "last_updated_at": "2026-07-23T15:51:12.319098+00:00",
+      "last_updated_at": "2026-07-23T17:14:45.179033+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -1485,7 +1485,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-07-20T13:23:41.091261+00:00",
-      "last_updated_at": "2026-07-23T15:51:12.319090+00:00",
+      "last_updated_at": "2026-07-23T17:14:45.179027+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -1539,7 +1539,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-06-20T10:09:46.182370+00:00",
-      "last_updated_at": "2026-07-23T15:51:12.319084+00:00",
+      "last_updated_at": "2026-07-23T17:14:45.179021+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -1602,7 +1602,7 @@
       ],
       "webcast_live": false,
       "discovered_at": "2026-03-23T08:19:21.926409+00:00",
-      "last_updated_at": "2026-07-23T15:51:12.319077+00:00",
+      "last_updated_at": "2026-07-23T17:14:45.179014+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -1801,7 +1801,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-07-13T16:54:43.145777+00:00",
-      "last_updated_at": "2026-07-23T15:51:12.319070+00:00",
+      "last_updated_at": "2026-07-23T17:14:45.179002+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -1825,6 +1825,65 @@
           "net": "2026-08-04T08:50:00Z",
           "prev_net": "2026-08-04T11:00:00Z",
           "prev_abbrev": "TBC"
+        }
+      ]
+    },
+    {
+      "id": "0448d030-5175-4c1f-bd0b-4f3f87072921",
+      "name": "Falcon 9 Block 5 | Starlink Group 17-53",
+      "slug": "falcon-9-block-5-starlink-group-17-53",
+      "status": {
+        "id": 1,
+        "abbrev": "Go",
+        "name": "Go for Launch",
+        "description": "Current T-0 confirmed by official or reliable sources."
+      },
+      "net": "2026-08-01T14:00:00Z",
+      "window_start": "2026-08-01T14:00:00Z",
+      "window_end": "2026-08-01T18:00:00Z",
+      "probability": null,
+      "rocket": {
+        "name": "Falcon 9",
+        "family": "Falcon",
+        "manufacturer": "SpaceX",
+        "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/falcon_9_image_20230807133459.jpeg"
+      },
+      "mission": {
+        "name": "Starlink Group 17-53",
+        "description": "A batch of 24 satellites for the Starlink mega-constellation - SpaceX's project for space-based Internet communication system.",
+        "type": "Communications",
+        "orbit": "Low Earth Orbit"
+      },
+      "pad": {
+        "name": "Space Launch Complex 4E",
+        "location": "Vandenberg SFB, CA, USA",
+        "country": "USA",
+        "latitude": "34.632",
+        "longitude": "-120.611"
+      },
+      "agency": {
+        "name": "SpaceX",
+        "abbrev": "SpX",
+        "type": "Commercial"
+      },
+      "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/falcon2520925_image_20221009234147.png",
+      "vidURLs": [
+        {
+          "title": "Starlink Mission",
+          "url": "https://x.com/i/broadcasts/1yKAPPDejLzxb"
+        }
+      ],
+      "webcast_live": false,
+      "discovered_at": "2026-07-23T17:14:45.178988+00:00",
+      "last_updated_at": "2026-07-23T17:14:45.178985+00:00",
+      "outcome": null,
+      "failure_reason": null,
+      "status_history": [
+        {
+          "at": "2026-07-23T17:14:45.178990+00:00",
+          "status_id": 1,
+          "abbrev": "Go",
+          "net": "2026-08-01T14:00:00Z"
         }
       ]
     },
@@ -2096,7 +2155,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-06-27T00:00:59.521069+00:00",
-      "last_updated_at": "2026-07-23T15:51:12.319048+00:00",
+      "last_updated_at": "2026-07-23T17:14:45.178964+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -2150,7 +2209,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-04-11T15:28:51.958924+00:00",
-      "last_updated_at": "2026-07-23T15:51:12.319064+00:00",
+      "last_updated_at": "2026-07-23T17:14:45.178978+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -2294,7 +2353,7 @@
       ],
       "webcast_live": false,
       "discovered_at": "2026-04-09T21:07:11.353167+00:00",
-      "last_updated_at": "2026-07-23T15:51:12.319055+00:00",
+      "last_updated_at": "2026-07-23T17:14:45.178971+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -2385,7 +2444,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-04-27T15:24:39.972764+00:00",
-      "last_updated_at": "2026-07-23T15:51:12.319040+00:00",
+      "last_updated_at": "2026-07-23T17:14:45.178954+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -2470,14 +2529,14 @@
       "name": "Falcon 9 Block 5 | NROL-95",
       "slug": "falcon-9-block-5-nrol-95",
       "status": {
-        "id": 8,
-        "abbrev": "TBC",
-        "name": "To Be Confirmed",
-        "description": "Awaiting official confirmation - current date is known with some certainty."
+        "id": 1,
+        "abbrev": "Go",
+        "name": "Go for Launch",
+        "description": "Current T-0 confirmed by official or reliable sources."
       },
-      "net": "2026-07-30T06:37:00Z",
+      "net": "2026-07-30T07:09:00Z",
       "window_start": "2026-07-30T06:37:00Z",
-      "window_end": "2026-07-30T08:04:00Z",
+      "window_end": "2026-07-30T07:21:00Z",
       "probability": null,
       "rocket": {
         "name": "Falcon 9",
@@ -2504,10 +2563,15 @@
         "type": "Commercial"
       },
       "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/falcon_9_image_20230807133459.jpeg",
-      "vidURLs": [],
+      "vidURLs": [
+        {
+          "title": "NROL-95 Mission",
+          "url": "https://x.com/i/broadcasts/1DxLddLoqayxm"
+        }
+      ],
       "webcast_live": false,
       "discovered_at": "2026-07-20T15:26:34.248233+00:00",
-      "last_updated_at": "2026-07-23T15:51:12.319033+00:00",
+      "last_updated_at": "2026-07-23T17:14:45.178941+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -2516,6 +2580,14 @@
           "status_id": 8,
           "abbrev": "TBC",
           "net": "2026-07-30T06:37:00Z"
+        },
+        {
+          "at": "2026-07-23T17:14:45.178944+00:00",
+          "status_id": 1,
+          "abbrev": "Go",
+          "net": "2026-07-30T07:09:00Z",
+          "prev_net": "2026-07-30T06:37:00Z",
+          "prev_abbrev": "TBC"
         }
       ]
     },
@@ -2561,7 +2633,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-07-23T13:46:43.463467+00:00",
-      "last_updated_at": "2026-07-23T15:51:12.319026+00:00",
+      "last_updated_at": "2026-07-23T17:14:45.178931+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -2615,7 +2687,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-07-03T14:39:12.590083+00:00",
-      "last_updated_at": "2026-07-23T15:51:12.319017+00:00",
+      "last_updated_at": "2026-07-23T17:14:45.178924+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -2698,7 +2770,7 @@
       ],
       "webcast_live": false,
       "discovered_at": "2026-07-16T21:05:04.827942+00:00",
-      "last_updated_at": "2026-07-23T15:51:12.319006+00:00",
+      "last_updated_at": "2026-07-23T17:14:45.178917+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -2764,7 +2836,7 @@
       ],
       "webcast_live": false,
       "discovered_at": "2026-07-10T17:19:28.625174+00:00",
-      "last_updated_at": "2026-07-23T15:51:12.318997+00:00",
+      "last_updated_at": "2026-07-23T17:14:45.178909+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -2832,7 +2904,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-07-17T06:35:31.621974+00:00",
-      "last_updated_at": "2026-07-23T15:51:12.318986+00:00",
+      "last_updated_at": "2026-07-23T17:14:45.178898+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -2905,13 +2977,17 @@
           "url": "https://www.youtube.com/watch?v=lC3RDO7tdLc"
         },
         {
+          "title": "Starship's Thirteenth Flight Test",
+          "url": "https://x.com/i/broadcasts/1AJEmmYdMDnJL"
+        },
+        {
           "title": "Watch SpaceX Launch Starship Flight 13!!",
           "url": "https://www.youtube.com/watch?v=-pR0eOj9hK0"
         }
       ],
       "webcast_live": false,
       "discovered_at": "2026-06-19T15:46:40.307063+00:00",
-      "last_updated_at": "2026-07-23T15:51:12.318972+00:00",
+      "last_updated_at": "2026-07-23T17:14:45.178884+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -3030,7 +3106,7 @@
       ],
       "webcast_live": false,
       "discovered_at": "2026-07-03T14:39:12.590101+00:00",
-      "last_updated_at": "2026-07-23T15:51:12.318938+00:00",
+      "last_updated_at": "2026-07-23T17:14:45.178848+00:00",
       "outcome": "success",
       "failure_reason": null,
       "status_history": [
@@ -13951,5 +14027,5 @@
       ]
     }
   ],
-  "last_updated": "2026-07-23T15:51:12.319480+00:00"
+  "last_updated": "2026-07-23T17:14:45.179394+00:00"
 }
