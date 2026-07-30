@@ -822,7 +822,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-04-26T23:04:51.622698+00:00",
-      "last_updated_at": "2026-07-30T04:55:50.244828+00:00",
+      "last_updated_at": "2026-07-30T07:31:44.109326+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -996,7 +996,7 @@
       ],
       "webcast_live": false,
       "discovered_at": "2026-05-08T05:26:41.700479+00:00",
-      "last_updated_at": "2026-07-30T04:55:50.244807+00:00",
+      "last_updated_at": "2026-07-30T07:31:44.109302+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -1178,7 +1178,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-07-19T07:03:08.589464+00:00",
-      "last_updated_at": "2026-07-30T04:55:50.244822+00:00",
+      "last_updated_at": "2026-07-30T07:31:44.109318+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -1232,7 +1232,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-06-27T00:00:59.521069+00:00",
-      "last_updated_at": "2026-07-30T04:55:50.244792+00:00",
+      "last_updated_at": "2026-07-30T07:31:44.109286+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -1298,7 +1298,7 @@
       ],
       "webcast_live": false,
       "discovered_at": "2026-04-09T21:07:11.353167+00:00",
-      "last_updated_at": "2026-07-30T04:55:50.244800+00:00",
+      "last_updated_at": "2026-07-30T07:31:44.109295+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -1396,7 +1396,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-04-27T15:24:39.972764+00:00",
-      "last_updated_at": "2026-07-30T04:55:50.244784+00:00",
+      "last_updated_at": "2026-07-30T07:31:44.109280+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -1471,7 +1471,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-04-11T15:28:51.958924+00:00",
-      "last_updated_at": "2026-07-30T04:55:50.244814+00:00",
+      "last_updated_at": "2026-07-30T07:31:44.109310+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -1617,7 +1617,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-06-25T13:33:42.830541+00:00",
-      "last_updated_at": "2026-07-30T04:55:50.244777+00:00",
+      "last_updated_at": "2026-07-30T07:31:44.109274+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -1693,7 +1693,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-04-30T15:48:07.790075+00:00",
-      "last_updated_at": "2026-07-30T04:55:50.244770+00:00",
+      "last_updated_at": "2026-07-30T07:31:44.109267+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -1754,7 +1754,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-07-15T16:16:11.182989+00:00",
-      "last_updated_at": "2026-07-30T04:55:50.244764+00:00",
+      "last_updated_at": "2026-07-30T07:31:44.109260+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -1816,7 +1816,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-07-20T13:23:41.091275+00:00",
-      "last_updated_at": "2026-07-30T04:55:50.244756+00:00",
+      "last_updated_at": "2026-07-30T07:31:44.109254+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -1929,7 +1929,7 @@
       ],
       "webcast_live": false,
       "discovered_at": "2026-07-27T17:15:46.215592+00:00",
-      "last_updated_at": "2026-07-30T04:55:50.244749+00:00",
+      "last_updated_at": "2026-07-30T07:31:44.109242+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -2002,7 +2002,7 @@
       ],
       "webcast_live": false,
       "discovered_at": "2026-07-27T17:15:46.215606+00:00",
-      "last_updated_at": "2026-07-30T04:55:50.244741+00:00",
+      "last_updated_at": "2026-07-30T07:31:44.109234+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -2056,7 +2056,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-07-20T13:23:41.091261+00:00",
-      "last_updated_at": "2026-07-30T04:55:50.244734+00:00",
+      "last_updated_at": "2026-07-30T07:31:44.109226+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -2115,7 +2115,7 @@
       ],
       "webcast_live": false,
       "discovered_at": "2026-07-27T17:15:46.215566+00:00",
-      "last_updated_at": "2026-07-30T04:55:50.244727+00:00",
+      "last_updated_at": "2026-07-30T07:31:44.109219+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -2183,7 +2183,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-06-20T10:09:46.182370+00:00",
-      "last_updated_at": "2026-07-30T04:55:50.244715+00:00",
+      "last_updated_at": "2026-07-30T07:31:44.109212+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -2246,7 +2246,7 @@
       ],
       "webcast_live": false,
       "discovered_at": "2026-03-23T08:19:21.926409+00:00",
-      "last_updated_at": "2026-07-30T04:55:50.244708+00:00",
+      "last_updated_at": "2026-07-30T07:31:44.109206+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -2405,8 +2405,8 @@
     },
     {
       "id": "56a85c82-ea71-449b-828c-b583f6f4a18b",
-      "name": "Falcon 9 Block 5 | BlueBird Block 2 #6-8",
-      "slug": "falcon-9-block-5-bluebird-block-2-6-8",
+      "name": "Falcon 9 Block 5 | BlueBird 11-13 (Block 2 #6-8)",
+      "slug": "falcon-9-block-5-bluebird-11-13-block-2-6-8",
       "status": {
         "id": 1,
         "abbrev": "Go",
@@ -2424,7 +2424,7 @@
         "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/falcon_9_image_20230807133459.jpeg"
       },
       "mission": {
-        "name": "BlueBird Block 2 #6-8",
+        "name": "BlueBird 11-13 (Block 2 #6-8)",
         "description": "AST SpaceMobile\u2019s Block 2 BlueBird satellites are designed to deliver up to 10 times the bandwidth capacity of the BlueBird Block 1 satellites, required to achieve 24/7 continuous cellular broadband service coverage in the United States, with beams designed to support a capacity of up to 40 MHz, enabling peak data transmission speeds up to 120 Mbps, supporting voice, full data and video applications. The Block 2 BlueBirds, featuring as large as 2400 square foot communications arrays, will be the largest satellites ever commercially deployed in Low Earth orbit once launched.\r\n\r\nThis launch will feature 3 satellites.",
         "type": "Communications",
         "orbit": "Low Earth Orbit"
@@ -2442,10 +2442,15 @@
         "type": "Commercial"
       },
       "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/f9_on_slc-40_2_image_20240919072420.jpg",
-      "vidURLs": [],
+      "vidURLs": [
+        {
+          "title": "GO! - SpaceX - Falcon 9 - BlueBird 11 - 13 - SLC-40 - Cape Canaveral SFS -  Space Affairs Live",
+          "url": "https://www.youtube.com/watch?v=xlb3ukMQ-Ec"
+        }
+      ],
       "webcast_live": false,
       "discovered_at": "2026-06-19T15:46:40.307006+00:00",
-      "last_updated_at": "2026-07-30T04:55:50.244699+00:00",
+      "last_updated_at": "2026-07-30T07:31:44.109197+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -2469,6 +2474,68 @@
           "net": "2026-08-05T07:42:00Z",
           "prev_net": "2026-08-31T00:00:00Z",
           "prev_abbrev": "TBD"
+        }
+      ]
+    },
+    {
+      "id": "d46cab82-dcf5-4d70-b698-d7bead7f638c",
+      "name": "Smart Dragon 3 | Unknown Payload",
+      "slug": "smart-dragon-3-unknown-payload",
+      "status": {
+        "id": 1,
+        "abbrev": "Go",
+        "name": "Go for Launch",
+        "description": "Current T-0 confirmed by official or reliable sources."
+      },
+      "net": "2026-08-05T02:35:00Z",
+      "window_start": "2026-08-05T02:27:00Z",
+      "window_end": "2026-08-05T02:48:00Z",
+      "probability": null,
+      "rocket": {
+        "name": "Smart Dragon 3",
+        "family": "Smart Dragon",
+        "manufacturer": "China Rocket Co. Ltd.",
+        "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/smart_dragon_3__image_20240925074606.jpg"
+      },
+      "mission": {
+        "name": "Unknown Payload",
+        "description": "Details TBD.",
+        "type": "Unknown",
+        "orbit": "Unknown"
+      },
+      "pad": {
+        "name": "Haiyang offshore launch location",
+        "location": "Haiyang Oriental Spaceport",
+        "country": "CHN",
+        "latitude": "36.631333",
+        "longitude": "121.198361"
+      },
+      "agency": {
+        "name": "China Rocket Co. Ltd.",
+        "abbrev": "CHNR",
+        "type": "Commercial"
+      },
+      "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/smart_dragon_3__image_20240925074606.jpg",
+      "vidURLs": [],
+      "webcast_live": false,
+      "discovered_at": "2026-07-29T07:15:39.568581+00:00",
+      "last_updated_at": "2026-07-30T07:31:44.109184+00:00",
+      "outcome": null,
+      "failure_reason": null,
+      "status_history": [
+        {
+          "at": "2026-07-29T07:15:39.568584+00:00",
+          "status_id": 8,
+          "abbrev": "TBC",
+          "net": "2026-08-04T00:00:00Z"
+        },
+        {
+          "at": "2026-07-30T07:31:44.109188+00:00",
+          "status_id": 1,
+          "abbrev": "Go",
+          "net": "2026-08-05T02:35:00Z",
+          "prev_net": "2026-08-04T00:00:00Z",
+          "prev_abbrev": "TBC"
         }
       ]
     },
@@ -2513,13 +2580,17 @@
       "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/falcon2520925_image_20221009234147.png",
       "vidURLs": [
         {
+          "title": "GO! - SpaceX - Falcon 9 - Starlink 17-53 - SLC-4E - Vandenberg SFB - Space Affairs Live",
+          "url": "https://www.youtube.com/watch?v=18lBZDObHp0"
+        },
+        {
           "title": "Starlink Mission",
           "url": "https://x.com/i/broadcasts/1yKAPPDejLzxb"
         }
       ],
       "webcast_live": false,
       "discovered_at": "2026-07-23T17:14:45.178988+00:00",
-      "last_updated_at": "2026-07-30T04:55:50.244690+00:00",
+      "last_updated_at": "2026-07-30T07:31:44.109177+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -2594,7 +2665,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-07-13T16:54:43.145777+00:00",
-      "last_updated_at": "2026-07-30T04:55:50.244680+00:00",
+      "last_updated_at": "2026-07-30T07:31:44.109169+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -2618,60 +2689,6 @@
           "net": "2026-08-04T08:50:00Z",
           "prev_net": "2026-08-04T11:00:00Z",
           "prev_abbrev": "TBC"
-        }
-      ]
-    },
-    {
-      "id": "d46cab82-dcf5-4d70-b698-d7bead7f638c",
-      "name": "Smart Dragon 3 | Unknown Payload",
-      "slug": "smart-dragon-3-unknown-payload",
-      "status": {
-        "id": 8,
-        "abbrev": "TBC",
-        "name": "To Be Confirmed",
-        "description": "Awaiting official confirmation - current date is known with some certainty."
-      },
-      "net": "2026-08-04T00:00:00Z",
-      "window_start": "2026-08-04T00:00:00Z",
-      "window_end": "2026-08-04T06:00:00Z",
-      "probability": null,
-      "rocket": {
-        "name": "Smart Dragon 3",
-        "family": "Smart Dragon",
-        "manufacturer": "China Rocket Co. Ltd.",
-        "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/smart_dragon_3__image_20240925074606.jpg"
-      },
-      "mission": {
-        "name": "Unknown Payload",
-        "description": "Details TBD.",
-        "type": "Unknown",
-        "orbit": "Unknown"
-      },
-      "pad": {
-        "name": "Haiyang offshore launch location",
-        "location": "Haiyang Oriental Spaceport",
-        "country": "CHN",
-        "latitude": "36.631333",
-        "longitude": "121.198361"
-      },
-      "agency": {
-        "name": "China Rocket Co. Ltd.",
-        "abbrev": "CHNR",
-        "type": "Commercial"
-      },
-      "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/smart_dragon_3__image_20240925074606.jpg",
-      "vidURLs": [],
-      "webcast_live": false,
-      "discovered_at": "2026-07-29T07:15:39.568581+00:00",
-      "last_updated_at": "2026-07-30T04:55:50.244672+00:00",
-      "outcome": null,
-      "failure_reason": null,
-      "status_history": [
-        {
-          "at": "2026-07-29T07:15:39.568584+00:00",
-          "status_id": 8,
-          "abbrev": "TBC",
-          "net": "2026-08-04T00:00:00Z"
         }
       ]
     },
@@ -2716,13 +2733,17 @@
       "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/falcon2520925_image_20221009234147.png",
       "vidURLs": [
         {
+          "title": "GO! - SpaceX - Falcon 9 - Starlink 17-52 - SLC-4E - Vandenberg SFB - Space Affairs Live",
+          "url": "https://www.youtube.com/watch?v=OMxBhQDCXts"
+        },
+        {
           "title": "Starlink Mission",
           "url": "https://x.com/i/broadcasts/1AxRnnrObgzxl"
         }
       ],
       "webcast_live": false,
       "discovered_at": "2026-07-16T21:05:04.827942+00:00",
-      "last_updated_at": "2026-07-30T04:55:50.244663+00:00",
+      "last_updated_at": "2026-07-30T07:31:44.109157+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -3047,12 +3068,12 @@
       "name": "Falcon 9 Block 5 | NROL-95",
       "slug": "falcon-9-block-5-nrol-95",
       "status": {
-        "id": 1,
-        "abbrev": "Go",
-        "name": "Go for Launch",
-        "description": "Current T-0 confirmed by official or reliable sources."
+        "id": 6,
+        "abbrev": "In Flight",
+        "name": "Launch in Flight",
+        "description": "The launch vehicle has lifted off from the launchpad."
       },
-      "net": "2026-07-30T07:09:01Z",
+      "net": "2026-07-30T07:10:19Z",
       "window_start": "2026-07-30T06:37:00Z",
       "window_end": "2026-07-30T07:21:00Z",
       "probability": 70,
@@ -3083,13 +3104,25 @@
       "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/falcon_9_at_slc_image_20260729112529.jpeg",
       "vidURLs": [
         {
+          "title": "SpaceX - Falcon 9 - NROL-95 - SLC-40 - Cape Canaveral SFS - July 30, 2026",
+          "url": "https://www.youtube.com/watch?v=1-ScMofSZKQ"
+        },
+        {
+          "title": "Live: SpaceX Falcon 9 rocket launches mission for U.S. spy satellite agency",
+          "url": "https://www.youtube.com/watch?v=5cokZJ3XQW0"
+        },
+        {
+          "title": "SpaceX Launches Falcon 9 with NROL-95",
+          "url": "https://www.youtube.com/watch?v=7QchKzHqvOM"
+        },
+        {
           "title": "NROL-95 Mission",
           "url": "https://x.com/i/broadcasts/1DxLddLoqayxm"
         }
       ],
-      "webcast_live": false,
+      "webcast_live": true,
       "discovered_at": "2026-07-20T15:26:34.248233+00:00",
-      "last_updated_at": "2026-07-30T04:55:50.244652+00:00",
+      "last_updated_at": "2026-07-30T07:31:44.109136+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -3113,6 +3146,14 @@
           "abbrev": "Go",
           "net": "2026-07-30T07:09:01Z",
           "prev_net": "2026-07-30T07:09:00Z"
+        },
+        {
+          "at": "2026-07-30T07:31:44.109141+00:00",
+          "status_id": 6,
+          "abbrev": "In Flight",
+          "net": "2026-07-30T07:10:19Z",
+          "prev_net": "2026-07-30T07:09:01Z",
+          "prev_abbrev": "Go"
         }
       ]
     },
@@ -3158,7 +3199,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-07-23T13:46:43.463467+00:00",
-      "last_updated_at": "2026-07-30T04:55:50.244635+00:00",
+      "last_updated_at": "2026-07-30T07:31:44.109121+00:00",
       "outcome": "success",
       "failure_reason": null,
       "status_history": [
@@ -3228,7 +3269,7 @@
       ],
       "webcast_live": false,
       "discovered_at": "2026-07-03T14:39:12.590083+00:00",
-      "last_updated_at": "2026-07-30T04:55:50.244600+00:00",
+      "last_updated_at": "2026-07-30T07:31:44.109087+00:00",
       "outcome": "success",
       "failure_reason": null,
       "status_history": [
@@ -14594,5 +14635,5 @@
       ]
     }
   ],
-  "last_updated": "2026-07-30T04:55:50.245208+00:00"
+  "last_updated": "2026-07-30T07:31:44.109670+00:00"
 }
