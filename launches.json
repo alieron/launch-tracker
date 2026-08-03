@@ -782,7 +782,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-07-25T23:55:28.112276+00:00",
-      "last_updated_at": "2026-08-03T12:16:45.950070+00:00",
+      "last_updated_at": "2026-08-03T15:23:32.305319+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -836,7 +836,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-07-26T15:57:34.604315+00:00",
-      "last_updated_at": "2026-08-03T12:16:45.950076+00:00",
+      "last_updated_at": "2026-08-03T15:23:32.305325+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -987,7 +987,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-08-02T05:39:37.830291+00:00",
-      "last_updated_at": "2026-08-03T12:16:45.950081+00:00",
+      "last_updated_at": "2026-08-03T15:23:32.305333+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -1041,7 +1041,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-07-23T04:47:18.150900+00:00",
-      "last_updated_at": "2026-08-03T12:16:45.950064+00:00",
+      "last_updated_at": "2026-08-03T15:23:32.305312+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -1103,7 +1103,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-04-26T23:04:51.622698+00:00",
-      "last_updated_at": "2026-08-03T12:16:45.950057+00:00",
+      "last_updated_at": "2026-08-03T15:23:32.305306+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -1231,139 +1231,6 @@
       ]
     },
     {
-      "id": "be8b4b0d-1989-48a5-a96d-e8e4d59ed8b3",
-      "name": "Falcon 9 Block 5 | Globalstar 2-R Mission 1 (x 9)",
-      "slug": "falcon-9-block-5-globalstar-2-r-mission-1-x-9",
-      "status": {
-        "id": 2,
-        "abbrev": "TBD",
-        "name": "To Be Determined",
-        "description": "Current date is a placeholder or rough estimation based on unreliable or interpreted sources."
-      },
-      "net": "2026-08-31T00:00:00Z",
-      "window_start": "2026-08-31T00:00:00Z",
-      "window_end": "2026-08-31T00:00:00Z",
-      "probability": null,
-      "rocket": {
-        "name": "Falcon 9",
-        "family": "Falcon",
-        "manufacturer": "SpaceX",
-        "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/falcon_9_image_20230807133459.jpeg"
-      },
-      "mission": {
-        "name": "Globalstar 2-R Mission 1 (x 9)",
-        "description": "The Globalstar global mobile communications network offers global, digital real time voice, data and fax services via its Low Earth Orbit satellite constellation. The constellation operates in a 1410 km orbit inclined at 52 degrees.\r\n\r\nIn early 2022, Globalstar contracted with MDA for the construction of 17 new 2nd generation refresh satellites to replenish the existing constellation. Rocket Lab is sub-contracted to build the satellites' buses and the launch dispensers.",
-        "type": "Communications",
-        "orbit": "Low Earth Orbit"
-      },
-      "pad": {
-        "name": "Space Launch Complex 40",
-        "location": "Cape Canaveral SFS, FL, USA",
-        "country": "USA",
-        "latitude": "28.56194122",
-        "longitude": "-80.57735736"
-      },
-      "agency": {
-        "name": "SpaceX",
-        "abbrev": "SpX",
-        "type": "Commercial"
-      },
-      "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/falcon_9_image_20230807133459.jpeg",
-      "vidURLs": [
-        {
-          "title": "Globalstar 2-R Launch 1 Mission",
-          "url": "https://x.com/i/broadcasts/1nJOLERVPDzxR"
-        }
-      ],
-      "webcast_live": false,
-      "discovered_at": "2026-05-08T05:26:41.700479+00:00",
-      "last_updated_at": "2026-08-03T12:16:45.950027+00:00",
-      "outcome": null,
-      "failure_reason": null,
-      "status_history": [
-        {
-          "at": "2026-05-08T05:26:41.700482+00:00",
-          "status_id": 2,
-          "abbrev": "TBD",
-          "net": "2026-05-31T00:00:00Z"
-        },
-        {
-          "at": "2026-05-08T19:52:33.199860+00:00",
-          "status_id": 1,
-          "abbrev": "Go",
-          "net": "2026-05-17T12:50:00Z",
-          "prev_net": "2026-05-31T00:00:00Z",
-          "prev_abbrev": "TBD"
-        },
-        {
-          "at": "2026-05-12T21:47:28.689341+00:00",
-          "status_id": 1,
-          "abbrev": "Go",
-          "net": "2026-05-18T12:35:00Z",
-          "prev_net": "2026-05-17T12:50:00Z"
-        },
-        {
-          "at": "2026-05-14T06:20:21.484003+00:00",
-          "status_id": 1,
-          "abbrev": "Go",
-          "net": "2026-05-20T11:54:00Z",
-          "prev_net": "2026-05-18T12:35:00Z"
-        },
-        {
-          "at": "2026-05-14T15:39:31.575414+00:00",
-          "status_id": 1,
-          "abbrev": "Go",
-          "net": "2026-05-20T12:04:00Z",
-          "prev_net": "2026-05-20T11:54:00Z"
-        },
-        {
-          "at": "2026-05-15T21:58:05.689260+00:00",
-          "status_id": 2,
-          "abbrev": "TBD",
-          "net": "2026-05-31T00:00:00Z",
-          "prev_net": "2026-05-20T12:04:00Z",
-          "prev_abbrev": "Go"
-        },
-        {
-          "at": "2026-05-17T21:13:43.050564+00:00",
-          "status_id": 2,
-          "abbrev": "TBD",
-          "net": "2026-06-30T00:00:00Z",
-          "prev_net": "2026-05-31T00:00:00Z"
-        },
-        {
-          "at": "2026-06-08T17:48:26.816431+00:00",
-          "status_id": 8,
-          "abbrev": "TBC",
-          "net": "2026-06-20T06:39:00Z",
-          "prev_net": "2026-06-30T00:00:00Z",
-          "prev_abbrev": "TBD"
-        },
-        {
-          "at": "2026-06-15T22:17:20.690844+00:00",
-          "status_id": 2,
-          "abbrev": "TBD",
-          "net": "2026-06-30T00:00:00Z",
-          "prev_net": "2026-06-20T06:39:00Z",
-          "prev_abbrev": "TBC"
-        },
-        {
-          "at": "2026-06-23T01:28:40.116050+00:00",
-          "status_id": 2,
-          "abbrev": "TBD",
-          "net": "2026-07-31T00:00:00Z",
-          "prev_net": "2026-06-30T00:00:00Z"
-        },
-        {
-          "at": "2026-07-16T22:27:13.002256+00:00",
-          "status_id": 2,
-          "abbrev": "TBD",
-          "net": "2026-08-31T00:00:00Z",
-          "prev_net": "2026-07-31T00:00:00Z"
-        }
-      ]
-    },
-    {
       "id": "91b13c6c-4525-496d-997b-3521bb6a4cd8",
       "name": "RFA One | Maiden Flight",
       "slug": "rfa-one-maiden-flight",
@@ -1459,7 +1326,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-07-19T07:03:08.589464+00:00",
-      "last_updated_at": "2026-08-03T12:16:45.950050+00:00",
+      "last_updated_at": "2026-08-03T15:23:32.305299+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -1513,7 +1380,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-06-27T00:00:59.521069+00:00",
-      "last_updated_at": "2026-08-03T12:16:45.950014+00:00",
+      "last_updated_at": "2026-08-03T15:23:32.305257+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -1579,7 +1446,7 @@
       ],
       "webcast_live": false,
       "discovered_at": "2026-04-09T21:07:11.353167+00:00",
-      "last_updated_at": "2026-08-03T12:16:45.950020+00:00",
+      "last_updated_at": "2026-08-03T15:23:32.305263+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -1677,7 +1544,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-04-27T15:24:39.972764+00:00",
-      "last_updated_at": "2026-08-03T12:16:45.950007+00:00",
+      "last_updated_at": "2026-08-03T15:23:32.305250+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -1752,7 +1619,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-04-11T15:28:51.958924+00:00",
-      "last_updated_at": "2026-08-03T12:16:45.950033+00:00",
+      "last_updated_at": "2026-08-03T15:23:32.305280+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -1907,7 +1774,7 @@
       ],
       "webcast_live": false,
       "discovered_at": "2026-03-23T08:19:21.926409+00:00",
-      "last_updated_at": "2026-08-03T12:16:45.950043+00:00",
+      "last_updated_at": "2026-08-03T15:23:32.305293+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -2065,6 +1932,68 @@
       ]
     },
     {
+      "id": "b89ab080-66c3-4831-85a9-38d85da71d30",
+      "name": "H3-22 | Michibiki 7 (QZS-7)",
+      "slug": "h3-22-michibiki-7-qzs-7",
+      "status": {
+        "id": 2,
+        "abbrev": "TBD",
+        "name": "To Be Determined",
+        "description": "Current date is a placeholder or rough estimation based on unreliable or interpreted sources."
+      },
+      "net": "2026-08-31T00:00:00Z",
+      "window_start": "2026-08-31T00:00:00Z",
+      "window_end": "2026-08-31T00:00:00Z",
+      "probability": null,
+      "rocket": {
+        "name": "H3-22",
+        "family": "H3",
+        "manufacturer": "Mitsubishi Heavy Industries",
+        "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/h3-22_liftoff__image_20251028183835.jpg"
+      },
+      "mission": {
+        "name": "Michibiki 7 (QZS-7)",
+        "description": "QZSS (Quasi Zenith Satellite System) is a Japanese satellite navigation system operating from inclined, elliptical geosynchronous orbits to achieve optimal high-elevation visibility in urban canyons and mountainous areas. The navigation system objective is to broadcast GPS-interoperable and augmentation signals as well as original Japanese (QZSS) signals from a three-spacecraft constellation.\r\n\r\nThe navigation system objective is to broadcast GPS-interoperable and augmentation signals as well as original Japanese (QZSS) signals from a three-spacecraft constellation in inclined, elliptical geosynchronous orbits.",
+        "type": "Navigation",
+        "orbit": "Geostationary Transfer Orbit"
+      },
+      "pad": {
+        "name": "Yoshinobu Launch Complex LP-2",
+        "location": "Tanegashima Space Center, Japan",
+        "country": "JPN",
+        "latitude": "30.400938",
+        "longitude": "130.97564"
+      },
+      "agency": {
+        "name": "Mitsubishi Heavy Industries",
+        "abbrev": "MHI",
+        "type": "Commercial"
+      },
+      "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/h3-22_liftoff__image_20251028183835.jpg",
+      "vidURLs": [],
+      "webcast_live": false,
+      "discovered_at": "2026-06-20T10:09:46.182370+00:00",
+      "last_updated_at": "2026-08-03T15:23:32.305270+00:00",
+      "outcome": null,
+      "failure_reason": null,
+      "status_history": [
+        {
+          "at": "2026-06-20T10:09:46.182373+00:00",
+          "status_id": 1,
+          "abbrev": "Go",
+          "net": "2026-08-06T19:30:00Z"
+        },
+        {
+          "at": "2026-08-03T15:23:32.305273+00:00",
+          "status_id": 2,
+          "abbrev": "TBD",
+          "net": "2026-08-31T00:00:00Z",
+          "prev_net": "2026-08-06T19:30:00Z",
+          "prev_abbrev": "Go"
+        }
+      ]
+    },
+    {
       "id": "521f3a1c-f977-4306-9b7f-495858719adf",
       "name": "Falcon Heavy | Nancy Grace Roman Space Telescope",
       "slug": "falcon-heavy-nancy-grace-roman-space-telescope",
@@ -2106,7 +2035,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-06-25T13:33:42.830541+00:00",
-      "last_updated_at": "2026-08-03T12:16:45.949997+00:00",
+      "last_updated_at": "2026-08-03T15:23:32.305244+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -2182,7 +2111,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-04-30T15:48:07.790075+00:00",
-      "last_updated_at": "2026-08-03T12:16:45.949991+00:00",
+      "last_updated_at": "2026-08-03T15:23:32.305235+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -2243,7 +2172,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-07-15T16:16:11.182989+00:00",
-      "last_updated_at": "2026-08-03T12:16:45.949984+00:00",
+      "last_updated_at": "2026-08-03T15:23:32.305223+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -2305,7 +2234,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-07-20T13:23:41.091275+00:00",
-      "last_updated_at": "2026-08-03T12:16:45.949978+00:00",
+      "last_updated_at": "2026-08-03T15:23:32.305216+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -2314,6 +2243,147 @@
           "status_id": 8,
           "abbrev": "TBC",
           "net": "2026-08-17T02:00:00Z"
+        }
+      ]
+    },
+    {
+      "id": "be8b4b0d-1989-48a5-a96d-e8e4d59ed8b3",
+      "name": "Falcon 9 Block 5 | Globalstar 2-R Mission 1 (x 9)",
+      "slug": "falcon-9-block-5-globalstar-2-r-mission-1-x-9",
+      "status": {
+        "id": 8,
+        "abbrev": "TBC",
+        "name": "To Be Confirmed",
+        "description": "Awaiting official confirmation - current date is known with some certainty."
+      },
+      "net": "2026-08-16T01:12:00Z",
+      "window_start": "2026-08-16T01:02:00Z",
+      "window_end": "2026-08-16T02:20:00Z",
+      "probability": null,
+      "rocket": {
+        "name": "Falcon 9",
+        "family": "Falcon",
+        "manufacturer": "SpaceX",
+        "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/falcon_9_image_20230807133459.jpeg"
+      },
+      "mission": {
+        "name": "Globalstar 2-R Mission 1 (x 9)",
+        "description": "The Globalstar global mobile communications network offers global, digital real time voice, data and fax services via its Low Earth Orbit satellite constellation. The constellation operates in a 1410 km orbit inclined at 52 degrees.\r\n\r\nIn early 2022, Globalstar contracted with MDA for the construction of 17 new 2nd generation refresh satellites to replenish the existing constellation. Rocket Lab is sub-contracted to build the satellites' buses and the launch dispensers.",
+        "type": "Communications",
+        "orbit": "Low Earth Orbit"
+      },
+      "pad": {
+        "name": "Space Launch Complex 40",
+        "location": "Cape Canaveral SFS, FL, USA",
+        "country": "USA",
+        "latitude": "28.56194122",
+        "longitude": "-80.57735736"
+      },
+      "agency": {
+        "name": "SpaceX",
+        "abbrev": "SpX",
+        "type": "Commercial"
+      },
+      "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/falcon_9_image_20230807133459.jpeg",
+      "vidURLs": [
+        {
+          "title": "Globalstar 2-R Launch 1 Mission",
+          "url": "https://x.com/i/broadcasts/1nJOLERVPDzxR"
+        }
+      ],
+      "webcast_live": false,
+      "discovered_at": "2026-05-08T05:26:41.700479+00:00",
+      "last_updated_at": "2026-08-03T15:23:32.305204+00:00",
+      "outcome": null,
+      "failure_reason": null,
+      "status_history": [
+        {
+          "at": "2026-05-08T05:26:41.700482+00:00",
+          "status_id": 2,
+          "abbrev": "TBD",
+          "net": "2026-05-31T00:00:00Z"
+        },
+        {
+          "at": "2026-05-08T19:52:33.199860+00:00",
+          "status_id": 1,
+          "abbrev": "Go",
+          "net": "2026-05-17T12:50:00Z",
+          "prev_net": "2026-05-31T00:00:00Z",
+          "prev_abbrev": "TBD"
+        },
+        {
+          "at": "2026-05-12T21:47:28.689341+00:00",
+          "status_id": 1,
+          "abbrev": "Go",
+          "net": "2026-05-18T12:35:00Z",
+          "prev_net": "2026-05-17T12:50:00Z"
+        },
+        {
+          "at": "2026-05-14T06:20:21.484003+00:00",
+          "status_id": 1,
+          "abbrev": "Go",
+          "net": "2026-05-20T11:54:00Z",
+          "prev_net": "2026-05-18T12:35:00Z"
+        },
+        {
+          "at": "2026-05-14T15:39:31.575414+00:00",
+          "status_id": 1,
+          "abbrev": "Go",
+          "net": "2026-05-20T12:04:00Z",
+          "prev_net": "2026-05-20T11:54:00Z"
+        },
+        {
+          "at": "2026-05-15T21:58:05.689260+00:00",
+          "status_id": 2,
+          "abbrev": "TBD",
+          "net": "2026-05-31T00:00:00Z",
+          "prev_net": "2026-05-20T12:04:00Z",
+          "prev_abbrev": "Go"
+        },
+        {
+          "at": "2026-05-17T21:13:43.050564+00:00",
+          "status_id": 2,
+          "abbrev": "TBD",
+          "net": "2026-06-30T00:00:00Z",
+          "prev_net": "2026-05-31T00:00:00Z"
+        },
+        {
+          "at": "2026-06-08T17:48:26.816431+00:00",
+          "status_id": 8,
+          "abbrev": "TBC",
+          "net": "2026-06-20T06:39:00Z",
+          "prev_net": "2026-06-30T00:00:00Z",
+          "prev_abbrev": "TBD"
+        },
+        {
+          "at": "2026-06-15T22:17:20.690844+00:00",
+          "status_id": 2,
+          "abbrev": "TBD",
+          "net": "2026-06-30T00:00:00Z",
+          "prev_net": "2026-06-20T06:39:00Z",
+          "prev_abbrev": "TBC"
+        },
+        {
+          "at": "2026-06-23T01:28:40.116050+00:00",
+          "status_id": 2,
+          "abbrev": "TBD",
+          "net": "2026-07-31T00:00:00Z",
+          "prev_net": "2026-06-30T00:00:00Z"
+        },
+        {
+          "at": "2026-07-16T22:27:13.002256+00:00",
+          "status_id": 2,
+          "abbrev": "TBD",
+          "net": "2026-08-31T00:00:00Z",
+          "prev_net": "2026-07-31T00:00:00Z"
+        },
+        {
+          "at": "2026-08-03T15:23:32.305208+00:00",
+          "status_id": 8,
+          "abbrev": "TBC",
+          "net": "2026-08-16T01:12:00Z",
+          "prev_net": "2026-08-31T00:00:00Z",
+          "prev_abbrev": "TBD"
         }
       ]
     },
@@ -2418,7 +2488,7 @@
       ],
       "webcast_live": false,
       "discovered_at": "2026-07-27T17:15:46.215592+00:00",
-      "last_updated_at": "2026-08-03T12:16:45.949971+00:00",
+      "last_updated_at": "2026-08-03T15:23:32.305195+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -2491,7 +2561,7 @@
       ],
       "webcast_live": false,
       "discovered_at": "2026-07-27T17:15:46.215606+00:00",
-      "last_updated_at": "2026-08-03T12:16:45.949963+00:00",
+      "last_updated_at": "2026-08-03T15:23:32.305187+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -2559,7 +2629,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-07-20T13:23:41.091261+00:00",
-      "last_updated_at": "2026-08-03T12:16:45.949955+00:00",
+      "last_updated_at": "2026-08-03T15:23:32.305178+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -2618,7 +2688,7 @@
       ],
       "webcast_live": false,
       "discovered_at": "2026-07-27T17:15:46.215566+00:00",
-      "last_updated_at": "2026-08-03T12:16:45.949948+00:00",
+      "last_updated_at": "2026-08-03T15:23:32.305168+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -2641,60 +2711,6 @@
           "abbrev": "Go",
           "net": "2026-08-08T14:00:00Z",
           "prev_net": "2026-08-07T14:00:00Z"
-        }
-      ]
-    },
-    {
-      "id": "b89ab080-66c3-4831-85a9-38d85da71d30",
-      "name": "H3-22 | Michibiki 7 (QZS-7)",
-      "slug": "h3-22-michibiki-7-qzs-7",
-      "status": {
-        "id": 1,
-        "abbrev": "Go",
-        "name": "Go for Launch",
-        "description": "Current T-0 confirmed by official or reliable sources."
-      },
-      "net": "2026-08-06T19:30:00Z",
-      "window_start": "2026-08-06T19:30:00Z",
-      "window_end": "2026-08-06T21:00:00Z",
-      "probability": null,
-      "rocket": {
-        "name": "H3-22",
-        "family": "H3",
-        "manufacturer": "Mitsubishi Heavy Industries",
-        "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/h3-22_liftoff__image_20251028183835.jpg"
-      },
-      "mission": {
-        "name": "Michibiki 7 (QZS-7)",
-        "description": "QZSS (Quasi Zenith Satellite System) is a Japanese satellite navigation system operating from inclined, elliptical geosynchronous orbits to achieve optimal high-elevation visibility in urban canyons and mountainous areas. The navigation system objective is to broadcast GPS-interoperable and augmentation signals as well as original Japanese (QZSS) signals from a three-spacecraft constellation.\r\n\r\nThe navigation system objective is to broadcast GPS-interoperable and augmentation signals as well as original Japanese (QZSS) signals from a three-spacecraft constellation in inclined, elliptical geosynchronous orbits.",
-        "type": "Navigation",
-        "orbit": "Geostationary Transfer Orbit"
-      },
-      "pad": {
-        "name": "Yoshinobu Launch Complex LP-2",
-        "location": "Tanegashima Space Center, Japan",
-        "country": "JPN",
-        "latitude": "30.400938",
-        "longitude": "130.97564"
-      },
-      "agency": {
-        "name": "Mitsubishi Heavy Industries",
-        "abbrev": "MHI",
-        "type": "Commercial"
-      },
-      "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/h3-22_liftoff__image_20251028183835.jpg",
-      "vidURLs": [],
-      "webcast_live": false,
-      "discovered_at": "2026-06-20T10:09:46.182370+00:00",
-      "last_updated_at": "2026-08-03T12:16:45.949939+00:00",
-      "outcome": null,
-      "failure_reason": null,
-      "status_history": [
-        {
-          "at": "2026-06-20T10:09:46.182373+00:00",
-          "status_id": 1,
-          "abbrev": "Go",
-          "net": "2026-08-06T19:30:00Z"
         }
       ]
     },
@@ -2745,7 +2761,7 @@
       ],
       "webcast_live": false,
       "discovered_at": "2026-06-19T15:46:40.307006+00:00",
-      "last_updated_at": "2026-08-03T12:16:45.949930+00:00",
+      "last_updated_at": "2026-08-03T15:23:32.305139+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -2814,7 +2830,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-07-29T07:15:39.568581+00:00",
-      "last_updated_at": "2026-08-03T12:16:45.949921+00:00",
+      "last_updated_at": "2026-08-03T15:23:32.305129+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -2885,7 +2901,7 @@
       ],
       "webcast_live": false,
       "discovered_at": "2026-07-23T17:14:45.178988+00:00",
-      "last_updated_at": "2026-08-03T12:16:45.949909+00:00",
+      "last_updated_at": "2026-08-03T15:23:32.305116+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -2960,7 +2976,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-07-13T16:54:43.145777+00:00",
-      "last_updated_at": "2026-08-03T12:16:45.949872+00:00",
+      "last_updated_at": "2026-08-03T15:23:32.305079+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -14779,5 +14795,5 @@
       ]
     }
   ],
-  "last_updated": "2026-08-03T12:16:45.950404+00:00"
+  "last_updated": "2026-08-03T15:23:32.305658+00:00"
 }
