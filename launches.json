@@ -782,7 +782,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-07-26T15:57:34.604315+00:00",
-      "last_updated_at": "2026-08-14T12:53:32.514017+00:00",
+      "last_updated_at": "2026-08-14T14:12:26.979989+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -1095,7 +1095,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-07-23T04:47:18.150900+00:00",
-      "last_updated_at": "2026-08-14T12:53:32.514011+00:00",
+      "last_updated_at": "2026-08-14T14:12:26.979983+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -1157,7 +1157,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-07-25T23:55:28.112276+00:00",
-      "last_updated_at": "2026-08-14T12:53:32.514002+00:00",
+      "last_updated_at": "2026-08-14T14:12:26.979977+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -1219,7 +1219,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-04-26T23:04:51.622698+00:00",
-      "last_updated_at": "2026-08-14T12:53:32.513994+00:00",
+      "last_updated_at": "2026-08-14T14:12:26.979968+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -1442,7 +1442,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-06-27T00:00:59.521069+00:00",
-      "last_updated_at": "2026-08-14T12:53:32.513946+00:00",
+      "last_updated_at": "2026-08-14T14:12:26.979925+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -1503,7 +1503,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-04-27T15:24:39.972764+00:00",
-      "last_updated_at": "2026-08-14T12:53:32.513938+00:00",
+      "last_updated_at": "2026-08-14T14:12:26.979919+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -1578,7 +1578,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-04-11T15:28:51.958924+00:00",
-      "last_updated_at": "2026-08-14T12:53:32.513966+00:00",
+      "last_updated_at": "2026-08-14T14:12:26.979946+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -1733,7 +1733,7 @@
       ],
       "webcast_live": false,
       "discovered_at": "2026-03-23T08:19:21.926409+00:00",
-      "last_updated_at": "2026-08-14T12:53:32.513980+00:00",
+      "last_updated_at": "2026-08-14T14:12:26.979959+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -1932,7 +1932,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-08-05T02:00:15.102845+00:00",
-      "last_updated_at": "2026-08-14T12:53:32.513958+00:00",
+      "last_updated_at": "2026-08-14T14:12:26.979939+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -1986,7 +1986,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-08-05T02:00:15.102873+00:00",
-      "last_updated_at": "2026-08-14T12:53:32.513973+00:00",
+      "last_updated_at": "2026-08-14T14:12:26.979953+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -2040,7 +2040,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-08-06T15:20:03.880555+00:00",
-      "last_updated_at": "2026-08-14T12:53:32.513952+00:00",
+      "last_updated_at": "2026-08-14T14:12:26.979931+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -2094,7 +2094,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-08-10T01:45:55.102366+00:00",
-      "last_updated_at": "2026-08-14T12:53:32.513932+00:00",
+      "last_updated_at": "2026-08-14T14:12:26.979913+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -2103,76 +2103,6 @@
           "status_id": 2,
           "abbrev": "TBD",
           "net": "2026-08-31T00:00:00Z"
-        }
-      ]
-    },
-    {
-      "id": "ef02e2cf-e617-4b38-a526-951ac9204b0a",
-      "name": "Zhuque-3 | Flight 2",
-      "slug": "zhuque-3-flight-2",
-      "status": {
-        "id": 2,
-        "abbrev": "TBD",
-        "name": "To Be Determined",
-        "description": "Current date is a placeholder or rough estimation based on unreliable or interpreted sources."
-      },
-      "net": "2026-08-31T00:00:00Z",
-      "window_start": "2026-08-31T00:00:00Z",
-      "window_end": "2026-08-31T00:00:00Z",
-      "probability": null,
-      "rocket": {
-        "name": "Zhuque-3",
-        "family": "Zhuque",
-        "manufacturer": "LandSpace",
-        "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/zq-3_flight_1_l_image_20251203064230.jpg"
-      },
-      "mission": {
-        "name": "Flight 2",
-        "description": "Second test launch of LandSpace\u2019s ZQ-3 rocket. Payload identities are TBD.",
-        "type": "Test Flight",
-        "orbit": "Low Earth Orbit"
-      },
-      "pad": {
-        "name": "Launch Area 96B",
-        "location": "Jiuquan Satellite Launch Center, People's Republic of China",
-        "country": "CHN",
-        "latitude": "40.92017",
-        "longitude": "100.25129"
-      },
-      "agency": {
-        "name": "LandSpace",
-        "abbrev": "LS",
-        "type": "Commercial"
-      },
-      "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/zq-3_flight_1_l_image_20251203064230.jpg",
-      "vidURLs": [],
-      "webcast_live": false,
-      "discovered_at": "2026-07-19T07:03:08.589464+00:00",
-      "last_updated_at": "2026-08-14T12:53:32.513986+00:00",
-      "outcome": null,
-      "failure_reason": null,
-      "status_history": [
-        {
-          "at": "2026-07-19T07:03:08.589467+00:00",
-          "status_id": 2,
-          "abbrev": "TBD",
-          "net": "2026-08-31T00:00:00Z"
-        },
-        {
-          "at": "2026-08-05T10:58:14.210703+00:00",
-          "status_id": 1,
-          "abbrev": "Go",
-          "net": "2026-08-10T23:45:00Z",
-          "prev_net": "2026-08-31T00:00:00Z",
-          "prev_abbrev": "TBD"
-        },
-        {
-          "at": "2026-08-10T18:49:18.455796+00:00",
-          "status_id": 2,
-          "abbrev": "TBD",
-          "net": "2026-08-31T00:00:00Z",
-          "prev_net": "2026-08-10T23:45:00Z",
-          "prev_abbrev": "Go"
         }
       ]
     },
@@ -2218,7 +2148,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-06-25T13:33:42.830541+00:00",
-      "last_updated_at": "2026-08-14T12:53:32.513924+00:00",
+      "last_updated_at": "2026-08-14T14:12:26.979905+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -2308,7 +2238,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-04-30T15:48:07.790075+00:00",
-      "last_updated_at": "2026-08-14T12:53:32.513917+00:00",
+      "last_updated_at": "2026-08-14T14:12:26.979897+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -2377,7 +2307,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-08-13T17:53:27.837043+00:00",
-      "last_updated_at": "2026-08-14T12:53:32.513909+00:00",
+      "last_updated_at": "2026-08-14T14:12:26.979889+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -2436,7 +2366,7 @@
       ],
       "webcast_live": false,
       "discovered_at": "2026-08-12T17:27:05.381080+00:00",
-      "last_updated_at": "2026-08-14T12:53:32.513902+00:00",
+      "last_updated_at": "2026-08-14T14:12:26.979881+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -2490,7 +2420,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-07-15T16:16:11.182989+00:00",
-      "last_updated_at": "2026-08-14T12:53:32.513895+00:00",
+      "last_updated_at": "2026-08-14T14:12:26.979873+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -2552,7 +2482,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-08-13T17:53:27.837011+00:00",
-      "last_updated_at": "2026-08-14T12:53:32.513888+00:00",
+      "last_updated_at": "2026-08-14T14:12:26.979866+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -2611,7 +2541,7 @@
       ],
       "webcast_live": false,
       "discovered_at": "2026-08-10T17:46:42.952161+00:00",
-      "last_updated_at": "2026-08-14T12:53:32.513880+00:00",
+      "last_updated_at": "2026-08-14T14:12:26.979858+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -2670,7 +2600,7 @@
       ],
       "webcast_live": false,
       "discovered_at": "2026-08-07T00:37:43.644941+00:00",
-      "last_updated_at": "2026-08-14T12:53:32.513873+00:00",
+      "last_updated_at": "2026-08-14T14:12:26.979849+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -2679,6 +2609,84 @@
           "status_id": 1,
           "abbrev": "Go",
           "net": "2026-08-19T02:00:00Z"
+        }
+      ]
+    },
+    {
+      "id": "ef02e2cf-e617-4b38-a526-951ac9204b0a",
+      "name": "Zhuque-3 | Flight 2",
+      "slug": "zhuque-3-flight-2",
+      "status": {
+        "id": 1,
+        "abbrev": "Go",
+        "name": "Go for Launch",
+        "description": "Current T-0 confirmed by official or reliable sources."
+      },
+      "net": "2026-08-18T23:35:00Z",
+      "window_start": "2026-08-18T23:27:00Z",
+      "window_end": "2026-08-19T00:04:00Z",
+      "probability": null,
+      "rocket": {
+        "name": "Zhuque-3",
+        "family": "Zhuque",
+        "manufacturer": "LandSpace",
+        "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/zq-3_flight_1_l_image_20251203064230.jpg"
+      },
+      "mission": {
+        "name": "Flight 2",
+        "description": "Second test launch of LandSpace\u2019s ZQ-3 rocket. Payload identities are TBD.",
+        "type": "Test Flight",
+        "orbit": "Low Earth Orbit"
+      },
+      "pad": {
+        "name": "Launch Area 96B",
+        "location": "Jiuquan Satellite Launch Center, People's Republic of China",
+        "country": "CHN",
+        "latitude": "40.92017",
+        "longitude": "100.25129"
+      },
+      "agency": {
+        "name": "LandSpace",
+        "abbrev": "LS",
+        "type": "Commercial"
+      },
+      "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/zq-3_flight_1_l_image_20251203064230.jpg",
+      "vidURLs": [],
+      "webcast_live": false,
+      "discovered_at": "2026-07-19T07:03:08.589464+00:00",
+      "last_updated_at": "2026-08-14T14:12:26.979834+00:00",
+      "outcome": null,
+      "failure_reason": null,
+      "status_history": [
+        {
+          "at": "2026-07-19T07:03:08.589467+00:00",
+          "status_id": 2,
+          "abbrev": "TBD",
+          "net": "2026-08-31T00:00:00Z"
+        },
+        {
+          "at": "2026-08-05T10:58:14.210703+00:00",
+          "status_id": 1,
+          "abbrev": "Go",
+          "net": "2026-08-10T23:45:00Z",
+          "prev_net": "2026-08-31T00:00:00Z",
+          "prev_abbrev": "TBD"
+        },
+        {
+          "at": "2026-08-10T18:49:18.455796+00:00",
+          "status_id": 2,
+          "abbrev": "TBD",
+          "net": "2026-08-31T00:00:00Z",
+          "prev_net": "2026-08-10T23:45:00Z",
+          "prev_abbrev": "Go"
+        },
+        {
+          "at": "2026-08-14T14:12:26.979837+00:00",
+          "status_id": 1,
+          "abbrev": "Go",
+          "net": "2026-08-18T23:35:00Z",
+          "prev_net": "2026-08-31T00:00:00Z",
+          "prev_abbrev": "TBD"
         }
       ]
     },
@@ -2724,7 +2732,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-08-12T19:35:17.734730+00:00",
-      "last_updated_at": "2026-08-14T12:53:32.513861+00:00",
+      "last_updated_at": "2026-08-14T14:12:26.979822+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -2778,7 +2786,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-07-20T13:23:41.091275+00:00",
-      "last_updated_at": "2026-08-14T12:53:32.513851+00:00",
+      "last_updated_at": "2026-08-14T14:12:26.979812+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -2845,7 +2853,7 @@
       ],
       "webcast_live": false,
       "discovered_at": "2026-05-08T05:26:41.700479+00:00",
-      "last_updated_at": "2026-08-14T12:53:32.513836+00:00",
+      "last_updated_at": "2026-08-14T14:12:26.979796+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -2993,7 +3001,7 @@
       ],
       "webcast_live": false,
       "discovered_at": "2026-08-07T00:37:43.644898+00:00",
-      "last_updated_at": "2026-08-14T12:53:32.513804+00:00",
+      "last_updated_at": "2026-08-14T14:12:26.979764+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -15921,5 +15929,5 @@
       ]
     }
   ],
-  "last_updated": "2026-08-14T12:53:32.514368+00:00"
+  "last_updated": "2026-08-14T14:12:26.980360+00:00"
 }
