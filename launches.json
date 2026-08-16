@@ -843,7 +843,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-07-26T15:57:34.604315+00:00",
-      "last_updated_at": "2026-08-16T02:22:13.022519+00:00",
+      "last_updated_at": "2026-08-16T03:26:00.581298+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -1156,7 +1156,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-07-23T04:47:18.150900+00:00",
-      "last_updated_at": "2026-08-16T02:22:13.022509+00:00",
+      "last_updated_at": "2026-08-16T03:26:00.581290+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -1218,7 +1218,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-07-25T23:55:28.112276+00:00",
-      "last_updated_at": "2026-08-16T02:22:13.022503+00:00",
+      "last_updated_at": "2026-08-16T03:26:00.581282+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -1280,7 +1280,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-04-26T23:04:51.622698+00:00",
-      "last_updated_at": "2026-08-16T02:22:13.022496+00:00",
+      "last_updated_at": "2026-08-16T03:26:00.581276+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -1503,7 +1503,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-06-27T00:00:59.521069+00:00",
-      "last_updated_at": "2026-08-16T02:22:13.022449+00:00",
+      "last_updated_at": "2026-08-16T03:26:00.581234+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -1564,7 +1564,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-04-27T15:24:39.972764+00:00",
-      "last_updated_at": "2026-08-16T02:22:13.022442+00:00",
+      "last_updated_at": "2026-08-16T03:26:00.581225+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -1639,7 +1639,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-04-11T15:28:51.958924+00:00",
-      "last_updated_at": "2026-08-16T02:22:13.022470+00:00",
+      "last_updated_at": "2026-08-16T03:26:00.581254+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -1794,7 +1794,7 @@
       ],
       "webcast_live": false,
       "discovered_at": "2026-03-23T08:19:21.926409+00:00",
-      "last_updated_at": "2026-08-16T02:22:13.022489+00:00",
+      "last_updated_at": "2026-08-16T03:26:00.581269+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -1993,7 +1993,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-08-05T02:00:15.102845+00:00",
-      "last_updated_at": "2026-08-16T02:22:13.022464+00:00",
+      "last_updated_at": "2026-08-16T03:26:00.581247+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -2047,7 +2047,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-08-05T02:00:15.102873+00:00",
-      "last_updated_at": "2026-08-16T02:22:13.022477+00:00",
+      "last_updated_at": "2026-08-16T03:26:00.581260+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -2101,7 +2101,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-08-06T15:20:03.880555+00:00",
-      "last_updated_at": "2026-08-16T02:22:13.022457+00:00",
+      "last_updated_at": "2026-08-16T03:26:00.581240+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -2155,7 +2155,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-08-10T01:45:55.102366+00:00",
-      "last_updated_at": "2026-08-16T02:22:13.022433+00:00",
+      "last_updated_at": "2026-08-16T03:26:00.581217+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -2209,7 +2209,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-06-25T13:33:42.830541+00:00",
-      "last_updated_at": "2026-08-16T02:22:13.022425+00:00",
+      "last_updated_at": "2026-08-16T03:26:00.581208+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -2299,7 +2299,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-04-30T15:48:07.790075+00:00",
-      "last_updated_at": "2026-08-16T02:22:13.022418+00:00",
+      "last_updated_at": "2026-08-16T03:26:00.581201+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -2373,7 +2373,7 @@
       ],
       "webcast_live": false,
       "discovered_at": "2026-08-13T17:53:27.837043+00:00",
-      "last_updated_at": "2026-08-16T02:22:13.022411+00:00",
+      "last_updated_at": "2026-08-16T03:26:00.581195+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -2439,7 +2439,7 @@
       ],
       "webcast_live": false,
       "discovered_at": "2026-08-12T17:27:05.381080+00:00",
-      "last_updated_at": "2026-08-16T02:22:13.022405+00:00",
+      "last_updated_at": "2026-08-16T03:26:00.581188+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -2500,7 +2500,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-07-15T16:16:11.182989+00:00",
-      "last_updated_at": "2026-08-16T02:22:13.022397+00:00",
+      "last_updated_at": "2026-08-16T03:26:00.581180+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -2567,7 +2567,7 @@
       ],
       "webcast_live": false,
       "discovered_at": "2026-08-13T17:53:27.837011+00:00",
-      "last_updated_at": "2026-08-16T02:22:13.022389+00:00",
+      "last_updated_at": "2026-08-16T03:26:00.581172+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -2633,7 +2633,7 @@
       ],
       "webcast_live": false,
       "discovered_at": "2026-08-10T17:46:42.952161+00:00",
-      "last_updated_at": "2026-08-16T02:22:13.022380+00:00",
+      "last_updated_at": "2026-08-16T03:26:00.581163+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -2692,7 +2692,7 @@
       ],
       "webcast_live": false,
       "discovered_at": "2026-08-07T00:37:43.644941+00:00",
-      "last_updated_at": "2026-08-16T02:22:13.022373+00:00",
+      "last_updated_at": "2026-08-16T03:26:00.581156+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -2746,7 +2746,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-07-19T07:03:08.589464+00:00",
-      "last_updated_at": "2026-08-16T02:22:13.022364+00:00",
+      "last_updated_at": "2026-08-16T03:26:00.581149+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -2824,7 +2824,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-08-12T19:35:17.734730+00:00",
-      "last_updated_at": "2026-08-16T02:22:13.022351+00:00",
+      "last_updated_at": "2026-08-16T03:26:00.581137+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -2878,7 +2878,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-07-20T13:23:41.091275+00:00",
-      "last_updated_at": "2026-08-16T02:22:13.022341+00:00",
+      "last_updated_at": "2026-08-16T03:26:00.581127+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -2939,8 +2939,8 @@
       "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/falcon_9_image_20230807133459.jpeg",
       "vidURLs": [
         {
-          "title": "GO! - SpaceX - Falcon 9 - USSF-366 - SLC-4E - Vandenberg Space Force Base, CA - Space Affairs Live",
-          "url": "https://www.youtube.com/watch?v=kHEJHhUndgk"
+          "title": "SpaceX USSF-366",
+          "url": "https://www.youtube.com/watch?v=GCdmtmYyInM"
         },
         {
           "title": "Live: SpaceX Falcon 9 rocket launches secretive mission for U.S. Space Force",
@@ -2955,9 +2955,9 @@
           "url": "https://x.com/i/broadcasts/1DxleVErQBdKL"
         }
       ],
-      "webcast_live": true,
+      "webcast_live": false,
       "discovered_at": "2026-08-07T00:37:43.644898+00:00",
-      "last_updated_at": "2026-08-16T02:22:13.022321+00:00",
+      "last_updated_at": "2026-08-16T03:26:00.581109+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -3045,8 +3045,8 @@
       "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/falcon_9_image_20230807133459.jpeg",
       "vidURLs": [
         {
-          "title": "GO! - SpaceX - Falcon 9 - GLOBALSTAR 2-R M #1 - SLC-40 - Cape Canaveral SFS - Space Affairs Live",
-          "url": "https://www.youtube.com/watch?v=f760SB4MWjg"
+          "title": "SpaceX Globalstar 2-R Mission 1 (x 8)",
+          "url": "https://www.youtube.com/watch?v=o3t9usE9y5w"
         },
         {
           "title": "Live: SpaceX Falcon 9 rocket launches and lands at Cape Canaveral for Globalstar mission",
@@ -3061,9 +3061,9 @@
           "url": "https://x.com/i/broadcasts/1pJkOOkmyQyJj"
         }
       ],
-      "webcast_live": true,
+      "webcast_live": false,
       "discovered_at": "2026-05-08T05:26:41.700479+00:00",
-      "last_updated_at": "2026-08-16T02:22:13.022278+00:00",
+      "last_updated_at": "2026-08-16T03:26:00.581055+00:00",
       "outcome": "success",
       "failure_reason": null,
       "status_history": [
@@ -16033,5 +16033,5 @@
       ]
     }
   ],
-  "last_updated": "2026-08-16T02:22:13.022866+00:00"
+  "last_updated": "2026-08-16T03:26:00.581679+00:00"
 }
