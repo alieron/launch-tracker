@@ -355,7 +355,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-05-15T13:55:15.723939+00:00",
-      "last_updated_at": "2026-08-26T23:59:28.237182+00:00",
+      "last_updated_at": "2026-08-27T08:45:03.877315+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -416,7 +416,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-05-21T02:50:34.747203+00:00",
-      "last_updated_at": "2026-08-26T23:59:28.237190+00:00",
+      "last_updated_at": "2026-08-27T08:45:03.877321+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -477,7 +477,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-05-22T10:45:39.299013+00:00",
-      "last_updated_at": "2026-08-26T23:59:28.237197+00:00",
+      "last_updated_at": "2026-08-27T08:45:03.877329+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -782,7 +782,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-07-26T15:57:34.604315+00:00",
-      "last_updated_at": "2026-08-26T23:59:28.237118+00:00",
+      "last_updated_at": "2026-08-27T08:45:03.877263+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -791,103 +791,6 @@
           "status_id": 2,
           "abbrev": "TBD",
           "net": "2026-09-30T00:00:00Z"
-        }
-      ]
-    },
-    {
-      "id": "17d0ec68-f466-4916-9dc5-16123eda6484",
-      "name": "GSLV Mk II | GISAT-1A (EOS-05)",
-      "slug": "gslv-mk-ii-gisat-1a-eos-05",
-      "status": {
-        "id": 2,
-        "abbrev": "TBD",
-        "name": "To Be Determined",
-        "description": "Current date is a placeholder or rough estimation based on unreliable or interpreted sources."
-      },
-      "net": "2026-09-30T00:00:00Z",
-      "window_start": "2026-09-30T00:00:00Z",
-      "window_end": "2026-09-30T00:00:00Z",
-      "probability": null,
-      "rocket": {
-        "name": "GSLV Mk II",
-        "family": "GSLV",
-        "manufacturer": "Indian Space Research Organization",
-        "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/gslv2520mk2520ii_image_20190825171642.jpg"
-      },
-      "mission": {
-        "name": "GISAT-1A (EOS-05)",
-        "description": "GISAT-1A (GEO Imaging Satellite) is an Indian earth observing satellite operating from geostationary orbit to facilitate continuous observation of Indian sub-continent, quick monitoring of natural hazards and disaster.",
-        "type": "Earth Science",
-        "orbit": "Geostationary Transfer Orbit"
-      },
-      "pad": {
-        "name": "Satish Dhawan Space Centre Second Launch Pad",
-        "location": "Satish Dhawan Space Centre, India",
-        "country": "IND",
-        "latitude": "13.7199",
-        "longitude": "80.2304"
-      },
-      "agency": {
-        "name": "Indian Space Research Organization",
-        "abbrev": "ISRO",
-        "type": "Government"
-      },
-      "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/gslv2520mk2520ii_image_20190825171642.jpg",
-      "vidURLs": [],
-      "webcast_live": false,
-      "discovered_at": "2026-05-07T15:11:41.797008+00:00",
-      "last_updated_at": "2026-08-26T23:59:28.237126+00:00",
-      "outcome": null,
-      "failure_reason": null,
-      "status_history": [
-        {
-          "at": "2026-05-07T15:11:41.797011+00:00",
-          "status_id": 8,
-          "abbrev": "TBC",
-          "net": "2026-05-21T03:15:00Z"
-        },
-        {
-          "at": "2026-05-14T15:39:31.575480+00:00",
-          "status_id": 2,
-          "abbrev": "TBD",
-          "net": "2026-05-31T00:00:00Z",
-          "prev_net": "2026-05-21T03:15:00Z",
-          "prev_abbrev": "TBC"
-        },
-        {
-          "at": "2026-05-22T10:45:39.298959+00:00",
-          "status_id": 2,
-          "abbrev": "TBD",
-          "net": "2026-06-30T00:00:00Z",
-          "prev_net": "2026-05-31T00:00:00Z"
-        },
-        {
-          "at": "2026-05-24T01:29:12.826439+00:00",
-          "status_id": 2,
-          "abbrev": "TBD",
-          "net": "2026-06-10T00:00:00Z",
-          "prev_net": "2026-06-30T00:00:00Z"
-        },
-        {
-          "at": "2026-06-02T05:09:19.680378+00:00",
-          "status_id": 2,
-          "abbrev": "TBD",
-          "net": "2026-06-30T00:00:00Z",
-          "prev_net": "2026-06-10T00:00:00Z"
-        },
-        {
-          "at": "2026-06-19T15:46:40.307033+00:00",
-          "status_id": 2,
-          "abbrev": "TBD",
-          "net": "2026-07-31T00:00:00Z",
-          "prev_net": "2026-06-30T00:00:00Z"
-        },
-        {
-          "at": "2026-07-31T02:21:00.684473+00:00",
-          "status_id": 2,
-          "abbrev": "TBD",
-          "net": "2026-09-30T00:00:00Z",
-          "prev_net": "2026-07-31T00:00:00Z"
         }
       ]
     },
@@ -933,7 +836,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-08-02T05:39:37.830291+00:00",
-      "last_updated_at": "2026-08-26T23:59:28.237155+00:00",
+      "last_updated_at": "2026-08-27T08:45:03.877295+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -987,7 +890,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-08-06T15:20:03.880632+00:00",
-      "last_updated_at": "2026-08-26T23:59:28.237170+00:00",
+      "last_updated_at": "2026-08-27T08:45:03.877305+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -1041,7 +944,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-08-09T17:04:59.658112+00:00",
-      "last_updated_at": "2026-08-26T23:59:28.237164+00:00",
+      "last_updated_at": "2026-08-27T08:45:03.877300+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -1095,7 +998,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-08-17T02:18:50.340460+00:00",
-      "last_updated_at": "2026-08-26T23:59:28.237133+00:00",
+      "last_updated_at": "2026-08-27T08:45:03.877268+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -1149,7 +1052,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-08-17T04:10:42.318745+00:00",
-      "last_updated_at": "2026-08-26T23:59:28.237147+00:00",
+      "last_updated_at": "2026-08-27T08:45:03.877288+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -1288,7 +1191,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-04-27T15:24:39.972764+00:00",
-      "last_updated_at": "2026-08-26T23:59:28.237109+00:00",
+      "last_updated_at": "2026-08-27T08:45:03.877256+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -1379,7 +1282,7 @@
       ],
       "webcast_live": false,
       "discovered_at": "2026-03-23T08:19:21.926409+00:00",
-      "last_updated_at": "2026-08-26T23:59:28.237140+00:00",
+      "last_updated_at": "2026-08-27T08:45:03.877282+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -1578,7 +1481,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-08-25T10:01:44.595713+00:00",
-      "last_updated_at": "2026-08-26T23:59:28.237176+00:00",
+      "last_updated_at": "2026-08-27T08:45:03.877309+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -1587,6 +1490,67 @@
           "status_id": 2,
           "abbrev": "TBD",
           "net": "2026-09-30T00:00:00Z"
+        }
+      ]
+    },
+    {
+      "id": "dc570565-4dcf-4ab9-8174-bf88efef477f",
+      "name": "Long March 12A | Flight 2",
+      "slug": "long-march-12a-flight-2",
+      "status": {
+        "id": 2,
+        "abbrev": "TBD",
+        "name": "To Be Determined",
+        "description": "Current date is a placeholder or rough estimation based on unreliable or interpreted sources."
+      },
+      "net": "2026-09-30T00:00:00Z",
+      "window_start": "2026-09-30T00:00:00Z",
+      "window_end": "2026-09-30T00:00:00Z",
+      "probability": null,
+      "rocket": {
+        "name": "Long March 12A",
+        "family": "Long March",
+        "manufacturer": "China Aerospace Science and Technology Corporation",
+        "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/long_march_12a__image_20251224005749.jpg"
+      },
+      "mission": {
+        "name": "Flight 2",
+        "description": "Second test launch of CASC/SAST\u2019s Long March 12A rocket. Payload identities are TBD.",
+        "type": "Test Flight",
+        "orbit": "Low Earth Orbit"
+      },
+      "pad": {
+        "name": "Long March 12 series Pad",
+        "location": "Jiuquan Satellite Launch Center, People's Republic of China",
+        "country": "CHN",
+        "latitude": "40.891596",
+        "longitude": "100.217289"
+      },
+      "agency": {
+        "name": "China Aerospace Science and Technology Corporation",
+        "abbrev": "CASC",
+        "type": "Government"
+      },
+      "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/long_march_12a__image_20251224005749.jpg",
+      "vidURLs": [],
+      "webcast_live": false,
+      "discovered_at": "2026-08-05T02:00:15.102845+00:00",
+      "last_updated_at": "2026-08-27T08:45:03.877274+00:00",
+      "outcome": null,
+      "failure_reason": null,
+      "status_history": [
+        {
+          "at": "2026-08-05T02:00:15.102848+00:00",
+          "status_id": 2,
+          "abbrev": "TBD",
+          "net": "2026-08-31T00:00:00Z"
+        },
+        {
+          "at": "2026-08-27T08:45:03.877276+00:00",
+          "status_id": 2,
+          "abbrev": "TBD",
+          "net": "2026-09-30T00:00:00Z",
+          "prev_net": "2026-08-31T00:00:00Z"
         }
       ]
     },
@@ -1632,7 +1596,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-07-23T04:47:18.150900+00:00",
-      "last_updated_at": "2026-08-26T23:59:28.237099+00:00",
+      "last_updated_at": "2026-08-27T08:45:03.877250+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -1694,7 +1658,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-07-25T23:55:28.112276+00:00",
-      "last_updated_at": "2026-08-26T23:59:28.237090+00:00",
+      "last_updated_at": "2026-08-27T08:45:03.877244+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -1756,7 +1720,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-04-26T23:04:51.622698+00:00",
-      "last_updated_at": "2026-08-26T23:59:28.237083+00:00",
+      "last_updated_at": "2026-08-27T08:45:03.877238+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -1830,7 +1794,7 @@
       ],
       "webcast_live": false,
       "discovered_at": "2026-08-21T15:57:09.881450+00:00",
-      "last_updated_at": "2026-08-26T23:59:28.237076+00:00",
+      "last_updated_at": "2026-08-27T08:45:03.877230+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -1846,6 +1810,111 @@
           "abbrev": "Go",
           "net": "2026-09-05T11:13:00Z",
           "prev_net": "2026-09-04T11:28:00Z"
+        }
+      ]
+    },
+    {
+      "id": "17d0ec68-f466-4916-9dc5-16123eda6484",
+      "name": "GSLV Mk II | GISAT-1A (EOS-05)",
+      "slug": "gslv-mk-ii-gisat-1a-eos-05",
+      "status": {
+        "id": 8,
+        "abbrev": "TBC",
+        "name": "To Be Confirmed",
+        "description": "Awaiting official confirmation - current date is known with some certainty."
+      },
+      "net": "2026-09-03T21:00:00Z",
+      "window_start": "2026-09-03T21:00:00Z",
+      "window_end": "2026-09-04T01:00:00Z",
+      "probability": null,
+      "rocket": {
+        "name": "GSLV Mk II",
+        "family": "GSLV",
+        "manufacturer": "Indian Space Research Organization",
+        "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/gslv2520mk2520ii_image_20190825171642.jpg"
+      },
+      "mission": {
+        "name": "GISAT-1A (EOS-05)",
+        "description": "GISAT-1A (GEO Imaging Satellite) is an Indian earth observing satellite operating from geostationary orbit to facilitate continuous observation of Indian sub-continent, quick monitoring of natural hazards and disaster.",
+        "type": "Earth Science",
+        "orbit": "Geostationary Transfer Orbit"
+      },
+      "pad": {
+        "name": "Satish Dhawan Space Centre Second Launch Pad",
+        "location": "Satish Dhawan Space Centre, India",
+        "country": "IND",
+        "latitude": "13.7199",
+        "longitude": "80.2304"
+      },
+      "agency": {
+        "name": "Indian Space Research Organization",
+        "abbrev": "ISRO",
+        "type": "Government"
+      },
+      "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/gslv2520mk2520ii_image_20190825171642.jpg",
+      "vidURLs": [],
+      "webcast_live": false,
+      "discovered_at": "2026-05-07T15:11:41.797008+00:00",
+      "last_updated_at": "2026-08-27T08:45:03.877221+00:00",
+      "outcome": null,
+      "failure_reason": null,
+      "status_history": [
+        {
+          "at": "2026-05-07T15:11:41.797011+00:00",
+          "status_id": 8,
+          "abbrev": "TBC",
+          "net": "2026-05-21T03:15:00Z"
+        },
+        {
+          "at": "2026-05-14T15:39:31.575480+00:00",
+          "status_id": 2,
+          "abbrev": "TBD",
+          "net": "2026-05-31T00:00:00Z",
+          "prev_net": "2026-05-21T03:15:00Z",
+          "prev_abbrev": "TBC"
+        },
+        {
+          "at": "2026-05-22T10:45:39.298959+00:00",
+          "status_id": 2,
+          "abbrev": "TBD",
+          "net": "2026-06-30T00:00:00Z",
+          "prev_net": "2026-05-31T00:00:00Z"
+        },
+        {
+          "at": "2026-05-24T01:29:12.826439+00:00",
+          "status_id": 2,
+          "abbrev": "TBD",
+          "net": "2026-06-10T00:00:00Z",
+          "prev_net": "2026-06-30T00:00:00Z"
+        },
+        {
+          "at": "2026-06-02T05:09:19.680378+00:00",
+          "status_id": 2,
+          "abbrev": "TBD",
+          "net": "2026-06-30T00:00:00Z",
+          "prev_net": "2026-06-10T00:00:00Z"
+        },
+        {
+          "at": "2026-06-19T15:46:40.307033+00:00",
+          "status_id": 2,
+          "abbrev": "TBD",
+          "net": "2026-07-31T00:00:00Z",
+          "prev_net": "2026-06-30T00:00:00Z"
+        },
+        {
+          "at": "2026-07-31T02:21:00.684473+00:00",
+          "status_id": 2,
+          "abbrev": "TBD",
+          "net": "2026-09-30T00:00:00Z",
+          "prev_net": "2026-07-31T00:00:00Z"
+        },
+        {
+          "at": "2026-08-27T08:45:03.877224+00:00",
+          "status_id": 8,
+          "abbrev": "TBC",
+          "net": "2026-09-03T21:00:00Z",
+          "prev_net": "2026-09-30T00:00:00Z",
+          "prev_abbrev": "TBD"
         }
       ]
     },
@@ -1896,7 +1965,7 @@
       ],
       "webcast_live": false,
       "discovered_at": "2026-08-20T20:54:39.155752+00:00",
-      "last_updated_at": "2026-08-26T23:59:28.237069+00:00",
+      "last_updated_at": "2026-08-27T08:45:03.877214+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -1912,6 +1981,68 @@
           "abbrev": "Go",
           "net": "2026-09-02T07:46:00Z",
           "prev_net": "2026-09-01T08:01:00Z"
+        }
+      ]
+    },
+    {
+      "id": "a927b2f9-f9a5-4196-9abb-2e275e4a6b96",
+      "name": "Pallas-1 | Demo Flight",
+      "slug": "pallas-1-demo-flight",
+      "status": {
+        "id": 1,
+        "abbrev": "Go",
+        "name": "Go for Launch",
+        "description": "Current T-0 confirmed by official or reliable sources."
+      },
+      "net": "2026-09-01T02:00:00Z",
+      "window_start": "2026-09-01T01:52:00Z",
+      "window_end": "2026-09-01T04:09:00Z",
+      "probability": null,
+      "rocket": {
+        "name": "Pallas-1",
+        "family": "",
+        "manufacturer": "Galactic Energy",
+        "image_url": null
+      },
+      "mission": {
+        "name": "Demo Flight",
+        "description": "First test launch of Galactic Energy\u2019s Pallas-1 rocket.",
+        "type": "Test Flight",
+        "orbit": "Unknown"
+      },
+      "pad": {
+        "name": "Pallas-1 Launch Pad",
+        "location": "Jiuquan Satellite Launch Center, People's Republic of China",
+        "country": "CHN",
+        "latitude": "40.775962",
+        "longitude": "100.107214"
+      },
+      "agency": {
+        "name": "Galactic Energy",
+        "abbrev": "GE",
+        "type": "Commercial"
+      },
+      "image_url": null,
+      "vidURLs": [],
+      "webcast_live": false,
+      "discovered_at": "2026-08-05T02:00:15.102873+00:00",
+      "last_updated_at": "2026-08-27T08:45:03.877201+00:00",
+      "outcome": null,
+      "failure_reason": null,
+      "status_history": [
+        {
+          "at": "2026-08-05T02:00:15.102875+00:00",
+          "status_id": 2,
+          "abbrev": "TBD",
+          "net": "2026-08-31T00:00:00Z"
+        },
+        {
+          "at": "2026-08-27T08:45:03.877203+00:00",
+          "status_id": 1,
+          "abbrev": "Go",
+          "net": "2026-09-01T02:00:00Z",
+          "prev_net": "2026-08-31T00:00:00Z",
+          "prev_abbrev": "TBD"
         }
       ]
     },
@@ -1957,7 +2088,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-06-27T00:00:59.521069+00:00",
-      "last_updated_at": "2026-08-26T23:59:28.237061+00:00",
+      "last_updated_at": "2026-08-27T08:45:03.877194+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -2300,114 +2431,6 @@
       ]
     },
     {
-      "id": "dc570565-4dcf-4ab9-8174-bf88efef477f",
-      "name": "Long March 12A | Flight 2",
-      "slug": "long-march-12a-flight-2",
-      "status": {
-        "id": 2,
-        "abbrev": "TBD",
-        "name": "To Be Determined",
-        "description": "Current date is a placeholder or rough estimation based on unreliable or interpreted sources."
-      },
-      "net": "2026-08-31T00:00:00Z",
-      "window_start": "2026-08-31T00:00:00Z",
-      "window_end": "2026-08-31T00:00:00Z",
-      "probability": null,
-      "rocket": {
-        "name": "Long March 12A",
-        "family": "Long March",
-        "manufacturer": "China Aerospace Science and Technology Corporation",
-        "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/long_march_12a__image_20251224005749.jpg"
-      },
-      "mission": {
-        "name": "Flight 2",
-        "description": "Second test launch of CASC/SAST\u2019s Long March 12A rocket. Payload identities are TBD.",
-        "type": "Test Flight",
-        "orbit": "Low Earth Orbit"
-      },
-      "pad": {
-        "name": "Long March 12 series Pad",
-        "location": "Jiuquan Satellite Launch Center, People's Republic of China",
-        "country": "CHN",
-        "latitude": "40.891596",
-        "longitude": "100.217289"
-      },
-      "agency": {
-        "name": "China Aerospace Science and Technology Corporation",
-        "abbrev": "CASC",
-        "type": "Government"
-      },
-      "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/long_march_12a__image_20251224005749.jpg",
-      "vidURLs": [],
-      "webcast_live": false,
-      "discovered_at": "2026-08-05T02:00:15.102845+00:00",
-      "last_updated_at": "2026-08-26T23:59:28.237043+00:00",
-      "outcome": null,
-      "failure_reason": null,
-      "status_history": [
-        {
-          "at": "2026-08-05T02:00:15.102848+00:00",
-          "status_id": 2,
-          "abbrev": "TBD",
-          "net": "2026-08-31T00:00:00Z"
-        }
-      ]
-    },
-    {
-      "id": "a927b2f9-f9a5-4196-9abb-2e275e4a6b96",
-      "name": "Pallas-1 | Demo Flight",
-      "slug": "pallas-1-demo-flight",
-      "status": {
-        "id": 2,
-        "abbrev": "TBD",
-        "name": "To Be Determined",
-        "description": "Current date is a placeholder or rough estimation based on unreliable or interpreted sources."
-      },
-      "net": "2026-08-31T00:00:00Z",
-      "window_start": "2026-08-31T00:00:00Z",
-      "window_end": "2026-08-31T00:00:00Z",
-      "probability": null,
-      "rocket": {
-        "name": "Pallas-1",
-        "family": "",
-        "manufacturer": "Galactic Energy",
-        "image_url": null
-      },
-      "mission": {
-        "name": "Demo Flight",
-        "description": "First test launch of Galactic Energy\u2019s Pallas-1 rocket.",
-        "type": "Test Flight",
-        "orbit": "Unknown"
-      },
-      "pad": {
-        "name": "Pallas-1 Launch Pad",
-        "location": "Jiuquan Satellite Launch Center, People's Republic of China",
-        "country": "CHN",
-        "latitude": "40.775962",
-        "longitude": "100.107214"
-      },
-      "agency": {
-        "name": "Galactic Energy",
-        "abbrev": "GE",
-        "type": "Commercial"
-      },
-      "image_url": null,
-      "vidURLs": [],
-      "webcast_live": false,
-      "discovered_at": "2026-08-05T02:00:15.102873+00:00",
-      "last_updated_at": "2026-08-26T23:59:28.237051+00:00",
-      "outcome": null,
-      "failure_reason": null,
-      "status_history": [
-        {
-          "at": "2026-08-05T02:00:15.102875+00:00",
-          "status_id": 2,
-          "abbrev": "TBD",
-          "net": "2026-08-31T00:00:00Z"
-        }
-      ]
-    },
-    {
       "id": "ab3c1e6c-03fe-48a7-b6ce-30c79569bdfb",
       "name": "Angara 1.2 | Kosmos (Unknown Payload)",
       "slug": "angara-12-kosmos-unknown-payload",
@@ -2449,7 +2472,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-08-10T01:45:55.102366+00:00",
-      "last_updated_at": "2026-08-26T23:59:28.237034+00:00",
+      "last_updated_at": "2026-08-27T08:45:03.877185+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -2516,7 +2539,7 @@
       ],
       "webcast_live": false,
       "discovered_at": "2026-06-25T13:33:42.830541+00:00",
-      "last_updated_at": "2026-08-26T23:59:28.237019+00:00",
+      "last_updated_at": "2026-08-27T08:45:03.877174+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -2615,7 +2638,7 @@
       ],
       "webcast_live": false,
       "discovered_at": "2026-04-30T15:48:07.790075+00:00",
-      "last_updated_at": "2026-08-26T23:59:28.237003+00:00",
+      "last_updated_at": "2026-08-27T08:45:03.877160+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -2697,7 +2720,7 @@
       ],
       "webcast_live": false,
       "discovered_at": "2026-08-13T17:53:27.837043+00:00",
-      "last_updated_at": "2026-08-26T23:59:28.236963+00:00",
+      "last_updated_at": "2026-08-27T08:45:03.877117+00:00",
       "outcome": "success",
       "failure_reason": null,
       "status_history": [
@@ -16793,5 +16816,5 @@
       ]
     }
   ],
-  "last_updated": "2026-08-26T23:59:28.237568+00:00"
+  "last_updated": "2026-08-27T08:45:03.877654+00:00"
 }
