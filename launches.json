@@ -314,6 +314,342 @@
       ]
     },
     {
+      "id": "c703fab3-2ce4-4cf1-861d-754da3f3ad42",
+      "name": "Falcon 9 Block 5 | SDA Tranche 2 Transport Layer A",
+      "slug": "falcon-9-block-5-sda-tranche-2-transport-layer-a",
+      "status": {
+        "id": 2,
+        "abbrev": "TBD",
+        "name": "To Be Determined",
+        "description": "Current date is a placeholder or rough estimation based on unreliable or interpreted sources."
+      },
+      "net": "2026-12-31T00:00:00Z",
+      "window_start": "2026-12-31T00:00:00Z",
+      "window_end": "2026-12-31T00:00:00Z",
+      "probability": null,
+      "rocket": {
+        "name": "Falcon 9",
+        "family": "Falcon",
+        "manufacturer": "SpaceX",
+        "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/falcon_9_image_20230807133459.jpeg"
+      },
+      "mission": {
+        "name": "SDA Tranche 2 Transport Layer A",
+        "description": "Classified mission launched by the Space Development Agency (SDA) for Tranche 2 Transport Layer.",
+        "type": "Government/Top Secret",
+        "orbit": "Polar Orbit"
+      },
+      "pad": {
+        "name": "Space Launch Complex 4E",
+        "location": "Vandenberg SFB, CA, USA",
+        "country": "USA",
+        "latitude": "34.632",
+        "longitude": "-120.611"
+      },
+      "agency": {
+        "name": "SpaceX",
+        "abbrev": "SpX",
+        "type": "Commercial"
+      },
+      "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/falcon_9_image_20230807133459.jpeg",
+      "vidURLs": [],
+      "webcast_live": false,
+      "discovered_at": "2026-07-08T08:18:26.468548+00:00",
+      "last_updated_at": "2026-08-31T00:42:55.360808+00:00",
+      "outcome": null,
+      "failure_reason": null,
+      "status_history": [
+        {
+          "at": "2026-07-08T08:18:26.468551+00:00",
+          "status_id": 2,
+          "abbrev": "TBD",
+          "net": "2026-08-31T00:00:00Z"
+        },
+        {
+          "at": "2026-08-31T00:42:55.360828+00:00",
+          "status_id": 2,
+          "abbrev": "TBD",
+          "net": "2026-12-31T00:00:00Z",
+          "prev_net": "2026-08-31T00:00:00Z"
+        }
+      ]
+    },
+    {
+      "id": "91b13c6c-4525-496d-997b-3521bb6a4cd8",
+      "name": "RFA One | Maiden Flight",
+      "slug": "rfa-one-maiden-flight",
+      "status": {
+        "id": 2,
+        "abbrev": "TBD",
+        "name": "To Be Determined",
+        "description": "Current date is a placeholder or rough estimation based on unreliable or interpreted sources."
+      },
+      "net": "2026-12-31T00:00:00Z",
+      "window_start": "2026-12-31T00:00:00Z",
+      "window_end": "2026-12-31T00:00:00Z",
+      "probability": null,
+      "rocket": {
+        "name": "RFA One",
+        "family": "",
+        "manufacturer": "Rocket Factory Augsburg",
+        "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/rfa_one_image_20230117001619.png"
+      },
+      "mission": {
+        "name": "Maiden Flight",
+        "description": "First flight of the RFA One launch vehicle. Will carry 7 satellites for various companies and organizations coordinated by the German Aerospace Center (DLR).\r\n\r\n* AllBertEinStein\r\n* ARTICA\r\n* Curium Two\r\n* ERMINAZ\r\n* PCIOD\r\n* Separation Ring Mission\r\n* SpaceDREAM",
+        "type": "Test Flight",
+        "orbit": "Sun-Synchronous Orbit"
+      },
+      "pad": {
+        "name": "Launch Pad Fredo",
+        "location": "SaxaVord Spaceport",
+        "country": "GBR",
+        "latitude": "60.81736038715111",
+        "longitude": "-0.7626391593025057"
+      },
+      "agency": {
+        "name": "Rocket Factory Augsburg",
+        "abbrev": "RFA",
+        "type": "Private"
+      },
+      "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/rfa_one_image_20230117001619.png",
+      "vidURLs": [],
+      "webcast_live": false,
+      "discovered_at": "2026-07-18T14:33:15.387606+00:00",
+      "last_updated_at": "2026-08-31T00:42:55.976914+00:00",
+      "outcome": null,
+      "failure_reason": null,
+      "status_history": [
+        {
+          "at": "2026-07-18T14:33:15.387609+00:00",
+          "status_id": 2,
+          "abbrev": "TBD",
+          "net": "2026-08-31T00:00:00Z"
+        },
+        {
+          "at": "2026-08-31T00:42:55.976958+00:00",
+          "status_id": 2,
+          "abbrev": "TBD",
+          "net": "2026-12-31T00:00:00Z",
+          "prev_net": "2026-08-31T00:00:00Z"
+        }
+      ]
+    },
+    {
+      "id": "9e27a1ed-e81a-4918-b32b-0380cf3a9f8f",
+      "name": "Mir | Demo Flight",
+      "slug": "mir-demo-flight",
+      "status": {
+        "id": 2,
+        "abbrev": "TBD",
+        "name": "To Be Determined",
+        "description": "Current date is a placeholder or rough estimation based on unreliable or interpreted sources."
+      },
+      "net": "2026-12-31T00:00:00Z",
+      "window_start": "2026-12-31T00:00:00Z",
+      "window_end": "2026-12-31T00:00:00Z",
+      "probability": null,
+      "rocket": {
+        "name": "Mir",
+        "family": "Mir",
+        "manufacturer": "Agency for Defense Development",
+        "image_url": null
+      },
+      "mission": {
+        "name": "Demo Flight",
+        "description": "Note: Launch vehicle name is provisional.\r\n\r\nFirst orbital full version launch of the South Korean military small satellite launch vehicle, after 2 sub-orbital tests of individual stages on 30 March and 30 December 2022, and 1 orbital test flight without the 2nd stage on 4 December 2023. Details TBD.",
+        "type": "Test Flight",
+        "orbit": "Low Earth Orbit"
+      },
+      "pad": {
+        "name": "ADD Offshore launch platform",
+        "location": "Sea Launch",
+        "country": "???",
+        "latitude": "33.216667",
+        "longitude": "126.366667"
+      },
+      "agency": {
+        "name": "Agency for Defense Development",
+        "abbrev": "ADD",
+        "type": "Government"
+      },
+      "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/south2520korea_image_20231204145331.png",
+      "vidURLs": [],
+      "webcast_live": false,
+      "discovered_at": "2026-04-11T15:28:51.958924+00:00",
+      "last_updated_at": "2026-08-31T00:42:56.542240+00:00",
+      "outcome": null,
+      "failure_reason": null,
+      "status_history": [
+        {
+          "at": "2026-04-11T15:28:51.958927+00:00",
+          "status_id": 8,
+          "abbrev": "TBC",
+          "net": "2026-04-22T05:00:00Z"
+        },
+        {
+          "at": "2026-04-17T05:14:08.259155+00:00",
+          "status_id": 1,
+          "abbrev": "Go",
+          "net": "2026-04-25T05:00:00Z",
+          "prev_net": "2026-04-22T05:00:00Z",
+          "prev_abbrev": "TBC"
+        },
+        {
+          "at": "2026-04-22T03:22:12.024951+00:00",
+          "status_id": 2,
+          "abbrev": "TBD",
+          "net": "2026-05-31T00:00:00Z",
+          "prev_net": "2026-04-25T05:00:00Z",
+          "prev_abbrev": "Go"
+        },
+        {
+          "at": "2026-05-09T23:41:54.947496+00:00",
+          "status_id": 8,
+          "abbrev": "TBC",
+          "net": "2026-05-20T05:00:00Z",
+          "prev_net": "2026-05-31T00:00:00Z",
+          "prev_abbrev": "TBD"
+        },
+        {
+          "at": "2026-05-17T15:35:10.330351+00:00",
+          "status_id": 2,
+          "abbrev": "TBD",
+          "net": "2026-05-31T00:00:00Z",
+          "prev_net": "2026-05-20T05:00:00Z",
+          "prev_abbrev": "TBC"
+        },
+        {
+          "at": "2026-05-21T22:47:55.152097+00:00",
+          "status_id": 8,
+          "abbrev": "TBC",
+          "net": "2026-06-01T05:00:00Z",
+          "prev_net": "2026-05-31T00:00:00Z",
+          "prev_abbrev": "TBD"
+        },
+        {
+          "at": "2026-05-26T17:55:08.657098+00:00",
+          "status_id": 1,
+          "abbrev": "Go",
+          "net": "2026-06-01T05:00:00Z",
+          "prev_abbrev": "TBC"
+        },
+        {
+          "at": "2026-05-30T04:32:13.129779+00:00",
+          "status_id": 1,
+          "abbrev": "Go",
+          "net": "2026-06-08T05:00:00Z",
+          "prev_net": "2026-06-01T05:00:00Z"
+        },
+        {
+          "at": "2026-06-04T13:55:41.980563+00:00",
+          "status_id": 2,
+          "abbrev": "TBD",
+          "net": "2026-06-30T00:00:00Z",
+          "prev_net": "2026-06-08T05:00:00Z",
+          "prev_abbrev": "Go"
+        },
+        {
+          "at": "2026-06-23T15:29:56.877464+00:00",
+          "status_id": 1,
+          "abbrev": "Go",
+          "net": "2026-06-29T05:00:00Z",
+          "prev_net": "2026-06-30T00:00:00Z",
+          "prev_abbrev": "TBD"
+        },
+        {
+          "at": "2026-06-28T15:02:13.969053+00:00",
+          "status_id": 1,
+          "abbrev": "Go",
+          "net": "2026-06-30T05:00:00Z",
+          "prev_net": "2026-06-29T05:00:00Z"
+        },
+        {
+          "at": "2026-06-30T16:00:42.112730+00:00",
+          "status_id": 2,
+          "abbrev": "TBD",
+          "net": "2026-07-31T00:00:00Z",
+          "prev_net": "2026-06-30T05:00:00Z",
+          "prev_abbrev": "Go"
+        },
+        {
+          "at": "2026-07-29T07:15:39.568724+00:00",
+          "status_id": 2,
+          "abbrev": "TBD",
+          "net": "2026-08-31T00:00:00Z",
+          "prev_net": "2026-07-31T00:00:00Z"
+        },
+        {
+          "at": "2026-08-31T00:42:56.542259+00:00",
+          "status_id": 2,
+          "abbrev": "TBD",
+          "net": "2026-12-31T00:00:00Z",
+          "prev_net": "2026-08-31T00:00:00Z"
+        }
+      ]
+    },
+    {
+      "id": "ab3c1e6c-03fe-48a7-b6ce-30c79569bdfb",
+      "name": "Angara 1.2 | Kosmos (Unknown Payload)",
+      "slug": "angara-12-kosmos-unknown-payload",
+      "status": {
+        "id": 2,
+        "abbrev": "TBD",
+        "name": "To Be Determined",
+        "description": "Current date is a placeholder or rough estimation based on unreliable or interpreted sources."
+      },
+      "net": "2026-12-31T00:00:00Z",
+      "window_start": "2026-12-31T00:00:00Z",
+      "window_end": "2026-12-31T00:00:00Z",
+      "probability": null,
+      "rocket": {
+        "name": "Angara 1.2",
+        "family": "Angara",
+        "manufacturer": "Khrunichev State Research and Production Space Center",
+        "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/angara25201.2_image_20190224012254.jpeg"
+      },
+      "mission": {
+        "name": "Kosmos (Unknown Payload)",
+        "description": "Unknown classified satellite(s) for the Russian military.",
+        "type": "Government/Top Secret",
+        "orbit": "Unknown"
+      },
+      "pad": {
+        "name": "35/1",
+        "location": "Plesetsk Cosmodrome, Russian Federation",
+        "country": "RUS",
+        "latitude": "62.927319",
+        "longitude": "40.574897"
+      },
+      "agency": {
+        "name": "Russian Space Forces",
+        "abbrev": "VKS",
+        "type": "Government"
+      },
+      "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/angara25201.2_image_20190224012254.jpeg",
+      "vidURLs": [],
+      "webcast_live": false,
+      "discovered_at": "2026-08-10T01:45:55.102366+00:00",
+      "last_updated_at": "2026-08-31T00:42:57.429965+00:00",
+      "outcome": null,
+      "failure_reason": null,
+      "status_history": [
+        {
+          "at": "2026-08-10T01:45:55.102371+00:00",
+          "status_id": 2,
+          "abbrev": "TBD",
+          "net": "2026-08-31T00:00:00Z"
+        },
+        {
+          "at": "2026-08-31T00:42:57.429988+00:00",
+          "status_id": 2,
+          "abbrev": "TBD",
+          "net": "2026-12-31T00:00:00Z",
+          "prev_net": "2026-08-31T00:00:00Z"
+        }
+      ]
+    },
+    {
       "id": "f4c720ce-0cfd-43e6-b8dd-00273073bc01",
       "name": "Electron | StriX Launch 12",
       "slug": "electron-strix-launch-12",
@@ -355,7 +691,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-08-29T00:20:38.371247+00:00",
-      "last_updated_at": "2026-08-30T22:18:45.341152+00:00",
+      "last_updated_at": "2026-08-31T00:42:53.411441+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -422,6 +758,67 @@
       ]
     },
     {
+      "id": "bf2c3027-a314-403e-a416-2bfd5d165ad1",
+      "name": "Falcon 9 Block 5 | Dragon CRS-2 SpX-35",
+      "slug": "falcon-9-block-5-dragon-crs-2-spx-35",
+      "status": {
+        "id": 2,
+        "abbrev": "TBD",
+        "name": "To Be Determined",
+        "description": "Current date is a placeholder or rough estimation based on unreliable or interpreted sources."
+      },
+      "net": "2026-10-31T00:00:00Z",
+      "window_start": "2026-10-31T00:00:00Z",
+      "window_end": "2026-10-31T00:00:00Z",
+      "probability": null,
+      "rocket": {
+        "name": "Falcon 9",
+        "family": "Falcon",
+        "manufacturer": "SpaceX",
+        "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/falcon_9_image_20230807133459.jpeg"
+      },
+      "mission": {
+        "name": "Dragon CRS-2 SpX-35",
+        "description": "35th commercial resupply services mission to the International Space Station operated by SpaceX. The flight will be conducted under the second Commercial Resupply Services contract with NASA.\r\n\r\nCargo Dragon 2 brings supplies and payloads, including critical materials to directly support science and research investigations that occur onboard the orbiting laboratory.",
+        "type": "Resupply",
+        "orbit": "Low Earth Orbit"
+      },
+      "pad": {
+        "name": "Unknown Pad",
+        "location": "Cape Canaveral SFS, FL, USA",
+        "country": "USA",
+        "latitude": "28.458",
+        "longitude": "-80.528"
+      },
+      "agency": {
+        "name": "SpaceX",
+        "abbrev": "SpX",
+        "type": "Commercial"
+      },
+      "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/falcon2520925_image_20210520085648.jpeg",
+      "vidURLs": [],
+      "webcast_live": false,
+      "discovered_at": "2026-07-06T16:15:52.339958+00:00",
+      "last_updated_at": "2026-08-31T00:42:54.723210+00:00",
+      "outcome": null,
+      "failure_reason": null,
+      "status_history": [
+        {
+          "at": "2026-07-06T16:15:52.339961+00:00",
+          "status_id": 2,
+          "abbrev": "TBD",
+          "net": "2026-08-31T00:00:00Z"
+        },
+        {
+          "at": "2026-08-31T00:42:54.723232+00:00",
+          "status_id": 2,
+          "abbrev": "TBD",
+          "net": "2026-10-31T00:00:00Z",
+          "prev_net": "2026-08-31T00:00:00Z"
+        }
+      ]
+    },
+    {
       "id": "69ebbcd2-b257-4070-9ef9-21e7d1f8a883",
       "name": "H3-24 | Martian Moon eXplorer (MMX)",
       "slug": "h3-24-martian-moon-explorer-mmx",
@@ -463,7 +860,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-08-29T00:20:38.371230+00:00",
-      "last_updated_at": "2026-08-30T22:18:45.341144+00:00",
+      "last_updated_at": "2026-08-31T00:42:53.411431+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -517,7 +914,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-08-27T19:23:07.365274+00:00",
-      "last_updated_at": "2026-08-30T22:18:45.341137+00:00",
+      "last_updated_at": "2026-08-31T00:42:53.411424+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -571,7 +968,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-08-27T19:23:07.365257+00:00",
-      "last_updated_at": "2026-08-30T22:18:45.341130+00:00",
+      "last_updated_at": "2026-08-31T00:42:53.411416+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -808,7 +1205,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-05-23T10:50:25.590716+00:00",
-      "last_updated_at": "2026-08-30T22:18:45.341049+00:00",
+      "last_updated_at": "2026-08-31T00:42:53.411345+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -991,7 +1388,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-06-17T12:52:02.511173+00:00",
-      "last_updated_at": "2026-08-30T22:18:45.341122+00:00",
+      "last_updated_at": "2026-08-31T00:42:53.411408+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -1052,7 +1449,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-07-26T15:57:34.604315+00:00",
-      "last_updated_at": "2026-08-30T22:18:45.341040+00:00",
+      "last_updated_at": "2026-08-31T00:42:53.411335+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -1106,7 +1503,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-08-02T05:39:37.830291+00:00",
-      "last_updated_at": "2026-08-30T22:18:45.341071+00:00",
+      "last_updated_at": "2026-08-31T00:42:53.411372+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -1160,7 +1557,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-08-06T15:20:03.880632+00:00",
-      "last_updated_at": "2026-08-30T22:18:45.341104+00:00",
+      "last_updated_at": "2026-08-31T00:42:53.411391+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -1214,7 +1611,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-08-09T17:04:59.658112+00:00",
-      "last_updated_at": "2026-08-30T22:18:45.341080+00:00",
+      "last_updated_at": "2026-08-31T00:42:53.411383+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -1322,7 +1719,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-08-17T04:10:42.318745+00:00",
-      "last_updated_at": "2026-08-30T22:18:45.341064+00:00",
+      "last_updated_at": "2026-08-31T00:42:53.411364+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -1461,7 +1858,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-04-27T15:24:39.972764+00:00",
-      "last_updated_at": "2026-08-30T22:18:45.341026+00:00",
+      "last_updated_at": "2026-08-31T00:42:53.411318+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -1543,7 +1940,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-08-25T10:01:44.595713+00:00",
-      "last_updated_at": "2026-08-30T22:18:45.341115+00:00",
+      "last_updated_at": "2026-08-31T00:42:53.411401+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -1597,7 +1994,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-08-05T02:00:15.102845+00:00",
-      "last_updated_at": "2026-08-30T22:18:45.341057+00:00",
+      "last_updated_at": "2026-08-31T00:42:53.411356+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -1658,7 +2055,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-07-25T23:55:28.112276+00:00",
-      "last_updated_at": "2026-08-30T22:18:45.341033+00:00",
+      "last_updated_at": "2026-08-31T00:42:53.411327+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -1728,7 +2125,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-07-23T04:47:18.150900+00:00",
-      "last_updated_at": "2026-08-30T22:18:45.341019+00:00",
+      "last_updated_at": "2026-08-31T00:42:53.411311+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -1790,7 +2187,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-08-30T16:52:45.418782+00:00",
-      "last_updated_at": "2026-08-30T22:18:45.341010+00:00",
+      "last_updated_at": "2026-08-31T00:42:53.411301+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -1844,7 +2241,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-04-26T23:04:51.622698+00:00",
-      "last_updated_at": "2026-08-30T22:18:45.341003+00:00",
+      "last_updated_at": "2026-08-31T00:42:53.411293+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -1918,7 +2315,7 @@
       ],
       "webcast_live": false,
       "discovered_at": "2026-08-21T15:57:09.881450+00:00",
-      "last_updated_at": "2026-08-30T22:18:45.340993+00:00",
+      "last_updated_at": "2026-08-31T00:42:53.411283+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -1995,7 +2392,7 @@
       ],
       "webcast_live": false,
       "discovered_at": "2026-03-23T08:19:21.926409+00:00",
-      "last_updated_at": "2026-08-30T22:18:45.340986+00:00",
+      "last_updated_at": "2026-08-31T00:42:53.411274+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -2194,7 +2591,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-05-07T15:11:41.797008+00:00",
-      "last_updated_at": "2026-08-30T22:18:45.340978+00:00",
+      "last_updated_at": "2026-08-31T00:42:53.411265+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -2312,7 +2709,7 @@
       ],
       "webcast_live": false,
       "discovered_at": "2026-08-20T20:54:39.155752+00:00",
-      "last_updated_at": "2026-08-30T22:18:45.340965+00:00",
+      "last_updated_at": "2026-08-31T00:42:53.411254+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -2373,7 +2770,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-06-27T00:00:59.521069+00:00",
-      "last_updated_at": "2026-08-30T22:18:45.340951+00:00",
+      "last_updated_at": "2026-08-31T00:42:53.411243+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -2456,7 +2853,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-08-05T02:00:15.102873+00:00",
-      "last_updated_at": "2026-08-30T22:18:45.340937+00:00",
+      "last_updated_at": "2026-08-31T00:42:53.411229+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -2473,368 +2870,6 @@
           "net": "2026-09-01T02:00:00Z",
           "prev_net": "2026-08-31T00:00:00Z",
           "prev_abbrev": "TBD"
-        }
-      ]
-    },
-    {
-      "id": "bf2c3027-a314-403e-a416-2bfd5d165ad1",
-      "name": "Falcon 9 Block 5 | Dragon CRS-2 SpX-35",
-      "slug": "falcon-9-block-5-dragon-crs-2-spx-35",
-      "status": {
-        "id": 2,
-        "abbrev": "TBD",
-        "name": "To Be Determined",
-        "description": "Current date is a placeholder or rough estimation based on unreliable or interpreted sources."
-      },
-      "net": "2026-08-31T00:00:00Z",
-      "window_start": "2026-08-31T00:00:00Z",
-      "window_end": "2026-08-31T00:00:00Z",
-      "probability": null,
-      "rocket": {
-        "name": "Falcon 9",
-        "family": "Falcon",
-        "manufacturer": "SpaceX",
-        "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/falcon_9_image_20230807133459.jpeg"
-      },
-      "mission": {
-        "name": "Dragon CRS-2 SpX-35",
-        "description": "35th commercial resupply services mission to the International Space Station operated by SpaceX. The flight will be conducted under the second Commercial Resupply Services contract with NASA.\r\n\r\nCargo Dragon 2 brings supplies and payloads, including critical materials to directly support science and research investigations that occur onboard the orbiting laboratory.",
-        "type": "Resupply",
-        "orbit": "Low Earth Orbit"
-      },
-      "pad": {
-        "name": "Unknown Pad",
-        "location": "Cape Canaveral SFS, FL, USA",
-        "country": "USA",
-        "latitude": "28.458",
-        "longitude": "-80.528"
-      },
-      "agency": {
-        "name": "SpaceX",
-        "abbrev": "SpX",
-        "type": "Commercial"
-      },
-      "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/falcon2520925_image_20210520085648.jpeg",
-      "vidURLs": [],
-      "webcast_live": false,
-      "discovered_at": "2026-07-06T16:15:52.339958+00:00",
-      "last_updated_at": "2026-07-17T23:21:25.269091+00:00",
-      "outcome": null,
-      "failure_reason": null,
-      "status_history": [
-        {
-          "at": "2026-07-06T16:15:52.339961+00:00",
-          "status_id": 2,
-          "abbrev": "TBD",
-          "net": "2026-08-31T00:00:00Z"
-        }
-      ]
-    },
-    {
-      "id": "c703fab3-2ce4-4cf1-861d-754da3f3ad42",
-      "name": "Falcon 9 Block 5 | SDA Tranche 2 Transport Layer A",
-      "slug": "falcon-9-block-5-sda-tranche-2-transport-layer-a",
-      "status": {
-        "id": 2,
-        "abbrev": "TBD",
-        "name": "To Be Determined",
-        "description": "Current date is a placeholder or rough estimation based on unreliable or interpreted sources."
-      },
-      "net": "2026-08-31T00:00:00Z",
-      "window_start": "2026-08-31T00:00:00Z",
-      "window_end": "2026-08-31T00:00:00Z",
-      "probability": null,
-      "rocket": {
-        "name": "Falcon 9",
-        "family": "Falcon",
-        "manufacturer": "SpaceX",
-        "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/falcon_9_image_20230807133459.jpeg"
-      },
-      "mission": {
-        "name": "SDA Tranche 2 Transport Layer A",
-        "description": "Classified mission launched by the Space Development Agency (SDA) for Tranche 2 Transport Layer.",
-        "type": "Government/Top Secret",
-        "orbit": "Polar Orbit"
-      },
-      "pad": {
-        "name": "Space Launch Complex 4E",
-        "location": "Vandenberg SFB, CA, USA",
-        "country": "USA",
-        "latitude": "34.632",
-        "longitude": "-120.611"
-      },
-      "agency": {
-        "name": "SpaceX",
-        "abbrev": "SpX",
-        "type": "Commercial"
-      },
-      "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/falcon_9_image_20230807133459.jpeg",
-      "vidURLs": [],
-      "webcast_live": false,
-      "discovered_at": "2026-07-08T08:18:26.468548+00:00",
-      "last_updated_at": "2026-07-16T19:58:38.756294+00:00",
-      "outcome": null,
-      "failure_reason": null,
-      "status_history": [
-        {
-          "at": "2026-07-08T08:18:26.468551+00:00",
-          "status_id": 2,
-          "abbrev": "TBD",
-          "net": "2026-08-31T00:00:00Z"
-        }
-      ]
-    },
-    {
-      "id": "91b13c6c-4525-496d-997b-3521bb6a4cd8",
-      "name": "RFA One | Maiden Flight",
-      "slug": "rfa-one-maiden-flight",
-      "status": {
-        "id": 2,
-        "abbrev": "TBD",
-        "name": "To Be Determined",
-        "description": "Current date is a placeholder or rough estimation based on unreliable or interpreted sources."
-      },
-      "net": "2026-08-31T00:00:00Z",
-      "window_start": "2026-08-31T00:00:00Z",
-      "window_end": "2026-08-31T00:00:00Z",
-      "probability": null,
-      "rocket": {
-        "name": "RFA One",
-        "family": "",
-        "manufacturer": "Rocket Factory Augsburg",
-        "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/rfa_one_image_20230117001619.png"
-      },
-      "mission": {
-        "name": "Maiden Flight",
-        "description": "First flight of the RFA One launch vehicle. Will carry 7 satellites for various companies and organizations coordinated by the German Aerospace Center (DLR).\r\n\r\n* AllBertEinStein\r\n* ARTICA\r\n* Curium Two\r\n* ERMINAZ\r\n* PCIOD\r\n* Separation Ring Mission\r\n* SpaceDREAM",
-        "type": "Test Flight",
-        "orbit": "Sun-Synchronous Orbit"
-      },
-      "pad": {
-        "name": "Launch Pad Fredo",
-        "location": "SaxaVord Spaceport",
-        "country": "GBR",
-        "latitude": "60.81736038715111",
-        "longitude": "-0.7626391593025057"
-      },
-      "agency": {
-        "name": "Rocket Factory Augsburg",
-        "abbrev": "RFA",
-        "type": "Private"
-      },
-      "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/rfa_one_image_20230117001619.png",
-      "vidURLs": [],
-      "webcast_live": false,
-      "discovered_at": "2026-07-18T14:33:15.387606+00:00",
-      "last_updated_at": "2026-07-28T13:52:31.026796+00:00",
-      "outcome": null,
-      "failure_reason": null,
-      "status_history": [
-        {
-          "at": "2026-07-18T14:33:15.387609+00:00",
-          "status_id": 2,
-          "abbrev": "TBD",
-          "net": "2026-08-31T00:00:00Z"
-        }
-      ]
-    },
-    {
-      "id": "9e27a1ed-e81a-4918-b32b-0380cf3a9f8f",
-      "name": "Mir | Demo Flight",
-      "slug": "mir-demo-flight",
-      "status": {
-        "id": 2,
-        "abbrev": "TBD",
-        "name": "To Be Determined",
-        "description": "Current date is a placeholder or rough estimation based on unreliable or interpreted sources."
-      },
-      "net": "2026-08-31T00:00:00Z",
-      "window_start": "2026-08-31T00:00:00Z",
-      "window_end": "2026-08-31T00:00:00Z",
-      "probability": null,
-      "rocket": {
-        "name": "Mir",
-        "family": "Mir",
-        "manufacturer": "Agency for Defense Development",
-        "image_url": null
-      },
-      "mission": {
-        "name": "Demo Flight",
-        "description": "Note: Launch vehicle name is provisional.\r\n\r\nFirst orbital full version launch of the South Korean military small satellite launch vehicle, after 2 sub-orbital tests of individual stages on 30 March and 30 December 2022, and 1 orbital test flight without the 2nd stage on 4 December 2023. Details TBD.",
-        "type": "Test Flight",
-        "orbit": "Low Earth Orbit"
-      },
-      "pad": {
-        "name": "ADD Offshore launch platform",
-        "location": "Sea Launch",
-        "country": "???",
-        "latitude": "33.216667",
-        "longitude": "126.366667"
-      },
-      "agency": {
-        "name": "Agency for Defense Development",
-        "abbrev": "ADD",
-        "type": "Government"
-      },
-      "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/south2520korea_image_20231204145331.png",
-      "vidURLs": [],
-      "webcast_live": false,
-      "discovered_at": "2026-04-11T15:28:51.958924+00:00",
-      "last_updated_at": "2026-08-26T10:04:17.726372+00:00",
-      "outcome": null,
-      "failure_reason": null,
-      "status_history": [
-        {
-          "at": "2026-04-11T15:28:51.958927+00:00",
-          "status_id": 8,
-          "abbrev": "TBC",
-          "net": "2026-04-22T05:00:00Z"
-        },
-        {
-          "at": "2026-04-17T05:14:08.259155+00:00",
-          "status_id": 1,
-          "abbrev": "Go",
-          "net": "2026-04-25T05:00:00Z",
-          "prev_net": "2026-04-22T05:00:00Z",
-          "prev_abbrev": "TBC"
-        },
-        {
-          "at": "2026-04-22T03:22:12.024951+00:00",
-          "status_id": 2,
-          "abbrev": "TBD",
-          "net": "2026-05-31T00:00:00Z",
-          "prev_net": "2026-04-25T05:00:00Z",
-          "prev_abbrev": "Go"
-        },
-        {
-          "at": "2026-05-09T23:41:54.947496+00:00",
-          "status_id": 8,
-          "abbrev": "TBC",
-          "net": "2026-05-20T05:00:00Z",
-          "prev_net": "2026-05-31T00:00:00Z",
-          "prev_abbrev": "TBD"
-        },
-        {
-          "at": "2026-05-17T15:35:10.330351+00:00",
-          "status_id": 2,
-          "abbrev": "TBD",
-          "net": "2026-05-31T00:00:00Z",
-          "prev_net": "2026-05-20T05:00:00Z",
-          "prev_abbrev": "TBC"
-        },
-        {
-          "at": "2026-05-21T22:47:55.152097+00:00",
-          "status_id": 8,
-          "abbrev": "TBC",
-          "net": "2026-06-01T05:00:00Z",
-          "prev_net": "2026-05-31T00:00:00Z",
-          "prev_abbrev": "TBD"
-        },
-        {
-          "at": "2026-05-26T17:55:08.657098+00:00",
-          "status_id": 1,
-          "abbrev": "Go",
-          "net": "2026-06-01T05:00:00Z",
-          "prev_abbrev": "TBC"
-        },
-        {
-          "at": "2026-05-30T04:32:13.129779+00:00",
-          "status_id": 1,
-          "abbrev": "Go",
-          "net": "2026-06-08T05:00:00Z",
-          "prev_net": "2026-06-01T05:00:00Z"
-        },
-        {
-          "at": "2026-06-04T13:55:41.980563+00:00",
-          "status_id": 2,
-          "abbrev": "TBD",
-          "net": "2026-06-30T00:00:00Z",
-          "prev_net": "2026-06-08T05:00:00Z",
-          "prev_abbrev": "Go"
-        },
-        {
-          "at": "2026-06-23T15:29:56.877464+00:00",
-          "status_id": 1,
-          "abbrev": "Go",
-          "net": "2026-06-29T05:00:00Z",
-          "prev_net": "2026-06-30T00:00:00Z",
-          "prev_abbrev": "TBD"
-        },
-        {
-          "at": "2026-06-28T15:02:13.969053+00:00",
-          "status_id": 1,
-          "abbrev": "Go",
-          "net": "2026-06-30T05:00:00Z",
-          "prev_net": "2026-06-29T05:00:00Z"
-        },
-        {
-          "at": "2026-06-30T16:00:42.112730+00:00",
-          "status_id": 2,
-          "abbrev": "TBD",
-          "net": "2026-07-31T00:00:00Z",
-          "prev_net": "2026-06-30T05:00:00Z",
-          "prev_abbrev": "Go"
-        },
-        {
-          "at": "2026-07-29T07:15:39.568724+00:00",
-          "status_id": 2,
-          "abbrev": "TBD",
-          "net": "2026-08-31T00:00:00Z",
-          "prev_net": "2026-07-31T00:00:00Z"
-        }
-      ]
-    },
-    {
-      "id": "ab3c1e6c-03fe-48a7-b6ce-30c79569bdfb",
-      "name": "Angara 1.2 | Kosmos (Unknown Payload)",
-      "slug": "angara-12-kosmos-unknown-payload",
-      "status": {
-        "id": 2,
-        "abbrev": "TBD",
-        "name": "To Be Determined",
-        "description": "Current date is a placeholder or rough estimation based on unreliable or interpreted sources."
-      },
-      "net": "2026-08-31T00:00:00Z",
-      "window_start": "2026-08-31T00:00:00Z",
-      "window_end": "2026-08-31T00:00:00Z",
-      "probability": null,
-      "rocket": {
-        "name": "Angara 1.2",
-        "family": "Angara",
-        "manufacturer": "Khrunichev State Research and Production Space Center",
-        "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/angara25201.2_image_20190224012254.jpeg"
-      },
-      "mission": {
-        "name": "Kosmos (Unknown Payload)",
-        "description": "Unknown classified satellite(s) for the Russian military.",
-        "type": "Government/Top Secret",
-        "orbit": "Unknown"
-      },
-      "pad": {
-        "name": "35/1",
-        "location": "Plesetsk Cosmodrome, Russian Federation",
-        "country": "RUS",
-        "latitude": "62.927319",
-        "longitude": "40.574897"
-      },
-      "agency": {
-        "name": "Russian Space Forces",
-        "abbrev": "VKS",
-        "type": "Government"
-      },
-      "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/angara25201.2_image_20190224012254.jpeg",
-      "vidURLs": [],
-      "webcast_live": false,
-      "discovered_at": "2026-08-10T01:45:55.102366+00:00",
-      "last_updated_at": "2026-08-28T15:51:15.535979+00:00",
-      "outcome": null,
-      "failure_reason": null,
-      "status_history": [
-        {
-          "at": "2026-08-10T01:45:55.102371+00:00",
-          "status_id": 2,
-          "abbrev": "TBD",
-          "net": "2026-08-31T00:00:00Z"
         }
       ]
     },
@@ -2893,7 +2928,7 @@
       ],
       "webcast_live": false,
       "discovered_at": "2026-06-25T13:33:42.830541+00:00",
-      "last_updated_at": "2026-08-30T22:18:45.340901+00:00",
+      "last_updated_at": "2026-08-31T00:42:53.411186+00:00",
       "outcome": "success",
       "failure_reason": null,
       "status_history": [
@@ -17208,5 +17243,5 @@
       ]
     }
   ],
-  "last_updated": "2026-08-30T22:18:45.341516+00:00"
+  "last_updated": "2026-08-31T00:42:57.430342+00:00"
 }
