@@ -650,6 +650,60 @@
       ]
     },
     {
+      "id": "8dd5de11-831b-445f-86f0-bffefe0550d9",
+      "name": "Soyuz 2.1b | Progress MS-36 (97P)",
+      "slug": "soyuz-21b-progress-ms-36-97p",
+      "status": {
+        "id": 8,
+        "abbrev": "TBC",
+        "name": "To Be Confirmed",
+        "description": "Awaiting official confirmation - current date is known with some certainty."
+      },
+      "net": "2026-11-24T05:03:00Z",
+      "window_start": "2026-11-24T05:03:00Z",
+      "window_end": "2026-11-24T05:03:00Z",
+      "probability": null,
+      "rocket": {
+        "name": "Soyuz 2.1b",
+        "family": "Soyuz",
+        "manufacturer": "Progress Rocket Space Center",
+        "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/soyuz_2.1b_image_20230802085331.jpg"
+      },
+      "mission": {
+        "name": "Progress MS-36 (97P)",
+        "description": "Progress resupply mission to the International Space Station.",
+        "type": "Resupply",
+        "orbit": "Low Earth Orbit"
+      },
+      "pad": {
+        "name": "31/6",
+        "location": "Baikonur Cosmodrome, Republic of Kazakhstan",
+        "country": "KAZ",
+        "latitude": "45.996034",
+        "longitude": "63.564003"
+      },
+      "agency": {
+        "name": "Russian Federal Space Agency (ROSCOSMOS)",
+        "abbrev": "RFSA",
+        "type": "Government"
+      },
+      "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/soyuz_2.1b_image_20230802085331.jpg",
+      "vidURLs": [],
+      "webcast_live": false,
+      "discovered_at": "2026-09-07T18:03:06.104420+00:00",
+      "last_updated_at": "2026-09-07T18:03:06.104417+00:00",
+      "outcome": null,
+      "failure_reason": null,
+      "status_history": [
+        {
+          "at": "2026-09-07T18:03:06.104423+00:00",
+          "status_id": 8,
+          "abbrev": "TBC",
+          "net": "2026-11-24T05:03:00Z"
+        }
+      ]
+    },
+    {
       "id": "bff2fc91-eddd-4dfc-af26-ac0674cfab4d",
       "name": "Soyuz 2.1a/Fregat-M | MKA Kinosputnik, KOEN and others",
       "slug": "soyuz-21afregat-m-mka-kinosputnik-koen-and-others",
@@ -691,7 +745,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-09-06T21:30:42.563128+00:00",
-      "last_updated_at": "2026-09-07T12:52:35.235411+00:00",
+      "last_updated_at": "2026-09-07T18:03:06.104410+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -745,7 +799,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-08-29T00:20:38.371247+00:00",
-      "last_updated_at": "2026-09-07T12:52:35.235387+00:00",
+      "last_updated_at": "2026-09-07T18:03:06.104381+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -799,7 +853,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-08-29T13:16:29.132372+00:00",
-      "last_updated_at": "2026-09-07T12:52:35.235393+00:00",
+      "last_updated_at": "2026-09-07T18:03:06.104391+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -853,7 +907,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-07-06T16:15:52.339958+00:00",
-      "last_updated_at": "2026-09-07T12:52:35.235399+00:00",
+      "last_updated_at": "2026-09-07T18:03:06.104397+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -914,7 +968,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-09-04T22:01:44.994817+00:00",
-      "last_updated_at": "2026-09-07T12:52:35.235405+00:00",
+      "last_updated_at": "2026-09-07T18:03:06.104403+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -968,7 +1022,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-08-29T00:20:38.371230+00:00",
-      "last_updated_at": "2026-09-07T12:52:35.235380+00:00",
+      "last_updated_at": "2026-09-07T18:03:06.104374+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -1022,7 +1076,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-08-27T19:23:07.365274+00:00",
-      "last_updated_at": "2026-09-07T12:52:35.235371+00:00",
+      "last_updated_at": "2026-09-07T18:03:06.104368+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -1076,7 +1130,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-08-27T19:23:07.365257+00:00",
-      "last_updated_at": "2026-09-07T12:52:35.235364+00:00",
+      "last_updated_at": "2026-09-07T18:03:06.104361+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -1313,7 +1367,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-05-23T10:50:25.590716+00:00",
-      "last_updated_at": "2026-09-07T12:52:35.235309+00:00",
+      "last_updated_at": "2026-09-07T18:03:06.104283+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -1496,7 +1550,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-06-17T12:52:02.511173+00:00",
-      "last_updated_at": "2026-09-07T12:52:35.235356+00:00",
+      "last_updated_at": "2026-09-07T18:03:06.104353+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -1557,7 +1611,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-08-02T05:39:37.830291+00:00",
-      "last_updated_at": "2026-09-07T12:52:35.235331+00:00",
+      "last_updated_at": "2026-09-07T18:03:06.104306+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -1611,7 +1665,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-08-06T15:20:03.880632+00:00",
-      "last_updated_at": "2026-09-07T12:52:35.235344+00:00",
+      "last_updated_at": "2026-09-07T18:03:06.104337+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -1665,7 +1719,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-08-09T17:04:59.658112+00:00",
-      "last_updated_at": "2026-09-07T12:52:35.235338+00:00",
+      "last_updated_at": "2026-09-07T18:03:06.104315+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -1773,7 +1827,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-08-17T04:10:42.318745+00:00",
-      "last_updated_at": "2026-09-07T12:52:35.235323+00:00",
+      "last_updated_at": "2026-09-07T18:03:06.104298+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -1912,7 +1966,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-04-27T15:24:39.972764+00:00",
-      "last_updated_at": "2026-09-07T12:52:35.235291+00:00",
+      "last_updated_at": "2026-09-07T18:03:06.104268+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -1994,7 +2048,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-08-25T10:01:44.595713+00:00",
-      "last_updated_at": "2026-09-07T12:52:35.235350+00:00",
+      "last_updated_at": "2026-09-07T18:03:06.104347+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -2048,7 +2102,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-08-05T02:00:15.102845+00:00",
-      "last_updated_at": "2026-09-07T12:52:35.235316+00:00",
+      "last_updated_at": "2026-09-07T18:03:06.104291+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -2109,7 +2163,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-07-25T23:55:28.112276+00:00",
-      "last_updated_at": "2026-09-07T12:52:35.235298+00:00",
+      "last_updated_at": "2026-09-07T18:03:06.104276+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -2179,7 +2233,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-07-23T04:47:18.150900+00:00",
-      "last_updated_at": "2026-09-07T12:52:35.235284+00:00",
+      "last_updated_at": "2026-09-07T18:03:06.104259+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -2241,7 +2295,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-07-26T15:57:34.604315+00:00",
-      "last_updated_at": "2026-09-07T12:52:35.235275+00:00",
+      "last_updated_at": "2026-09-07T18:03:06.104252+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -2303,7 +2357,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-08-30T16:52:45.418782+00:00",
-      "last_updated_at": "2026-09-07T12:52:35.235268+00:00",
+      "last_updated_at": "2026-09-07T18:03:06.104242+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -2362,7 +2416,7 @@
       ],
       "webcast_live": false,
       "discovered_at": "2026-09-01T15:01:31.933114+00:00",
-      "last_updated_at": "2026-09-07T12:52:35.235259+00:00",
+      "last_updated_at": "2026-09-07T18:03:06.104233+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -2378,6 +2432,67 @@
           "abbrev": "Go",
           "net": "2026-09-10T15:37:00Z",
           "prev_abbrev": "TBC"
+        }
+      ]
+    },
+    {
+      "id": "95eb9265-bdbe-43ad-b08c-6be7eb4e58f4",
+      "name": "Long March 2D/YZ-3 | Unknown Payload",
+      "slug": "long-march-2dyz-3-unknown-payload",
+      "status": {
+        "id": 1,
+        "abbrev": "Go",
+        "name": "Go for Launch",
+        "description": "Current T-0 confirmed by official or reliable sources."
+      },
+      "net": "2026-09-10T09:00:00Z",
+      "window_start": "2026-09-10T08:52:00Z",
+      "window_end": "2026-09-10T09:13:00Z",
+      "probability": null,
+      "rocket": {
+        "name": "Long March 2D/YZ-3",
+        "family": "Long March",
+        "manufacturer": "China Aerospace Science and Technology Corporation",
+        "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/long_march_2d2_image_20231123203521.jpeg"
+      },
+      "mission": {
+        "name": "Unknown Payload",
+        "description": "Details TBD.",
+        "type": "Unknown",
+        "orbit": "Unknown"
+      },
+      "pad": {
+        "name": "Launch Area 94 (SLS-2 / 603)",
+        "location": "Jiuquan Satellite Launch Center, People's Republic of China",
+        "country": "CHN",
+        "latitude": "40.960482",
+        "longitude": "100.298059"
+      },
+      "agency": {
+        "name": "China Aerospace Science and Technology Corporation",
+        "abbrev": "CASC",
+        "type": "Government"
+      },
+      "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/long_march_2d2_image_20231123203521.jpeg",
+      "vidURLs": [],
+      "webcast_live": false,
+      "discovered_at": "2026-09-02T16:45:37.345840+00:00",
+      "last_updated_at": "2026-09-07T18:03:06.104215+00:00",
+      "outcome": null,
+      "failure_reason": null,
+      "status_history": [
+        {
+          "at": "2026-09-02T16:45:37.345844+00:00",
+          "status_id": 1,
+          "abbrev": "Go",
+          "net": "2026-09-09T09:00:00Z"
+        },
+        {
+          "at": "2026-09-07T18:03:06.104221+00:00",
+          "status_id": 1,
+          "abbrev": "Go",
+          "net": "2026-09-10T09:00:00Z",
+          "prev_net": "2026-09-09T09:00:00Z"
         }
       ]
     },
@@ -2432,7 +2547,7 @@
       ],
       "webcast_live": false,
       "discovered_at": "2026-04-26T23:04:51.622698+00:00",
-      "last_updated_at": "2026-09-07T12:52:35.235249+00:00",
+      "last_updated_at": "2026-09-07T18:03:06.104182+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -2456,60 +2571,6 @@
           "net": "2026-09-09T16:15:03Z",
           "prev_net": "2026-09-09T16:10:00Z",
           "prev_abbrev": "TBC"
-        }
-      ]
-    },
-    {
-      "id": "95eb9265-bdbe-43ad-b08c-6be7eb4e58f4",
-      "name": "Long March 2D/YZ-3 | Unknown Payload",
-      "slug": "long-march-2dyz-3-unknown-payload",
-      "status": {
-        "id": 1,
-        "abbrev": "Go",
-        "name": "Go for Launch",
-        "description": "Current T-0 confirmed by official or reliable sources."
-      },
-      "net": "2026-09-09T09:00:00Z",
-      "window_start": "2026-09-09T08:52:00Z",
-      "window_end": "2026-09-09T09:13:00Z",
-      "probability": null,
-      "rocket": {
-        "name": "Long March 2D/YZ-3",
-        "family": "Long March",
-        "manufacturer": "China Aerospace Science and Technology Corporation",
-        "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/long_march_2d2_image_20231123203521.jpeg"
-      },
-      "mission": {
-        "name": "Unknown Payload",
-        "description": "Details TBD.",
-        "type": "Unknown",
-        "orbit": "Unknown"
-      },
-      "pad": {
-        "name": "Launch Area 94 (SLS-2 / 603)",
-        "location": "Jiuquan Satellite Launch Center, People's Republic of China",
-        "country": "CHN",
-        "latitude": "40.960482",
-        "longitude": "100.298059"
-      },
-      "agency": {
-        "name": "China Aerospace Science and Technology Corporation",
-        "abbrev": "CASC",
-        "type": "Government"
-      },
-      "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/long_march_2d2_image_20231123203521.jpeg",
-      "vidURLs": [],
-      "webcast_live": false,
-      "discovered_at": "2026-09-02T16:45:37.345840+00:00",
-      "last_updated_at": "2026-09-07T12:52:35.235235+00:00",
-      "outcome": null,
-      "failure_reason": null,
-      "status_history": [
-        {
-          "at": "2026-09-02T16:45:37.345844+00:00",
-          "status_id": 1,
-          "abbrev": "Go",
-          "net": "2026-09-09T09:00:00Z"
         }
       ]
     },
@@ -17615,5 +17676,5 @@
       ]
     }
   ],
-  "last_updated": "2026-09-07T12:52:35.235776+00:00"
+  "last_updated": "2026-09-07T18:03:06.104782+00:00"
 }
