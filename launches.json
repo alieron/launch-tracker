@@ -799,7 +799,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-08-29T00:20:38.371247+00:00",
-      "last_updated_at": "2026-09-08T12:32:42.913662+00:00",
+      "last_updated_at": "2026-09-08T17:00:45.906082+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -853,7 +853,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-08-29T13:16:29.132372+00:00",
-      "last_updated_at": "2026-09-08T12:32:42.913678+00:00",
+      "last_updated_at": "2026-09-08T17:00:45.906091+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -907,7 +907,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-07-06T16:15:52.339958+00:00",
-      "last_updated_at": "2026-09-08T12:32:42.913683+00:00",
+      "last_updated_at": "2026-09-08T17:00:45.906098+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -968,7 +968,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-09-04T22:01:44.994817+00:00",
-      "last_updated_at": "2026-09-08T12:32:42.913688+00:00",
+      "last_updated_at": "2026-09-08T17:00:45.906105+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -1022,7 +1022,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-08-29T00:20:38.371230+00:00",
-      "last_updated_at": "2026-09-08T12:32:42.913655+00:00",
+      "last_updated_at": "2026-09-08T17:00:45.906075+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -1076,7 +1076,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-08-27T19:23:07.365274+00:00",
-      "last_updated_at": "2026-09-08T12:32:42.913649+00:00",
+      "last_updated_at": "2026-09-08T17:00:45.906067+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -1130,7 +1130,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-08-27T19:23:07.365257+00:00",
-      "last_updated_at": "2026-09-08T12:32:42.913641+00:00",
+      "last_updated_at": "2026-09-08T17:00:45.906059+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -1367,7 +1367,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-05-23T10:50:25.590716+00:00",
-      "last_updated_at": "2026-09-08T12:32:42.913594+00:00",
+      "last_updated_at": "2026-09-08T17:00:45.906002+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -1550,7 +1550,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-06-17T12:52:02.511173+00:00",
-      "last_updated_at": "2026-09-08T12:32:42.913635+00:00",
+      "last_updated_at": "2026-09-08T17:00:45.906052+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -1611,7 +1611,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-08-02T05:39:37.830291+00:00",
-      "last_updated_at": "2026-09-08T12:32:42.913612+00:00",
+      "last_updated_at": "2026-09-08T17:00:45.906017+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -1665,7 +1665,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-08-06T15:20:03.880632+00:00",
-      "last_updated_at": "2026-09-08T12:32:42.913624+00:00",
+      "last_updated_at": "2026-09-08T17:00:45.906034+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -1719,7 +1719,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-08-09T17:04:59.658112+00:00",
-      "last_updated_at": "2026-09-08T12:32:42.913619+00:00",
+      "last_updated_at": "2026-09-08T17:00:45.906026+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -1779,60 +1779,6 @@
       "status_history": [
         {
           "at": "2026-08-17T02:18:50.340463+00:00",
-          "status_id": 2,
-          "abbrev": "TBD",
-          "net": "2026-09-30T00:00:00Z"
-        }
-      ]
-    },
-    {
-      "id": "7d1afb26-6f9c-429b-9ccf-29012fd1e519",
-      "name": "Starship | Flight 14",
-      "slug": "starship-flight-14",
-      "status": {
-        "id": 2,
-        "abbrev": "TBD",
-        "name": "To Be Determined",
-        "description": "Current date is a placeholder or rough estimation based on unreliable or interpreted sources."
-      },
-      "net": "2026-09-30T00:00:00Z",
-      "window_start": "2026-09-30T00:00:00Z",
-      "window_end": "2026-09-30T00:00:00Z",
-      "probability": null,
-      "rocket": {
-        "name": "Starship",
-        "family": "Starship",
-        "manufacturer": "SpaceX",
-        "image_url": null
-      },
-      "mission": {
-        "name": "Flight 14",
-        "description": "14th test flight of the two-stage Starship launch vehicle. 3rd flight of Starship V3.",
-        "type": "Test Flight",
-        "orbit": "Unknown"
-      },
-      "pad": {
-        "name": "Orbital Launch Pad 2",
-        "location": "SpaceX Starbase, TX, USA",
-        "country": "USA",
-        "latitude": "25.99677",
-        "longitude": "-97.15799"
-      },
-      "agency": {
-        "name": "SpaceX",
-        "abbrev": "SpX",
-        "type": "Commercial"
-      },
-      "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/starship_on_the_image_20260724044615.jpg",
-      "vidURLs": [],
-      "webcast_live": false,
-      "discovered_at": "2026-08-17T04:10:42.318745+00:00",
-      "last_updated_at": "2026-09-08T12:32:42.913607+00:00",
-      "outcome": null,
-      "failure_reason": null,
-      "status_history": [
-        {
-          "at": "2026-08-17T04:10:42.318748+00:00",
           "status_id": 2,
           "abbrev": "TBD",
           "net": "2026-09-30T00:00:00Z"
@@ -1966,7 +1912,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-04-27T15:24:39.972764+00:00",
-      "last_updated_at": "2026-09-08T12:32:42.913583+00:00",
+      "last_updated_at": "2026-09-08T17:00:45.905984+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -2048,7 +1994,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-08-25T10:01:44.595713+00:00",
-      "last_updated_at": "2026-09-08T12:32:42.913629+00:00",
+      "last_updated_at": "2026-09-08T17:00:45.906044+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -2102,7 +2048,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-08-05T02:00:15.102845+00:00",
-      "last_updated_at": "2026-09-08T12:32:42.913601+00:00",
+      "last_updated_at": "2026-09-08T17:00:45.906009+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -2163,7 +2109,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-07-25T23:55:28.112276+00:00",
-      "last_updated_at": "2026-09-08T12:32:42.913589+00:00",
+      "last_updated_at": "2026-09-08T17:00:45.905994+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -2187,6 +2133,205 @@
           "abbrev": "TBD",
           "net": "2026-09-30T00:00:00Z",
           "prev_net": "2026-09-12T22:34:00Z",
+          "prev_abbrev": "Go"
+        }
+      ]
+    },
+    {
+      "id": "d1471f9d-e9d0-4146-8e97-90863e48bfc8",
+      "name": "Falcon 9 Block 5 | Starlink Group 15-27",
+      "slug": "falcon-9-block-5-starlink-group-15-27",
+      "status": {
+        "id": 1,
+        "abbrev": "Go",
+        "name": "Go for Launch",
+        "description": "Current T-0 confirmed by official or reliable sources."
+      },
+      "net": "2026-09-20T01:47:00Z",
+      "window_start": "2026-09-20T01:47:00Z",
+      "window_end": "2026-09-20T05:47:00Z",
+      "probability": null,
+      "rocket": {
+        "name": "Falcon 9",
+        "family": "Falcon",
+        "manufacturer": "SpaceX",
+        "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/falcon_9_image_20230807133459.jpeg"
+      },
+      "mission": {
+        "name": "Starlink Group 15-27",
+        "description": "A batch of 27 satellites for the Starlink mega-constellation - SpaceX's project for space-based Internet communication system.",
+        "type": "Communications",
+        "orbit": "Low Earth Orbit"
+      },
+      "pad": {
+        "name": "Space Launch Complex 4E",
+        "location": "Vandenberg SFB, CA, USA",
+        "country": "USA",
+        "latitude": "34.632",
+        "longitude": "-120.611"
+      },
+      "agency": {
+        "name": "SpaceX",
+        "abbrev": "SpX",
+        "type": "Commercial"
+      },
+      "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/falcon2520925_image_20221009234147.png",
+      "vidURLs": [
+        {
+          "title": "Starlink Mission",
+          "url": "https://x.com/i/broadcasts/1nxnRBXEladxO"
+        }
+      ],
+      "webcast_live": false,
+      "discovered_at": "2026-09-08T17:00:45.905972+00:00",
+      "last_updated_at": "2026-09-08T17:00:45.905969+00:00",
+      "outcome": null,
+      "failure_reason": null,
+      "status_history": [
+        {
+          "at": "2026-09-08T17:00:45.905975+00:00",
+          "status_id": 1,
+          "abbrev": "Go",
+          "net": "2026-09-20T01:47:00Z"
+        }
+      ]
+    },
+    {
+      "id": "898f7df0-b6ce-4a5c-80b4-67e81842124e",
+      "name": "Long March 12 | Unknown Payload",
+      "slug": "long-march-12-unknown-payload",
+      "status": {
+        "id": 8,
+        "abbrev": "TBC",
+        "name": "To Be Confirmed",
+        "description": "Awaiting official confirmation - current date is known with some certainty."
+      },
+      "net": "2026-09-17T00:00:00Z",
+      "window_start": "2026-09-17T00:00:00Z",
+      "window_end": "2026-09-17T04:00:00Z",
+      "probability": null,
+      "rocket": {
+        "name": "Long March 12",
+        "family": "Long March",
+        "manufacturer": "China Aerospace Science and Technology Corporation",
+        "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/cz-12_on_its_la_image_20241128132937.jpg"
+      },
+      "mission": {
+        "name": "Unknown Payload",
+        "description": "Details TBD.",
+        "type": "Unknown",
+        "orbit": "Unknown"
+      },
+      "pad": {
+        "name": "Commercial LC-2",
+        "location": "Wenchang Space Launch Site, People's Republic of China",
+        "country": "CHN",
+        "latitude": "19.59755",
+        "longitude": "110.936481"
+      },
+      "agency": {
+        "name": "China Aerospace Science and Technology Corporation",
+        "abbrev": "CASC",
+        "type": "Government"
+      },
+      "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/cz-12_on_its_la_image_20241128132937.jpg",
+      "vidURLs": [],
+      "webcast_live": false,
+      "discovered_at": "2026-09-08T17:00:45.905955+00:00",
+      "last_updated_at": "2026-09-08T17:00:45.905952+00:00",
+      "outcome": null,
+      "failure_reason": null,
+      "status_history": [
+        {
+          "at": "2026-09-08T17:00:45.905958+00:00",
+          "status_id": 8,
+          "abbrev": "TBC",
+          "net": "2026-09-17T00:00:00Z"
+        }
+      ]
+    },
+    {
+      "id": "d793ba47-faf5-4bab-a386-39a9ccc49c90",
+      "name": "Soyuz 2.1b | Progress MS-35 (96P)",
+      "slug": "soyuz-21b-progress-ms-35-96p",
+      "status": {
+        "id": 2,
+        "abbrev": "TBD",
+        "name": "To Be Determined",
+        "description": "Current date is a placeholder or rough estimation based on unreliable or interpreted sources."
+      },
+      "net": "2026-09-16T00:00:00Z",
+      "window_start": "2026-09-16T00:00:00Z",
+      "window_end": "2026-09-16T00:00:00Z",
+      "probability": null,
+      "rocket": {
+        "name": "Soyuz 2.1b",
+        "family": "Soyuz",
+        "manufacturer": "Progress Rocket Space Center",
+        "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/soyuz_2.1b_image_20230802085331.jpg"
+      },
+      "mission": {
+        "name": "Progress MS-35 (96P)",
+        "description": "Progress resupply mission to the International Space Station.",
+        "type": "Resupply",
+        "orbit": "Low Earth Orbit"
+      },
+      "pad": {
+        "name": "31/6",
+        "location": "Baikonur Cosmodrome, Republic of Kazakhstan",
+        "country": "KAZ",
+        "latitude": "45.996034",
+        "longitude": "63.564003"
+      },
+      "agency": {
+        "name": "Russian Federal Space Agency (ROSCOSMOS)",
+        "abbrev": "RFSA",
+        "type": "Government"
+      },
+      "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/soyuz_2.1b_image_20230802085331.jpg",
+      "vidURLs": [
+        {
+          "title": "Progress 96 Cargo Ship Launch",
+          "url": "https://www.youtube.com/watch?v=cCpf0BOjlLE"
+        },
+        {
+          "title": "Progress 96 Cargo Ship Launch",
+          "url": "https://plus.nasa.gov/scheduled-video/progress-96-cargo-ship-launch/"
+        }
+      ],
+      "webcast_live": false,
+      "discovered_at": "2026-04-26T23:04:51.622698+00:00",
+      "last_updated_at": "2026-09-08T17:00:45.905938+00:00",
+      "outcome": null,
+      "failure_reason": null,
+      "status_history": [
+        {
+          "at": "2026-04-26T23:04:51.622701+00:00",
+          "status_id": 8,
+          "abbrev": "TBC",
+          "net": "2026-06-17T01:40:00Z"
+        },
+        {
+          "at": "2026-06-17T03:34:38.917011+00:00",
+          "status_id": 8,
+          "abbrev": "TBC",
+          "net": "2026-09-09T16:10:00Z",
+          "prev_net": "2026-06-17T01:40:00Z"
+        },
+        {
+          "at": "2026-08-26T18:12:08.119505+00:00",
+          "status_id": 1,
+          "abbrev": "Go",
+          "net": "2026-09-09T16:15:03Z",
+          "prev_net": "2026-09-09T16:10:00Z",
+          "prev_abbrev": "TBC"
+        },
+        {
+          "at": "2026-09-08T17:00:45.905942+00:00",
+          "status_id": 2,
+          "abbrev": "TBD",
+          "net": "2026-09-16T00:00:00Z",
+          "prev_net": "2026-09-09T16:15:03Z",
           "prev_abbrev": "Go"
         }
       ]
@@ -2233,7 +2378,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-07-23T04:47:18.150900+00:00",
-      "last_updated_at": "2026-09-08T12:32:42.913574+00:00",
+      "last_updated_at": "2026-09-08T17:00:45.905928+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -2250,6 +2395,67 @@
           "net": "2026-09-15T01:21:07Z",
           "prev_net": "2026-09-11T00:00:00Z",
           "prev_abbrev": "TBD"
+        }
+      ]
+    },
+    {
+      "id": "7d1afb26-6f9c-429b-9ccf-29012fd1e519",
+      "name": "Starship | Flight 14",
+      "slug": "starship-flight-14",
+      "status": {
+        "id": 2,
+        "abbrev": "TBD",
+        "name": "To Be Determined",
+        "description": "Current date is a placeholder or rough estimation based on unreliable or interpreted sources."
+      },
+      "net": "2026-09-15T00:00:00Z",
+      "window_start": "2026-09-15T00:00:00Z",
+      "window_end": "2026-09-15T00:00:00Z",
+      "probability": null,
+      "rocket": {
+        "name": "Starship",
+        "family": "Starship",
+        "manufacturer": "SpaceX",
+        "image_url": null
+      },
+      "mission": {
+        "name": "Flight 14",
+        "description": "14th test flight of the two-stage Starship launch vehicle. 3rd flight of Starship V3 and the first Starship flight to deploy satellites (a group of Starlink satellites) into stable Low Earth Orbit.",
+        "type": "Test Flight",
+        "orbit": "Low Earth Orbit"
+      },
+      "pad": {
+        "name": "Orbital Launch Pad 2",
+        "location": "SpaceX Starbase, TX, USA",
+        "country": "USA",
+        "latitude": "25.99677",
+        "longitude": "-97.15799"
+      },
+      "agency": {
+        "name": "SpaceX",
+        "abbrev": "SpX",
+        "type": "Commercial"
+      },
+      "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/starship_on_the_image_20260724044615.jpg",
+      "vidURLs": [],
+      "webcast_live": false,
+      "discovered_at": "2026-08-17T04:10:42.318745+00:00",
+      "last_updated_at": "2026-09-08T17:00:45.905911+00:00",
+      "outcome": null,
+      "failure_reason": null,
+      "status_history": [
+        {
+          "at": "2026-08-17T04:10:42.318748+00:00",
+          "status_id": 2,
+          "abbrev": "TBD",
+          "net": "2026-09-30T00:00:00Z"
+        },
+        {
+          "at": "2026-09-08T17:00:45.905915+00:00",
+          "status_id": 2,
+          "abbrev": "TBD",
+          "net": "2026-09-15T00:00:00Z",
+          "prev_net": "2026-09-30T00:00:00Z"
         }
       ]
     },
@@ -2295,7 +2501,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-07-26T15:57:34.604315+00:00",
-      "last_updated_at": "2026-09-08T12:32:42.913565+00:00",
+      "last_updated_at": "2026-09-08T17:00:45.905890+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -2357,7 +2563,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-08-30T16:52:45.418782+00:00",
-      "last_updated_at": "2026-09-08T12:32:42.913558+00:00",
+      "last_updated_at": "2026-09-08T17:00:45.905880+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -2416,7 +2622,7 @@
       ],
       "webcast_live": false,
       "discovered_at": "2026-09-01T15:01:31.933114+00:00",
-      "last_updated_at": "2026-09-08T12:32:42.913550+00:00",
+      "last_updated_at": "2026-09-08T17:00:45.905865+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -2477,7 +2683,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-09-02T16:45:37.345840+00:00",
-      "last_updated_at": "2026-09-08T12:32:42.913539+00:00",
+      "last_updated_at": "2026-09-08T17:00:45.905828+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -2493,84 +2699,6 @@
           "abbrev": "Go",
           "net": "2026-09-10T09:00:00Z",
           "prev_net": "2026-09-09T09:00:00Z"
-        }
-      ]
-    },
-    {
-      "id": "d793ba47-faf5-4bab-a386-39a9ccc49c90",
-      "name": "Soyuz 2.1b | Progress MS-35 (96P)",
-      "slug": "soyuz-21b-progress-ms-35-96p",
-      "status": {
-        "id": 1,
-        "abbrev": "Go",
-        "name": "Go for Launch",
-        "description": "Current T-0 confirmed by official or reliable sources."
-      },
-      "net": "2026-09-09T16:15:03Z",
-      "window_start": "2026-09-09T16:15:03Z",
-      "window_end": "2026-09-09T16:15:03Z",
-      "probability": null,
-      "rocket": {
-        "name": "Soyuz 2.1b",
-        "family": "Soyuz",
-        "manufacturer": "Progress Rocket Space Center",
-        "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/soyuz_2.1b_image_20230802085331.jpg"
-      },
-      "mission": {
-        "name": "Progress MS-35 (96P)",
-        "description": "Progress resupply mission to the International Space Station.",
-        "type": "Resupply",
-        "orbit": "Low Earth Orbit"
-      },
-      "pad": {
-        "name": "31/6",
-        "location": "Baikonur Cosmodrome, Republic of Kazakhstan",
-        "country": "KAZ",
-        "latitude": "45.996034",
-        "longitude": "63.564003"
-      },
-      "agency": {
-        "name": "Russian Federal Space Agency (ROSCOSMOS)",
-        "abbrev": "RFSA",
-        "type": "Government"
-      },
-      "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/soyuz_2.1b_image_20230802085331.jpg",
-      "vidURLs": [
-        {
-          "title": "Progress 96 Cargo Ship Launch",
-          "url": "https://www.youtube.com/watch?v=cCpf0BOjlLE"
-        },
-        {
-          "title": "Progress 96 Cargo Ship Launch",
-          "url": "https://plus.nasa.gov/scheduled-video/progress-96-cargo-ship-launch/"
-        }
-      ],
-      "webcast_live": false,
-      "discovered_at": "2026-04-26T23:04:51.622698+00:00",
-      "last_updated_at": "2026-09-08T12:32:42.913510+00:00",
-      "outcome": null,
-      "failure_reason": null,
-      "status_history": [
-        {
-          "at": "2026-04-26T23:04:51.622701+00:00",
-          "status_id": 8,
-          "abbrev": "TBC",
-          "net": "2026-06-17T01:40:00Z"
-        },
-        {
-          "at": "2026-06-17T03:34:38.917011+00:00",
-          "status_id": 8,
-          "abbrev": "TBC",
-          "net": "2026-09-09T16:10:00Z",
-          "prev_net": "2026-06-17T01:40:00Z"
-        },
-        {
-          "at": "2026-08-26T18:12:08.119505+00:00",
-          "status_id": 1,
-          "abbrev": "Go",
-          "net": "2026-09-09T16:15:03Z",
-          "prev_net": "2026-09-09T16:10:00Z",
-          "prev_abbrev": "TBC"
         }
       ]
     },
@@ -17676,5 +17804,5 @@
       ]
     }
   ],
-  "last_updated": "2026-09-08T12:32:42.914024+00:00"
+  "last_updated": "2026-09-08T17:00:45.906507+00:00"
 }
