@@ -799,7 +799,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-08-29T00:20:38.371247+00:00",
-      "last_updated_at": "2026-09-10T15:42:35.069082+00:00",
+      "last_updated_at": "2026-09-10T18:53:09.440692+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -1022,7 +1022,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-08-29T00:20:38.371230+00:00",
-      "last_updated_at": "2026-09-10T15:42:35.069076+00:00",
+      "last_updated_at": "2026-09-10T18:53:09.440686+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -1076,7 +1076,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-08-27T19:23:07.365274+00:00",
-      "last_updated_at": "2026-09-10T15:42:35.069068+00:00",
+      "last_updated_at": "2026-09-10T18:53:09.440678+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -1130,7 +1130,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-08-27T19:23:07.365257+00:00",
-      "last_updated_at": "2026-09-10T15:42:35.069061+00:00",
+      "last_updated_at": "2026-09-10T18:53:09.440672+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -1367,7 +1367,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-05-23T10:50:25.590716+00:00",
-      "last_updated_at": "2026-09-10T15:42:35.069004+00:00",
+      "last_updated_at": "2026-09-10T18:53:09.440616+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -1550,7 +1550,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-06-17T12:52:02.511173+00:00",
-      "last_updated_at": "2026-09-10T15:42:35.069053+00:00",
+      "last_updated_at": "2026-09-10T18:53:09.440666+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -1611,7 +1611,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-08-02T05:39:37.830291+00:00",
-      "last_updated_at": "2026-09-10T15:42:35.069024+00:00",
+      "last_updated_at": "2026-09-10T18:53:09.440635+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -1665,7 +1665,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-08-06T15:20:03.880632+00:00",
-      "last_updated_at": "2026-09-10T15:42:35.069039+00:00",
+      "last_updated_at": "2026-09-10T18:53:09.440652+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -1719,7 +1719,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-08-09T17:04:59.658112+00:00",
-      "last_updated_at": "2026-09-10T15:42:35.069032+00:00",
+      "last_updated_at": "2026-09-10T18:53:09.440643+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -1912,7 +1912,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-04-27T15:24:39.972764+00:00",
-      "last_updated_at": "2026-09-10T15:42:35.068972+00:00",
+      "last_updated_at": "2026-09-10T18:53:09.440601+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -1994,7 +1994,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-08-25T10:01:44.595713+00:00",
-      "last_updated_at": "2026-09-10T15:42:35.069046+00:00",
+      "last_updated_at": "2026-09-10T18:53:09.440659+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -2048,7 +2048,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-08-05T02:00:15.102845+00:00",
-      "last_updated_at": "2026-09-10T15:42:35.069011+00:00",
+      "last_updated_at": "2026-09-10T18:53:09.440623+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -2109,7 +2109,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-07-25T23:55:28.112276+00:00",
-      "last_updated_at": "2026-09-10T15:42:35.068978+00:00",
+      "last_updated_at": "2026-09-10T18:53:09.440609+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -2179,7 +2179,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-08-30T16:52:45.418782+00:00",
-      "last_updated_at": "2026-09-10T15:42:35.069017+00:00",
+      "last_updated_at": "2026-09-10T18:53:09.440629+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -2246,7 +2246,7 @@
       ],
       "webcast_live": false,
       "discovered_at": "2026-09-08T17:00:45.905972+00:00",
-      "last_updated_at": "2026-09-10T15:42:35.068965+00:00",
+      "last_updated_at": "2026-09-10T18:53:09.440578+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -2255,6 +2255,74 @@
           "status_id": 1,
           "abbrev": "Go",
           "net": "2026-09-20T01:47:00Z"
+        }
+      ]
+    },
+    {
+      "id": "7d1afb26-6f9c-429b-9ccf-29012fd1e519",
+      "name": "Starship | Flight 14",
+      "slug": "starship-flight-14",
+      "status": {
+        "id": 2,
+        "abbrev": "TBD",
+        "name": "To Be Determined",
+        "description": "Current date is a placeholder or rough estimation based on unreliable or interpreted sources."
+      },
+      "net": "2026-09-18T00:00:00Z",
+      "window_start": "2026-09-18T00:00:00Z",
+      "window_end": "2026-09-18T00:00:00Z",
+      "probability": null,
+      "rocket": {
+        "name": "Starship",
+        "family": "Starship",
+        "manufacturer": "SpaceX",
+        "image_url": null
+      },
+      "mission": {
+        "name": "Flight 14",
+        "description": "14th test flight of the two-stage Starship launch vehicle. 3rd flight of Starship V3 and the first Starship flight to deploy satellites (a group of Starlink satellites) into stable Low Earth Orbit.",
+        "type": "Test Flight",
+        "orbit": "Low Earth Orbit"
+      },
+      "pad": {
+        "name": "Orbital Launch Pad 2",
+        "location": "SpaceX Starbase, TX, USA",
+        "country": "USA",
+        "latitude": "25.99677",
+        "longitude": "-97.15799"
+      },
+      "agency": {
+        "name": "SpaceX",
+        "abbrev": "SpX",
+        "type": "Commercial"
+      },
+      "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/starship_on_the_image_20260724044615.jpg",
+      "vidURLs": [],
+      "webcast_live": false,
+      "discovered_at": "2026-08-17T04:10:42.318745+00:00",
+      "last_updated_at": "2026-09-10T18:53:09.440563+00:00",
+      "outcome": null,
+      "failure_reason": null,
+      "status_history": [
+        {
+          "at": "2026-08-17T04:10:42.318748+00:00",
+          "status_id": 2,
+          "abbrev": "TBD",
+          "net": "2026-09-30T00:00:00Z"
+        },
+        {
+          "at": "2026-09-08T17:00:45.905915+00:00",
+          "status_id": 2,
+          "abbrev": "TBD",
+          "net": "2026-09-15T00:00:00Z",
+          "prev_net": "2026-09-30T00:00:00Z"
+        },
+        {
+          "at": "2026-09-10T18:53:09.440567+00:00",
+          "status_id": 2,
+          "abbrev": "TBD",
+          "net": "2026-09-18T00:00:00Z",
+          "prev_net": "2026-09-15T00:00:00Z"
         }
       ]
     },
@@ -2300,7 +2368,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-09-08T17:00:45.905955+00:00",
-      "last_updated_at": "2026-09-10T15:42:35.068957+00:00",
+      "last_updated_at": "2026-09-10T18:53:09.440555+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -2371,7 +2439,7 @@
       ],
       "webcast_live": false,
       "discovered_at": "2026-04-26T23:04:51.622698+00:00",
-      "last_updated_at": "2026-09-10T15:42:35.068949+00:00",
+      "last_updated_at": "2026-09-10T18:53:09.440549+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -2461,7 +2529,7 @@
       ],
       "webcast_live": false,
       "discovered_at": "2026-09-09T18:24:45.398811+00:00",
-      "last_updated_at": "2026-09-10T15:42:35.068942+00:00",
+      "last_updated_at": "2026-09-10T18:53:09.440542+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -2515,7 +2583,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-09-09T14:59:01.534811+00:00",
-      "last_updated_at": "2026-09-10T15:42:35.068935+00:00",
+      "last_updated_at": "2026-09-10T18:53:09.440535+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -2569,7 +2637,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-09-10T11:37:22.757032+00:00",
-      "last_updated_at": "2026-09-10T15:42:35.068928+00:00",
+      "last_updated_at": "2026-09-10T18:53:09.440526+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -2623,7 +2691,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-07-23T04:47:18.150900+00:00",
-      "last_updated_at": "2026-09-10T15:42:35.068916+00:00",
+      "last_updated_at": "2026-09-10T18:53:09.440519+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -2640,67 +2708,6 @@
           "net": "2026-09-15T01:21:07Z",
           "prev_net": "2026-09-11T00:00:00Z",
           "prev_abbrev": "TBD"
-        }
-      ]
-    },
-    {
-      "id": "7d1afb26-6f9c-429b-9ccf-29012fd1e519",
-      "name": "Starship | Flight 14",
-      "slug": "starship-flight-14",
-      "status": {
-        "id": 2,
-        "abbrev": "TBD",
-        "name": "To Be Determined",
-        "description": "Current date is a placeholder or rough estimation based on unreliable or interpreted sources."
-      },
-      "net": "2026-09-15T00:00:00Z",
-      "window_start": "2026-09-15T00:00:00Z",
-      "window_end": "2026-09-15T00:00:00Z",
-      "probability": null,
-      "rocket": {
-        "name": "Starship",
-        "family": "Starship",
-        "manufacturer": "SpaceX",
-        "image_url": null
-      },
-      "mission": {
-        "name": "Flight 14",
-        "description": "14th test flight of the two-stage Starship launch vehicle. 3rd flight of Starship V3 and the first Starship flight to deploy satellites (a group of Starlink satellites) into stable Low Earth Orbit.",
-        "type": "Test Flight",
-        "orbit": "Low Earth Orbit"
-      },
-      "pad": {
-        "name": "Orbital Launch Pad 2",
-        "location": "SpaceX Starbase, TX, USA",
-        "country": "USA",
-        "latitude": "25.99677",
-        "longitude": "-97.15799"
-      },
-      "agency": {
-        "name": "SpaceX",
-        "abbrev": "SpX",
-        "type": "Commercial"
-      },
-      "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/starship_on_the_image_20260724044615.jpg",
-      "vidURLs": [],
-      "webcast_live": false,
-      "discovered_at": "2026-08-17T04:10:42.318745+00:00",
-      "last_updated_at": "2026-09-10T15:42:35.068908+00:00",
-      "outcome": null,
-      "failure_reason": null,
-      "status_history": [
-        {
-          "at": "2026-08-17T04:10:42.318748+00:00",
-          "status_id": 2,
-          "abbrev": "TBD",
-          "net": "2026-09-30T00:00:00Z"
-        },
-        {
-          "at": "2026-09-08T17:00:45.905915+00:00",
-          "status_id": 2,
-          "abbrev": "TBD",
-          "net": "2026-09-15T00:00:00Z",
-          "prev_net": "2026-09-30T00:00:00Z"
         }
       ]
     },
@@ -2751,7 +2758,7 @@
       ],
       "webcast_live": false,
       "discovered_at": "2026-07-26T15:57:34.604315+00:00",
-      "last_updated_at": "2026-09-10T15:42:35.068899+00:00",
+      "last_updated_at": "2026-09-10T18:53:09.440506+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -2784,15 +2791,15 @@
       "name": "Falcon 9 Block 5 | USSF-153",
       "slug": "falcon-9-block-5-ussf-153",
       "status": {
-        "id": 1,
-        "abbrev": "Go",
-        "name": "Go for Launch",
-        "description": "Current T-0 confirmed by official or reliable sources."
+        "id": 6,
+        "abbrev": "In Flight",
+        "name": "Launch in Flight",
+        "description": "Launch in Flight"
       },
       "net": "2026-09-10T15:42:30Z",
       "window_start": "2026-09-10T15:37:00Z",
       "window_end": "2026-09-10T18:37:00Z",
-      "probability": null,
+      "probability": 70,
       "rocket": {
         "name": "Falcon 9",
         "family": "Falcon",
@@ -2820,8 +2827,8 @@
       "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/falcon_9_liftof_image_20260816171423.jpg",
       "vidURLs": [
         {
-          "title": "GO! - SpaceX - Falcon 9 - USSF-153 - SLC-4E - Vandenberg SFB, CA - Space Affairs Live",
-          "url": "https://www.youtube.com/watch?v=UboPGsLWIBI"
+          "title": "SpaceX USSF-153",
+          "url": "https://www.youtube.com/watch?v=mPxbkR0BFS0"
         },
         {
           "title": "Live: SpaceX Falcon 9 rocket launches secretive U.S. Space Force mission from California",
@@ -2832,9 +2839,9 @@
           "url": "https://x.com/i/broadcasts/1nxnRBWejLOxO"
         }
       ],
-      "webcast_live": true,
+      "webcast_live": false,
       "discovered_at": "2026-09-01T15:01:31.933114+00:00",
-      "last_updated_at": "2026-09-10T15:42:35.068880+00:00",
+      "last_updated_at": "2026-09-10T18:53:09.440488+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -2864,6 +2871,13 @@
           "abbrev": "Go",
           "net": "2026-09-10T15:42:30Z",
           "prev_net": "2026-09-10T15:42:00Z"
+        },
+        {
+          "at": "2026-09-10T18:53:09.440493+00:00",
+          "status_id": 6,
+          "abbrev": "In Flight",
+          "net": "2026-09-10T15:42:30Z",
+          "prev_abbrev": "Go"
         }
       ]
     },
@@ -2909,7 +2923,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-09-02T16:45:37.345840+00:00",
-      "last_updated_at": "2026-09-10T15:42:35.068845+00:00",
+      "last_updated_at": "2026-09-10T18:53:09.440454+00:00",
       "outcome": "success",
       "failure_reason": null,
       "status_history": [
@@ -18037,5 +18051,5 @@
       ]
     }
   ],
-  "last_updated": "2026-09-10T15:42:35.069468+00:00"
+  "last_updated": "2026-09-10T18:53:09.441054+00:00"
 }
