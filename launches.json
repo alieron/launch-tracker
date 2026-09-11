@@ -1076,7 +1076,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-08-27T19:23:07.365274+00:00",
-      "last_updated_at": "2026-09-11T01:17:31.377664+00:00",
+      "last_updated_at": "2026-09-11T06:19:43.922902+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -1130,7 +1130,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-08-27T19:23:07.365257+00:00",
-      "last_updated_at": "2026-09-11T01:17:31.377659+00:00",
+      "last_updated_at": "2026-09-11T06:19:43.922898+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -1367,7 +1367,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-05-23T10:50:25.590716+00:00",
-      "last_updated_at": "2026-09-11T01:17:31.377611+00:00",
+      "last_updated_at": "2026-09-11T06:19:43.922860+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -1550,7 +1550,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-06-17T12:52:02.511173+00:00",
-      "last_updated_at": "2026-09-11T01:17:31.377652+00:00",
+      "last_updated_at": "2026-09-11T06:19:43.922891+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -1611,66 +1611,12 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-08-02T05:39:37.830291+00:00",
-      "last_updated_at": "2026-09-11T01:17:31.377630+00:00",
+      "last_updated_at": "2026-09-11T06:19:43.922877+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
         {
           "at": "2026-08-02T05:39:37.830294+00:00",
-          "status_id": 2,
-          "abbrev": "TBD",
-          "net": "2026-09-30T00:00:00Z"
-        }
-      ]
-    },
-    {
-      "id": "b81156da-c0b8-46c8-aebd-8af8d2be83cd",
-      "name": "Electron | BlackSky Gen-3 5",
-      "slug": "electron-blacksky-gen-3-5",
-      "status": {
-        "id": 2,
-        "abbrev": "TBD",
-        "name": "To Be Determined",
-        "description": "Current date is a placeholder or rough estimation based on unreliable or interpreted sources."
-      },
-      "net": "2026-09-30T00:00:00Z",
-      "window_start": "2026-09-30T00:00:00Z",
-      "window_end": "2026-09-30T00:00:00Z",
-      "probability": null,
-      "rocket": {
-        "name": "Electron",
-        "family": "",
-        "manufacturer": "Rocket Lab",
-        "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/electron_image_20190705175640.jpeg"
-      },
-      "mission": {
-        "name": "BlackSky Gen-3 5",
-        "description": "BlackSky Gen-3 Earth-imaging satellites",
-        "type": "Earth Science",
-        "orbit": "Low Earth Orbit"
-      },
-      "pad": {
-        "name": "Unknown Pad",
-        "location": "Rocket Lab Launch Complex 1, Mahia Peninsula, New Zealand",
-        "country": "NZL",
-        "latitude": "-39.260881",
-        "longitude": "177.865826"
-      },
-      "agency": {
-        "name": "Rocket Lab",
-        "abbrev": "RL",
-        "type": "Commercial"
-      },
-      "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/electron_image_20190705175640.jpeg",
-      "vidURLs": [],
-      "webcast_live": false,
-      "discovered_at": "2026-08-06T15:20:03.880632+00:00",
-      "last_updated_at": "2026-09-11T01:17:31.377643+00:00",
-      "outcome": null,
-      "failure_reason": null,
-      "status_history": [
-        {
-          "at": "2026-08-06T15:20:03.880634+00:00",
           "status_id": 2,
           "abbrev": "TBD",
           "net": "2026-09-30T00:00:00Z"
@@ -1719,7 +1665,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-08-09T17:04:59.658112+00:00",
-      "last_updated_at": "2026-09-11T01:17:31.377638+00:00",
+      "last_updated_at": "2026-09-11T06:19:43.922882+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -1912,7 +1858,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-04-27T15:24:39.972764+00:00",
-      "last_updated_at": "2026-09-11T01:17:31.377601+00:00",
+      "last_updated_at": "2026-09-11T06:19:43.922848+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -1994,7 +1940,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-08-25T10:01:44.595713+00:00",
-      "last_updated_at": "2026-09-11T01:17:31.377647+00:00",
+      "last_updated_at": "2026-09-11T06:19:43.922886+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -2048,7 +1994,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-08-05T02:00:15.102845+00:00",
-      "last_updated_at": "2026-09-11T01:17:31.377617+00:00",
+      "last_updated_at": "2026-09-11T06:19:43.922866+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -2109,7 +2055,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-07-25T23:55:28.112276+00:00",
-      "last_updated_at": "2026-09-11T01:17:31.377606+00:00",
+      "last_updated_at": "2026-09-11T06:19:43.922853+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -2179,7 +2125,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-08-30T16:52:45.418782+00:00",
-      "last_updated_at": "2026-09-11T01:17:31.377625+00:00",
+      "last_updated_at": "2026-09-11T06:19:43.922872+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -2246,7 +2192,7 @@
       ],
       "webcast_live": false,
       "discovered_at": "2026-09-08T17:00:45.905972+00:00",
-      "last_updated_at": "2026-09-11T01:17:31.377596+00:00",
+      "last_updated_at": "2026-09-11T06:19:43.922843+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -2255,6 +2201,60 @@
           "status_id": 1,
           "abbrev": "Go",
           "net": "2026-09-20T01:47:00Z"
+        }
+      ]
+    },
+    {
+      "id": "a527b585-f01f-4ecc-9230-711dcef72ef1",
+      "name": "Long March 2D | Unknown Payload",
+      "slug": "long-march-2d-unknown-payload",
+      "status": {
+        "id": 1,
+        "abbrev": "Go",
+        "name": "Go for Launch",
+        "description": "Current T-0 confirmed by official or reliable sources."
+      },
+      "net": "2026-09-19T10:50:00Z",
+      "window_start": "2026-09-19T10:43:00Z",
+      "window_end": "2026-09-19T11:06:00Z",
+      "probability": null,
+      "rocket": {
+        "name": "Long March 2D",
+        "family": "Long March",
+        "manufacturer": "China Aerospace Science and Technology Corporation",
+        "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/long2520march25202d_image_20190222031211.jpeg"
+      },
+      "mission": {
+        "name": "Unknown Payload",
+        "description": "Details TBD.",
+        "type": "Unknown",
+        "orbit": "Unknown"
+      },
+      "pad": {
+        "name": "Launch Complex 9",
+        "location": "Taiyuan Satellite Launch Center, People's Republic of China",
+        "country": "CHN",
+        "latitude": "38.863128",
+        "longitude": "111.589567"
+      },
+      "agency": {
+        "name": "China Aerospace Science and Technology Corporation",
+        "abbrev": "CASC",
+        "type": "Government"
+      },
+      "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/long2520march25202d_image_20190222031211.jpeg",
+      "vidURLs": [],
+      "webcast_live": false,
+      "discovered_at": "2026-09-11T06:19:43.922837+00:00",
+      "last_updated_at": "2026-09-11T06:19:43.922836+00:00",
+      "outcome": null,
+      "failure_reason": null,
+      "status_history": [
+        {
+          "at": "2026-09-11T06:19:43.922839+00:00",
+          "status_id": 1,
+          "abbrev": "Go",
+          "net": "2026-09-19T10:50:00Z"
         }
       ]
     },
@@ -2300,7 +2300,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-08-17T04:10:42.318745+00:00",
-      "last_updated_at": "2026-09-11T01:17:31.377590+00:00",
+      "last_updated_at": "2026-09-11T06:19:43.922831+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -2323,6 +2323,60 @@
           "abbrev": "TBD",
           "net": "2026-09-18T00:00:00Z",
           "prev_net": "2026-09-15T00:00:00Z"
+        }
+      ]
+    },
+    {
+      "id": "71aa4d56-0ce9-4c7d-a808-cc22f2ac5a84",
+      "name": "Kuaizhou 11 | Unknown Payload",
+      "slug": "kuaizhou-11-unknown-payload",
+      "status": {
+        "id": 1,
+        "abbrev": "Go",
+        "name": "Go for Launch",
+        "description": "Current T-0 confirmed by official or reliable sources."
+      },
+      "net": "2026-09-17T02:35:00Z",
+      "window_start": "2026-09-17T02:31:00Z",
+      "window_end": "2026-09-17T03:12:00Z",
+      "probability": null,
+      "rocket": {
+        "name": "Kuaizhou 11",
+        "family": "Kuaizhou",
+        "manufacturer": "ExPace",
+        "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/kuaizhou_11_lif_image_20240520155835.jpg"
+      },
+      "mission": {
+        "name": "Unknown Payload",
+        "description": "Details TBD.",
+        "type": "Unknown",
+        "orbit": "Unknown"
+      },
+      "pad": {
+        "name": "Launch Area 95A",
+        "location": "Jiuquan Satellite Launch Center, People's Republic of China",
+        "country": "CHN",
+        "latitude": "40.969117",
+        "longitude": "100.343333"
+      },
+      "agency": {
+        "name": "ExPace",
+        "abbrev": "EP",
+        "type": "Commercial"
+      },
+      "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/kuaizhou_11_lif_image_20240520155835.jpg",
+      "vidURLs": [],
+      "webcast_live": false,
+      "discovered_at": "2026-09-11T06:19:43.922820+00:00",
+      "last_updated_at": "2026-09-11T06:19:43.922818+00:00",
+      "outcome": null,
+      "failure_reason": null,
+      "status_history": [
+        {
+          "at": "2026-09-11T06:19:43.922822+00:00",
+          "status_id": 1,
+          "abbrev": "Go",
+          "net": "2026-09-17T02:35:00Z"
         }
       ]
     },
@@ -2368,7 +2422,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-09-08T17:00:45.905955+00:00",
-      "last_updated_at": "2026-09-11T01:17:31.377583+00:00",
+      "last_updated_at": "2026-09-11T06:19:43.922813+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -2439,7 +2493,7 @@
       ],
       "webcast_live": false,
       "discovered_at": "2026-04-26T23:04:51.622698+00:00",
-      "last_updated_at": "2026-09-11T01:17:31.377577+00:00",
+      "last_updated_at": "2026-09-11T06:19:43.922808+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -2529,7 +2583,7 @@
       ],
       "webcast_live": false,
       "discovered_at": "2026-09-09T18:24:45.398811+00:00",
-      "last_updated_at": "2026-09-11T01:17:31.377568+00:00",
+      "last_updated_at": "2026-09-11T06:19:43.922804+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -2583,7 +2637,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-09-09T14:59:01.534811+00:00",
-      "last_updated_at": "2026-09-11T01:17:31.377562+00:00",
+      "last_updated_at": "2026-09-11T06:19:43.922797+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -2637,7 +2691,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-09-10T11:37:22.757032+00:00",
-      "last_updated_at": "2026-09-11T01:17:31.377556+00:00",
+      "last_updated_at": "2026-09-11T06:19:43.922792+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -2700,7 +2754,7 @@
       ],
       "webcast_live": false,
       "discovered_at": "2026-07-23T04:47:18.150900+00:00",
-      "last_updated_at": "2026-09-11T01:17:31.377548+00:00",
+      "last_updated_at": "2026-09-11T06:19:43.922784+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -2767,7 +2821,7 @@
       ],
       "webcast_live": false,
       "discovered_at": "2026-07-26T15:57:34.604315+00:00",
-      "last_updated_at": "2026-09-11T01:17:31.377536+00:00",
+      "last_updated_at": "2026-09-11T06:19:43.922775+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -2792,6 +2846,68 @@
           "net": "2026-09-13T18:49:00Z",
           "prev_net": "2026-09-13T18:50:00Z",
           "prev_abbrev": "TBC"
+        }
+      ]
+    },
+    {
+      "id": "b81156da-c0b8-46c8-aebd-8af8d2be83cd",
+      "name": "Electron | Happily Ever Faster (BlackSky Gen-3 5)",
+      "slug": "electron-happily-ever-faster-blacksky-gen-3-5",
+      "status": {
+        "id": 3,
+        "abbrev": "Success",
+        "name": "Launch Successful",
+        "description": "The launch vehicle successfully inserted its payload(s) into the target orbit(s)."
+      },
+      "net": "2026-09-11T03:28:00Z",
+      "window_start": "2026-09-11T01:00:00Z",
+      "window_end": "2026-09-11T03:28:00Z",
+      "probability": null,
+      "rocket": {
+        "name": "Electron",
+        "family": "",
+        "manufacturer": "Rocket Lab",
+        "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/electron_image_20190705175640.jpeg"
+      },
+      "mission": {
+        "name": "Happily Ever Faster (BlackSky Gen-3 5)",
+        "description": "Note: Payload and customer identities were not publicly announced.\r\n\r\n5th of the BlackSky Gen-3 high resolution Earth-imaging satellites.",
+        "type": "Earth Science",
+        "orbit": "Low Earth Orbit"
+      },
+      "pad": {
+        "name": "Rocket Lab Launch Complex 1A",
+        "location": "Rocket Lab Launch Complex 1, Mahia Peninsula, New Zealand",
+        "country": "NZL",
+        "latitude": "-39.262833",
+        "longitude": "177.864469"
+      },
+      "agency": {
+        "name": "Rocket Lab",
+        "abbrev": "RL",
+        "type": "Commercial"
+      },
+      "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/electron_image_20190705175640.jpeg",
+      "vidURLs": [],
+      "webcast_live": false,
+      "discovered_at": "2026-08-06T15:20:03.880632+00:00",
+      "last_updated_at": "2026-09-11T06:19:43.922762+00:00",
+      "outcome": "success",
+      "failure_reason": null,
+      "status_history": [
+        {
+          "at": "2026-08-06T15:20:03.880634+00:00",
+          "status_id": 2,
+          "abbrev": "TBD",
+          "net": "2026-09-30T00:00:00Z"
+        },
+        {
+          "at": "2026-09-11T06:19:43.922766+00:00",
+          "status_id": 3,
+          "abbrev": "Success",
+          "net": "2026-09-11T03:28:00Z",
+          "prev_net": "2026-09-30T00:00:00Z",
+          "prev_abbrev": "TBD"
         }
       ]
     },
@@ -2850,7 +2966,7 @@
       ],
       "webcast_live": false,
       "discovered_at": "2026-09-01T15:01:31.933114+00:00",
-      "last_updated_at": "2026-09-11T01:17:31.377524+00:00",
+      "last_updated_at": "2026-09-11T06:19:43.922752+00:00",
       "outcome": "success",
       "failure_reason": null,
       "status_history": [
@@ -2939,7 +3055,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-09-02T16:45:37.345840+00:00",
-      "last_updated_at": "2026-09-11T01:17:31.377495+00:00",
+      "last_updated_at": "2026-09-11T06:19:43.922716+00:00",
       "outcome": "success",
       "failure_reason": null,
       "status_history": [
@@ -18067,5 +18183,5 @@
       ]
     }
   ],
-  "last_updated": "2026-09-11T01:17:31.377995+00:00"
+  "last_updated": "2026-09-11T06:19:43.923306+00:00"
 }
