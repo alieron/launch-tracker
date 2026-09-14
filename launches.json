@@ -799,7 +799,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-08-29T00:20:38.371247+00:00",
-      "last_updated_at": "2026-09-13T22:30:56.622230+00:00",
+      "last_updated_at": "2026-09-14T00:37:21.576303+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -853,7 +853,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-08-29T13:16:29.132372+00:00",
-      "last_updated_at": "2026-09-13T22:30:56.622238+00:00",
+      "last_updated_at": "2026-09-14T00:37:21.576311+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -1022,7 +1022,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-08-29T00:20:38.371230+00:00",
-      "last_updated_at": "2026-09-13T22:30:56.622221+00:00",
+      "last_updated_at": "2026-09-14T00:37:21.576295+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -1076,7 +1076,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-08-27T19:23:07.365274+00:00",
-      "last_updated_at": "2026-09-13T22:30:56.622215+00:00",
+      "last_updated_at": "2026-09-14T00:37:21.576289+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -1130,7 +1130,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-08-27T19:23:07.365257+00:00",
-      "last_updated_at": "2026-09-13T22:30:56.622208+00:00",
+      "last_updated_at": "2026-09-14T00:37:21.576283+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -1367,7 +1367,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-05-23T10:50:25.590716+00:00",
-      "last_updated_at": "2026-09-13T22:30:56.622144+00:00",
+      "last_updated_at": "2026-09-14T00:37:21.576233+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -1550,7 +1550,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-06-17T12:52:02.511173+00:00",
-      "last_updated_at": "2026-09-13T22:30:56.622202+00:00",
+      "last_updated_at": "2026-09-14T00:37:21.576276+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -1611,7 +1611,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-08-02T05:39:37.830291+00:00",
-      "last_updated_at": "2026-09-13T22:30:56.622179+00:00",
+      "last_updated_at": "2026-09-14T00:37:21.576256+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -1665,7 +1665,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-08-09T17:04:59.658112+00:00",
-      "last_updated_at": "2026-09-13T22:30:56.622186+00:00",
+      "last_updated_at": "2026-09-14T00:37:21.576262+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -1858,7 +1858,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-04-27T15:24:39.972764+00:00",
-      "last_updated_at": "2026-09-13T22:30:56.622126+00:00",
+      "last_updated_at": "2026-09-14T00:37:21.576220+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -1940,7 +1940,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-08-25T10:01:44.595713+00:00",
-      "last_updated_at": "2026-09-13T22:30:56.622195+00:00",
+      "last_updated_at": "2026-09-14T00:37:21.576270+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -1994,7 +1994,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-08-05T02:00:15.102845+00:00",
-      "last_updated_at": "2026-09-13T22:30:56.622151+00:00",
+      "last_updated_at": "2026-09-14T00:37:21.576240+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -2055,7 +2055,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-07-25T23:55:28.112276+00:00",
-      "last_updated_at": "2026-09-13T22:30:56.622137+00:00",
+      "last_updated_at": "2026-09-14T00:37:21.576227+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -2125,7 +2125,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-08-30T16:52:45.418782+00:00",
-      "last_updated_at": "2026-09-13T22:30:56.622168+00:00",
+      "last_updated_at": "2026-09-14T00:37:21.576249+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -2192,7 +2192,7 @@
       ],
       "webcast_live": false,
       "discovered_at": "2026-09-08T17:00:45.905972+00:00",
-      "last_updated_at": "2026-09-13T22:30:56.622120+00:00",
+      "last_updated_at": "2026-09-14T00:37:21.576212+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -2246,7 +2246,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-09-11T06:19:43.922837+00:00",
-      "last_updated_at": "2026-09-13T22:30:56.622108+00:00",
+      "last_updated_at": "2026-09-14T00:37:21.576205+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -2300,7 +2300,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-08-17T04:10:42.318745+00:00",
-      "last_updated_at": "2026-09-13T22:30:56.622098+00:00",
+      "last_updated_at": "2026-09-14T00:37:21.576198+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -2376,7 +2376,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-09-11T06:19:43.922820+00:00",
-      "last_updated_at": "2026-09-13T22:30:56.622087+00:00",
+      "last_updated_at": "2026-09-14T00:37:21.576191+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -2430,7 +2430,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-09-08T17:00:45.905955+00:00",
-      "last_updated_at": "2026-09-13T22:30:56.622073+00:00",
+      "last_updated_at": "2026-09-14T00:37:21.576182+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -2501,7 +2501,7 @@
       ],
       "webcast_live": false,
       "discovered_at": "2026-04-26T23:04:51.622698+00:00",
-      "last_updated_at": "2026-09-13T22:30:56.622059+00:00",
+      "last_updated_at": "2026-09-14T00:37:21.576176+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -2591,7 +2591,7 @@
       ],
       "webcast_live": false,
       "discovered_at": "2026-09-09T18:24:45.398811+00:00",
-      "last_updated_at": "2026-09-13T22:30:56.622048+00:00",
+      "last_updated_at": "2026-09-14T00:37:21.576165+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -2645,7 +2645,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-09-09T14:59:01.534811+00:00",
-      "last_updated_at": "2026-09-13T22:30:56.622039+00:00",
+      "last_updated_at": "2026-09-14T00:37:21.576157+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -2699,7 +2699,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-09-10T11:37:22.757032+00:00",
-      "last_updated_at": "2026-09-13T22:30:56.622029+00:00",
+      "last_updated_at": "2026-09-14T00:37:21.576148+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -2762,7 +2762,7 @@
       ],
       "webcast_live": false,
       "discovered_at": "2026-07-23T04:47:18.150900+00:00",
-      "last_updated_at": "2026-09-13T22:30:56.622016+00:00",
+      "last_updated_at": "2026-09-14T00:37:21.576135+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -2787,10 +2787,10 @@
       "name": "Falcon 9 Block 5 | O3b mPower 11-13",
       "slug": "falcon-9-block-5-o3b-mpower-11-13",
       "status": {
-        "id": 6,
-        "abbrev": "In Flight",
-        "name": "Launch in Flight",
-        "description": "Launch in Flight"
+        "id": 3,
+        "abbrev": "Success",
+        "name": "Launch Successful",
+        "description": "The launch vehicle successfully inserted its payload(s) into the target orbit(s)."
       },
       "net": "2026-09-13T18:49:00Z",
       "window_start": "2026-09-13T18:49:00Z",
@@ -2841,8 +2841,8 @@
       ],
       "webcast_live": false,
       "discovered_at": "2026-07-26T15:57:34.604315+00:00",
-      "last_updated_at": "2026-09-13T22:30:56.621978+00:00",
-      "outcome": null,
+      "last_updated_at": "2026-09-14T00:37:21.576094+00:00",
+      "outcome": "success",
       "failure_reason": null,
       "status_history": [
         {
@@ -2873,6 +2873,13 @@
           "abbrev": "In Flight",
           "net": "2026-09-13T18:49:00Z",
           "prev_abbrev": "Go"
+        },
+        {
+          "at": "2026-09-14T00:37:21.576117+00:00",
+          "status_id": 3,
+          "abbrev": "Success",
+          "net": "2026-09-13T18:49:00Z",
+          "prev_abbrev": "In Flight"
         }
       ]
     },
@@ -18210,5 +18217,5 @@
       ]
     }
   ],
-  "last_updated": "2026-09-13T22:30:56.622625+00:00"
+  "last_updated": "2026-09-14T00:37:21.576684+00:00"
 }
