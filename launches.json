@@ -799,7 +799,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-08-29T00:20:38.371247+00:00",
-      "last_updated_at": "2026-09-14T11:33:21.198595+00:00",
+      "last_updated_at": "2026-09-14T17:28:56.873089+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -853,7 +853,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-08-29T13:16:29.132372+00:00",
-      "last_updated_at": "2026-09-14T11:33:21.198603+00:00",
+      "last_updated_at": "2026-09-14T17:28:56.873096+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -1022,7 +1022,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-08-29T00:20:38.371230+00:00",
-      "last_updated_at": "2026-09-14T11:33:21.198586+00:00",
+      "last_updated_at": "2026-09-14T17:28:56.873081+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -1076,7 +1076,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-08-27T19:23:07.365274+00:00",
-      "last_updated_at": "2026-09-14T11:33:21.198580+00:00",
+      "last_updated_at": "2026-09-14T17:28:56.873074+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -1130,7 +1130,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-08-27T19:23:07.365257+00:00",
-      "last_updated_at": "2026-09-14T11:33:21.198573+00:00",
+      "last_updated_at": "2026-09-14T17:28:56.873066+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -1367,7 +1367,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-05-23T10:50:25.590716+00:00",
-      "last_updated_at": "2026-09-14T11:33:21.198474+00:00",
+      "last_updated_at": "2026-09-14T17:28:56.873018+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -1550,7 +1550,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-06-17T12:52:02.511173+00:00",
-      "last_updated_at": "2026-09-14T11:33:21.198565+00:00",
+      "last_updated_at": "2026-09-14T17:28:56.873060+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -1611,7 +1611,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-08-02T05:39:37.830291+00:00",
-      "last_updated_at": "2026-09-14T11:33:21.198542+00:00",
+      "last_updated_at": "2026-09-14T17:28:56.873039+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -1665,7 +1665,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-08-09T17:04:59.658112+00:00",
-      "last_updated_at": "2026-09-14T11:33:21.198552+00:00",
+      "last_updated_at": "2026-09-14T17:28:56.873047+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -1858,7 +1858,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-04-27T15:24:39.972764+00:00",
-      "last_updated_at": "2026-09-14T11:33:21.198461+00:00",
+      "last_updated_at": "2026-09-14T17:28:56.873002+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -1940,7 +1940,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-08-25T10:01:44.595713+00:00",
-      "last_updated_at": "2026-09-14T11:33:21.198559+00:00",
+      "last_updated_at": "2026-09-14T17:28:56.873054+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -1994,7 +1994,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-08-05T02:00:15.102845+00:00",
-      "last_updated_at": "2026-09-14T11:33:21.198505+00:00",
+      "last_updated_at": "2026-09-14T17:28:56.873026+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -2055,7 +2055,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-07-25T23:55:28.112276+00:00",
-      "last_updated_at": "2026-09-14T11:33:21.198467+00:00",
+      "last_updated_at": "2026-09-14T17:28:56.873010+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -2125,7 +2125,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-08-30T16:52:45.418782+00:00",
-      "last_updated_at": "2026-09-14T11:33:21.198527+00:00",
+      "last_updated_at": "2026-09-14T17:28:56.873033+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -2142,6 +2142,89 @@
           "net": "2026-09-30T00:00:00Z",
           "prev_net": "2026-09-11T16:00:00Z",
           "prev_abbrev": "TBC"
+        }
+      ]
+    },
+    {
+      "id": "7d1afb26-6f9c-429b-9ccf-29012fd1e519",
+      "name": "Starship | Flight 14",
+      "slug": "starship-flight-14",
+      "status": {
+        "id": 8,
+        "abbrev": "TBC",
+        "name": "To Be Confirmed",
+        "description": "Awaiting official confirmation - current date is known with some certainty."
+      },
+      "net": "2026-09-22T12:15:00Z",
+      "window_start": "2026-09-22T12:15:00Z",
+      "window_end": "2026-09-22T14:14:00Z",
+      "probability": null,
+      "rocket": {
+        "name": "Starship",
+        "family": "Starship",
+        "manufacturer": "SpaceX",
+        "image_url": null
+      },
+      "mission": {
+        "name": "Flight 14",
+        "description": "14th test flight of the two-stage Starship launch vehicle. 3rd flight of Starship V3 and the first Starship flight to deploy satellites (a group of Starlink satellites) into stable Low Earth Orbit.",
+        "type": "Test Flight",
+        "orbit": "Low Earth Orbit"
+      },
+      "pad": {
+        "name": "Orbital Launch Pad 2",
+        "location": "SpaceX Starbase, TX, USA",
+        "country": "USA",
+        "latitude": "25.99677",
+        "longitude": "-97.15799"
+      },
+      "agency": {
+        "name": "SpaceX",
+        "abbrev": "SpX",
+        "type": "Commercial"
+      },
+      "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/starship_on_the_image_20260724044615.jpg",
+      "vidURLs": [],
+      "webcast_live": false,
+      "discovered_at": "2026-08-17T04:10:42.318745+00:00",
+      "last_updated_at": "2026-09-14T17:28:56.872989+00:00",
+      "outcome": null,
+      "failure_reason": null,
+      "status_history": [
+        {
+          "at": "2026-08-17T04:10:42.318748+00:00",
+          "status_id": 2,
+          "abbrev": "TBD",
+          "net": "2026-09-30T00:00:00Z"
+        },
+        {
+          "at": "2026-09-08T17:00:45.905915+00:00",
+          "status_id": 2,
+          "abbrev": "TBD",
+          "net": "2026-09-15T00:00:00Z",
+          "prev_net": "2026-09-30T00:00:00Z"
+        },
+        {
+          "at": "2026-09-10T18:53:09.440567+00:00",
+          "status_id": 2,
+          "abbrev": "TBD",
+          "net": "2026-09-18T00:00:00Z",
+          "prev_net": "2026-09-15T00:00:00Z"
+        },
+        {
+          "at": "2026-09-11T21:31:39.737885+00:00",
+          "status_id": 8,
+          "abbrev": "TBC",
+          "net": "2026-09-18T12:15:00Z",
+          "prev_net": "2026-09-18T00:00:00Z",
+          "prev_abbrev": "TBD"
+        },
+        {
+          "at": "2026-09-14T17:28:56.872993+00:00",
+          "status_id": 8,
+          "abbrev": "TBC",
+          "net": "2026-09-22T12:15:00Z",
+          "prev_net": "2026-09-18T12:15:00Z"
         }
       ]
     },
@@ -2192,7 +2275,7 @@
       ],
       "webcast_live": false,
       "discovered_at": "2026-09-08T17:00:45.905972+00:00",
-      "last_updated_at": "2026-09-14T11:33:21.198452+00:00",
+      "last_updated_at": "2026-09-14T17:28:56.872982+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -2246,7 +2329,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-09-11T06:19:43.922837+00:00",
-      "last_updated_at": "2026-09-14T11:33:21.198445+00:00",
+      "last_updated_at": "2026-09-14T17:28:56.872975+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -2255,82 +2338,6 @@
           "status_id": 1,
           "abbrev": "Go",
           "net": "2026-09-19T10:50:00Z"
-        }
-      ]
-    },
-    {
-      "id": "7d1afb26-6f9c-429b-9ccf-29012fd1e519",
-      "name": "Starship | Flight 14",
-      "slug": "starship-flight-14",
-      "status": {
-        "id": 8,
-        "abbrev": "TBC",
-        "name": "To Be Confirmed",
-        "description": "Awaiting official confirmation - current date is known with some certainty."
-      },
-      "net": "2026-09-18T12:15:00Z",
-      "window_start": "2026-09-18T12:15:00Z",
-      "window_end": "2026-09-18T14:14:00Z",
-      "probability": null,
-      "rocket": {
-        "name": "Starship",
-        "family": "Starship",
-        "manufacturer": "SpaceX",
-        "image_url": null
-      },
-      "mission": {
-        "name": "Flight 14",
-        "description": "14th test flight of the two-stage Starship launch vehicle. 3rd flight of Starship V3 and the first Starship flight to deploy satellites (a group of Starlink satellites) into stable Low Earth Orbit.",
-        "type": "Test Flight",
-        "orbit": "Low Earth Orbit"
-      },
-      "pad": {
-        "name": "Orbital Launch Pad 2",
-        "location": "SpaceX Starbase, TX, USA",
-        "country": "USA",
-        "latitude": "25.99677",
-        "longitude": "-97.15799"
-      },
-      "agency": {
-        "name": "SpaceX",
-        "abbrev": "SpX",
-        "type": "Commercial"
-      },
-      "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/starship_on_the_image_20260724044615.jpg",
-      "vidURLs": [],
-      "webcast_live": false,
-      "discovered_at": "2026-08-17T04:10:42.318745+00:00",
-      "last_updated_at": "2026-09-14T11:33:21.198438+00:00",
-      "outcome": null,
-      "failure_reason": null,
-      "status_history": [
-        {
-          "at": "2026-08-17T04:10:42.318748+00:00",
-          "status_id": 2,
-          "abbrev": "TBD",
-          "net": "2026-09-30T00:00:00Z"
-        },
-        {
-          "at": "2026-09-08T17:00:45.905915+00:00",
-          "status_id": 2,
-          "abbrev": "TBD",
-          "net": "2026-09-15T00:00:00Z",
-          "prev_net": "2026-09-30T00:00:00Z"
-        },
-        {
-          "at": "2026-09-10T18:53:09.440567+00:00",
-          "status_id": 2,
-          "abbrev": "TBD",
-          "net": "2026-09-18T00:00:00Z",
-          "prev_net": "2026-09-15T00:00:00Z"
-        },
-        {
-          "at": "2026-09-11T21:31:39.737885+00:00",
-          "status_id": 8,
-          "abbrev": "TBC",
-          "net": "2026-09-18T12:15:00Z",
-          "prev_net": "2026-09-18T00:00:00Z",
-          "prev_abbrev": "TBD"
         }
       ]
     },
@@ -2376,7 +2383,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-09-11T06:19:43.922820+00:00",
-      "last_updated_at": "2026-09-14T11:33:21.198431+00:00",
+      "last_updated_at": "2026-09-14T17:28:56.872968+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -2430,7 +2437,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-09-08T17:00:45.905955+00:00",
-      "last_updated_at": "2026-09-14T11:33:21.198421+00:00",
+      "last_updated_at": "2026-09-14T17:28:56.872962+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -2501,7 +2508,7 @@
       ],
       "webcast_live": false,
       "discovered_at": "2026-04-26T23:04:51.622698+00:00",
-      "last_updated_at": "2026-09-14T11:33:21.198414+00:00",
+      "last_updated_at": "2026-09-14T17:28:56.872953+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -2591,7 +2598,7 @@
       ],
       "webcast_live": false,
       "discovered_at": "2026-09-09T18:24:45.398811+00:00",
-      "last_updated_at": "2026-09-14T11:33:21.198402+00:00",
+      "last_updated_at": "2026-09-14T17:28:56.872943+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -2645,7 +2652,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-09-09T14:59:01.534811+00:00",
-      "last_updated_at": "2026-09-14T11:33:21.198392+00:00",
+      "last_updated_at": "2026-09-14T17:28:56.872933+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -2699,7 +2706,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-09-10T11:37:22.757032+00:00",
-      "last_updated_at": "2026-09-14T11:33:21.198382+00:00",
+      "last_updated_at": "2026-09-14T17:28:56.872924+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -2758,11 +2765,15 @@
         {
           "title": "FLEX and Sentinel-3C launch (Official broadcast)",
           "url": "https://www.youtube.com/watch?v=fmrgyh5s-is"
+        },
+        {
+          "title": "Vega C launches Sentinel-3C & FLEX",
+          "url": "https://www.youtube.com/watch?v=_7nBPHF-hAE"
         }
       ],
       "webcast_live": false,
       "discovered_at": "2026-07-23T04:47:18.150900+00:00",
-      "last_updated_at": "2026-09-14T11:33:21.198369+00:00",
+      "last_updated_at": "2026-09-14T17:28:56.872910+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -2841,7 +2852,7 @@
       ],
       "webcast_live": false,
       "discovered_at": "2026-07-26T15:57:34.604315+00:00",
-      "last_updated_at": "2026-09-14T11:33:21.198330+00:00",
+      "last_updated_at": "2026-09-14T17:28:56.872873+00:00",
       "outcome": "success",
       "failure_reason": null,
       "status_history": [
@@ -18217,5 +18228,5 @@
       ]
     }
   ],
-  "last_updated": "2026-09-14T11:33:21.199052+00:00"
+  "last_updated": "2026-09-14T17:28:56.873477+00:00"
 }
