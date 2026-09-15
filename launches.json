@@ -758,60 +758,6 @@
       ]
     },
     {
-      "id": "f4c720ce-0cfd-43e6-b8dd-00273073bc01",
-      "name": "Electron | StriX Launch 12",
-      "slug": "electron-strix-launch-12",
-      "status": {
-        "id": 2,
-        "abbrev": "TBD",
-        "name": "To Be Determined",
-        "description": "Current date is a placeholder or rough estimation based on unreliable or interpreted sources."
-      },
-      "net": "2026-10-31T00:00:00Z",
-      "window_start": "2026-10-31T00:00:00Z",
-      "window_end": "2026-10-31T00:00:00Z",
-      "probability": null,
-      "rocket": {
-        "name": "Electron",
-        "family": "",
-        "manufacturer": "Rocket Lab",
-        "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/electron_image_20190705175640.jpeg"
-      },
-      "mission": {
-        "name": "StriX Launch 12",
-        "description": "Synthetic aperture radar satellite for Japanese Earth imaging company Synspective.",
-        "type": "Earth Science",
-        "orbit": "Sun-Synchronous Orbit"
-      },
-      "pad": {
-        "name": "Unknown Pad",
-        "location": "Rocket Lab Launch Complex 1, Mahia Peninsula, New Zealand",
-        "country": "NZL",
-        "latitude": "-39.260881",
-        "longitude": "177.865826"
-      },
-      "agency": {
-        "name": "Rocket Lab",
-        "abbrev": "RL",
-        "type": "Commercial"
-      },
-      "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/electron_image_20190705175640.jpeg",
-      "vidURLs": [],
-      "webcast_live": false,
-      "discovered_at": "2026-08-29T00:20:38.371247+00:00",
-      "last_updated_at": "2026-09-15T21:34:30.651331+00:00",
-      "outcome": null,
-      "failure_reason": null,
-      "status_history": [
-        {
-          "at": "2026-08-29T00:20:38.371249+00:00",
-          "status_id": 2,
-          "abbrev": "TBD",
-          "net": "2026-10-31T00:00:00Z"
-        }
-      ]
-    },
-    {
       "id": "3b430f81-0ff1-4d85-8a1a-cef0de326198",
       "name": "Falcon 9 Block 5 | Bandwagon 5 (Dedicated Mid-Inclination Rideshare)",
       "slug": "falcon-9-block-5-bandwagon-5-dedicated-mid-inclina",
@@ -853,7 +799,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-08-29T13:16:29.132372+00:00",
-      "last_updated_at": "2026-09-15T21:34:30.651336+00:00",
+      "last_updated_at": "2026-09-15T23:54:23.888974+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -1022,7 +968,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-08-29T00:20:38.371230+00:00",
-      "last_updated_at": "2026-09-15T21:34:30.651326+00:00",
+      "last_updated_at": "2026-09-15T23:54:23.888967+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -1076,7 +1022,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-08-27T19:23:07.365274+00:00",
-      "last_updated_at": "2026-09-15T21:34:30.651323+00:00",
+      "last_updated_at": "2026-09-15T23:54:23.888962+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -1130,7 +1076,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-08-27T19:23:07.365257+00:00",
-      "last_updated_at": "2026-09-15T21:34:30.651319+00:00",
+      "last_updated_at": "2026-09-15T23:54:23.888955+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -1367,7 +1313,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-05-23T10:50:25.590716+00:00",
-      "last_updated_at": "2026-09-15T21:34:30.651287+00:00",
+      "last_updated_at": "2026-09-15T23:54:23.888908+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -1550,7 +1496,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-06-17T12:52:02.511173+00:00",
-      "last_updated_at": "2026-09-15T21:34:30.651314+00:00",
+      "last_updated_at": "2026-09-15T23:54:23.888939+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -1611,7 +1557,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-08-02T05:39:37.830291+00:00",
-      "last_updated_at": "2026-09-15T21:34:30.651301+00:00",
+      "last_updated_at": "2026-09-15T23:54:23.888922+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -1665,7 +1611,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-08-09T17:04:59.658112+00:00",
-      "last_updated_at": "2026-09-15T21:34:30.651306+00:00",
+      "last_updated_at": "2026-09-15T23:54:23.888929+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -1858,7 +1804,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-04-27T15:24:39.972764+00:00",
-      "last_updated_at": "2026-09-15T21:34:30.651276+00:00",
+      "last_updated_at": "2026-09-15T23:54:23.888895+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -1940,7 +1886,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-08-25T10:01:44.595713+00:00",
-      "last_updated_at": "2026-09-15T21:34:30.651310+00:00",
+      "last_updated_at": "2026-09-15T23:54:23.888934+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -1994,7 +1940,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-08-05T02:00:15.102845+00:00",
-      "last_updated_at": "2026-09-15T21:34:30.651293+00:00",
+      "last_updated_at": "2026-09-15T23:54:23.888913+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -2055,7 +2001,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-07-25T23:55:28.112276+00:00",
-      "last_updated_at": "2026-09-15T21:34:30.651282+00:00",
+      "last_updated_at": "2026-09-15T23:54:23.888902+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -2125,7 +2071,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-08-30T16:52:45.418782+00:00",
-      "last_updated_at": "2026-09-15T21:34:30.651297+00:00",
+      "last_updated_at": "2026-09-15T23:54:23.888918+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -2187,7 +2133,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-09-15T18:20:14.710806+00:00",
-      "last_updated_at": "2026-09-15T21:34:30.651257+00:00",
+      "last_updated_at": "2026-09-15T23:54:23.888890+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -2241,7 +2187,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-08-17T04:10:42.318745+00:00",
-      "last_updated_at": "2026-09-15T21:34:30.651253+00:00",
+      "last_updated_at": "2026-09-15T23:54:23.888884+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -2336,7 +2282,7 @@
       ],
       "webcast_live": false,
       "discovered_at": "2026-09-08T17:00:45.905972+00:00",
-      "last_updated_at": "2026-09-15T21:34:30.651249+00:00",
+      "last_updated_at": "2026-09-15T23:54:23.888879+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -2390,7 +2336,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-09-11T06:19:43.922837+00:00",
-      "last_updated_at": "2026-09-15T21:34:30.651243+00:00",
+      "last_updated_at": "2026-09-15T23:54:23.888873+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -2399,6 +2345,68 @@
           "status_id": 1,
           "abbrev": "Go",
           "net": "2026-09-19T10:50:00Z"
+        }
+      ]
+    },
+    {
+      "id": "f4c720ce-0cfd-43e6-b8dd-00273073bc01",
+      "name": "Electron | Owl By The Dozen (StriX Launch 12)",
+      "slug": "electron-owl-by-the-dozen-strix-launch-12",
+      "status": {
+        "id": 1,
+        "abbrev": "Go",
+        "name": "Go for Launch",
+        "description": "Current T-0 confirmed by official or reliable sources."
+      },
+      "net": "2026-09-19T03:15:00Z",
+      "window_start": "2026-09-19T03:15:00Z",
+      "window_end": "2026-09-19T03:15:00Z",
+      "probability": null,
+      "rocket": {
+        "name": "Electron",
+        "family": "",
+        "manufacturer": "Rocket Lab",
+        "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/electron_image_20190705175640.jpeg"
+      },
+      "mission": {
+        "name": "Owl By The Dozen (StriX Launch 12)",
+        "description": "Synthetic aperture radar satellite for Japanese Earth imaging company Synspective.",
+        "type": "Earth Science",
+        "orbit": "Low Earth Orbit"
+      },
+      "pad": {
+        "name": "Unknown Pad",
+        "location": "Rocket Lab Launch Complex 1, Mahia Peninsula, New Zealand",
+        "country": "NZL",
+        "latitude": "-39.260881",
+        "longitude": "177.865826"
+      },
+      "agency": {
+        "name": "Rocket Lab",
+        "abbrev": "RL",
+        "type": "Commercial"
+      },
+      "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/electron_image_20190705175640.jpeg",
+      "vidURLs": [],
+      "webcast_live": false,
+      "discovered_at": "2026-08-29T00:20:38.371247+00:00",
+      "last_updated_at": "2026-09-15T23:54:23.888865+00:00",
+      "outcome": null,
+      "failure_reason": null,
+      "status_history": [
+        {
+          "at": "2026-08-29T00:20:38.371249+00:00",
+          "status_id": 2,
+          "abbrev": "TBD",
+          "net": "2026-10-31T00:00:00Z"
+        },
+        {
+          "at": "2026-09-15T23:54:23.888868+00:00",
+          "status_id": 1,
+          "abbrev": "Go",
+          "net": "2026-09-19T03:15:00Z",
+          "prev_net": "2026-10-31T00:00:00Z",
+          "prev_abbrev": "TBD"
         }
       ]
     },
@@ -2444,7 +2452,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-09-11T06:19:43.922820+00:00",
-      "last_updated_at": "2026-09-15T21:34:30.651238+00:00",
+      "last_updated_at": "2026-09-15T23:54:23.888859+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -2498,7 +2506,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-09-08T17:00:45.905955+00:00",
-      "last_updated_at": "2026-09-15T21:34:30.651233+00:00",
+      "last_updated_at": "2026-09-15T23:54:23.888853+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -2569,7 +2577,7 @@
       ],
       "webcast_live": false,
       "discovered_at": "2026-04-26T23:04:51.622698+00:00",
-      "last_updated_at": "2026-09-15T21:34:30.651228+00:00",
+      "last_updated_at": "2026-09-15T23:54:23.888845+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -2667,7 +2675,7 @@
       ],
       "webcast_live": false,
       "discovered_at": "2026-09-09T18:24:45.398811+00:00",
-      "last_updated_at": "2026-09-15T21:34:30.651217+00:00",
+      "last_updated_at": "2026-09-15T23:54:23.888835+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -2695,15 +2703,15 @@
     },
     {
       "id": "767f7827-53d8-4621-803b-f456a1e6b512",
-      "name": "Gravity-1 | Unknown Payload",
-      "slug": "gravity-1-unknown-payload",
+      "name": "Gravity-1 | SpaceSail Polar Group #16",
+      "slug": "gravity-1-spacesail-polar-group-16",
       "status": {
-        "id": 1,
-        "abbrev": "Go",
-        "name": "Go for Launch",
-        "description": "Current T-0 confirmed by official or reliable sources."
+        "id": 3,
+        "abbrev": "Success",
+        "name": "Launch Successful",
+        "description": "The launch vehicle successfully inserted its payload(s) into the target orbit(s)."
       },
-      "net": "2026-09-15T21:55:00Z",
+      "net": "2026-09-15T22:00:00Z",
       "window_start": "2026-09-15T21:50:00Z",
       "window_end": "2026-09-15T22:11:00Z",
       "probability": null,
@@ -2714,10 +2722,10 @@
         "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/gravity-1_image_20240108105446.jpeg"
       },
       "mission": {
-        "name": "Unknown Payload",
-        "description": "Possibly launch of a batch of SpaceSail LEO communication satellites. Details TBD.",
-        "type": "Unknown",
-        "orbit": "Unknown"
+        "name": "SpaceSail Polar Group #16",
+        "description": "9 Low Earth Orbit communication satellites with Ku, Q and V band payloads for the G60 constellation operated by Shanghai Spacesail Technologies with funding backed by the Shanghai local government.\r\n\r\nInitial constellation will consist of 1296 satellites by 2027 with long term plans to expand it to 12000 satellites.",
+        "type": "Communications",
+        "orbit": "Polar Orbit"
       },
       "pad": {
         "name": "Yellow Sea (launch location 5)",
@@ -2735,8 +2743,8 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-09-09T14:59:01.534811+00:00",
-      "last_updated_at": "2026-09-15T21:34:30.651209+00:00",
-      "outcome": null,
+      "last_updated_at": "2026-09-15T23:54:23.888821+00:00",
+      "outcome": "success",
       "failure_reason": null,
       "status_history": [
         {
@@ -2744,6 +2752,14 @@
           "status_id": 1,
           "abbrev": "Go",
           "net": "2026-09-15T21:55:00Z"
+        },
+        {
+          "at": "2026-09-15T23:54:23.888825+00:00",
+          "status_id": 3,
+          "abbrev": "Success",
+          "net": "2026-09-15T22:00:00Z",
+          "prev_net": "2026-09-15T21:55:00Z",
+          "prev_abbrev": "Go"
         }
       ]
     },
@@ -2789,7 +2805,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-09-10T11:37:22.757032+00:00",
-      "last_updated_at": "2026-09-15T21:34:30.651197+00:00",
+      "last_updated_at": "2026-09-15T23:54:23.888809+00:00",
       "outcome": "success",
       "failure_reason": null,
       "status_history": [
@@ -2864,7 +2880,7 @@
       ],
       "webcast_live": false,
       "discovered_at": "2026-07-23T04:47:18.150900+00:00",
-      "last_updated_at": "2026-09-15T21:34:30.651168+00:00",
+      "last_updated_at": "2026-09-15T23:54:23.888772+00:00",
       "outcome": "success",
       "failure_reason": null,
       "status_history": [
@@ -18333,5 +18349,5 @@
       ]
     }
   ],
-  "last_updated": "2026-09-15T21:34:30.651620+00:00"
+  "last_updated": "2026-09-15T23:54:23.889315+00:00"
 }
