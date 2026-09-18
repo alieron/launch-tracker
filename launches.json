@@ -589,6 +589,60 @@
       ]
     },
     {
+      "id": "22e117bf-041c-49d5-9d09-7b180036e143",
+      "name": "Ariane 62 | Metop-SG B1",
+      "slug": "ariane-62-metop-sg-b1",
+      "status": {
+        "id": 2,
+        "abbrev": "TBD",
+        "name": "To Be Determined",
+        "description": "Current date is a placeholder or rough estimation based on unreliable or interpreted sources."
+      },
+      "net": "2026-11-30T00:00:00Z",
+      "window_start": "2026-11-30T00:00:00Z",
+      "window_end": "2026-11-30T00:00:00Z",
+      "probability": null,
+      "rocket": {
+        "name": "Ariane 62",
+        "family": "Ariane",
+        "manufacturer": "ArianeGroup",
+        "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/ariane_62_lifto_image_20240711132056.jpeg"
+      },
+      "mission": {
+        "name": "Metop-SG B1",
+        "description": "Second of EUMETSAT's second generation of Metop weather satellites.",
+        "type": "Earth Science",
+        "orbit": "Sun-Synchronous Orbit"
+      },
+      "pad": {
+        "name": "Ariane Launch Area 4",
+        "location": "Guiana Space Centre, French Guiana",
+        "country": "GUF",
+        "latitude": "5.256319",
+        "longitude": "-52.786838"
+      },
+      "agency": {
+        "name": "Arianespace",
+        "abbrev": "ASA",
+        "type": "Commercial"
+      },
+      "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/ariane_62_lifto_image_20240711132056.jpeg",
+      "vidURLs": [],
+      "webcast_live": false,
+      "discovered_at": "2026-09-18T06:14:12.921747+00:00",
+      "last_updated_at": "2026-09-18T06:14:12.921743+00:00",
+      "outcome": null,
+      "failure_reason": null,
+      "status_history": [
+        {
+          "at": "2026-09-18T06:14:12.921750+00:00",
+          "status_id": 2,
+          "abbrev": "TBD",
+          "net": "2026-11-30T00:00:00Z"
+        }
+      ]
+    },
+    {
       "id": "8dd5de11-831b-445f-86f0-bffefe0550d9",
       "name": "Soyuz 2.1b | Progress MS-36 (97P)",
       "slug": "soyuz-21b-progress-ms-36-97p",
@@ -630,7 +684,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-09-07T18:03:06.104420+00:00",
-      "last_updated_at": "2026-09-18T01:09:02.199114+00:00",
+      "last_updated_at": "2026-09-18T06:14:12.921737+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -738,7 +792,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-08-29T13:16:29.132372+00:00",
-      "last_updated_at": "2026-09-18T01:09:02.199075+00:00",
+      "last_updated_at": "2026-09-18T06:14:12.921689+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -792,7 +846,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-07-06T16:15:52.339958+00:00",
-      "last_updated_at": "2026-09-18T01:09:02.199088+00:00",
+      "last_updated_at": "2026-09-18T06:14:12.921708+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -853,7 +907,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-09-04T22:01:44.994817+00:00",
-      "last_updated_at": "2026-09-18T01:09:02.199094+00:00",
+      "last_updated_at": "2026-09-18T06:14:12.921724+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -907,7 +961,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-07-25T23:55:28.112276+00:00",
-      "last_updated_at": "2026-09-18T01:09:02.199083+00:00",
+      "last_updated_at": "2026-09-18T06:14:12.921699+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -984,7 +1038,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-09-18T01:09:02.199102+00:00",
-      "last_updated_at": "2026-09-18T01:09:02.199100+00:00",
+      "last_updated_at": "2026-09-18T06:14:12.921731+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -993,6 +1047,74 @@
           "status_id": 2,
           "abbrev": "TBD",
           "net": "2026-10-31T00:00:00Z"
+        }
+      ]
+    },
+    {
+      "id": "da43dc2c-00af-4cc1-8ef1-90a60b2eb9e5",
+      "name": "Falcon 9 Block 5 | SDA Tranche 1 Transport Layer A",
+      "slug": "falcon-9-block-5-sda-tranche-1-transport-layer-a",
+      "status": {
+        "id": 2,
+        "abbrev": "TBD",
+        "name": "To Be Determined",
+        "description": "Current date is a placeholder or rough estimation based on unreliable or interpreted sources."
+      },
+      "net": "2026-10-31T00:00:00Z",
+      "window_start": "2026-10-31T00:00:00Z",
+      "window_end": "2026-10-31T00:00:00Z",
+      "probability": null,
+      "rocket": {
+        "name": "Falcon 9",
+        "family": "Falcon",
+        "manufacturer": "SpaceX",
+        "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/falcon_9_image_20230807133459.jpeg"
+      },
+      "mission": {
+        "name": "SDA Tranche 1 Transport Layer A",
+        "description": "Tranche 1 Transport Layer A is one of six missions by the United States Space Force Space Development Agency (SDA) for the Proliferated Warfighter Space Architecture (PWSA) Tranche 1 Transport Layer constellation, which will provide assured, resilient, low-latency military data and connectivity worldwide to the full range of warfighter platforms from Low Earth Orbit satellites.\r\n\r\nThe constellation will be interconnected with Optical Inter-Satellite Links (OISLs) which have significantly increased performance over existing radio frequency crosslinks. It is expected to operate over Ka band, have stereo coverage and be dynamically networked for simpler hand-offs, greater bandwidth and fault tolerance.\r\n\r\nThis launch carries 21 satellites manufactured by Northrop Grumman.",
+        "type": "Government/Top Secret",
+        "orbit": "Polar Orbit"
+      },
+      "pad": {
+        "name": "Space Launch Complex 4E",
+        "location": "Vandenberg SFB, CA, USA",
+        "country": "USA",
+        "latitude": "34.632",
+        "longitude": "-120.611"
+      },
+      "agency": {
+        "name": "SpaceX",
+        "abbrev": "SpX",
+        "type": "Commercial"
+      },
+      "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/falcon_9_image_20230807133459.jpeg",
+      "vidURLs": [],
+      "webcast_live": false,
+      "discovered_at": "2026-05-23T10:50:25.590716+00:00",
+      "last_updated_at": "2026-09-18T06:14:12.921714+00:00",
+      "outcome": null,
+      "failure_reason": null,
+      "status_history": [
+        {
+          "at": "2026-05-23T10:50:25.590721+00:00",
+          "status_id": 2,
+          "abbrev": "TBD",
+          "net": "2026-06-30T00:00:00Z"
+        },
+        {
+          "at": "2026-06-30T04:02:43.925511+00:00",
+          "status_id": 2,
+          "abbrev": "TBD",
+          "net": "2026-09-30T00:00:00Z",
+          "prev_net": "2026-06-30T00:00:00Z"
+        },
+        {
+          "at": "2026-09-18T06:14:12.921717+00:00",
+          "status_id": 2,
+          "abbrev": "TBD",
+          "net": "2026-10-31T00:00:00Z",
+          "prev_net": "2026-09-30T00:00:00Z"
         }
       ]
     },
@@ -1038,7 +1160,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-08-29T00:20:38.371230+00:00",
-      "last_updated_at": "2026-09-18T01:09:02.199070+00:00",
+      "last_updated_at": "2026-09-18T06:14:12.921683+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -1092,7 +1214,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-08-27T19:23:07.365274+00:00",
-      "last_updated_at": "2026-09-18T01:09:02.199063+00:00",
+      "last_updated_at": "2026-09-18T06:14:12.921676+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -1146,7 +1268,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-08-27T19:23:07.365257+00:00",
-      "last_updated_at": "2026-09-18T01:09:02.199058+00:00",
+      "last_updated_at": "2026-09-18T06:14:12.921669+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -1155,6 +1277,60 @@
           "status_id": 2,
           "abbrev": "TBD",
           "net": "2026-10-07T00:00:00Z"
+        }
+      ]
+    },
+    {
+      "id": "6b89cfc8-8880-4b5b-856c-0e547d45b639",
+      "name": "SR75 | Flight 2",
+      "slug": "sr75-flight-2",
+      "status": {
+        "id": 2,
+        "abbrev": "TBD",
+        "name": "To Be Determined",
+        "description": "Current date is a placeholder or rough estimation based on unreliable or interpreted sources."
+      },
+      "net": "2026-10-05T00:00:00Z",
+      "window_start": "2026-10-05T00:00:00Z",
+      "window_end": "2026-10-05T00:00:00Z",
+      "probability": null,
+      "rocket": {
+        "name": "SR75",
+        "family": "",
+        "manufacturer": "HyImpulse",
+        "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/sr75_image_20230818080919.jpeg"
+      },
+      "mission": {
+        "name": "Flight 2",
+        "description": "Test flight of HyImpulse's SR75 sounding rocket.",
+        "type": "Test Flight",
+        "orbit": "Suborbital"
+      },
+      "pad": {
+        "name": "Unknown Pad",
+        "location": "SaxaVord Spaceport",
+        "country": "GBR",
+        "latitude": "60.8184",
+        "longitude": "-0.7692"
+      },
+      "agency": {
+        "name": "HyImpulse",
+        "abbrev": "HYI",
+        "type": "Private"
+      },
+      "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/sr-75_liftoff__image_20240503065630.jpeg",
+      "vidURLs": [],
+      "webcast_live": false,
+      "discovered_at": "2026-09-18T06:14:12.921656+00:00",
+      "last_updated_at": "2026-09-18T06:14:12.921653+00:00",
+      "outcome": null,
+      "failure_reason": null,
+      "status_history": [
+        {
+          "at": "2026-09-18T06:14:12.921658+00:00",
+          "status_id": 2,
+          "abbrev": "TBD",
+          "net": "2026-10-05T00:00:00Z"
         }
       ]
     },
@@ -1200,7 +1376,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-08-10T01:45:55.102366+00:00",
-      "last_updated_at": "2026-09-18T01:09:02.199026+00:00",
+      "last_updated_at": "2026-09-18T06:14:12.921624+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -1402,67 +1578,6 @@
         },
         {
           "at": "2026-06-30T04:02:41.491966+00:00",
-          "status_id": 2,
-          "abbrev": "TBD",
-          "net": "2026-09-30T00:00:00Z",
-          "prev_net": "2026-06-30T00:00:00Z"
-        }
-      ]
-    },
-    {
-      "id": "da43dc2c-00af-4cc1-8ef1-90a60b2eb9e5",
-      "name": "Falcon 9 Block 5 | SDA Tranche 1 Transport Layer A",
-      "slug": "falcon-9-block-5-sda-tranche-1-transport-layer-a",
-      "status": {
-        "id": 2,
-        "abbrev": "TBD",
-        "name": "To Be Determined",
-        "description": "Current date is a placeholder or rough estimation based on unreliable or interpreted sources."
-      },
-      "net": "2026-09-30T00:00:00Z",
-      "window_start": "2026-09-30T00:00:00Z",
-      "window_end": "2026-09-30T00:00:00Z",
-      "probability": null,
-      "rocket": {
-        "name": "Falcon 9",
-        "family": "Falcon",
-        "manufacturer": "SpaceX",
-        "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/falcon_9_image_20230807133459.jpeg"
-      },
-      "mission": {
-        "name": "SDA Tranche 1 Transport Layer A",
-        "description": "Tranche 1 Transport Layer A is one of six missions by the United States Space Force Space Development Agency (SDA) for the Proliferated Warfighter Space Architecture (PWSA) Tranche 1 Transport Layer constellation, which will provide assured, resilient, low-latency military data and connectivity worldwide to the full range of warfighter platforms from Low Earth Orbit satellites.\r\n\r\nThe constellation will be interconnected with Optical Inter-Satellite Links (OISLs) which have significantly increased performance over existing radio frequency crosslinks. It is expected to operate over Ka band, have stereo coverage and be dynamically networked for simpler hand-offs, greater bandwidth and fault tolerance.\r\n\r\nThis launch carries 21 satellites manufactured by Northrop Grumman.",
-        "type": "Government/Top Secret",
-        "orbit": "Polar Orbit"
-      },
-      "pad": {
-        "name": "Space Launch Complex 4E",
-        "location": "Vandenberg SFB, CA, USA",
-        "country": "USA",
-        "latitude": "34.632",
-        "longitude": "-120.611"
-      },
-      "agency": {
-        "name": "SpaceX",
-        "abbrev": "SpX",
-        "type": "Commercial"
-      },
-      "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/falcon_9_image_20230807133459.jpeg",
-      "vidURLs": [],
-      "webcast_live": false,
-      "discovered_at": "2026-05-23T10:50:25.590716+00:00",
-      "last_updated_at": "2026-09-18T01:09:02.199010+00:00",
-      "outcome": null,
-      "failure_reason": null,
-      "status_history": [
-        {
-          "at": "2026-05-23T10:50:25.590721+00:00",
-          "status_id": 2,
-          "abbrev": "TBD",
-          "net": "2026-06-30T00:00:00Z"
-        },
-        {
-          "at": "2026-06-30T04:02:43.925511+00:00",
           "status_id": 2,
           "abbrev": "TBD",
           "net": "2026-09-30T00:00:00Z",
@@ -1695,7 +1810,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-08-02T05:39:37.830291+00:00",
-      "last_updated_at": "2026-09-18T01:09:02.199032+00:00",
+      "last_updated_at": "2026-09-18T06:14:12.921633+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -1749,7 +1864,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-08-09T17:04:59.658112+00:00",
-      "last_updated_at": "2026-09-18T01:09:02.199038+00:00",
+      "last_updated_at": "2026-09-18T06:14:12.921639+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -1942,7 +2057,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-04-27T15:24:39.972764+00:00",
-      "last_updated_at": "2026-09-18T01:09:02.199001+00:00",
+      "last_updated_at": "2026-09-18T06:14:12.921600+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -2024,7 +2139,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-08-25T10:01:44.595713+00:00",
-      "last_updated_at": "2026-09-18T01:09:02.199047+00:00",
+      "last_updated_at": "2026-09-18T06:14:12.921647+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -2078,7 +2193,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-08-05T02:00:15.102845+00:00",
-      "last_updated_at": "2026-09-18T01:09:02.199016+00:00",
+      "last_updated_at": "2026-09-18T06:14:12.921607+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -2139,7 +2254,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-08-30T16:52:45.418782+00:00",
-      "last_updated_at": "2026-09-18T01:09:02.199021+00:00",
+      "last_updated_at": "2026-09-18T06:14:12.921618+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -2210,7 +2325,7 @@
       ],
       "webcast_live": false,
       "discovered_at": "2026-08-17T04:10:42.318745+00:00",
-      "last_updated_at": "2026-09-18T01:09:02.198992+00:00",
+      "last_updated_at": "2026-09-18T06:14:12.921589+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -2320,7 +2435,7 @@
       ],
       "webcast_live": false,
       "discovered_at": "2026-09-15T18:20:14.710806+00:00",
-      "last_updated_at": "2026-09-18T01:09:02.198986+00:00",
+      "last_updated_at": "2026-09-18T06:14:12.921579+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -2388,7 +2503,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-09-16T08:24:31.973717+00:00",
-      "last_updated_at": "2026-09-18T01:09:02.198979+00:00",
+      "last_updated_at": "2026-09-18T06:14:12.921570+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -2447,7 +2562,7 @@
       ],
       "webcast_live": false,
       "discovered_at": "2026-09-08T17:00:45.905972+00:00",
-      "last_updated_at": "2026-09-18T01:09:02.198972+00:00",
+      "last_updated_at": "2026-09-18T06:14:12.921561+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -2501,7 +2616,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-09-11T06:19:43.922837+00:00",
-      "last_updated_at": "2026-09-18T01:09:02.198964+00:00",
+      "last_updated_at": "2026-09-18T06:14:12.921548+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -2540,11 +2655,11 @@
         "orbit": "Low Earth Orbit"
       },
       "pad": {
-        "name": "Unknown Pad",
+        "name": "Rocket Lab Launch Complex 1B",
         "location": "Rocket Lab Launch Complex 1, Mahia Peninsula, New Zealand",
         "country": "NZL",
-        "latitude": "-39.260881",
-        "longitude": "177.865826"
+        "latitude": "-39.262833",
+        "longitude": "177.864469"
       },
       "agency": {
         "name": "Rocket Lab",
@@ -2555,7 +2670,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-08-29T00:20:38.371247+00:00",
-      "last_updated_at": "2026-09-18T01:09:02.198950+00:00",
+      "last_updated_at": "2026-09-18T06:14:12.921517+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -18589,5 +18704,5 @@
       ]
     }
   ],
-  "last_updated": "2026-09-18T01:09:02.199440+00:00"
+  "last_updated": "2026-09-18T06:14:12.922140+00:00"
 }
