@@ -684,7 +684,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-09-07T18:03:06.104420+00:00",
-      "last_updated_at": "2026-09-18T11:34:59.726705+00:00",
+      "last_updated_at": "2026-09-18T15:40:58.432438+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -792,7 +792,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-08-29T13:16:29.132372+00:00",
-      "last_updated_at": "2026-09-18T11:34:59.726663+00:00",
+      "last_updated_at": "2026-09-18T15:40:58.432404+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -846,7 +846,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-07-06T16:15:52.339958+00:00",
-      "last_updated_at": "2026-09-18T11:34:59.726677+00:00",
+      "last_updated_at": "2026-09-18T15:40:58.432412+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -907,7 +907,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-09-04T22:01:44.994817+00:00",
-      "last_updated_at": "2026-09-18T11:34:59.726689+00:00",
+      "last_updated_at": "2026-09-18T15:40:58.432426+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -916,83 +916,6 @@
           "status_id": 2,
           "abbrev": "TBD",
           "net": "2026-10-31T00:00:00Z"
-        }
-      ]
-    },
-    {
-      "id": "18441371-8b2e-457c-afb5-1ec1b11ab630",
-      "name": "Falcon 9 Block 5 | Crew-13",
-      "slug": "falcon-9-block-5-crew-13",
-      "status": {
-        "id": 2,
-        "abbrev": "TBD",
-        "name": "To Be Determined",
-        "description": "Current date is a placeholder or rough estimation based on unreliable or interpreted sources."
-      },
-      "net": "2026-10-31T00:00:00Z",
-      "window_start": "2026-10-31T00:00:00Z",
-      "window_end": "2026-10-31T00:00:00Z",
-      "probability": null,
-      "rocket": {
-        "name": "Falcon 9",
-        "family": "Falcon",
-        "manufacturer": "SpaceX",
-        "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/falcon_9_image_20230807133459.jpeg"
-      },
-      "mission": {
-        "name": "Crew-13",
-        "description": "SpaceX Crew-13 is the thirteenth crewed operational flight of a Crew Dragon spacecraft to the International Space Station as part of NASA's Commercial Crew Program.",
-        "type": "Human Exploration",
-        "orbit": "Low Earth Orbit"
-      },
-      "pad": {
-        "name": "Space Launch Complex 40",
-        "location": "Cape Canaveral SFS, FL, USA",
-        "country": "USA",
-        "latitude": "28.56194122",
-        "longitude": "-80.57735736"
-      },
-      "agency": {
-        "name": "SpaceX",
-        "abbrev": "SpX",
-        "type": "Commercial"
-      },
-      "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/falcon2520925_image_20220301072106.jpeg",
-      "vidURLs": [],
-      "webcast_live": false,
-      "discovered_at": "2026-07-25T23:55:28.112276+00:00",
-      "last_updated_at": "2026-09-18T11:34:59.726670+00:00",
-      "outcome": null,
-      "failure_reason": null,
-      "status_history": [
-        {
-          "at": "2026-07-25T23:55:28.112279+00:00",
-          "status_id": 2,
-          "abbrev": "TBD",
-          "net": "2026-09-30T00:00:00Z"
-        },
-        {
-          "at": "2026-08-03T17:23:16.734678+00:00",
-          "status_id": 1,
-          "abbrev": "Go",
-          "net": "2026-09-12T22:34:00Z",
-          "prev_net": "2026-09-30T00:00:00Z",
-          "prev_abbrev": "TBD"
-        },
-        {
-          "at": "2026-08-30T06:09:29.348571+00:00",
-          "status_id": 2,
-          "abbrev": "TBD",
-          "net": "2026-09-30T00:00:00Z",
-          "prev_net": "2026-09-12T22:34:00Z",
-          "prev_abbrev": "Go"
-        },
-        {
-          "at": "2026-09-16T17:54:16.901045+00:00",
-          "status_id": 2,
-          "abbrev": "TBD",
-          "net": "2026-10-31T00:00:00Z",
-          "prev_net": "2026-09-30T00:00:00Z"
         }
       ]
     },
@@ -1038,7 +961,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-09-18T01:09:02.199102+00:00",
-      "last_updated_at": "2026-09-18T11:34:59.726698+00:00",
+      "last_updated_at": "2026-09-18T15:40:58.432432+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -1092,7 +1015,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-05-23T10:50:25.590716+00:00",
-      "last_updated_at": "2026-09-18T11:34:59.726683+00:00",
+      "last_updated_at": "2026-09-18T15:40:58.432420+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -1160,7 +1083,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-08-29T00:20:38.371230+00:00",
-      "last_updated_at": "2026-09-18T11:34:59.726656+00:00",
+      "last_updated_at": "2026-09-18T15:40:58.432398+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -1214,7 +1137,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-08-27T19:23:07.365274+00:00",
-      "last_updated_at": "2026-09-18T11:34:59.726647+00:00",
+      "last_updated_at": "2026-09-18T15:40:58.432392+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -1268,7 +1191,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-08-27T19:23:07.365257+00:00",
-      "last_updated_at": "2026-09-18T11:34:59.726640+00:00",
+      "last_updated_at": "2026-09-18T15:40:58.432385+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -1322,7 +1245,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-09-18T06:14:12.921656+00:00",
-      "last_updated_at": "2026-09-18T11:34:59.726634+00:00",
+      "last_updated_at": "2026-09-18T15:40:58.432374+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -1331,6 +1254,91 @@
           "status_id": 2,
           "abbrev": "TBD",
           "net": "2026-10-05T00:00:00Z"
+        }
+      ]
+    },
+    {
+      "id": "18441371-8b2e-457c-afb5-1ec1b11ab630",
+      "name": "Falcon 9 Block 5 | Crew-13",
+      "slug": "falcon-9-block-5-crew-13",
+      "status": {
+        "id": 8,
+        "abbrev": "TBC",
+        "name": "To Be Confirmed",
+        "description": "Awaiting official confirmation - current date is known with some certainty."
+      },
+      "net": "2026-10-01T15:10:06Z",
+      "window_start": "2026-10-01T15:10:06Z",
+      "window_end": "2026-10-01T15:10:06Z",
+      "probability": null,
+      "rocket": {
+        "name": "Falcon 9",
+        "family": "Falcon",
+        "manufacturer": "SpaceX",
+        "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/falcon_9_image_20230807133459.jpeg"
+      },
+      "mission": {
+        "name": "Crew-13",
+        "description": "SpaceX Crew-13 is the thirteenth crewed operational flight of a Crew Dragon spacecraft to the International Space Station as part of NASA's Commercial Crew Program.",
+        "type": "Human Exploration",
+        "orbit": "Low Earth Orbit"
+      },
+      "pad": {
+        "name": "Space Launch Complex 40",
+        "location": "Cape Canaveral SFS, FL, USA",
+        "country": "USA",
+        "latitude": "28.56194122",
+        "longitude": "-80.57735736"
+      },
+      "agency": {
+        "name": "SpaceX",
+        "abbrev": "SpX",
+        "type": "Commercial"
+      },
+      "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/falcon2520925_image_20220301072106.jpeg",
+      "vidURLs": [],
+      "webcast_live": false,
+      "discovered_at": "2026-07-25T23:55:28.112276+00:00",
+      "last_updated_at": "2026-09-18T15:40:58.432361+00:00",
+      "outcome": null,
+      "failure_reason": null,
+      "status_history": [
+        {
+          "at": "2026-07-25T23:55:28.112279+00:00",
+          "status_id": 2,
+          "abbrev": "TBD",
+          "net": "2026-09-30T00:00:00Z"
+        },
+        {
+          "at": "2026-08-03T17:23:16.734678+00:00",
+          "status_id": 1,
+          "abbrev": "Go",
+          "net": "2026-09-12T22:34:00Z",
+          "prev_net": "2026-09-30T00:00:00Z",
+          "prev_abbrev": "TBD"
+        },
+        {
+          "at": "2026-08-30T06:09:29.348571+00:00",
+          "status_id": 2,
+          "abbrev": "TBD",
+          "net": "2026-09-30T00:00:00Z",
+          "prev_net": "2026-09-12T22:34:00Z",
+          "prev_abbrev": "Go"
+        },
+        {
+          "at": "2026-09-16T17:54:16.901045+00:00",
+          "status_id": 2,
+          "abbrev": "TBD",
+          "net": "2026-10-31T00:00:00Z",
+          "prev_net": "2026-09-30T00:00:00Z"
+        },
+        {
+          "at": "2026-09-18T15:40:58.432367+00:00",
+          "status_id": 8,
+          "abbrev": "TBC",
+          "net": "2026-10-01T15:10:06Z",
+          "prev_net": "2026-10-31T00:00:00Z",
+          "prev_abbrev": "TBD"
         }
       ]
     },
@@ -1742,7 +1750,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-08-02T05:39:37.830291+00:00",
-      "last_updated_at": "2026-09-18T11:34:59.726615+00:00",
+      "last_updated_at": "2026-09-18T15:40:58.432340+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -1796,7 +1804,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-08-09T17:04:59.658112+00:00",
-      "last_updated_at": "2026-09-18T11:34:59.726622+00:00",
+      "last_updated_at": "2026-09-18T15:40:58.432348+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -1989,7 +1997,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-04-27T15:24:39.972764+00:00",
-      "last_updated_at": "2026-09-18T11:34:59.726594+00:00",
+      "last_updated_at": "2026-09-18T15:40:58.432326+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -2071,7 +2079,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-08-25T10:01:44.595713+00:00",
-      "last_updated_at": "2026-09-18T11:34:59.726628+00:00",
+      "last_updated_at": "2026-09-18T15:40:58.432355+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -2125,7 +2133,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-08-05T02:00:15.102845+00:00",
-      "last_updated_at": "2026-09-18T11:34:59.726600+00:00",
+      "last_updated_at": "2026-09-18T15:40:58.432333+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -2141,68 +2149,6 @@
           "abbrev": "TBD",
           "net": "2026-09-30T00:00:00Z",
           "prev_net": "2026-08-31T00:00:00Z"
-        }
-      ]
-    },
-    {
-      "id": "63063b9d-ade9-4448-8717-6f910aa81188",
-      "name": "Long March 8A | Unknown Payload",
-      "slug": "long-march-8a-unknown-payload",
-      "status": {
-        "id": 2,
-        "abbrev": "TBD",
-        "name": "To Be Determined",
-        "description": "Current date is a placeholder or rough estimation based on unreliable or interpreted sources."
-      },
-      "net": "2026-09-30T00:00:00Z",
-      "window_start": "2026-09-30T00:00:00Z",
-      "window_end": "2026-09-30T00:00:00Z",
-      "probability": null,
-      "rocket": {
-        "name": "Long March 8A",
-        "family": "Long March",
-        "manufacturer": "China Aerospace Science and Technology Corporation",
-        "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/cz-8a_launch_2_image_20251206093107.jpeg"
-      },
-      "mission": {
-        "name": "Unknown Payload",
-        "description": "Details TBD.",
-        "type": "Unknown",
-        "orbit": "Unknown"
-      },
-      "pad": {
-        "name": "Commercial LC-1",
-        "location": "Wenchang Space Launch Site, People's Republic of China",
-        "country": "CHN",
-        "latitude": "19.597275",
-        "longitude": "110.930753"
-      },
-      "agency": {
-        "name": "China Aerospace Science and Technology Corporation",
-        "abbrev": "CASC",
-        "type": "Government"
-      },
-      "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/cz-8a_launch_2_image_20251206093107.jpeg",
-      "vidURLs": [],
-      "webcast_live": false,
-      "discovered_at": "2026-08-30T16:52:45.418782+00:00",
-      "last_updated_at": "2026-09-18T11:34:59.726607+00:00",
-      "outcome": null,
-      "failure_reason": null,
-      "status_history": [
-        {
-          "at": "2026-08-30T16:52:45.418785+00:00",
-          "status_id": 8,
-          "abbrev": "TBC",
-          "net": "2026-09-11T16:00:00Z"
-        },
-        {
-          "at": "2026-09-09T14:59:01.534891+00:00",
-          "status_id": 2,
-          "abbrev": "TBD",
-          "net": "2026-09-30T00:00:00Z",
-          "prev_net": "2026-09-11T16:00:00Z",
-          "prev_abbrev": "TBC"
         }
       ]
     },
@@ -2257,7 +2203,7 @@
       ],
       "webcast_live": false,
       "discovered_at": "2026-08-17T04:10:42.318745+00:00",
-      "last_updated_at": "2026-09-18T11:34:59.726587+00:00",
+      "last_updated_at": "2026-09-18T15:40:58.432319+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -2367,7 +2313,7 @@
       ],
       "webcast_live": false,
       "discovered_at": "2026-09-15T18:20:14.710806+00:00",
-      "last_updated_at": "2026-09-18T11:34:59.726577+00:00",
+      "last_updated_at": "2026-09-18T15:40:58.432308+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -2390,6 +2336,130 @@
           "abbrev": "Go",
           "net": "2026-09-26T11:56:00Z",
           "prev_abbrev": "TBC"
+        }
+      ]
+    },
+    {
+      "id": "aed67837-b567-43e0-8071-c3ccc24aa496",
+      "name": "Long March 6A | Unknown Payload",
+      "slug": "long-march-6a-unknown-payload",
+      "status": {
+        "id": 1,
+        "abbrev": "Go",
+        "name": "Go for Launch",
+        "description": "Current T-0 confirmed by official or reliable sources."
+      },
+      "net": "2026-09-24T08:45:00Z",
+      "window_start": "2026-09-24T08:38:00Z",
+      "window_end": "2026-09-24T09:04:00Z",
+      "probability": null,
+      "rocket": {
+        "name": "Long March 6A",
+        "family": "Long March",
+        "manufacturer": "China Aerospace Science and Technology Corporation",
+        "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/long_march_6a__image_20251209050223.jpeg"
+      },
+      "mission": {
+        "name": "Unknown Payload",
+        "description": "Details TBD.",
+        "type": "Unknown",
+        "orbit": "Unknown"
+      },
+      "pad": {
+        "name": "Launch Complex 9A",
+        "location": "Taiyuan Satellite Launch Center, People's Republic of China",
+        "country": "CHN",
+        "latitude": "38.8583",
+        "longitude": "111.5802"
+      },
+      "agency": {
+        "name": "China Aerospace Science and Technology Corporation",
+        "abbrev": "CASC",
+        "type": "Government"
+      },
+      "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/long_march_6a__image_20251209050223.jpeg",
+      "vidURLs": [],
+      "webcast_live": false,
+      "discovered_at": "2026-09-18T15:40:58.432295+00:00",
+      "last_updated_at": "2026-09-18T15:40:58.432292+00:00",
+      "outcome": null,
+      "failure_reason": null,
+      "status_history": [
+        {
+          "at": "2026-09-18T15:40:58.432298+00:00",
+          "status_id": 1,
+          "abbrev": "Go",
+          "net": "2026-09-24T08:45:00Z"
+        }
+      ]
+    },
+    {
+      "id": "63063b9d-ade9-4448-8717-6f910aa81188",
+      "name": "Long March 8A | Unknown Payload",
+      "slug": "long-march-8a-unknown-payload",
+      "status": {
+        "id": 1,
+        "abbrev": "Go",
+        "name": "Go for Launch",
+        "description": "Current T-0 confirmed by official or reliable sources."
+      },
+      "net": "2026-09-23T13:30:00Z",
+      "window_start": "2026-09-23T13:24:00Z",
+      "window_end": "2026-09-23T13:49:00Z",
+      "probability": null,
+      "rocket": {
+        "name": "Long March 8A",
+        "family": "Long March",
+        "manufacturer": "China Aerospace Science and Technology Corporation",
+        "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/cz-8a_launch_2_image_20251206093107.jpeg"
+      },
+      "mission": {
+        "name": "Unknown Payload",
+        "description": "Details TBD.",
+        "type": "Unknown",
+        "orbit": "Unknown"
+      },
+      "pad": {
+        "name": "Commercial LC-1",
+        "location": "Wenchang Space Launch Site, People's Republic of China",
+        "country": "CHN",
+        "latitude": "19.597275",
+        "longitude": "110.930753"
+      },
+      "agency": {
+        "name": "China Aerospace Science and Technology Corporation",
+        "abbrev": "CASC",
+        "type": "Government"
+      },
+      "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/cz-8a_launch_2_image_20251206093107.jpeg",
+      "vidURLs": [],
+      "webcast_live": false,
+      "discovered_at": "2026-08-30T16:52:45.418782+00:00",
+      "last_updated_at": "2026-09-18T15:40:58.432274+00:00",
+      "outcome": null,
+      "failure_reason": null,
+      "status_history": [
+        {
+          "at": "2026-08-30T16:52:45.418785+00:00",
+          "status_id": 8,
+          "abbrev": "TBC",
+          "net": "2026-09-11T16:00:00Z"
+        },
+        {
+          "at": "2026-09-09T14:59:01.534891+00:00",
+          "status_id": 2,
+          "abbrev": "TBD",
+          "net": "2026-09-30T00:00:00Z",
+          "prev_net": "2026-09-11T16:00:00Z",
+          "prev_abbrev": "TBC"
+        },
+        {
+          "at": "2026-09-18T15:40:58.432280+00:00",
+          "status_id": 1,
+          "abbrev": "Go",
+          "net": "2026-09-23T13:30:00Z",
+          "prev_net": "2026-09-30T00:00:00Z",
+          "prev_abbrev": "TBD"
         }
       ]
     },
@@ -2435,7 +2505,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-09-16T08:24:31.973717+00:00",
-      "last_updated_at": "2026-09-18T11:34:59.726570+00:00",
+      "last_updated_at": "2026-09-18T15:40:58.432267+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -2494,7 +2564,7 @@
       ],
       "webcast_live": false,
       "discovered_at": "2026-09-08T17:00:45.905972+00:00",
-      "last_updated_at": "2026-09-18T11:34:59.726559+00:00",
+      "last_updated_at": "2026-09-18T15:40:58.432258+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -2548,7 +2618,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-09-11T06:19:43.922837+00:00",
-      "last_updated_at": "2026-09-18T11:34:59.726546+00:00",
+      "last_updated_at": "2026-09-18T15:40:58.432244+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -2602,7 +2672,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-08-29T00:20:38.371247+00:00",
-      "last_updated_at": "2026-09-18T11:34:59.726534+00:00",
+      "last_updated_at": "2026-09-18T15:40:58.432230+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -2624,8 +2694,8 @@
     },
     {
       "id": "ab3c1e6c-03fe-48a7-b6ce-30c79569bdfb",
-      "name": "Soyuz 2.1b/Fregat | Kosmos (Unknown Payload)",
-      "slug": "soyuz-21bfregat-kosmos-unknown-payload",
+      "name": "Soyuz 2.1b/Fregat | Glonass-K1 No. 20 (?)",
+      "slug": "soyuz-21bfregat-glonass-k1-no-20",
       "status": {
         "id": 3,
         "abbrev": "Success",
@@ -2643,10 +2713,10 @@
         "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/soyuz_2.1b_image_20230802085331.jpg"
       },
       "mission": {
-        "name": "Kosmos (Unknown Payload)",
-        "description": "Note: Launch vehicle and payload identities not confirmed. Launch time is approximate.\r\n\r\nUnknown classified satellite(s) for the Russian military.",
-        "type": "Government/Top Secret",
-        "orbit": "Unknown"
+        "name": "Glonass-K1 No. 20 (?)",
+        "description": "Note: Satellite serial number and Cosmos designation not confirmed.\r\n\r\nGlonass-K are the third generation of satellite design for GLONASS satellite navigation system. GLONASS is a Russian space-based navigation system comparable to the similar GPS and Galileo systems. This generation improves on accuracy, power consumption and design life. Each satellite is unpressurized and weighs 935 kg,  and has an operational lifetime of 10 years.",
+        "type": "Navigation",
+        "orbit": "Medium Earth Orbit"
       },
       "pad": {
         "name": "43/3 (43L)",
@@ -2664,7 +2734,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-08-10T01:45:55.102366+00:00",
-      "last_updated_at": "2026-09-18T11:34:59.726496+00:00",
+      "last_updated_at": "2026-09-18T15:40:58.432195+00:00",
       "outcome": "success",
       "failure_reason": null,
       "status_history": [
@@ -18712,5 +18782,5 @@
       ]
     }
   ],
-  "last_updated": "2026-09-18T11:34:59.727103+00:00"
+  "last_updated": "2026-09-18T15:40:58.432877+00:00"
 }
