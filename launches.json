@@ -630,7 +630,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-09-18T06:14:12.921747+00:00",
-      "last_updated_at": "2026-09-18T06:14:12.921743+00:00",
+      "last_updated_at": "2026-09-18T11:34:59.726711+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -684,7 +684,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-09-07T18:03:06.104420+00:00",
-      "last_updated_at": "2026-09-18T06:14:12.921737+00:00",
+      "last_updated_at": "2026-09-18T11:34:59.726705+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -792,7 +792,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-08-29T13:16:29.132372+00:00",
-      "last_updated_at": "2026-09-18T06:14:12.921689+00:00",
+      "last_updated_at": "2026-09-18T11:34:59.726663+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -846,7 +846,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-07-06T16:15:52.339958+00:00",
-      "last_updated_at": "2026-09-18T06:14:12.921708+00:00",
+      "last_updated_at": "2026-09-18T11:34:59.726677+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -907,7 +907,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-09-04T22:01:44.994817+00:00",
-      "last_updated_at": "2026-09-18T06:14:12.921724+00:00",
+      "last_updated_at": "2026-09-18T11:34:59.726689+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -961,7 +961,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-07-25T23:55:28.112276+00:00",
-      "last_updated_at": "2026-09-18T06:14:12.921699+00:00",
+      "last_updated_at": "2026-09-18T11:34:59.726670+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -1038,7 +1038,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-09-18T01:09:02.199102+00:00",
-      "last_updated_at": "2026-09-18T06:14:12.921731+00:00",
+      "last_updated_at": "2026-09-18T11:34:59.726698+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -1092,7 +1092,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-05-23T10:50:25.590716+00:00",
-      "last_updated_at": "2026-09-18T06:14:12.921714+00:00",
+      "last_updated_at": "2026-09-18T11:34:59.726683+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -1160,7 +1160,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-08-29T00:20:38.371230+00:00",
-      "last_updated_at": "2026-09-18T06:14:12.921683+00:00",
+      "last_updated_at": "2026-09-18T11:34:59.726656+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -1214,7 +1214,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-08-27T19:23:07.365274+00:00",
-      "last_updated_at": "2026-09-18T06:14:12.921676+00:00",
+      "last_updated_at": "2026-09-18T11:34:59.726647+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -1268,7 +1268,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-08-27T19:23:07.365257+00:00",
-      "last_updated_at": "2026-09-18T06:14:12.921669+00:00",
+      "last_updated_at": "2026-09-18T11:34:59.726640+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -1322,7 +1322,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-09-18T06:14:12.921656+00:00",
-      "last_updated_at": "2026-09-18T06:14:12.921653+00:00",
+      "last_updated_at": "2026-09-18T11:34:59.726634+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -1331,74 +1331,6 @@
           "status_id": 2,
           "abbrev": "TBD",
           "net": "2026-10-05T00:00:00Z"
-        }
-      ]
-    },
-    {
-      "id": "ab3c1e6c-03fe-48a7-b6ce-30c79569bdfb",
-      "name": "Soyuz 2.1b/Fregat | Kosmos (Unknown Payload)",
-      "slug": "soyuz-21bfregat-kosmos-unknown-payload",
-      "status": {
-        "id": 2,
-        "abbrev": "TBD",
-        "name": "To Be Determined",
-        "description": "Current date is a placeholder or rough estimation based on unreliable or interpreted sources."
-      },
-      "net": "2026-09-30T00:00:00Z",
-      "window_start": "2026-09-30T00:00:00Z",
-      "window_end": "2026-09-30T00:00:00Z",
-      "probability": null,
-      "rocket": {
-        "name": "Soyuz 2.1b/Fregat-M",
-        "family": "Soyuz",
-        "manufacturer": "Progress Rocket Space Center",
-        "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/soyuz_2.1b_image_20230802085331.jpg"
-      },
-      "mission": {
-        "name": "Kosmos (Unknown Payload)",
-        "description": "Note: Launch vehicle and payload identities highly uncertain.\r\n\r\nUnknown classified satellite(s) for the Russian military.",
-        "type": "Government/Top Secret",
-        "orbit": "Unknown"
-      },
-      "pad": {
-        "name": "Unknown Pad",
-        "location": "Plesetsk Cosmodrome, Russian Federation",
-        "country": "RUS",
-        "latitude": "62.925556",
-        "longitude": "40.577778"
-      },
-      "agency": {
-        "name": "Russian Space Forces",
-        "abbrev": "VKS",
-        "type": "Government"
-      },
-      "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/soyuz_2.1b_image_20230802085331.jpg",
-      "vidURLs": [],
-      "webcast_live": false,
-      "discovered_at": "2026-08-10T01:45:55.102366+00:00",
-      "last_updated_at": "2026-09-18T06:14:12.921624+00:00",
-      "outcome": null,
-      "failure_reason": null,
-      "status_history": [
-        {
-          "at": "2026-08-10T01:45:55.102371+00:00",
-          "status_id": 2,
-          "abbrev": "TBD",
-          "net": "2026-08-31T00:00:00Z"
-        },
-        {
-          "at": "2026-08-31T00:42:57.429988+00:00",
-          "status_id": 2,
-          "abbrev": "TBD",
-          "net": "2026-12-31T00:00:00Z",
-          "prev_net": "2026-08-31T00:00:00Z"
-        },
-        {
-          "at": "2026-09-17T01:37:57.273214+00:00",
-          "status_id": 2,
-          "abbrev": "TBD",
-          "net": "2026-09-30T00:00:00Z",
-          "prev_net": "2026-12-31T00:00:00Z"
         }
       ]
     },
@@ -1810,7 +1742,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-08-02T05:39:37.830291+00:00",
-      "last_updated_at": "2026-09-18T06:14:12.921633+00:00",
+      "last_updated_at": "2026-09-18T11:34:59.726615+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -1864,7 +1796,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-08-09T17:04:59.658112+00:00",
-      "last_updated_at": "2026-09-18T06:14:12.921639+00:00",
+      "last_updated_at": "2026-09-18T11:34:59.726622+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -2057,7 +1989,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-04-27T15:24:39.972764+00:00",
-      "last_updated_at": "2026-09-18T06:14:12.921600+00:00",
+      "last_updated_at": "2026-09-18T11:34:59.726594+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -2139,7 +2071,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-08-25T10:01:44.595713+00:00",
-      "last_updated_at": "2026-09-18T06:14:12.921647+00:00",
+      "last_updated_at": "2026-09-18T11:34:59.726628+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -2193,7 +2125,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-08-05T02:00:15.102845+00:00",
-      "last_updated_at": "2026-09-18T06:14:12.921607+00:00",
+      "last_updated_at": "2026-09-18T11:34:59.726600+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -2254,7 +2186,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-08-30T16:52:45.418782+00:00",
-      "last_updated_at": "2026-09-18T06:14:12.921618+00:00",
+      "last_updated_at": "2026-09-18T11:34:59.726607+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -2325,7 +2257,7 @@
       ],
       "webcast_live": false,
       "discovered_at": "2026-08-17T04:10:42.318745+00:00",
-      "last_updated_at": "2026-09-18T06:14:12.921589+00:00",
+      "last_updated_at": "2026-09-18T11:34:59.726587+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -2435,7 +2367,7 @@
       ],
       "webcast_live": false,
       "discovered_at": "2026-09-15T18:20:14.710806+00:00",
-      "last_updated_at": "2026-09-18T06:14:12.921579+00:00",
+      "last_updated_at": "2026-09-18T11:34:59.726577+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -2503,7 +2435,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-09-16T08:24:31.973717+00:00",
-      "last_updated_at": "2026-09-18T06:14:12.921570+00:00",
+      "last_updated_at": "2026-09-18T11:34:59.726570+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -2562,7 +2494,7 @@
       ],
       "webcast_live": false,
       "discovered_at": "2026-09-08T17:00:45.905972+00:00",
-      "last_updated_at": "2026-09-18T06:14:12.921561+00:00",
+      "last_updated_at": "2026-09-18T11:34:59.726559+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -2616,7 +2548,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-09-11T06:19:43.922837+00:00",
-      "last_updated_at": "2026-09-18T06:14:12.921548+00:00",
+      "last_updated_at": "2026-09-18T11:34:59.726546+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -2670,7 +2602,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-08-29T00:20:38.371247+00:00",
-      "last_updated_at": "2026-09-18T06:14:12.921517+00:00",
+      "last_updated_at": "2026-09-18T11:34:59.726534+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -2686,6 +2618,82 @@
           "abbrev": "Go",
           "net": "2026-09-19T03:15:00Z",
           "prev_net": "2026-10-31T00:00:00Z",
+          "prev_abbrev": "TBD"
+        }
+      ]
+    },
+    {
+      "id": "ab3c1e6c-03fe-48a7-b6ce-30c79569bdfb",
+      "name": "Soyuz 2.1b/Fregat | Kosmos (Unknown Payload)",
+      "slug": "soyuz-21bfregat-kosmos-unknown-payload",
+      "status": {
+        "id": 3,
+        "abbrev": "Success",
+        "name": "Launch Successful",
+        "description": "The launch vehicle successfully inserted its payload(s) into the target orbit(s)."
+      },
+      "net": "2026-09-17T16:50:00Z",
+      "window_start": "2026-09-17T16:50:00Z",
+      "window_end": "2026-09-17T16:50:00Z",
+      "probability": null,
+      "rocket": {
+        "name": "Soyuz 2.1b/Fregat-M",
+        "family": "Soyuz",
+        "manufacturer": "Progress Rocket Space Center",
+        "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/soyuz_2.1b_image_20230802085331.jpg"
+      },
+      "mission": {
+        "name": "Kosmos (Unknown Payload)",
+        "description": "Note: Launch vehicle and payload identities not confirmed. Launch time is approximate.\r\n\r\nUnknown classified satellite(s) for the Russian military.",
+        "type": "Government/Top Secret",
+        "orbit": "Unknown"
+      },
+      "pad": {
+        "name": "43/3 (43L)",
+        "location": "Plesetsk Cosmodrome, Russian Federation",
+        "country": "RUS",
+        "latitude": "62.9273",
+        "longitude": "40.45"
+      },
+      "agency": {
+        "name": "Russian Space Forces",
+        "abbrev": "VKS",
+        "type": "Government"
+      },
+      "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/soyuz_2.1b_image_20230802085331.jpg",
+      "vidURLs": [],
+      "webcast_live": false,
+      "discovered_at": "2026-08-10T01:45:55.102366+00:00",
+      "last_updated_at": "2026-09-18T11:34:59.726496+00:00",
+      "outcome": "success",
+      "failure_reason": null,
+      "status_history": [
+        {
+          "at": "2026-08-10T01:45:55.102371+00:00",
+          "status_id": 2,
+          "abbrev": "TBD",
+          "net": "2026-08-31T00:00:00Z"
+        },
+        {
+          "at": "2026-08-31T00:42:57.429988+00:00",
+          "status_id": 2,
+          "abbrev": "TBD",
+          "net": "2026-12-31T00:00:00Z",
+          "prev_net": "2026-08-31T00:00:00Z"
+        },
+        {
+          "at": "2026-09-17T01:37:57.273214+00:00",
+          "status_id": 2,
+          "abbrev": "TBD",
+          "net": "2026-09-30T00:00:00Z",
+          "prev_net": "2026-12-31T00:00:00Z"
+        },
+        {
+          "at": "2026-09-18T11:34:59.726516+00:00",
+          "status_id": 3,
+          "abbrev": "Success",
+          "net": "2026-09-17T16:50:00Z",
+          "prev_net": "2026-09-30T00:00:00Z",
           "prev_abbrev": "TBD"
         }
       ]
@@ -18704,5 +18712,5 @@
       ]
     }
   ],
-  "last_updated": "2026-09-18T06:14:12.922140+00:00"
+  "last_updated": "2026-09-18T11:34:59.727103+00:00"
 }
