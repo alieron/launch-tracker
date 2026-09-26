@@ -630,7 +630,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-09-20T13:55:26.700417+00:00",
-      "last_updated_at": "2026-09-26T11:37:44.958859+00:00",
+      "last_updated_at": "2026-09-26T15:35:59.347792+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -846,7 +846,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-09-18T06:14:12.921747+00:00",
-      "last_updated_at": "2026-09-26T11:37:44.958839+00:00",
+      "last_updated_at": "2026-09-26T15:35:59.347766+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -900,7 +900,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-09-19T06:13:03.601108+00:00",
-      "last_updated_at": "2026-09-26T11:37:44.958847+00:00",
+      "last_updated_at": "2026-09-26T15:35:59.347770+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -954,12 +954,120 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-09-19T06:13:03.601120+00:00",
-      "last_updated_at": "2026-09-26T11:37:44.958853+00:00",
+      "last_updated_at": "2026-09-26T15:35:59.347775+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
         {
           "at": "2026-09-19T06:13:03.601122+00:00",
+          "status_id": 2,
+          "abbrev": "TBD",
+          "net": "2026-11-30T00:00:00Z"
+        }
+      ]
+    },
+    {
+      "id": "dfac5ab7-7017-454f-b6cf-eeed277a97b5",
+      "name": "LVM-3 | Gaganyaan-1",
+      "slug": "lvm-3-gaganyaan-1",
+      "status": {
+        "id": 2,
+        "abbrev": "TBD",
+        "name": "To Be Determined",
+        "description": "Current date is a placeholder or rough estimation based on unreliable or interpreted sources."
+      },
+      "net": "2026-11-30T00:00:00Z",
+      "window_start": "2026-11-30T00:00:00Z",
+      "window_end": "2026-11-30T00:00:00Z",
+      "probability": null,
+      "rocket": {
+        "name": "LVM-3 (GSLV Mk III)",
+        "family": "GSLV",
+        "manufacturer": "Indian Space Research Organization",
+        "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/gslv2520mk2520iii_image_20190604000938.jpg"
+      },
+      "mission": {
+        "name": "Gaganyaan-1",
+        "description": "First uncrewed orbital test flight of the Gaganyaan capsule.",
+        "type": "Test Flight",
+        "orbit": "Low Earth Orbit"
+      },
+      "pad": {
+        "name": "Satish Dhawan Space Centre Second Launch Pad",
+        "location": "Satish Dhawan Space Centre, India",
+        "country": "IND",
+        "latitude": "13.7199",
+        "longitude": "80.2304"
+      },
+      "agency": {
+        "name": "Indian Space Research Organization",
+        "abbrev": "ISRO",
+        "type": "Government"
+      },
+      "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/gslv2520mk2520iii_image_20190604000938.jpg",
+      "vidURLs": [],
+      "webcast_live": false,
+      "discovered_at": "2026-09-26T15:35:59.347779+00:00",
+      "last_updated_at": "2026-09-26T15:35:59.347778+00:00",
+      "outcome": null,
+      "failure_reason": null,
+      "status_history": [
+        {
+          "at": "2026-09-26T15:35:59.347781+00:00",
+          "status_id": 2,
+          "abbrev": "TBD",
+          "net": "2026-11-30T00:00:00Z"
+        }
+      ]
+    },
+    {
+      "id": "b5a9bccb-30d7-4af6-8ad1-fabb563be53c",
+      "name": "PSLV-XL | TDS-01",
+      "slug": "pslv-xl-tds-01",
+      "status": {
+        "id": 2,
+        "abbrev": "TBD",
+        "name": "To Be Determined",
+        "description": "Current date is a placeholder or rough estimation based on unreliable or interpreted sources."
+      },
+      "net": "2026-11-30T00:00:00Z",
+      "window_start": "2026-11-30T00:00:00Z",
+      "window_end": "2026-11-30T00:00:00Z",
+      "probability": null,
+      "rocket": {
+        "name": "PSLV-XL",
+        "family": "PSLV",
+        "manufacturer": "Indian Space Research Organization",
+        "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/pslv_image_20190224012254.jpeg"
+      },
+      "mission": {
+        "name": "TDS-01",
+        "description": "TDS-01 (Technology Demonstration Satellite-01) is an Indian geostationary orbit technology demonstration satellite carrying payloads for the Indian Space Research Organisation (ISRO)\u2019s Institute of Plasma Research, Gandhinagar and the CSIR-CEERI, Pilani. \r\n\r\nPayloads to be tested included an internally developed 300 mN electric powered thrusters, atomic clocks, travelling wave tube amplifiers (TWTA) & a quantum communication suite (QuTDS).",
+        "type": "Technology",
+        "orbit": "Geostationary Transfer Orbit"
+      },
+      "pad": {
+        "name": "Satish Dhawan Space Centre First Launch Pad",
+        "location": "Satish Dhawan Space Centre, India",
+        "country": "IND",
+        "latitude": "13.733",
+        "longitude": "80.235"
+      },
+      "agency": {
+        "name": "Indian Space Research Organization",
+        "abbrev": "ISRO",
+        "type": "Government"
+      },
+      "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/pslv_image_20190224012254.jpeg",
+      "vidURLs": [],
+      "webcast_live": false,
+      "discovered_at": "2026-09-26T15:35:59.347786+00:00",
+      "last_updated_at": "2026-09-26T15:35:59.347785+00:00",
+      "outcome": null,
+      "failure_reason": null,
+      "status_history": [
+        {
+          "at": "2026-09-26T15:35:59.347787+00:00",
           "status_id": 2,
           "abbrev": "TBD",
           "net": "2026-11-30T00:00:00Z"
@@ -1008,7 +1116,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-09-07T18:03:06.104420+00:00",
-      "last_updated_at": "2026-09-26T11:37:44.958831+00:00",
+      "last_updated_at": "2026-09-26T15:35:59.347763+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -1116,7 +1224,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-08-29T13:16:29.132372+00:00",
-      "last_updated_at": "2026-09-26T11:37:44.958799+00:00",
+      "last_updated_at": "2026-09-26T15:35:59.347733+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -1170,7 +1278,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-07-06T16:15:52.339958+00:00",
-      "last_updated_at": "2026-09-26T11:37:44.958808+00:00",
+      "last_updated_at": "2026-09-26T15:35:59.347739+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -1231,7 +1339,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-08-02T05:39:37.830291+00:00",
-      "last_updated_at": "2026-09-26T11:37:44.958824+00:00",
+      "last_updated_at": "2026-09-26T15:35:59.347758+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -1292,7 +1400,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-08-05T02:00:15.102845+00:00",
-      "last_updated_at": "2026-09-26T11:37:44.958816+00:00",
+      "last_updated_at": "2026-09-26T15:35:59.347742+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -1360,7 +1468,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-08-27T19:23:07.365257+00:00",
-      "last_updated_at": "2026-09-26T11:37:44.958791+00:00",
+      "last_updated_at": "2026-09-26T15:35:59.347729+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -1376,6 +1484,60 @@
           "abbrev": "TBD",
           "net": "2026-10-31T00:00:00Z",
           "prev_net": "2026-10-07T00:00:00Z"
+        }
+      ]
+    },
+    {
+      "id": "e59ff9a4-f72f-4841-8546-3c94346ecdba",
+      "name": "SSLV | AayulSAT-1A & others",
+      "slug": "sslv-aayulsat-1a-others",
+      "status": {
+        "id": 2,
+        "abbrev": "TBD",
+        "name": "To Be Determined",
+        "description": "Current date is a placeholder or rough estimation based on unreliable or interpreted sources."
+      },
+      "net": "2026-10-31T00:00:00Z",
+      "window_start": "2026-10-31T00:00:00Z",
+      "window_end": "2026-10-31T00:00:00Z",
+      "probability": null,
+      "rocket": {
+        "name": "SSLV",
+        "family": "",
+        "manufacturer": "Indian Space Research Organization",
+        "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/sslv_image_20220912001724.jpeg"
+      },
+      "mission": {
+        "name": "AayulSAT-1A & others",
+        "description": "Ride-share launch of multiple satellites, including the in-orbit refueling demonstration satellite AayulSAT-1A from OrbitAID Aerospace. Other payload's identities TBD.",
+        "type": "Technology",
+        "orbit": "Low Earth Orbit"
+      },
+      "pad": {
+        "name": "Satish Dhawan Space Centre First Launch Pad",
+        "location": "Satish Dhawan Space Centre, India",
+        "country": "IND",
+        "latitude": "13.733",
+        "longitude": "80.235"
+      },
+      "agency": {
+        "name": "Indian Space Research Organization",
+        "abbrev": "ISRO",
+        "type": "Government"
+      },
+      "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/sslv_image_20220912001724.jpeg",
+      "vidURLs": [],
+      "webcast_live": false,
+      "discovered_at": "2026-09-26T15:35:59.347749+00:00",
+      "last_updated_at": "2026-09-26T15:35:59.347748+00:00",
+      "outcome": null,
+      "failure_reason": null,
+      "status_history": [
+        {
+          "at": "2026-09-26T15:35:59.347751+00:00",
+          "status_id": 2,
+          "abbrev": "TBD",
+          "net": "2026-10-31T00:00:00Z"
         }
       ]
     },
@@ -1421,7 +1583,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-08-29T00:20:38.371230+00:00",
-      "last_updated_at": "2026-09-26T11:37:44.958784+00:00",
+      "last_updated_at": "2026-09-26T15:35:59.347725+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -1475,7 +1637,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-08-17T02:18:50.340460+00:00",
-      "last_updated_at": "2026-09-26T11:37:44.958777+00:00",
+      "last_updated_at": "2026-09-26T15:35:59.347722+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -1541,7 +1703,7 @@
       ],
       "webcast_live": false,
       "discovered_at": "2026-09-19T22:06:17.630757+00:00",
-      "last_updated_at": "2026-09-26T11:37:44.958770+00:00",
+      "last_updated_at": "2026-09-26T15:35:59.347717+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -1618,7 +1780,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-08-27T19:23:07.365274+00:00",
-      "last_updated_at": "2026-09-26T11:37:44.958763+00:00",
+      "last_updated_at": "2026-09-26T15:35:59.347713+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -1672,7 +1834,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-05-23T10:50:25.590716+00:00",
-      "last_updated_at": "2026-09-26T11:37:44.958754+00:00",
+      "last_updated_at": "2026-09-26T15:35:59.347705+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -1748,7 +1910,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-09-18T06:14:12.921656+00:00",
-      "last_updated_at": "2026-09-26T11:37:44.958743+00:00",
+      "last_updated_at": "2026-09-26T15:35:59.347701+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -1807,7 +1969,7 @@
       ],
       "webcast_live": false,
       "discovered_at": "2026-09-18T01:09:02.199102+00:00",
-      "last_updated_at": "2026-09-26T11:37:44.958735+00:00",
+      "last_updated_at": "2026-09-26T15:35:59.347695+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -1874,7 +2036,7 @@
       ],
       "webcast_live": false,
       "discovered_at": "2026-09-04T22:01:44.994817+00:00",
-      "last_updated_at": "2026-09-26T11:37:44.958723+00:00",
+      "last_updated_at": "2026-09-26T15:35:59.347691+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -1949,7 +2111,7 @@
       ],
       "webcast_live": false,
       "discovered_at": "2026-07-25T23:55:28.112276+00:00",
-      "last_updated_at": "2026-09-26T11:37:44.958713+00:00",
+      "last_updated_at": "2026-09-26T15:35:59.347684+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -2691,7 +2853,7 @@
       ],
       "webcast_live": false,
       "discovered_at": "2026-08-17T04:10:42.318745+00:00",
-      "last_updated_at": "2026-09-26T11:37:44.958703+00:00",
+      "last_updated_at": "2026-09-26T15:35:59.347675+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -2759,10 +2921,10 @@
       "name": "Falcon 9 Block 5 | USSF-385",
       "slug": "falcon-9-block-5-ussf-385",
       "status": {
-        "id": 1,
-        "abbrev": "Go",
-        "name": "Go for Launch",
-        "description": "Current T-0 confirmed by official or reliable sources."
+        "id": 6,
+        "abbrev": "In Flight",
+        "name": "Launch in Flight",
+        "description": "The launch vehicle has lifted off from the launchpad."
       },
       "net": "2026-09-26T14:00:54Z",
       "window_start": "2026-09-26T11:56:00Z",
@@ -2795,13 +2957,21 @@
       "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/falcon_9_liftof_image_20260816171423.jpg",
       "vidURLs": [
         {
+          "title": "SpaceX USSF-385",
+          "url": "https://www.youtube.com/watch?v=PeV6cdJBrYI"
+        },
+        {
+          "title": "SpaceX Falcon 9 rocket launches secretive U.S. Space Force mission from Vandenberg, California",
+          "url": "https://www.youtube.com/watch?v=_Ir63ihLfhc"
+        },
+        {
           "title": "USSF-385 Mission",
           "url": "https://x.com/i/broadcasts/1mxPaZqBEDjKN"
         }
       ],
       "webcast_live": false,
       "discovered_at": "2026-09-15T18:20:14.710806+00:00",
-      "last_updated_at": "2026-09-26T11:37:44.958688+00:00",
+      "last_updated_at": "2026-09-26T15:35:59.347661+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -2838,6 +3008,13 @@
           "abbrev": "Go",
           "net": "2026-09-26T14:00:54Z",
           "prev_net": "2026-09-26T12:56:13Z"
+        },
+        {
+          "at": "2026-09-26T15:35:59.347665+00:00",
+          "status_id": 6,
+          "abbrev": "In Flight",
+          "net": "2026-09-26T14:00:54Z",
+          "prev_abbrev": "Go"
         }
       ]
     },
@@ -2888,7 +3065,7 @@
       ],
       "webcast_live": false,
       "discovered_at": "2026-09-19T06:13:03.600968+00:00",
-      "last_updated_at": "2026-09-26T11:37:44.958650+00:00",
+      "last_updated_at": "2026-09-26T15:35:59.347630+00:00",
       "outcome": "success",
       "failure_reason": null,
       "status_history": [
@@ -18932,5 +19109,5 @@
       ]
     }
   ],
-  "last_updated": "2026-09-26T11:37:44.959284+00:00"
+  "last_updated": "2026-09-26T15:35:59.348049+00:00"
 }
