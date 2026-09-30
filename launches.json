@@ -722,7 +722,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-09-20T13:55:26.700417+00:00",
-      "last_updated_at": "2026-09-30T08:48:44.489094+00:00",
+      "last_updated_at": "2026-09-30T15:32:05.269017+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -776,7 +776,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-09-21T05:13:51.305816+00:00",
-      "last_updated_at": "2026-09-30T08:48:44.489098+00:00",
+      "last_updated_at": "2026-09-30T15:32:05.269023+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -938,7 +938,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-09-28T21:31:39.042810+00:00",
-      "last_updated_at": "2026-09-30T08:48:44.489088+00:00",
+      "last_updated_at": "2026-09-30T15:32:05.269012+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -1611,7 +1611,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-09-18T06:14:12.921747+00:00",
-      "last_updated_at": "2026-09-30T08:48:44.489068+00:00",
+      "last_updated_at": "2026-09-30T15:32:05.268983+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -1665,7 +1665,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-09-19T06:13:03.601108+00:00",
-      "last_updated_at": "2026-09-30T08:48:44.489072+00:00",
+      "last_updated_at": "2026-09-30T15:32:05.268992+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -1719,7 +1719,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-09-19T06:13:03.601120+00:00",
-      "last_updated_at": "2026-09-30T08:48:44.489077+00:00",
+      "last_updated_at": "2026-09-30T15:32:05.268997+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -1773,7 +1773,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-09-26T15:35:59.347779+00:00",
-      "last_updated_at": "2026-09-30T08:48:44.489081+00:00",
+      "last_updated_at": "2026-09-30T15:32:05.269002+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -1827,7 +1827,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-09-26T15:35:59.347786+00:00",
-      "last_updated_at": "2026-09-30T08:48:44.489084+00:00",
+      "last_updated_at": "2026-09-30T15:32:05.269007+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -1881,7 +1881,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-09-07T18:03:06.104420+00:00",
-      "last_updated_at": "2026-09-30T08:48:44.489062+00:00",
+      "last_updated_at": "2026-09-30T15:32:05.268978+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -1989,7 +1989,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-08-29T13:16:29.132372+00:00",
-      "last_updated_at": "2026-09-30T08:48:44.489040+00:00",
+      "last_updated_at": "2026-09-30T15:32:05.268948+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -2043,7 +2043,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-07-06T16:15:52.339958+00:00",
-      "last_updated_at": "2026-09-30T08:48:44.489044+00:00",
+      "last_updated_at": "2026-09-30T15:32:05.268955+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -2104,7 +2104,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-08-02T05:39:37.830291+00:00",
-      "last_updated_at": "2026-09-30T08:48:44.489057+00:00",
+      "last_updated_at": "2026-09-30T15:32:05.268971+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -2165,7 +2165,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-08-05T02:00:15.102845+00:00",
-      "last_updated_at": "2026-09-30T08:48:44.489048+00:00",
+      "last_updated_at": "2026-09-30T15:32:05.268960+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -2233,7 +2233,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-08-27T19:23:07.365257+00:00",
-      "last_updated_at": "2026-09-30T08:48:44.489036+00:00",
+      "last_updated_at": "2026-09-30T15:32:05.268942+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -2294,7 +2294,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-09-26T15:35:59.347749+00:00",
-      "last_updated_at": "2026-09-30T08:48:44.489052+00:00",
+      "last_updated_at": "2026-09-30T15:32:05.268966+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -2348,7 +2348,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-08-29T00:20:38.371230+00:00",
-      "last_updated_at": "2026-09-30T08:48:44.489031+00:00",
+      "last_updated_at": "2026-09-30T15:32:05.268935+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -2402,7 +2402,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-08-17T02:18:50.340460+00:00",
-      "last_updated_at": "2026-09-30T08:48:44.489027+00:00",
+      "last_updated_at": "2026-09-30T15:32:05.268930+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -2476,7 +2476,7 @@
       ],
       "webcast_live": false,
       "discovered_at": "2026-09-19T22:06:17.630757+00:00",
-      "last_updated_at": "2026-09-30T08:48:44.489023+00:00",
+      "last_updated_at": "2026-09-30T15:32:05.268924+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -2553,7 +2553,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-09-30T08:48:44.489011+00:00",
-      "last_updated_at": "2026-09-30T08:48:44.489010+00:00",
+      "last_updated_at": "2026-09-30T15:32:05.268917+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -2607,7 +2607,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-08-27T19:23:07.365274+00:00",
-      "last_updated_at": "2026-09-30T08:48:44.489004+00:00",
+      "last_updated_at": "2026-09-30T15:32:05.268907+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -2661,7 +2661,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-05-23T10:50:25.590716+00:00",
-      "last_updated_at": "2026-09-30T08:48:44.488999+00:00",
+      "last_updated_at": "2026-09-30T15:32:05.268900+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -2737,7 +2737,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-09-18T06:14:12.921656+00:00",
-      "last_updated_at": "2026-09-30T08:48:44.488994+00:00",
+      "last_updated_at": "2026-09-30T15:32:05.268893+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -2762,7 +2762,7 @@
       "net": "2026-10-02T03:53:00Z",
       "window_start": "2026-10-02T03:53:00Z",
       "window_end": "2026-10-02T04:42:00Z",
-      "probability": null,
+      "probability": 60,
       "rocket": {
         "name": "Falcon Heavy",
         "family": "Falcon",
@@ -2790,13 +2790,25 @@
       "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/falcon_heavy_image_20220129192819.jpeg",
       "vidURLs": [
         {
+          "title": "GO! - SpaceX - Falcon Heavy - NROL-97 - LC-39A - Kennedy Space Center - Space Affairs Live",
+          "url": "https://www.youtube.com/watch?v=0ugtQtSNh4w"
+        },
+        {
+          "title": "SpaceX Falcon Heavy launches its first mission for U.S. spy satellite agency",
+          "url": "https://www.youtube.com/watch?v=4KZtaO-VtrI"
+        },
+        {
+          "title": "SpaceX Falcon Heavy Launches NROL-97",
+          "url": "https://www.youtube.com/watch?v=aqYtiH1UduQ"
+        },
+        {
           "title": "NROL-97 Mission",
           "url": "https://x.com/i/broadcasts/1oJMvNkPPXlxQ"
         }
       ],
       "webcast_live": false,
       "discovered_at": "2026-09-18T01:09:02.199102+00:00",
-      "last_updated_at": "2026-09-30T08:48:44.488988+00:00",
+      "last_updated_at": "2026-09-30T15:32:05.268886+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -2857,13 +2869,21 @@
       "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/falcon_9_image_20230807133459.jpeg",
       "vidURLs": [
         {
+          "title": "GO! - SpaceX - Falcon 9 - Transporter-18 - SLC-4E - Vandenberg SFB, CA - Space Affairs Live",
+          "url": "https://www.youtube.com/watch?v=9tmgAlQ33AM"
+        },
+        {
+          "title": "SpaceX Falcon 9 rocket launches 130 payloads from California on Transporter 18 mission",
+          "url": "https://www.youtube.com/watch?v=AT_7CY5brRo"
+        },
+        {
           "title": "Transporter-18 Mission",
           "url": "https://x.com/i/broadcasts/1RJjpbyQpOBKw"
         }
       ],
       "webcast_live": false,
       "discovered_at": "2026-09-04T22:01:44.994817+00:00",
-      "last_updated_at": "2026-09-30T08:48:44.488980+00:00",
+      "last_updated_at": "2026-09-30T15:32:05.268873+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -2904,7 +2924,7 @@
       "net": "2026-10-01T15:10:06Z",
       "window_start": "2026-10-01T15:10:06Z",
       "window_end": "2026-10-01T15:10:06Z",
-      "probability": null,
+      "probability": 60,
       "rocket": {
         "name": "Falcon 9",
         "family": "Falcon",
@@ -2932,13 +2952,29 @@
       "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/falcon2520925_image_20220301072106.jpeg",
       "vidURLs": [
         {
+          "title": "NASA's SpaceX Crew-13 Launch",
+          "url": "https://www.youtube.com/watch?v=7ZiUbT1-djA"
+        },
+        {
+          "title": "NASA\u2019s SpaceX Crew-13 Launch",
+          "url": "https://plus.nasa.gov/scheduled-video/nasas-spacex-crew-13-launch/"
+        },
+        {
           "title": "Crew-13 Mission",
           "url": "https://x.com/i/broadcasts/1qxvvepEVdRxB"
+        },
+        {
+          "title": "SpaceX Falcon 9 rocket launches NASA's Crew 13 mission to the space station",
+          "url": "https://www.youtube.com/watch?v=6_Vbc21msHU"
+        },
+        {
+          "title": "SpaceX Launches Crew-13 Dragon to the International Space Station",
+          "url": "https://www.youtube.com/watch?v=jxLT_ckNbIs"
         }
       ],
       "webcast_live": false,
       "discovered_at": "2026-07-25T23:55:28.112276+00:00",
-      "last_updated_at": "2026-09-30T08:48:44.488953+00:00",
+      "last_updated_at": "2026-09-30T15:32:05.268839+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -18882,5 +18918,5 @@
       ]
     }
   ],
-  "last_updated": "2026-09-30T08:48:44.489373+00:00"
+  "last_updated": "2026-09-30T15:32:05.269364+00:00"
 }
