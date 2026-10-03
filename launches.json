@@ -722,7 +722,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-09-20T13:55:26.700417+00:00",
-      "last_updated_at": "2026-10-03T03:27:44.850713+00:00",
+      "last_updated_at": "2026-10-03T09:22:05.599916+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -776,7 +776,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-09-21T05:13:51.305816+00:00",
-      "last_updated_at": "2026-10-03T03:27:44.850720+00:00",
+      "last_updated_at": "2026-10-03T09:22:05.599922+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -830,7 +830,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-09-21T05:13:51.305830+00:00",
-      "last_updated_at": "2026-10-03T03:27:44.850725+00:00",
+      "last_updated_at": "2026-10-03T09:22:05.599928+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -884,7 +884,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-09-25T09:17:28.190374+00:00",
-      "last_updated_at": "2026-10-03T03:27:44.850731+00:00",
+      "last_updated_at": "2026-10-03T09:22:05.599934+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -938,7 +938,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-09-28T21:31:39.042810+00:00",
-      "last_updated_at": "2026-10-03T03:27:44.850707+00:00",
+      "last_updated_at": "2026-10-03T09:22:05.599909+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -1611,7 +1611,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-09-19T06:13:03.601108+00:00",
-      "last_updated_at": "2026-10-03T03:27:44.850737+00:00",
+      "last_updated_at": "2026-10-03T09:22:05.599941+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -1672,7 +1672,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-10-02T15:16:22.558707+00:00",
-      "last_updated_at": "2026-10-03T03:27:44.850742+00:00",
+      "last_updated_at": "2026-10-03T09:22:05.599950+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -1726,12 +1726,66 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-10-02T20:02:21.816397+00:00",
-      "last_updated_at": "2026-10-03T03:27:44.850747+00:00",
+      "last_updated_at": "2026-10-03T09:22:05.599958+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
         {
           "at": "2026-10-02T20:02:21.816399+00:00",
+          "status_id": 2,
+          "abbrev": "TBD",
+          "net": "2026-12-31T00:00:00Z"
+        }
+      ]
+    },
+    {
+      "id": "8bf5f61e-a7e1-41e6-aede-7b87e4beebab",
+      "name": "Falcon 9 Block 5 | CHORUS",
+      "slug": "falcon-9-block-5-chorus",
+      "status": {
+        "id": 2,
+        "abbrev": "TBD",
+        "name": "To Be Determined",
+        "description": "Current date is a placeholder or rough estimation based on unreliable or interpreted sources."
+      },
+      "net": "2026-12-31T00:00:00Z",
+      "window_start": "2026-12-31T00:00:00Z",
+      "window_end": "2026-12-31T00:00:00Z",
+      "probability": null,
+      "rocket": {
+        "name": "Falcon 9",
+        "family": "Falcon",
+        "manufacturer": "SpaceX",
+        "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/falcon_9_image_20230807133459.jpeg"
+      },
+      "mission": {
+        "name": "CHORUS",
+        "description": "CHORUS is MDA's next generation Earth observation constellation, consisting of 2 radar satellites (C-band SAR and X-band SAR), in a 53.5 degree 600 km altitude LEO, with the X-band trailing the C-band by 60 minutes. A collaborative multi-sensor constellation, CHORUS will bring together diverse and unique imagery and data sources and provide a new level of near real-time insight and innovative Earth observation services. Operating in a unique mid-inclination orbit, CHORUS will be able to image day or night, regardless of weather conditions, with daily access of up to 95% of the coverage area. From an industry-leading 700km-wide imaging swath down to sub-metre high resolution, CHORUS will provide the most extensive and unrivalled Earth observation radar imaging capacity available on the market in a single mission.",
+        "type": "Earth Science",
+        "orbit": "Low Earth Orbit"
+      },
+      "pad": {
+        "name": "Unknown Pad",
+        "location": "Cape Canaveral SFS, FL, USA",
+        "country": "USA",
+        "latitude": "28.458",
+        "longitude": "-80.528"
+      },
+      "agency": {
+        "name": "SpaceX",
+        "abbrev": "SpX",
+        "type": "Commercial"
+      },
+      "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/falcon_9_image_20230807133459.jpeg",
+      "vidURLs": [],
+      "webcast_live": false,
+      "discovered_at": "2026-10-03T09:22:05.599968+00:00",
+      "last_updated_at": "2026-10-03T09:22:05.599965+00:00",
+      "outcome": null,
+      "failure_reason": null,
+      "status_history": [
+        {
+          "at": "2026-10-03T09:22:05.599970+00:00",
           "status_id": 2,
           "abbrev": "TBD",
           "net": "2026-12-31T00:00:00Z"
@@ -1780,7 +1834,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-09-18T06:14:12.921747+00:00",
-      "last_updated_at": "2026-10-03T03:27:44.850688+00:00",
+      "last_updated_at": "2026-10-03T09:22:05.599888+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -1888,7 +1942,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-09-26T15:35:59.347779+00:00",
-      "last_updated_at": "2026-10-03T03:27:44.850695+00:00",
+      "last_updated_at": "2026-10-03T09:22:05.599894+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -1942,7 +1996,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-09-26T15:35:59.347786+00:00",
-      "last_updated_at": "2026-10-03T03:27:44.850700+00:00",
+      "last_updated_at": "2026-10-03T09:22:05.599903+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -1996,7 +2050,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-09-07T18:03:06.104420+00:00",
-      "last_updated_at": "2026-10-03T03:27:44.850683+00:00",
+      "last_updated_at": "2026-10-03T09:22:05.599881+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -2104,7 +2158,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-08-29T13:16:29.132372+00:00",
-      "last_updated_at": "2026-10-03T03:27:44.850652+00:00",
+      "last_updated_at": "2026-10-03T09:22:05.599845+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -2158,7 +2212,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-08-02T05:39:37.830291+00:00",
-      "last_updated_at": "2026-10-03T03:27:44.850677+00:00",
+      "last_updated_at": "2026-10-03T09:22:05.599873+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -2219,7 +2273,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-08-05T02:00:15.102845+00:00",
-      "last_updated_at": "2026-10-03T03:27:44.850664+00:00",
+      "last_updated_at": "2026-10-03T09:22:05.599860+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -2287,7 +2341,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-08-27T19:23:07.365257+00:00",
-      "last_updated_at": "2026-10-03T03:27:44.850644+00:00",
+      "last_updated_at": "2026-10-03T09:22:05.599836+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -2348,7 +2402,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-09-26T15:35:59.347749+00:00",
-      "last_updated_at": "2026-10-03T03:27:44.850672+00:00",
+      "last_updated_at": "2026-10-03T09:22:05.599867+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -2402,7 +2456,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-08-17T02:18:50.340460+00:00",
-      "last_updated_at": "2026-10-03T03:27:44.850659+00:00",
+      "last_updated_at": "2026-10-03T09:22:05.599852+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -2479,7 +2533,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-08-29T00:20:38.371230+00:00",
-      "last_updated_at": "2026-10-03T03:27:44.850636+00:00",
+      "last_updated_at": "2026-10-03T09:22:05.599830+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -2533,7 +2587,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-07-06T16:15:52.339958+00:00",
-      "last_updated_at": "2026-10-03T03:27:44.850621+00:00",
+      "last_updated_at": "2026-10-03T09:22:05.599822+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -2622,7 +2676,7 @@
       ],
       "webcast_live": false,
       "discovered_at": "2026-09-19T22:06:17.630757+00:00",
-      "last_updated_at": "2026-10-03T03:27:44.850616+00:00",
+      "last_updated_at": "2026-10-03T09:22:05.599812+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -2706,7 +2760,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-09-30T08:48:44.489011+00:00",
-      "last_updated_at": "2026-10-03T03:27:44.850607+00:00",
+      "last_updated_at": "2026-10-03T09:22:05.599800+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -2760,7 +2814,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-08-27T19:23:07.365274+00:00",
-      "last_updated_at": "2026-10-03T03:27:44.850599+00:00",
+      "last_updated_at": "2026-10-03T09:22:05.599784+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -2819,7 +2873,7 @@
       ],
       "webcast_live": false,
       "discovered_at": "2026-05-23T10:50:25.590716+00:00",
-      "last_updated_at": "2026-10-03T03:27:44.850585+00:00",
+      "last_updated_at": "2026-10-03T09:22:05.599752+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -18785,182 +18839,7 @@
           "prev_abbrev": "In Flight"
         }
       ]
-    },
-    {
-      "id": "bc0cca05-0fb5-43ca-b648-a852d20ceaf3",
-      "name": "Soyuz 2.1a/Fregat-M | Meridian-M No.21L",
-      "slug": "soyuz-21afregat-m-meridian-m-no21l",
-      "status": {
-        "id": 3,
-        "abbrev": "Success",
-        "name": "Launch Successful",
-        "description": "The launch vehicle successfully inserted its payload(s) into the target orbit(s)."
-      },
-      "net": "2026-04-03T06:28:00Z",
-      "window_start": "2026-04-03T02:00:00Z",
-      "window_end": "2026-04-03T12:00:00Z",
-      "probability": null,
-      "rocket": {
-        "name": "Soyuz 2.1a/Fregat-M",
-        "family": "Soyuz",
-        "manufacturer": "Progress Rocket Space Center",
-        "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/soyuz25202.1a_image_20190726062341.png"
-      },
-      "mission": {
-        "name": "Meridian-M No.21L",
-        "description": "Note: Payload identity uncertain.\r\n\r\nMeridian is a series of communications satellite for military and civilian use.",
-        "type": "Communications",
-        "orbit": "Elliptical Orbit"
-      },
-      "pad": {
-        "name": "43/3 (43L)",
-        "location": "Plesetsk Cosmodrome, Russian Federation",
-        "country": "RUS",
-        "latitude": "62.9273",
-        "longitude": "40.45"
-      },
-      "agency": {
-        "name": "Russian Space Forces",
-        "abbrev": "VKS",
-        "type": "Government"
-      },
-      "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/soyuz25202.1a_image_20190726062341.png",
-      "vidURLs": [
-        {
-          "title": "Russian Space Forces Meridian-M No.21L",
-          "url": "https://www.youtube.com/watch?v=y8rfeYxzHwA"
-        }
-      ],
-      "webcast_live": false,
-      "discovered_at": "2026-03-27T20:41:51.203886+00:00",
-      "last_updated_at": "2026-04-04T05:54:11.364714+00:00",
-      "outcome": "success",
-      "failure_reason": null,
-      "status_history": [
-        {
-          "at": "2026-03-27T20:41:51.203892+00:00",
-          "status_id": 1,
-          "abbrev": "Go",
-          "net": "2026-04-01T02:00:00Z"
-        },
-        {
-          "at": "2026-04-01T12:08:01.154256+00:00",
-          "status_id": 2,
-          "abbrev": "TBD",
-          "net": "2026-04-30T00:00:00Z",
-          "prev_net": "2026-04-01T02:00:00Z",
-          "prev_abbrev": "Go"
-        },
-        {
-          "at": "2026-04-03T09:14:04.457202+00:00",
-          "status_id": 6,
-          "abbrev": "In Flight",
-          "net": "2026-04-03T06:28:00Z",
-          "prev_net": "2026-04-30T00:00:00Z",
-          "prev_abbrev": "TBD"
-        },
-        {
-          "at": "2026-04-03T13:15:47.937880+00:00",
-          "status_id": 3,
-          "abbrev": "Success",
-          "net": "2026-04-03T06:28:00Z",
-          "prev_abbrev": "In Flight"
-        }
-      ]
-    },
-    {
-      "id": "98451321-cd10-4ca7-a0d1-4076db5fa73d",
-      "name": "Tianlong-3 | Demo Flight",
-      "slug": "tianlong-3-demo-flight",
-      "status": {
-        "id": 4,
-        "abbrev": "Failure",
-        "name": "Launch Failure",
-        "description": "Either the launch vehicle did not reach orbit, or the payload(s) failed to separate."
-      },
-      "net": "2026-04-03T04:17:00Z",
-      "window_start": "2026-04-03T03:52:00Z",
-      "window_end": "2026-04-03T06:09:00Z",
-      "probability": null,
-      "rocket": {
-        "name": "Tianlong-3",
-        "family": "",
-        "manufacturer": "Space Pioneer",
-        "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/tianlong-3_full_image_20260330045730.jpg"
-      },
-      "mission": {
-        "name": "Demo Flight",
-        "description": "First test launch of Space Pioneer\u2019s Tianlong-3 rocket.",
-        "type": "Test Flight",
-        "orbit": "Polar Orbit"
-      },
-      "pad": {
-        "name": "Tianlong-3 Launch Pad",
-        "location": "Jiuquan Satellite Launch Center, People's Republic of China",
-        "country": "CHN",
-        "latitude": "40.8072",
-        "longitude": "100.13644"
-      },
-      "agency": {
-        "name": "Space Pioneer",
-        "abbrev": "SP",
-        "type": "Commercial"
-      },
-      "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/tianlong-3_full_image_20260330045730.jpg",
-      "vidURLs": [],
-      "webcast_live": false,
-      "discovered_at": "2026-03-23T08:19:21.926589+00:00",
-      "last_updated_at": "2026-04-04T02:34:05.630369+00:00",
-      "outcome": "failure",
-      "failure_reason": "Apparently failed around stage separation.",
-      "status_history": [
-        {
-          "at": "2026-03-23T08:19:21.926595+00:00",
-          "status_id": 2,
-          "abbrev": "TBD",
-          "net": "2026-03-31T00:00:00Z"
-        },
-        {
-          "at": "2026-03-27T16:11:51.267567+00:00",
-          "status_id": 1,
-          "abbrev": "Go",
-          "net": "2026-03-30T11:00:00Z",
-          "prev_net": "2026-03-31T00:00:00Z",
-          "prev_abbrev": "TBD"
-        },
-        {
-          "at": "2026-03-28T12:43:56.871549+00:00",
-          "status_id": 2,
-          "abbrev": "TBD",
-          "net": "2026-03-31T00:00:00Z",
-          "prev_net": "2026-03-30T11:00:00Z",
-          "prev_abbrev": "Go"
-        },
-        {
-          "at": "2026-03-30T05:09:43.840915+00:00",
-          "status_id": 1,
-          "abbrev": "Go",
-          "net": "2026-04-02T04:00:00Z",
-          "prev_net": "2026-03-31T00:00:00Z",
-          "prev_abbrev": "TBD"
-        },
-        {
-          "at": "2026-03-31T07:49:40.727703+00:00",
-          "status_id": 1,
-          "abbrev": "Go",
-          "net": "2026-04-03T04:00:00Z",
-          "prev_net": "2026-04-02T04:00:00Z"
-        },
-        {
-          "at": "2026-04-03T07:06:38.695661+00:00",
-          "status_id": 4,
-          "abbrev": "Failure",
-          "net": "2026-04-03T04:17:00Z",
-          "prev_net": "2026-04-03T04:00:00Z",
-          "prev_abbrev": "Go"
-        }
-      ]
     }
   ],
-  "last_updated": "2026-10-03T03:27:44.851073+00:00"
+  "last_updated": "2026-10-03T09:22:05.600365+00:00"
 }
