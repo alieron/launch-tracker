@@ -783,7 +783,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-09-21T05:13:51.305816+00:00",
-      "last_updated_at": "2026-10-07T10:47:44.917821+00:00",
+      "last_updated_at": "2026-10-07T17:38:23.225750+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -837,7 +837,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-09-21T05:13:51.305830+00:00",
-      "last_updated_at": "2026-10-07T10:47:44.917827+00:00",
+      "last_updated_at": "2026-10-07T17:38:23.225763+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -891,7 +891,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-09-25T09:17:28.190374+00:00",
-      "last_updated_at": "2026-10-07T10:47:44.917833+00:00",
+      "last_updated_at": "2026-10-07T17:38:23.225779+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -1618,7 +1618,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-09-19T06:13:03.601108+00:00",
-      "last_updated_at": "2026-10-07T10:47:44.917841+00:00",
+      "last_updated_at": "2026-10-07T17:38:23.225792+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -1679,7 +1679,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-10-02T15:16:22.558707+00:00",
-      "last_updated_at": "2026-10-07T10:47:44.917849+00:00",
+      "last_updated_at": "2026-10-07T17:38:23.225811+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -1733,7 +1733,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-10-02T20:02:21.816397+00:00",
-      "last_updated_at": "2026-10-07T10:47:44.917857+00:00",
+      "last_updated_at": "2026-10-07T17:38:23.225825+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -1787,7 +1787,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-10-03T09:22:05.599968+00:00",
-      "last_updated_at": "2026-10-07T10:47:44.917864+00:00",
+      "last_updated_at": "2026-10-07T17:38:23.225838+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -1841,7 +1841,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-09-20T13:55:26.700417+00:00",
-      "last_updated_at": "2026-10-07T10:47:44.917800+00:00",
+      "last_updated_at": "2026-10-07T17:38:23.225707+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -1902,7 +1902,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-09-18T06:14:12.921747+00:00",
-      "last_updated_at": "2026-10-07T10:47:44.917792+00:00",
+      "last_updated_at": "2026-10-07T17:38:23.225688+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -2010,7 +2010,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-09-26T15:35:59.347779+00:00",
-      "last_updated_at": "2026-10-07T10:47:44.917807+00:00",
+      "last_updated_at": "2026-10-07T17:38:23.225722+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -2064,7 +2064,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-09-26T15:35:59.347786+00:00",
-      "last_updated_at": "2026-10-07T10:47:44.917813+00:00",
+      "last_updated_at": "2026-10-07T17:38:23.225736+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -2118,7 +2118,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-09-07T18:03:06.104420+00:00",
-      "last_updated_at": "2026-10-07T10:47:44.917785+00:00",
+      "last_updated_at": "2026-10-07T17:38:23.225676+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -2226,7 +2226,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-08-29T13:16:29.132372+00:00",
-      "last_updated_at": "2026-10-07T10:47:44.917749+00:00",
+      "last_updated_at": "2026-10-07T17:38:23.225599+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -2280,7 +2280,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-08-02T05:39:37.830291+00:00",
-      "last_updated_at": "2026-10-07T10:47:44.917779+00:00",
+      "last_updated_at": "2026-10-07T17:38:23.225663+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -2341,7 +2341,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-08-05T02:00:15.102845+00:00",
-      "last_updated_at": "2026-10-07T10:47:44.917765+00:00",
+      "last_updated_at": "2026-10-07T17:38:23.225629+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -2409,7 +2409,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-08-27T19:23:07.365257+00:00",
-      "last_updated_at": "2026-10-07T10:47:44.917743+00:00",
+      "last_updated_at": "2026-10-07T17:38:23.225587+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -2470,7 +2470,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-09-26T15:35:59.347749+00:00",
-      "last_updated_at": "2026-10-07T10:47:44.917773+00:00",
+      "last_updated_at": "2026-10-07T17:38:23.225642+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -2524,7 +2524,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-08-17T02:18:50.340460+00:00",
-      "last_updated_at": "2026-10-07T10:47:44.917757+00:00",
+      "last_updated_at": "2026-10-07T17:38:23.225616+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -2601,7 +2601,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-08-29T00:20:38.371230+00:00",
-      "last_updated_at": "2026-10-07T10:47:44.917737+00:00",
+      "last_updated_at": "2026-10-07T17:38:23.225574+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -2655,7 +2655,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-10-06T07:06:19.985975+00:00",
-      "last_updated_at": "2026-10-07T10:47:44.917730+00:00",
+      "last_updated_at": "2026-10-07T17:38:23.225562+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -2709,7 +2709,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-07-06T16:15:52.339958+00:00",
-      "last_updated_at": "2026-10-07T10:47:44.917723+00:00",
+      "last_updated_at": "2026-10-07T17:38:23.225548+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -2798,7 +2798,7 @@
       ],
       "webcast_live": false,
       "discovered_at": "2026-09-19T22:06:17.630757+00:00",
-      "last_updated_at": "2026-10-07T10:47:44.917715+00:00",
+      "last_updated_at": "2026-10-07T17:38:23.225529+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -2882,7 +2882,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-09-30T08:48:44.489011+00:00",
-      "last_updated_at": "2026-10-07T10:47:44.917700+00:00",
+      "last_updated_at": "2026-10-07T17:38:23.225509+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -2949,7 +2949,7 @@
       ],
       "webcast_live": false,
       "discovered_at": "2026-05-23T10:50:25.590716+00:00",
-      "last_updated_at": "2026-10-07T10:47:44.917688+00:00",
+      "last_updated_at": "2026-10-07T17:38:23.225481+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -3077,7 +3077,7 @@
       ],
       "webcast_live": false,
       "discovered_at": "2026-08-27T19:23:07.365274+00:00",
-      "last_updated_at": "2026-10-07T10:47:44.917652+00:00",
+      "last_updated_at": "2026-10-07T17:38:23.225434+00:00",
       "outcome": "success",
       "failure_reason": null,
       "status_history": [
@@ -18553,173 +18553,7 @@
           "prev_abbrev": "Go"
         }
       ]
-    },
-    {
-      "id": "4dac3740-b75f-4d76-b702-5967d09085d8",
-      "name": "Long March 8 | SpaceSail Polar Group 07",
-      "slug": "long-march-8-spacesail-polar-group-07",
-      "status": {
-        "id": 3,
-        "abbrev": "Success",
-        "name": "Launch Successful",
-        "description": "The launch vehicle successfully inserted its payload(s) into the target orbit(s)."
-      },
-      "net": "2026-04-07T13:32:00Z",
-      "window_start": "2026-04-07T13:24:00Z",
-      "window_end": "2026-04-07T13:47:00Z",
-      "probability": null,
-      "rocket": {
-        "name": "Long March 8",
-        "family": "Long March",
-        "manufacturer": "China Aerospace Science and Technology Corporation",
-        "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/cz-8_liftoff_2_image_20240315183218.jpg"
-      },
-      "mission": {
-        "name": "SpaceSail Polar Group 07",
-        "description": "18 Low Earth Orbit communication satellites with Ku, Q and V band payloads for the G60 constellation operated by Shanghai Spacesail Technologies with funding backed by the Shanghai local government.\r\n\r\nInitial constellation will consist of 1296 satellites by 2027 with long term plans to expand it to 12000 satellites.",
-        "type": "Communications",
-        "orbit": "Polar Orbit"
-      },
-      "pad": {
-        "name": "Commercial LC-1",
-        "location": "Wenchang Space Launch Site, People's Republic of China",
-        "country": "CHN",
-        "latitude": "19.597275",
-        "longitude": "110.930753"
-      },
-      "agency": {
-        "name": "China Aerospace Science and Technology Corporation",
-        "abbrev": "CASC",
-        "type": "Government"
-      },
-      "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/cz-8_liftoff_2_image_20240315183218.jpg",
-      "vidURLs": [],
-      "webcast_live": false,
-      "discovered_at": "2026-03-26T09:08:32.376656+00:00",
-      "last_updated_at": "2026-04-08T13:11:45.675152+00:00",
-      "outcome": "success",
-      "failure_reason": null,
-      "status_history": [
-        {
-          "at": "2026-03-26T09:08:32.376659+00:00",
-          "status_id": 8,
-          "abbrev": "TBC",
-          "net": "2026-04-07T13:00:00Z"
-        },
-        {
-          "at": "2026-04-02T04:27:15.753685+00:00",
-          "status_id": 1,
-          "abbrev": "Go",
-          "net": "2026-04-07T13:30:00Z",
-          "prev_net": "2026-04-07T13:00:00Z",
-          "prev_abbrev": "TBC"
-        },
-        {
-          "at": "2026-04-07T14:06:33.274623+00:00",
-          "status_id": 6,
-          "abbrev": "In Flight",
-          "net": "2026-04-07T13:32:00Z",
-          "prev_net": "2026-04-07T13:30:00Z",
-          "prev_abbrev": "Go"
-        },
-        {
-          "at": "2026-04-07T15:53:07.840877+00:00",
-          "status_id": 3,
-          "abbrev": "Success",
-          "net": "2026-04-07T13:32:00Z",
-          "prev_abbrev": "In Flight"
-        }
-      ]
-    },
-    {
-      "id": "ca4fc7a6-fa84-47f7-89f7-dcf299665817",
-      "name": "Minotaur IV | STP-S29A",
-      "slug": "minotaur-iv-stp-s29a",
-      "status": {
-        "id": 3,
-        "abbrev": "Success",
-        "name": "Launch Successful",
-        "description": "The launch vehicle successfully inserted its payload(s) into the target orbit(s)."
-      },
-      "net": "2026-04-07T11:33:00Z",
-      "window_start": "2026-04-07T11:30:00Z",
-      "window_end": "2026-04-07T16:30:00Z",
-      "probability": null,
-      "rocket": {
-        "name": "Minotaur IV",
-        "family": "Minotaur",
-        "manufacturer": "Orbital ATK",
-        "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/minotaur_iv_lau_image_20240307170209.jpeg"
-      },
-      "mission": {
-        "name": "STP-S29A",
-        "description": "STP-S29A is a mission under the U.S. Department of Defense's Space Test Program (STP) that will deliver technology demonstrations to orbit and contribute to future space system development, with this launch delivering up to 200 kg of STP cubesats to Low Earth Orbit.\r\n\r\nThe main payload will be STPSat-7, an ESPA class satellite based on the Aegis Aerospace M-1 satellite bus used on the STPSat-4 mission for hosting research and technology demonstration payloads for the Department of Defense (DoD). One of the payload is U.S. Naval Research Laboratory's (NRL) Lightsheet Anomaly Resolution and Debris Observation (LARADO) instrument, used to detect and characterize lethal non-trackable orbital debris with lasers in orbit.",
-        "type": "Technology",
-        "orbit": "Low Earth Orbit"
-      },
-      "pad": {
-        "name": "Space Launch Complex 8",
-        "location": "Vandenberg SFB, CA, USA",
-        "country": "USA",
-        "latitude": "34.57635",
-        "longitude": "-120.63245"
-      },
-      "agency": {
-        "name": "Northrop Grumman Space Systems",
-        "abbrev": "NGSS",
-        "type": "Commercial"
-      },
-      "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/minotaur_iv_lau_image_20240307170209.jpeg",
-      "vidURLs": [
-        {
-          "title": "AGS6 Launch Livestream (STP-S29A)",
-          "url": "https://www.youtube.com/watch?v=H0w8xeX2tAE"
-        }
-      ],
-      "webcast_live": false,
-      "discovered_at": "2026-03-23T08:19:21.926636+00:00",
-      "last_updated_at": "2026-04-08T10:35:30.955607+00:00",
-      "outcome": "success",
-      "failure_reason": null,
-      "status_history": [
-        {
-          "at": "2026-03-23T08:19:21.926638+00:00",
-          "status_id": 2,
-          "abbrev": "TBD",
-          "net": "2026-04-07T00:00:00Z"
-        },
-        {
-          "at": "2026-04-02T05:56:20.521534+00:00",
-          "status_id": 2,
-          "abbrev": "TBD",
-          "net": "2026-04-30T00:00:00Z",
-          "prev_net": "2026-04-07T00:00:00Z"
-        },
-        {
-          "at": "2026-04-03T18:39:41.428397+00:00",
-          "status_id": 1,
-          "abbrev": "Go",
-          "net": "2026-04-07T11:30:00Z",
-          "prev_net": "2026-04-30T00:00:00Z",
-          "prev_abbrev": "TBD"
-        },
-        {
-          "at": "2026-04-07T12:08:30.834483+00:00",
-          "status_id": 6,
-          "abbrev": "In Flight",
-          "net": "2026-04-07T11:33:00Z",
-          "prev_net": "2026-04-07T11:30:00Z",
-          "prev_abbrev": "Go"
-        },
-        {
-          "at": "2026-04-07T16:52:27.093717+00:00",
-          "status_id": 3,
-          "abbrev": "Success",
-          "net": "2026-04-07T11:33:00Z",
-          "prev_abbrev": "In Flight"
-        }
-      ]
     }
   ],
-  "last_updated": "2026-10-07T10:47:44.918266+00:00"
+  "last_updated": "2026-10-07T17:38:23.226520+00:00"
 }
