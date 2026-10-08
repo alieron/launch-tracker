@@ -783,7 +783,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-09-21T05:13:51.305816+00:00",
-      "last_updated_at": "2026-10-08T16:43:27.445737+00:00",
+      "last_updated_at": "2026-10-08T21:44:54.327555+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -837,7 +837,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-09-21T05:13:51.305830+00:00",
-      "last_updated_at": "2026-10-08T16:43:27.445743+00:00",
+      "last_updated_at": "2026-10-08T21:44:54.327564+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -891,7 +891,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-09-25T09:17:28.190374+00:00",
-      "last_updated_at": "2026-10-08T16:43:27.445746+00:00",
+      "last_updated_at": "2026-10-08T21:44:54.327571+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -1618,7 +1618,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-09-19T06:13:03.601108+00:00",
-      "last_updated_at": "2026-10-08T16:43:27.445751+00:00",
+      "last_updated_at": "2026-10-08T21:44:54.327579+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -1679,7 +1679,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-10-02T15:16:22.558707+00:00",
-      "last_updated_at": "2026-10-08T16:43:27.445757+00:00",
+      "last_updated_at": "2026-10-08T21:44:54.327585+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -1733,7 +1733,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-10-02T20:02:21.816397+00:00",
-      "last_updated_at": "2026-10-08T16:43:27.445761+00:00",
+      "last_updated_at": "2026-10-08T21:44:54.327591+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -1787,7 +1787,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-10-03T09:22:05.599968+00:00",
-      "last_updated_at": "2026-10-08T16:43:27.445770+00:00",
+      "last_updated_at": "2026-10-08T21:44:54.327599+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -1841,7 +1841,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-10-08T09:16:32.902647+00:00",
-      "last_updated_at": "2026-10-08T16:43:27.445774+00:00",
+      "last_updated_at": "2026-10-08T21:44:54.327608+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -1895,7 +1895,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-09-20T13:55:26.700417+00:00",
-      "last_updated_at": "2026-10-08T16:43:27.445722+00:00",
+      "last_updated_at": "2026-10-08T21:44:54.327531+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -1956,7 +1956,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-09-18T06:14:12.921747+00:00",
-      "last_updated_at": "2026-10-08T16:43:27.445718+00:00",
+      "last_updated_at": "2026-10-08T21:44:54.327505+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -2064,7 +2064,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-09-26T15:35:59.347779+00:00",
-      "last_updated_at": "2026-10-08T16:43:27.445727+00:00",
+      "last_updated_at": "2026-10-08T21:44:54.327539+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -2118,7 +2118,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-09-26T15:35:59.347786+00:00",
-      "last_updated_at": "2026-10-08T16:43:27.445731+00:00",
+      "last_updated_at": "2026-10-08T21:44:54.327545+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -2172,7 +2172,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-09-07T18:03:06.104420+00:00",
-      "last_updated_at": "2026-10-08T16:43:27.445712+00:00",
+      "last_updated_at": "2026-10-08T21:44:54.327498+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -2280,7 +2280,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-08-29T13:16:29.132372+00:00",
-      "last_updated_at": "2026-10-08T16:43:27.445686+00:00",
+      "last_updated_at": "2026-10-08T21:44:54.327467+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -2289,67 +2289,6 @@
           "status_id": 2,
           "abbrev": "TBD",
           "net": "2026-10-31T00:00:00Z"
-        }
-      ]
-    },
-    {
-      "id": "ef9850ad-1096-425b-9d27-f7bbd186e61a",
-      "name": "Vulcan VC6L | Amazon Leo (LV-01)",
-      "slug": "vulcan-vc6l-amazon-leo-lv-01",
-      "status": {
-        "id": 2,
-        "abbrev": "TBD",
-        "name": "To Be Determined",
-        "description": "Current date is a placeholder or rough estimation based on unreliable or interpreted sources."
-      },
-      "net": "2026-10-31T00:00:00Z",
-      "window_start": "2026-10-31T00:00:00Z",
-      "window_end": "2026-10-31T00:00:00Z",
-      "probability": null,
-      "rocket": {
-        "name": "Vulcan VC6L",
-        "family": "Vulcan",
-        "manufacturer": "United Launch Alliance",
-        "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/vulcan_vc6l_image_20220406123130.jpg"
-      },
-      "mission": {
-        "name": "Amazon Leo (LV-01)",
-        "description": "Amazon Leo, formerly known as Project Kuiper, is a mega constellation of satellites in Low Earth Orbit that will offer broadband internet access, this constellation will be managed by Kuiper Systems LLC, a subsidiary of Amazon. This constellation is planned to be composed of 3,276 satellites. The satellites are projected to be placed in 98 orbital planes in three orbital layers, one at 590 km, 610 km and 630 km altitude.\r\n\r\n45 satellites will be carried on each Vulcan launch.",
-        "type": "Communications",
-        "orbit": "Low Earth Orbit"
-      },
-      "pad": {
-        "name": "Space Launch Complex 41",
-        "location": "Cape Canaveral SFS, FL, USA",
-        "country": "USA",
-        "latitude": "28.58341025",
-        "longitude": "-80.58303644"
-      },
-      "agency": {
-        "name": "United Launch Alliance",
-        "abbrev": "ULA",
-        "type": "Commercial"
-      },
-      "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/vulcan_vc6l_image_20220406123130.jpg",
-      "vidURLs": [],
-      "webcast_live": false,
-      "discovered_at": "2026-08-02T05:39:37.830291+00:00",
-      "last_updated_at": "2026-10-08T16:43:27.445708+00:00",
-      "outcome": null,
-      "failure_reason": null,
-      "status_history": [
-        {
-          "at": "2026-08-02T05:39:37.830294+00:00",
-          "status_id": 2,
-          "abbrev": "TBD",
-          "net": "2026-09-30T00:00:00Z"
-        },
-        {
-          "at": "2026-09-20T05:08:34.676835+00:00",
-          "status_id": 2,
-          "abbrev": "TBD",
-          "net": "2026-10-31T00:00:00Z",
-          "prev_net": "2026-09-30T00:00:00Z"
         }
       ]
     },
@@ -2395,7 +2334,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-08-05T02:00:15.102845+00:00",
-      "last_updated_at": "2026-10-08T16:43:27.445696+00:00",
+      "last_updated_at": "2026-10-08T21:44:54.327481+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -2463,7 +2402,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-08-27T19:23:07.365257+00:00",
-      "last_updated_at": "2026-10-08T16:43:27.445681+00:00",
+      "last_updated_at": "2026-10-08T21:44:54.327456+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -2524,7 +2463,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-09-26T15:35:59.347749+00:00",
-      "last_updated_at": "2026-10-08T16:43:27.445701+00:00",
+      "last_updated_at": "2026-10-08T21:44:54.327490+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -2578,7 +2517,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-08-17T02:18:50.340460+00:00",
-      "last_updated_at": "2026-10-08T16:43:27.445692+00:00",
+      "last_updated_at": "2026-10-08T21:44:54.327473+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -2610,6 +2549,74 @@
           "net": "2026-10-31T00:00:00Z",
           "prev_net": "2026-10-13T17:00:00Z",
           "prev_abbrev": "TBC"
+        }
+      ]
+    },
+    {
+      "id": "ef9850ad-1096-425b-9d27-f7bbd186e61a",
+      "name": "Vulcan VC6L | Amazon Leo (LV-01)",
+      "slug": "vulcan-vc6l-amazon-leo-lv-01",
+      "status": {
+        "id": 2,
+        "abbrev": "TBD",
+        "name": "To Be Determined",
+        "description": "Current date is a placeholder or rough estimation based on unreliable or interpreted sources."
+      },
+      "net": "2026-10-29T00:00:00Z",
+      "window_start": "2026-10-29T00:00:00Z",
+      "window_end": "2026-10-29T00:00:00Z",
+      "probability": null,
+      "rocket": {
+        "name": "Vulcan VC6L",
+        "family": "Vulcan",
+        "manufacturer": "United Launch Alliance",
+        "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/vulcan_vc6l_image_20220406123130.jpg"
+      },
+      "mission": {
+        "name": "Amazon Leo (LV-01)",
+        "description": "Amazon Leo, formerly known as Project Kuiper, is a mega constellation of satellites in Low Earth Orbit that will offer broadband internet access, this constellation will be managed by Kuiper Systems LLC, a subsidiary of Amazon. This constellation is planned to be composed of 3,276 satellites. The satellites are projected to be placed in 98 orbital planes in three orbital layers, one at 590 km, 610 km and 630 km altitude.\r\n\r\n45 satellites will be carried on each Vulcan launch.",
+        "type": "Communications",
+        "orbit": "Low Earth Orbit"
+      },
+      "pad": {
+        "name": "Space Launch Complex 41",
+        "location": "Cape Canaveral SFS, FL, USA",
+        "country": "USA",
+        "latitude": "28.58341025",
+        "longitude": "-80.58303644"
+      },
+      "agency": {
+        "name": "United Launch Alliance",
+        "abbrev": "ULA",
+        "type": "Commercial"
+      },
+      "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/vulcan_vc6l_image_20220406123130.jpg",
+      "vidURLs": [],
+      "webcast_live": false,
+      "discovered_at": "2026-08-02T05:39:37.830291+00:00",
+      "last_updated_at": "2026-10-08T21:44:54.327443+00:00",
+      "outcome": null,
+      "failure_reason": null,
+      "status_history": [
+        {
+          "at": "2026-08-02T05:39:37.830294+00:00",
+          "status_id": 2,
+          "abbrev": "TBD",
+          "net": "2026-09-30T00:00:00Z"
+        },
+        {
+          "at": "2026-09-20T05:08:34.676835+00:00",
+          "status_id": 2,
+          "abbrev": "TBD",
+          "net": "2026-10-31T00:00:00Z",
+          "prev_net": "2026-09-30T00:00:00Z"
+        },
+        {
+          "at": "2026-10-08T21:44:54.327446+00:00",
+          "status_id": 2,
+          "abbrev": "TBD",
+          "net": "2026-10-29T00:00:00Z",
+          "prev_net": "2026-10-31T00:00:00Z"
         }
       ]
     },
@@ -2655,7 +2662,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-08-29T00:20:38.371230+00:00",
-      "last_updated_at": "2026-10-08T16:43:27.445676+00:00",
+      "last_updated_at": "2026-10-08T21:44:54.327437+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -2714,7 +2721,7 @@
       ],
       "webcast_live": false,
       "discovered_at": "2026-10-06T07:06:19.985975+00:00",
-      "last_updated_at": "2026-10-08T16:43:27.445664+00:00",
+      "last_updated_at": "2026-10-08T21:44:54.327427+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -2784,7 +2791,7 @@
       ],
       "webcast_live": false,
       "discovered_at": "2026-07-06T16:15:52.339958+00:00",
-      "last_updated_at": "2026-10-08T16:43:27.445658+00:00",
+      "last_updated_at": "2026-10-08T21:44:54.327415+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -2873,7 +2880,7 @@
       ],
       "webcast_live": false,
       "discovered_at": "2026-09-19T22:06:17.630757+00:00",
-      "last_updated_at": "2026-10-08T16:43:27.445646+00:00",
+      "last_updated_at": "2026-10-08T21:44:54.327405+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -2984,7 +2991,7 @@
       ],
       "webcast_live": false,
       "discovered_at": "2026-05-23T10:50:25.590716+00:00",
-      "last_updated_at": "2026-10-08T16:43:27.445636+00:00",
+      "last_updated_at": "2026-10-08T21:44:54.327392+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -3117,7 +3124,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-09-30T08:48:44.489011+00:00",
-      "last_updated_at": "2026-10-08T16:43:27.445601+00:00",
+      "last_updated_at": "2026-10-08T21:44:54.327360+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -18594,69 +18601,7 @@
           "prev_abbrev": "In Flight"
         }
       ]
-    },
-    {
-      "id": "c0d1609f-edc0-4970-8dc1-1b80a5d8c4cb",
-      "name": "Long March 6A | SatNet LEO Group 21",
-      "slug": "long-march-6a-satnet-leo-group-21",
-      "status": {
-        "id": 3,
-        "abbrev": "Success",
-        "name": "Launch Successful",
-        "description": "The launch vehicle successfully inserted its payload(s) into the target orbit(s)."
-      },
-      "net": "2026-04-08T19:38:00Z",
-      "window_start": "2026-04-08T19:30:00Z",
-      "window_end": "2026-04-08T19:46:00Z",
-      "probability": null,
-      "rocket": {
-        "name": "Long March 6A",
-        "family": "Long March",
-        "manufacturer": "China Aerospace Science and Technology Corporation",
-        "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/long_march_6a__image_20251209050223.jpeg"
-      },
-      "mission": {
-        "name": "SatNet LEO Group 21",
-        "description": "A batch of 5 Low Earth Orbit communication satellites for the Chinese state owned SatNet constellation operated by the China Satellite Network Group.\r\n\r\nThe constellation will eventually consists of 13000 satellites.",
-        "type": "Communications",
-        "orbit": "Polar Orbit"
-      },
-      "pad": {
-        "name": "Launch Complex 9A",
-        "location": "Taiyuan Satellite Launch Center, People's Republic of China",
-        "country": "CHN",
-        "latitude": "38.8583",
-        "longitude": "111.5802"
-      },
-      "agency": {
-        "name": "China Aerospace Science and Technology Corporation",
-        "abbrev": "CASC",
-        "type": "Government"
-      },
-      "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/long_march_6a__image_20251209050223.jpeg",
-      "vidURLs": [],
-      "webcast_live": false,
-      "discovered_at": "2026-04-02T05:56:20.521424+00:00",
-      "last_updated_at": "2026-04-09T19:03:12.586107+00:00",
-      "outcome": "success",
-      "failure_reason": null,
-      "status_history": [
-        {
-          "at": "2026-04-02T05:56:20.521427+00:00",
-          "status_id": 1,
-          "abbrev": "Go",
-          "net": "2026-04-08T19:35:00Z"
-        },
-        {
-          "at": "2026-04-08T23:06:39.035026+00:00",
-          "status_id": 3,
-          "abbrev": "Success",
-          "net": "2026-04-08T19:38:00Z",
-          "prev_net": "2026-04-08T19:35:00Z",
-          "prev_abbrev": "Go"
-        }
-      ]
     }
   ],
-  "last_updated": "2026-10-08T16:43:27.446118+00:00"
+  "last_updated": "2026-10-08T21:44:54.327999+00:00"
 }
