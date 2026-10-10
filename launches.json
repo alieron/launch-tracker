@@ -783,7 +783,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-09-21T05:13:51.305816+00:00",
-      "last_updated_at": "2026-10-10T12:49:37.686438+00:00",
+      "last_updated_at": "2026-10-10T17:35:41.286931+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -837,7 +837,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-09-21T05:13:51.305830+00:00",
-      "last_updated_at": "2026-10-10T12:49:37.686445+00:00",
+      "last_updated_at": "2026-10-10T17:35:41.286939+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -891,7 +891,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-09-25T09:17:28.190374+00:00",
-      "last_updated_at": "2026-10-10T12:49:37.686451+00:00",
+      "last_updated_at": "2026-10-10T17:35:41.286945+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -1618,7 +1618,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-09-19T06:13:03.601108+00:00",
-      "last_updated_at": "2026-10-10T12:49:37.686457+00:00",
+      "last_updated_at": "2026-10-10T17:35:41.286952+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -1679,7 +1679,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-10-02T15:16:22.558707+00:00",
-      "last_updated_at": "2026-10-10T12:49:37.686465+00:00",
+      "last_updated_at": "2026-10-10T17:35:41.286958+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -1733,7 +1733,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-10-02T20:02:21.816397+00:00",
-      "last_updated_at": "2026-10-10T12:49:37.686471+00:00",
+      "last_updated_at": "2026-10-10T17:35:41.286982+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -1787,7 +1787,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-10-03T09:22:05.599968+00:00",
-      "last_updated_at": "2026-10-10T12:49:37.686479+00:00",
+      "last_updated_at": "2026-10-10T17:35:41.286991+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -1854,6 +1854,60 @@
       ]
     },
     {
+      "id": "a5e81552-ecdd-4d89-b6bd-b594e22ca891",
+      "name": "New Glenn | Blue Ring-1",
+      "slug": "new-glenn-blue-ring-1",
+      "status": {
+        "id": 2,
+        "abbrev": "TBD",
+        "name": "To Be Determined",
+        "description": "Current date is a placeholder or rough estimation based on unreliable or interpreted sources."
+      },
+      "net": "2026-12-31T00:00:00Z",
+      "window_start": "2026-12-31T00:00:00Z",
+      "window_end": "2026-12-31T00:00:00Z",
+      "probability": null,
+      "rocket": {
+        "name": "New Glenn",
+        "family": "New Glenn",
+        "manufacturer": "Blue Origin",
+        "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/new_glenn_on_lc_image_20240313170026.jpeg"
+      },
+      "mission": {
+        "name": "Blue Ring-1",
+        "description": "The first mission of Blue Ring, Blue Origin's all-in-one, high-powered hybrid solar electric and chemical propelled spacecraft, will test the spacecraft's operations in Geostationary Transfer Orbit (GTO), as well as subsequent operations after reaching Geostationary Orbit (GEO).\r\n\r\nIt will carry one of Scout Space's flagship next-generation space domain awareness (SDA) Owl sensors, which is designed to enhance real-time tracking, characterization, and assessment of space objects by integrating advanced optical sensing, onboard artificial intelligence-driven processing, and autonomous decision-making capabilities to deliver domain-wide intelligence in space in support of the U.S. Space Force\u2019s space control mission set.\r\n\r\nBlue Ring will also carry Optimum Technologies (OpTech)'s next-generation Caracal optical payload, which is designed to provide actionable insights on resident space objects and orbital activity and includes onboard image storage, object detection algorithms, and passive thermal control. The payload is designed to operate flexibly across dynamic orbits over a year-long mission profile.\r\n\r\nSeveral internal Blue Origin payloads will also be hosted.",
+        "type": "Space Situational Awareness",
+        "orbit": "Geostationary Transfer Orbit"
+      },
+      "pad": {
+        "name": "Launch Complex 36A",
+        "location": "Cape Canaveral SFS, FL, USA",
+        "country": "USA",
+        "latitude": "28.4705556",
+        "longitude": "-80.542194"
+      },
+      "agency": {
+        "name": "Blue Origin",
+        "abbrev": "BO",
+        "type": "Commercial"
+      },
+      "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/new_glenn_on_lc_image_20240313170026.jpeg",
+      "vidURLs": [],
+      "webcast_live": false,
+      "discovered_at": "2026-10-10T17:35:41.286968+00:00",
+      "last_updated_at": "2026-10-10T17:35:41.286964+00:00",
+      "outcome": null,
+      "failure_reason": null,
+      "status_history": [
+        {
+          "at": "2026-10-10T17:35:41.286972+00:00",
+          "status_id": 2,
+          "abbrev": "TBD",
+          "net": "2026-12-31T00:00:00Z"
+        }
+      ]
+    },
+    {
       "id": "d74afbc7-0de5-491c-be05-4e9c31f736ac",
       "name": "Falcon 9 Block 5 | Cygnus CRS-2 NG-25",
       "slug": "falcon-9-block-5-cygnus-crs-2-ng-25",
@@ -1895,7 +1949,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-09-20T13:55:26.700417+00:00",
-      "last_updated_at": "2026-10-10T12:49:37.686416+00:00",
+      "last_updated_at": "2026-10-10T17:35:41.286908+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -1956,7 +2010,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-09-18T06:14:12.921747+00:00",
-      "last_updated_at": "2026-10-10T12:49:37.686407+00:00",
+      "last_updated_at": "2026-10-10T17:35:41.286902+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -2064,7 +2118,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-09-26T15:35:59.347779+00:00",
-      "last_updated_at": "2026-10-10T12:49:37.686424+00:00",
+      "last_updated_at": "2026-10-10T17:35:41.286915+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -2118,7 +2172,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-09-26T15:35:59.347786+00:00",
-      "last_updated_at": "2026-10-10T12:49:37.686432+00:00",
+      "last_updated_at": "2026-10-10T17:35:41.286924+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -2172,7 +2226,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-09-07T18:03:06.104420+00:00",
-      "last_updated_at": "2026-10-10T12:49:37.686401+00:00",
+      "last_updated_at": "2026-10-10T17:35:41.286895+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -2280,7 +2334,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-08-29T13:16:29.132372+00:00",
-      "last_updated_at": "2026-10-10T12:49:37.686374+00:00",
+      "last_updated_at": "2026-10-10T17:35:41.286868+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -2334,7 +2388,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-08-05T02:00:15.102845+00:00",
-      "last_updated_at": "2026-10-10T12:49:37.686389+00:00",
+      "last_updated_at": "2026-10-10T17:35:41.286882+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -2402,7 +2456,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-08-27T19:23:07.365257+00:00",
-      "last_updated_at": "2026-10-10T12:49:37.686365+00:00",
+      "last_updated_at": "2026-10-10T17:35:41.286857+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -2463,7 +2517,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-09-26T15:35:59.347749+00:00",
-      "last_updated_at": "2026-10-10T12:49:37.686395+00:00",
+      "last_updated_at": "2026-10-10T17:35:41.286889+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -2517,7 +2571,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-08-17T02:18:50.340460+00:00",
-      "last_updated_at": "2026-10-10T12:49:37.686382+00:00",
+      "last_updated_at": "2026-10-10T17:35:41.286874+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -2594,7 +2648,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-08-02T05:39:37.830291+00:00",
-      "last_updated_at": "2026-10-10T12:49:37.686356+00:00",
+      "last_updated_at": "2026-10-10T17:35:41.286850+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -2662,7 +2716,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-08-29T00:20:38.371230+00:00",
-      "last_updated_at": "2026-10-10T12:49:37.686346+00:00",
+      "last_updated_at": "2026-10-10T17:35:41.286841+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -2721,7 +2775,7 @@
       ],
       "webcast_live": false,
       "discovered_at": "2026-10-06T07:06:19.985975+00:00",
-      "last_updated_at": "2026-10-10T12:49:37.686338+00:00",
+      "last_updated_at": "2026-10-10T17:35:41.286833+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -2795,7 +2849,7 @@
       ],
       "webcast_live": false,
       "discovered_at": "2026-07-06T16:15:52.339958+00:00",
-      "last_updated_at": "2026-10-10T12:49:37.686330+00:00",
+      "last_updated_at": "2026-10-10T17:35:41.286822+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -2884,7 +2938,7 @@
       ],
       "webcast_live": false,
       "discovered_at": "2026-09-19T22:06:17.630757+00:00",
-      "last_updated_at": "2026-10-10T12:49:37.686317+00:00",
+      "last_updated_at": "2026-10-10T17:35:41.286812+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -2945,10 +2999,10 @@
       "name": "Falcon 9 Block 5 | SDA Tranche 1 Transport Layer A",
       "slug": "falcon-9-block-5-sda-tranche-1-transport-layer-a",
       "status": {
-        "id": 6,
-        "abbrev": "In Flight",
-        "name": "Launch in Flight",
-        "description": "The launch vehicle has lifted off from the launchpad."
+        "id": 3,
+        "abbrev": "Success",
+        "name": "Launch Successful",
+        "description": "The launch vehicle successfully inserted its payload(s) into the target orbit(s)."
       },
       "net": "2026-10-10T07:39:44Z",
       "window_start": "2026-10-10T07:39:44Z",
@@ -2981,8 +3035,8 @@
       "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/falcon_9_image_20230807133459.jpeg",
       "vidURLs": [
         {
-          "title": "SpaceX - Falcon 9 - Tranche 1 Transport Layer A - SLC-4E - VSFB, CA - October 10, 2026",
-          "url": "https://www.youtube.com/watch?v=g2zSmp6e2Vs"
+          "title": "SpaceX SDA Tranche 1 Transport Layer A",
+          "url": "https://www.youtube.com/watch?v=lrCq8bWuExs"
         },
         {
           "title": "Live: SpaceX Falcon 9 rocket launches from California for U.S. Military's Space Development Agency",
@@ -2995,8 +3049,8 @@
       ],
       "webcast_live": false,
       "discovered_at": "2026-05-23T10:50:25.590716+00:00",
-      "last_updated_at": "2026-10-10T12:49:37.686298+00:00",
-      "outcome": null,
+      "last_updated_at": "2026-10-10T17:35:41.286793+00:00",
+      "outcome": "success",
       "failure_reason": null,
       "status_history": [
         {
@@ -3104,6 +3158,13 @@
           "abbrev": "In Flight",
           "net": "2026-10-10T07:39:44Z",
           "prev_abbrev": "Go"
+        },
+        {
+          "at": "2026-10-10T17:35:41.286799+00:00",
+          "status_id": 3,
+          "abbrev": "Success",
+          "net": "2026-10-10T07:39:44Z",
+          "prev_abbrev": "In Flight"
         }
       ]
     },
@@ -3158,7 +3219,7 @@
       ],
       "webcast_live": false,
       "discovered_at": "2026-09-30T08:48:44.489011+00:00",
-      "last_updated_at": "2026-10-10T12:49:37.686266+00:00",
+      "last_updated_at": "2026-10-10T17:35:41.286763+00:00",
       "outcome": "success",
       "failure_reason": null,
       "status_history": [
@@ -18652,5 +18713,5 @@
       ]
     }
   ],
-  "last_updated": "2026-10-10T12:49:37.686887+00:00"
+  "last_updated": "2026-10-10T17:35:41.287379+00:00"
 }
