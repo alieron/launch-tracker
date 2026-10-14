@@ -783,7 +783,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-09-21T05:13:51.305816+00:00",
-      "last_updated_at": "2026-10-14T14:16:31.939341+00:00",
+      "last_updated_at": "2026-10-14T18:46:11.934519+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -837,7 +837,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-09-21T05:13:51.305830+00:00",
-      "last_updated_at": "2026-10-14T14:16:31.939346+00:00",
+      "last_updated_at": "2026-10-14T18:46:11.934534+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -891,7 +891,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-09-25T09:17:28.190374+00:00",
-      "last_updated_at": "2026-10-14T14:16:31.939352+00:00",
+      "last_updated_at": "2026-10-14T18:46:11.934541+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -1557,7 +1557,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-09-19T06:13:03.601108+00:00",
-      "last_updated_at": "2026-10-14T14:16:31.939359+00:00",
+      "last_updated_at": "2026-10-14T18:46:11.934563+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -1618,7 +1618,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-10-02T15:16:22.558707+00:00",
-      "last_updated_at": "2026-10-14T14:16:31.939366+00:00",
+      "last_updated_at": "2026-10-14T18:46:11.934579+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -1834,7 +1834,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-10-10T17:35:41.286968+00:00",
-      "last_updated_at": "2026-10-14T14:16:31.939371+00:00",
+      "last_updated_at": "2026-10-14T18:46:11.934591+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -1888,7 +1888,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-09-18T06:14:12.921747+00:00",
-      "last_updated_at": "2026-10-14T14:16:31.939336+00:00",
+      "last_updated_at": "2026-10-14T18:46:11.934505+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -1949,7 +1949,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-09-20T13:55:26.700417+00:00",
-      "last_updated_at": "2026-10-14T14:16:31.939318+00:00",
+      "last_updated_at": "2026-10-14T18:46:11.934482+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -2064,7 +2064,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-09-26T15:35:59.347779+00:00",
-      "last_updated_at": "2026-10-14T14:16:31.939323+00:00",
+      "last_updated_at": "2026-10-14T18:46:11.934491+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -2118,7 +2118,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-09-26T15:35:59.347786+00:00",
-      "last_updated_at": "2026-10-14T14:16:31.939331+00:00",
+      "last_updated_at": "2026-10-14T18:46:11.934498+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -2127,74 +2127,6 @@
           "status_id": 2,
           "abbrev": "TBD",
           "net": "2026-11-30T00:00:00Z"
-        }
-      ]
-    },
-    {
-      "id": "7bdc412b-c965-4517-a131-f57a01189803",
-      "name": "Ariane 64 Block 2 | Amazon Leo (LE-04)",
-      "slug": "ariane-64-block-2-amazon-leo-le-04",
-      "status": {
-        "id": 2,
-        "abbrev": "TBD",
-        "name": "To Be Determined",
-        "description": "Current date is a placeholder or rough estimation based on unreliable or interpreted sources."
-      },
-      "net": "2026-11-30T00:00:00Z",
-      "window_start": "2026-11-30T00:00:00Z",
-      "window_end": "2026-11-30T00:00:00Z",
-      "probability": null,
-      "rocket": {
-        "name": "Ariane 64",
-        "family": "Ariane",
-        "manufacturer": "ArianeGroup",
-        "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/ariane_64_lifto_image_20260618063419.jpg"
-      },
-      "mission": {
-        "name": "Amazon Leo (LE-04)",
-        "description": "Amazon Leo, formerly known as Project Kuiper, is a mega constellation of satellites in Low Earth Orbit that will offer broadband internet access, this constellation will be managed by Kuiper Systems LLC, a subsidiary of Amazon. This constellation is planned to be composed of 3,276 satellites. The satellites are projected to be placed in 98 orbital planes in three orbital layers, one at 590 km, 610 km and 630 km altitude.\r\n\r\n35-40 satellites will be carried on each Ariane 6 launch.",
-        "type": "Communications",
-        "orbit": "Low Earth Orbit"
-      },
-      "pad": {
-        "name": "Ariane Launch Area 4",
-        "location": "Guiana Space Centre, French Guiana",
-        "country": "GUF",
-        "latitude": "5.256319",
-        "longitude": "-52.786838"
-      },
-      "agency": {
-        "name": "Arianespace",
-        "abbrev": "ASA",
-        "type": "Commercial"
-      },
-      "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/ariane_64_lifto_image_20260618063419.jpg",
-      "vidURLs": [],
-      "webcast_live": false,
-      "discovered_at": "2026-08-27T19:23:07.365257+00:00",
-      "last_updated_at": "2026-10-14T14:16:31.939313+00:00",
-      "outcome": null,
-      "failure_reason": null,
-      "status_history": [
-        {
-          "at": "2026-08-27T19:23:07.365260+00:00",
-          "status_id": 2,
-          "abbrev": "TBD",
-          "net": "2026-10-07T00:00:00Z"
-        },
-        {
-          "at": "2026-09-25T14:40:32.258690+00:00",
-          "status_id": 2,
-          "abbrev": "TBD",
-          "net": "2026-10-31T00:00:00Z",
-          "prev_net": "2026-10-07T00:00:00Z"
-        },
-        {
-          "at": "2026-10-13T19:42:22.515359+00:00",
-          "status_id": 2,
-          "abbrev": "TBD",
-          "net": "2026-11-30T00:00:00Z",
-          "prev_net": "2026-10-31T00:00:00Z"
         }
       ]
     },
@@ -2240,7 +2172,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-09-07T18:03:06.104420+00:00",
-      "last_updated_at": "2026-10-14T14:16:31.939307+00:00",
+      "last_updated_at": "2026-10-14T18:46:11.934474+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -2249,6 +2181,81 @@
           "status_id": 8,
           "abbrev": "TBC",
           "net": "2026-11-24T05:03:00Z"
+        }
+      ]
+    },
+    {
+      "id": "7bdc412b-c965-4517-a131-f57a01189803",
+      "name": "Ariane 64 Block 2 | Amazon Leo (LE-04)",
+      "slug": "ariane-64-block-2-amazon-leo-le-04",
+      "status": {
+        "id": 2,
+        "abbrev": "TBD",
+        "name": "To Be Determined",
+        "description": "Current date is a placeholder or rough estimation based on unreliable or interpreted sources."
+      },
+      "net": "2026-11-23T00:00:00Z",
+      "window_start": "2026-11-23T00:00:00Z",
+      "window_end": "2026-11-23T00:00:00Z",
+      "probability": null,
+      "rocket": {
+        "name": "Ariane 64",
+        "family": "Ariane",
+        "manufacturer": "ArianeGroup",
+        "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/ariane_64_lifto_image_20260618063419.jpg"
+      },
+      "mission": {
+        "name": "Amazon Leo (LE-04)",
+        "description": "Amazon Leo, formerly known as Project Kuiper, is a mega constellation of satellites in Low Earth Orbit that will offer broadband internet access, this constellation will be managed by Kuiper Systems LLC, a subsidiary of Amazon. This constellation is planned to be composed of 3,276 satellites. The satellites are projected to be placed in 98 orbital planes in three orbital layers, one at 590 km, 610 km and 630 km altitude.\r\n\r\n35-40 satellites will be carried on each Ariane 6 launch.",
+        "type": "Communications",
+        "orbit": "Low Earth Orbit"
+      },
+      "pad": {
+        "name": "Ariane Launch Area 4",
+        "location": "Guiana Space Centre, French Guiana",
+        "country": "GUF",
+        "latitude": "5.256319",
+        "longitude": "-52.786838"
+      },
+      "agency": {
+        "name": "Arianespace",
+        "abbrev": "ASA",
+        "type": "Commercial"
+      },
+      "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/ariane_64_lifto_image_20260618063419.jpg",
+      "vidURLs": [],
+      "webcast_live": false,
+      "discovered_at": "2026-08-27T19:23:07.365257+00:00",
+      "last_updated_at": "2026-10-14T18:46:11.934458+00:00",
+      "outcome": null,
+      "failure_reason": null,
+      "status_history": [
+        {
+          "at": "2026-08-27T19:23:07.365260+00:00",
+          "status_id": 2,
+          "abbrev": "TBD",
+          "net": "2026-10-07T00:00:00Z"
+        },
+        {
+          "at": "2026-09-25T14:40:32.258690+00:00",
+          "status_id": 2,
+          "abbrev": "TBD",
+          "net": "2026-10-31T00:00:00Z",
+          "prev_net": "2026-10-07T00:00:00Z"
+        },
+        {
+          "at": "2026-10-13T19:42:22.515359+00:00",
+          "status_id": 2,
+          "abbrev": "TBD",
+          "net": "2026-11-30T00:00:00Z",
+          "prev_net": "2026-10-31T00:00:00Z"
+        },
+        {
+          "at": "2026-10-14T18:46:11.934461+00:00",
+          "status_id": 2,
+          "abbrev": "TBD",
+          "net": "2026-11-23T00:00:00Z",
+          "prev_net": "2026-11-30T00:00:00Z"
         }
       ]
     },
@@ -2348,7 +2355,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-10-12T23:42:24.165851+00:00",
-      "last_updated_at": "2026-10-14T14:16:31.939303+00:00",
+      "last_updated_at": "2026-10-14T18:46:11.934440+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -2402,7 +2409,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-10-12T23:42:24.165834+00:00",
-      "last_updated_at": "2026-10-14T14:16:31.939296+00:00",
+      "last_updated_at": "2026-10-14T18:46:11.934424+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -2456,7 +2463,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-08-05T02:00:15.102845+00:00",
-      "last_updated_at": "2026-10-14T14:16:31.939284+00:00",
+      "last_updated_at": "2026-10-14T18:46:11.934400+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -2524,7 +2531,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-09-26T15:35:59.347749+00:00",
-      "last_updated_at": "2026-10-14T14:16:31.939291+00:00",
+      "last_updated_at": "2026-10-14T18:46:11.934413+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -2578,7 +2585,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-08-17T02:18:50.340460+00:00",
-      "last_updated_at": "2026-10-14T14:16:31.939276+00:00",
+      "last_updated_at": "2026-10-14T18:46:11.934389+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -2655,7 +2662,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-08-02T05:39:37.830291+00:00",
-      "last_updated_at": "2026-10-14T14:16:31.939270+00:00",
+      "last_updated_at": "2026-10-14T18:46:11.934375+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -2728,7 +2735,7 @@
       ],
       "webcast_live": false,
       "discovered_at": "2026-10-13T19:42:22.515287+00:00",
-      "last_updated_at": "2026-10-14T14:16:31.939265+00:00",
+      "last_updated_at": "2026-10-14T18:46:11.934359+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -2782,7 +2789,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-08-09T17:04:59.658112+00:00",
-      "last_updated_at": "2026-10-14T14:16:31.939259+00:00",
+      "last_updated_at": "2026-10-14T18:46:11.934345+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -2855,7 +2862,7 @@
       ],
       "webcast_live": false,
       "discovered_at": "2026-10-12T17:15:36.507746+00:00",
-      "last_updated_at": "2026-10-14T14:16:31.939254+00:00",
+      "last_updated_at": "2026-10-14T18:46:11.934333+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -2909,7 +2916,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-08-29T00:20:38.371230+00:00",
-      "last_updated_at": "2026-10-14T14:16:31.939245+00:00",
+      "last_updated_at": "2026-10-14T18:46:11.934318+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -2968,7 +2975,7 @@
       ],
       "webcast_live": false,
       "discovered_at": "2026-08-29T13:16:29.132372+00:00",
-      "last_updated_at": "2026-10-14T14:16:31.939237+00:00",
+      "last_updated_at": "2026-10-14T18:46:11.934301+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -3042,7 +3049,7 @@
       ],
       "webcast_live": false,
       "discovered_at": "2026-10-06T07:06:19.985975+00:00",
-      "last_updated_at": "2026-10-14T14:16:31.939224+00:00",
+      "last_updated_at": "2026-10-14T18:46:11.934286+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -3103,7 +3110,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-10-13T05:06:37.074170+00:00",
-      "last_updated_at": "2026-10-14T14:16:31.939191+00:00",
+      "last_updated_at": "2026-10-14T18:46:11.934247+00:00",
       "outcome": "success",
       "failure_reason": null,
       "status_history": [
@@ -18581,5 +18588,5 @@
       ]
     }
   ],
-  "last_updated": "2026-10-14T14:16:31.939702+00:00"
+  "last_updated": "2026-10-14T18:46:11.935167+00:00"
 }
