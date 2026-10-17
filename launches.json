@@ -783,7 +783,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-09-21T05:13:51.305816+00:00",
-      "last_updated_at": "2026-10-17T12:45:25.553406+00:00",
+      "last_updated_at": "2026-10-17T16:05:19.689410+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -837,7 +837,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-09-21T05:13:51.305830+00:00",
-      "last_updated_at": "2026-10-17T12:45:25.553416+00:00",
+      "last_updated_at": "2026-10-17T16:05:19.689414+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -891,7 +891,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-09-25T09:17:28.190374+00:00",
-      "last_updated_at": "2026-10-17T12:45:25.553421+00:00",
+      "last_updated_at": "2026-10-17T16:05:19.689418+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -1557,7 +1557,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-09-19T06:13:03.601108+00:00",
-      "last_updated_at": "2026-10-17T12:45:25.553426+00:00",
+      "last_updated_at": "2026-10-17T16:05:19.689424+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -1888,7 +1888,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-09-18T06:14:12.921747+00:00",
-      "last_updated_at": "2026-10-17T12:45:25.553400+00:00",
+      "last_updated_at": "2026-10-17T16:05:19.689406+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -2003,7 +2003,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-09-20T13:55:26.700417+00:00",
-      "last_updated_at": "2026-10-17T12:45:25.553381+00:00",
+      "last_updated_at": "2026-10-17T16:05:19.689392+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -2118,7 +2118,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-09-26T15:35:59.347779+00:00",
-      "last_updated_at": "2026-10-17T12:45:25.553387+00:00",
+      "last_updated_at": "2026-10-17T16:05:19.689396+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -2172,7 +2172,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-09-26T15:35:59.347786+00:00",
-      "last_updated_at": "2026-10-17T12:45:25.553394+00:00",
+      "last_updated_at": "2026-10-17T16:05:19.689401+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -2226,7 +2226,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-09-07T18:03:06.104420+00:00",
-      "last_updated_at": "2026-10-17T12:45:25.553374+00:00",
+      "last_updated_at": "2026-10-17T16:05:19.689386+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -2280,7 +2280,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-08-27T19:23:07.365257+00:00",
-      "last_updated_at": "2026-10-17T12:45:25.553369+00:00",
+      "last_updated_at": "2026-10-17T16:05:19.689381+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -2409,7 +2409,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-10-12T23:42:24.165851+00:00",
-      "last_updated_at": "2026-10-17T12:45:25.553364+00:00",
+      "last_updated_at": "2026-10-17T16:05:19.689377+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -2463,7 +2463,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-10-12T23:42:24.165834+00:00",
-      "last_updated_at": "2026-10-17T12:45:25.553358+00:00",
+      "last_updated_at": "2026-10-17T16:05:19.689373+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -2517,7 +2517,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-08-05T02:00:15.102845+00:00",
-      "last_updated_at": "2026-10-17T12:45:25.553345+00:00",
+      "last_updated_at": "2026-10-17T16:05:19.689364+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -2585,7 +2585,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-09-26T15:35:59.347749+00:00",
-      "last_updated_at": "2026-10-17T12:45:25.553351+00:00",
+      "last_updated_at": "2026-10-17T16:05:19.689368+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -2639,7 +2639,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-08-17T02:18:50.340460+00:00",
-      "last_updated_at": "2026-10-17T12:45:25.553338+00:00",
+      "last_updated_at": "2026-10-17T16:05:19.689357+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -2716,7 +2716,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-08-02T05:39:37.830291+00:00",
-      "last_updated_at": "2026-10-17T12:45:25.553332+00:00",
+      "last_updated_at": "2026-10-17T16:05:19.689352+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -2789,7 +2789,7 @@
       ],
       "webcast_live": false,
       "discovered_at": "2026-10-13T19:42:22.515287+00:00",
-      "last_updated_at": "2026-10-17T12:45:25.553325+00:00",
+      "last_updated_at": "2026-10-17T16:05:19.689346+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -2806,14 +2806,14 @@
       "name": "Long March 4B | Unknown Payload",
       "slug": "long-march-4b-unknown-payload",
       "status": {
-        "id": 8,
-        "abbrev": "TBC",
-        "name": "To Be Confirmed",
-        "description": "Awaiting official confirmation - current date is known with some certainty."
+        "id": 1,
+        "abbrev": "Go",
+        "name": "Go for Launch",
+        "description": "Current T-0 confirmed by official or reliable sources."
       },
-      "net": "2026-10-23T18:00:00Z",
-      "window_start": "2026-10-23T18:00:00Z",
-      "window_end": "2026-10-23T21:00:00Z",
+      "net": "2026-10-23T19:25:00Z",
+      "window_start": "2026-10-23T19:17:00Z",
+      "window_end": "2026-10-23T19:39:00Z",
       "probability": null,
       "rocket": {
         "name": "Long March 4B",
@@ -2843,7 +2843,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-10-15T22:32:34.815033+00:00",
-      "last_updated_at": "2026-10-17T12:45:25.553319+00:00",
+      "last_updated_at": "2026-10-17T16:05:19.689338+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -2852,6 +2852,68 @@
           "status_id": 8,
           "abbrev": "TBC",
           "net": "2026-10-23T18:00:00Z"
+        },
+        {
+          "at": "2026-10-17T16:05:19.689341+00:00",
+          "status_id": 1,
+          "abbrev": "Go",
+          "net": "2026-10-23T19:25:00Z",
+          "prev_net": "2026-10-23T18:00:00Z",
+          "prev_abbrev": "TBC"
+        }
+      ]
+    },
+    {
+      "id": "9648124f-8568-46d2-86d7-4b4d6f12187f",
+      "name": "Long March 6A | Unknown Payload",
+      "slug": "long-march-6a-unknown-payload",
+      "status": {
+        "id": 1,
+        "abbrev": "Go",
+        "name": "Go for Launch",
+        "description": "Current T-0 confirmed by official or reliable sources."
+      },
+      "net": "2026-10-23T10:15:00Z",
+      "window_start": "2026-10-23T10:07:00Z",
+      "window_end": "2026-10-23T10:28:00Z",
+      "probability": null,
+      "rocket": {
+        "name": "Long March 6A",
+        "family": "Long March",
+        "manufacturer": "China Aerospace Science and Technology Corporation",
+        "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/long_march_6a__image_20251209050223.jpeg"
+      },
+      "mission": {
+        "name": "Unknown Payload",
+        "description": "Details TBD.",
+        "type": "Unknown",
+        "orbit": "Unknown"
+      },
+      "pad": {
+        "name": "Launch Complex 9A",
+        "location": "Taiyuan Satellite Launch Center, People's Republic of China",
+        "country": "CHN",
+        "latitude": "38.8583",
+        "longitude": "111.5802"
+      },
+      "agency": {
+        "name": "China Aerospace Science and Technology Corporation",
+        "abbrev": "CASC",
+        "type": "Government"
+      },
+      "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/long_march_6a__image_20251209050223.jpeg",
+      "vidURLs": [],
+      "webcast_live": false,
+      "discovered_at": "2026-10-17T16:05:19.689328+00:00",
+      "last_updated_at": "2026-10-17T16:05:19.689326+00:00",
+      "outcome": null,
+      "failure_reason": null,
+      "status_history": [
+        {
+          "at": "2026-10-17T16:05:19.689329+00:00",
+          "status_id": 1,
+          "abbrev": "Go",
+          "net": "2026-10-23T10:15:00Z"
         }
       ]
     },
@@ -2897,7 +2959,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-10-15T22:32:34.815019+00:00",
-      "last_updated_at": "2026-10-17T12:45:25.553310+00:00",
+      "last_updated_at": "2026-10-17T16:05:19.689320+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -2959,7 +3021,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-08-09T17:04:59.658112+00:00",
-      "last_updated_at": "2026-10-17T12:45:25.553304+00:00",
+      "last_updated_at": "2026-10-17T16:05:19.689314+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -3035,7 +3097,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-10-15T22:32:34.814993+00:00",
-      "last_updated_at": "2026-10-17T12:45:25.553296+00:00",
+      "last_updated_at": "2026-10-17T16:05:19.689306+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -3094,7 +3156,7 @@
       ],
       "webcast_live": false,
       "discovered_at": "2026-10-12T17:15:36.507746+00:00",
-      "last_updated_at": "2026-10-17T12:45:25.553289+00:00",
+      "last_updated_at": "2026-10-17T16:05:19.689299+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -3148,7 +3210,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-08-29T00:20:38.371230+00:00",
-      "last_updated_at": "2026-10-17T12:45:25.553274+00:00",
+      "last_updated_at": "2026-10-17T16:05:19.689289+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -3182,7 +3244,7 @@
       },
       "mission": {
         "name": "Bandwagon 5 (Dedicated Mid-Inclination Rideshare)",
-        "description": "Dedicated rideshare flight to a mid-inclination orbit with dozens of small microsatellites and nanosatellites for commercial and government customers.",
+        "description": "Dedicated rideshare flight to a mid-inclination orbit with dozens of small microsatellites and nanosatellites for commercial and government customers.\r\n\r\nThis launch also carries the second demonstration mission for SpaceX\u2019s Project Starfall, which aims to mass-produce reentry capsules designed to autonomously transport valuable customer experiments and other payloads safely back from space to Earth, including for in-orbit manufacturing. \r\n\r\nStarfall is a cylindrical shaped capsule approximately 0.75 meters tall with a diameter of 3.1 meters, weighing approximately 2100 kilograms, and capable of carrying 1000 kilograms of payload. It is designed to be carried on Starship flights.",
         "type": "Dedicated Rideshare",
         "orbit": "Low Earth Orbit"
       },
@@ -3207,7 +3269,7 @@
       ],
       "webcast_live": false,
       "discovered_at": "2026-08-29T13:16:29.132372+00:00",
-      "last_updated_at": "2026-10-17T12:45:25.553242+00:00",
+      "last_updated_at": "2026-10-17T16:05:19.689257+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -18602,5 +18664,5 @@
       ]
     }
   ],
-  "last_updated": "2026-10-17T12:45:25.553805+00:00"
+  "last_updated": "2026-10-17T16:05:19.689757+00:00"
 }
