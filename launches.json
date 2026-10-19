@@ -783,7 +783,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-09-21T05:13:51.305816+00:00",
-      "last_updated_at": "2026-10-19T05:36:48.892689+00:00",
+      "last_updated_at": "2026-10-19T11:53:50.902003+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -837,7 +837,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-09-21T05:13:51.305830+00:00",
-      "last_updated_at": "2026-10-19T05:36:48.892692+00:00",
+      "last_updated_at": "2026-10-19T11:53:50.902020+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -891,7 +891,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-09-25T09:17:28.190374+00:00",
-      "last_updated_at": "2026-10-19T05:36:48.892697+00:00",
+      "last_updated_at": "2026-10-19T11:53:50.902033+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -1557,7 +1557,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-09-19T06:13:03.601108+00:00",
-      "last_updated_at": "2026-10-19T05:36:48.892701+00:00",
+      "last_updated_at": "2026-10-19T11:53:50.902045+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -1888,7 +1888,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-09-18T06:14:12.921747+00:00",
-      "last_updated_at": "2026-10-19T05:36:48.892682+00:00",
+      "last_updated_at": "2026-10-19T11:53:50.901990+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -2003,7 +2003,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-09-20T13:55:26.700417+00:00",
-      "last_updated_at": "2026-10-19T05:36:48.892667+00:00",
+      "last_updated_at": "2026-10-19T11:53:50.901947+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -2118,7 +2118,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-09-26T15:35:59.347779+00:00",
-      "last_updated_at": "2026-10-19T05:36:48.892674+00:00",
+      "last_updated_at": "2026-10-19T11:53:50.901959+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -2172,7 +2172,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-09-26T15:35:59.347786+00:00",
-      "last_updated_at": "2026-10-19T05:36:48.892678+00:00",
+      "last_updated_at": "2026-10-19T11:53:50.901974+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -2226,7 +2226,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-09-07T18:03:06.104420+00:00",
-      "last_updated_at": "2026-10-19T05:36:48.892663+00:00",
+      "last_updated_at": "2026-10-19T11:53:50.901936+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -2280,7 +2280,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-08-27T19:23:07.365257+00:00",
-      "last_updated_at": "2026-10-19T05:36:48.892658+00:00",
+      "last_updated_at": "2026-10-19T11:53:50.901922+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -2409,7 +2409,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-10-12T23:42:24.165851+00:00",
-      "last_updated_at": "2026-10-19T05:36:48.892654+00:00",
+      "last_updated_at": "2026-10-19T11:53:50.901911+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -2463,7 +2463,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-10-12T23:42:24.165834+00:00",
-      "last_updated_at": "2026-10-19T05:36:48.892648+00:00",
+      "last_updated_at": "2026-10-19T11:53:50.901900+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -2517,7 +2517,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-08-05T02:00:15.102845+00:00",
-      "last_updated_at": "2026-10-19T05:36:48.892637+00:00",
+      "last_updated_at": "2026-10-19T11:53:50.901870+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -2585,7 +2585,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-09-26T15:35:59.347749+00:00",
-      "last_updated_at": "2026-10-19T05:36:48.892642+00:00",
+      "last_updated_at": "2026-10-19T11:53:50.901887+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -2639,7 +2639,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-08-17T02:18:50.340460+00:00",
-      "last_updated_at": "2026-10-19T05:36:48.892633+00:00",
+      "last_updated_at": "2026-10-19T11:53:50.901849+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -2716,7 +2716,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-08-02T05:39:37.830291+00:00",
-      "last_updated_at": "2026-10-19T05:36:48.892629+00:00",
+      "last_updated_at": "2026-10-19T11:53:50.901836+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -2789,7 +2789,7 @@
       ],
       "webcast_live": false,
       "discovered_at": "2026-10-13T19:42:22.515287+00:00",
-      "last_updated_at": "2026-10-19T05:36:48.892624+00:00",
+      "last_updated_at": "2026-10-19T11:53:50.901825+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -2843,7 +2843,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-10-15T22:32:34.815033+00:00",
-      "last_updated_at": "2026-10-19T05:36:48.892618+00:00",
+      "last_updated_at": "2026-10-19T11:53:50.901814+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -2905,7 +2905,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-10-17T16:05:19.689328+00:00",
-      "last_updated_at": "2026-10-19T05:36:48.892613+00:00",
+      "last_updated_at": "2026-10-19T11:53:50.901800+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -2959,7 +2959,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-10-15T22:32:34.815019+00:00",
-      "last_updated_at": "2026-10-19T05:36:48.892608+00:00",
+      "last_updated_at": "2026-10-19T11:53:50.901789+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -3021,7 +3021,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-08-09T17:04:59.658112+00:00",
-      "last_updated_at": "2026-10-19T05:36:48.892602+00:00",
+      "last_updated_at": "2026-10-19T11:53:50.901776+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -3097,7 +3097,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-10-15T22:32:34.814993+00:00",
-      "last_updated_at": "2026-10-19T05:36:48.892596+00:00",
+      "last_updated_at": "2026-10-19T11:53:50.901761+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -3156,7 +3156,7 @@
       ],
       "webcast_live": false,
       "discovered_at": "2026-10-12T17:15:36.507746+00:00",
-      "last_updated_at": "2026-10-19T05:36:48.892587+00:00",
+      "last_updated_at": "2026-10-19T11:53:50.901741+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -3165,6 +3165,87 @@
           "status_id": 1,
           "abbrev": "Go",
           "net": "2026-10-20T22:14:00Z"
+        }
+      ]
+    },
+    {
+      "id": "3b430f81-0ff1-4d85-8a1a-cef0de326198",
+      "name": "Falcon 9 Block 5 | Bandwagon 5 (Dedicated Mid-Inclination Rideshare)",
+      "slug": "falcon-9-block-5-bandwagon-5-dedicated-mid-inclina",
+      "status": {
+        "id": 1,
+        "abbrev": "Go",
+        "name": "Go for Launch",
+        "description": "Current T-0 confirmed by official or reliable sources."
+      },
+      "net": "2026-10-20T10:30:00Z",
+      "window_start": "2026-10-20T10:30:00Z",
+      "window_end": "2026-10-20T11:30:00Z",
+      "probability": 85,
+      "rocket": {
+        "name": "Falcon 9",
+        "family": "Falcon",
+        "manufacturer": "SpaceX",
+        "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/falcon_9_image_20230807133459.jpeg"
+      },
+      "mission": {
+        "name": "Bandwagon 5 (Dedicated Mid-Inclination Rideshare)",
+        "description": "Dedicated rideshare flight to a mid-inclination orbit with dozens of small microsatellites and nanosatellites for commercial and government customers.\r\n\r\nThis launch also carries the second demonstration mission for SpaceX\u2019s Project Starfall, which aims to mass-produce reentry capsules designed to autonomously transport valuable customer experiments and other payloads safely back from space to Earth, including for in-orbit manufacturing. \r\n\r\nStarfall is a cylindrical shaped capsule approximately 0.75 meters tall with a diameter of 3.1 meters, weighing approximately 2100 kilograms, and capable of carrying 1000 kilograms of payload. It is designed to be carried on Starship flights.",
+        "type": "Dedicated Rideshare",
+        "orbit": "Low Earth Orbit"
+      },
+      "pad": {
+        "name": "Space Launch Complex 40",
+        "location": "Cape Canaveral SFS, FL, USA",
+        "country": "USA",
+        "latitude": "28.56194122",
+        "longitude": "-80.57735736"
+      },
+      "agency": {
+        "name": "SpaceX",
+        "abbrev": "SpX",
+        "type": "Commercial"
+      },
+      "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/falcon_9_liftof_image_20251102082912.jpg",
+      "vidURLs": [
+        {
+          "title": "Bandwagon-5 Mission",
+          "url": "https://x.com/i/broadcasts/1nxeLMddZlEJX"
+        }
+      ],
+      "webcast_live": false,
+      "discovered_at": "2026-08-29T13:16:29.132372+00:00",
+      "last_updated_at": "2026-10-19T11:53:50.901710+00:00",
+      "outcome": null,
+      "failure_reason": null,
+      "status_history": [
+        {
+          "at": "2026-08-29T13:16:29.132374+00:00",
+          "status_id": 2,
+          "abbrev": "TBD",
+          "net": "2026-10-31T00:00:00Z"
+        },
+        {
+          "at": "2026-10-13T05:06:37.074199+00:00",
+          "status_id": 8,
+          "abbrev": "TBC",
+          "net": "2026-10-19T10:30:00Z",
+          "prev_net": "2026-10-31T00:00:00Z",
+          "prev_abbrev": "TBD"
+        },
+        {
+          "at": "2026-10-13T19:42:22.515246+00:00",
+          "status_id": 1,
+          "abbrev": "Go",
+          "net": "2026-10-19T10:30:00Z",
+          "prev_abbrev": "TBC"
+        },
+        {
+          "at": "2026-10-19T11:53:50.901720+00:00",
+          "status_id": 1,
+          "abbrev": "Go",
+          "net": "2026-10-20T10:30:00Z",
+          "prev_net": "2026-10-19T10:30:00Z"
         }
       ]
     },
@@ -3215,11 +3296,15 @@
         {
           "title": "\u706b\u661f\u885b\u661f\u63a2\u67fb\u6a5f(MMX)/H3\u30ed\u30b1\u30c3\u30c810\u53f7\u6a5f\u6253\u4e0a\u3052\u30e9\u30a4\u30d6\u4e2d\u7d99",
           "url": "https://www.youtube.com/watch?v=sZGyK9jfoy4"
+        },
+        {
+          "title": "2026.10.20\u30003:30\uff5e H\uff13\u30ed\u30b1\u30c3\u30c810\u53f7\u6a5f \u300c\u706b\u661f\u885b\u661f\u63a2\u67fb\u6a5f\uff08MMX\uff09\u300d\u6253\u4e0a\u3052\u3000H3 Rocket F10 Launch",
+          "url": "https://www.youtube.com/watch?v=ghSpAe_gx6k"
         }
       ],
       "webcast_live": false,
       "discovered_at": "2026-08-29T00:20:38.371230+00:00",
-      "last_updated_at": "2026-10-19T05:36:48.892572+00:00",
+      "last_updated_at": "2026-10-19T11:53:50.901666+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -3228,80 +3313,6 @@
           "status_id": 1,
           "abbrev": "Go",
           "net": "2026-10-19T19:41:03Z"
-        }
-      ]
-    },
-    {
-      "id": "3b430f81-0ff1-4d85-8a1a-cef0de326198",
-      "name": "Falcon 9 Block 5 | Bandwagon 5 (Dedicated Mid-Inclination Rideshare)",
-      "slug": "falcon-9-block-5-bandwagon-5-dedicated-mid-inclina",
-      "status": {
-        "id": 1,
-        "abbrev": "Go",
-        "name": "Go for Launch",
-        "description": "Current T-0 confirmed by official or reliable sources."
-      },
-      "net": "2026-10-19T10:30:00Z",
-      "window_start": "2026-10-19T10:30:00Z",
-      "window_end": "2026-10-19T11:30:00Z",
-      "probability": 55,
-      "rocket": {
-        "name": "Falcon 9",
-        "family": "Falcon",
-        "manufacturer": "SpaceX",
-        "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/falcon_9_image_20230807133459.jpeg"
-      },
-      "mission": {
-        "name": "Bandwagon 5 (Dedicated Mid-Inclination Rideshare)",
-        "description": "Dedicated rideshare flight to a mid-inclination orbit with dozens of small microsatellites and nanosatellites for commercial and government customers.\r\n\r\nThis launch also carries the second demonstration mission for SpaceX\u2019s Project Starfall, which aims to mass-produce reentry capsules designed to autonomously transport valuable customer experiments and other payloads safely back from space to Earth, including for in-orbit manufacturing. \r\n\r\nStarfall is a cylindrical shaped capsule approximately 0.75 meters tall with a diameter of 3.1 meters, weighing approximately 2100 kilograms, and capable of carrying 1000 kilograms of payload. It is designed to be carried on Starship flights.",
-        "type": "Dedicated Rideshare",
-        "orbit": "Low Earth Orbit"
-      },
-      "pad": {
-        "name": "Space Launch Complex 40",
-        "location": "Cape Canaveral SFS, FL, USA",
-        "country": "USA",
-        "latitude": "28.56194122",
-        "longitude": "-80.57735736"
-      },
-      "agency": {
-        "name": "SpaceX",
-        "abbrev": "SpX",
-        "type": "Commercial"
-      },
-      "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/falcon_9_liftof_image_20251102082912.jpg",
-      "vidURLs": [
-        {
-          "title": "Bandwagon-5 Mission",
-          "url": "https://x.com/i/broadcasts/1nxeLMddZlEJX"
-        }
-      ],
-      "webcast_live": false,
-      "discovered_at": "2026-08-29T13:16:29.132372+00:00",
-      "last_updated_at": "2026-10-19T05:36:48.892539+00:00",
-      "outcome": null,
-      "failure_reason": null,
-      "status_history": [
-        {
-          "at": "2026-08-29T13:16:29.132374+00:00",
-          "status_id": 2,
-          "abbrev": "TBD",
-          "net": "2026-10-31T00:00:00Z"
-        },
-        {
-          "at": "2026-10-13T05:06:37.074199+00:00",
-          "status_id": 8,
-          "abbrev": "TBC",
-          "net": "2026-10-19T10:30:00Z",
-          "prev_net": "2026-10-31T00:00:00Z",
-          "prev_abbrev": "TBD"
-        },
-        {
-          "at": "2026-10-13T19:42:22.515246+00:00",
-          "status_id": 1,
-          "abbrev": "Go",
-          "net": "2026-10-19T10:30:00Z",
-          "prev_abbrev": "TBC"
         }
       ]
     },
@@ -18525,153 +18536,7 @@
           "prev_abbrev": "In Flight"
         }
       ]
-    },
-    {
-      "id": "53769468-bfd3-45c7-a52b-46a68ed7510f",
-      "name": "New Glenn | BlueBird Block 2 #2",
-      "slug": "new-glenn-bluebird-block-2-2",
-      "status": {
-        "id": 4,
-        "abbrev": "Failure",
-        "name": "Launch Failure",
-        "description": "Either the launch vehicle did not reach orbit, or the payload(s) failed to separate."
-      },
-      "net": "2026-04-19T11:25:00Z",
-      "window_start": "2026-04-19T10:45:00Z",
-      "window_end": "2026-04-19T12:45:00Z",
-      "probability": 90,
-      "rocket": {
-        "name": "New Glenn",
-        "family": "New Glenn",
-        "manufacturer": "Blue Origin",
-        "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/new_glenn_on_lc_image_20240313170026.jpeg"
-      },
-      "mission": {
-        "name": "BlueBird Block 2 #2",
-        "description": "AST SpaceMobile\u2019s Block 2 BlueBird satellites are designed to deliver up to 10 times the bandwidth capacity of the BlueBird Block 1 satellites, required to achieve 24/7 continuous cellular broadband service coverage in the United States, with beams designed to support a capacity of up to 40 MHz, enabling peak data transmission speeds up to 120 Mbps, supporting voice, full data and video applications. The Block 2 BlueBirds, featuring as large as 2400 square foot communications arrays, will be the largest satellites ever commercially deployed in Low Earth orbit once launched.\r\n\r\nThis launch will feature 1 satellite, BlueBird 7/BlueBird Block 2 FM2.",
-        "type": "Communications",
-        "orbit": "Low Earth Orbit"
-      },
-      "pad": {
-        "name": "Launch Complex 36A",
-        "location": "Cape Canaveral SFS, FL, USA",
-        "country": "USA",
-        "latitude": "28.4705556",
-        "longitude": "-80.542194"
-      },
-      "agency": {
-        "name": "Blue Origin",
-        "abbrev": "BO",
-        "type": "Commercial"
-      },
-      "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/new_glenn_on_th_image_20251113164507.jpg",
-      "vidURLs": [
-        {
-          "title": "Replay: New Glenn Mission NG-3 Webcast",
-          "url": "https://www.youtube.com/watch?v=enQ_IXtfm9I"
-        },
-        {
-          "title": "Live: Blue Origin launches its third New Glenn rocket carrying BlueBird 7 satellite",
-          "url": "https://www.youtube.com/watch?v=ew-rXo0FWhA"
-        },
-        {
-          "title": "Blue Origin Launches Bluebird 7 - Booster reuse and landing",
-          "url": "https://www.youtube.com/watch?v=xlZVPFso4mk"
-        }
-      ],
-      "webcast_live": false,
-      "discovered_at": "2026-03-23T08:19:21.926524+00:00",
-      "last_updated_at": "2026-04-20T10:43:52.309215+00:00",
-      "outcome": "failure",
-      "failure_reason": "AST SpaceMobile\u2019s BlueBird 7 successfully launched on Blue Origin\u2019s New Glenn rocket, but was placed into an unusable lower orbit and will be deorbited despite the booster landing successfully.",
-      "status_history": [
-        {
-          "at": "2026-03-23T08:19:21.926526+00:00",
-          "status_id": 2,
-          "abbrev": "TBD",
-          "net": "2026-03-31T00:00:00Z"
-        },
-        {
-          "at": "2026-03-28T16:28:34.502376+00:00",
-          "status_id": 2,
-          "abbrev": "TBD",
-          "net": "2026-04-30T00:00:00Z",
-          "prev_net": "2026-03-31T00:00:00Z"
-        },
-        {
-          "at": "2026-03-29T22:25:34.451106+00:00",
-          "status_id": 2,
-          "abbrev": "TBD",
-          "net": "2026-04-10T00:00:00Z",
-          "prev_net": "2026-04-30T00:00:00Z"
-        },
-        {
-          "at": "2026-04-01T14:10:08.140347+00:00",
-          "status_id": 8,
-          "abbrev": "TBC",
-          "net": "2026-04-12T10:45:00Z",
-          "prev_net": "2026-04-10T00:00:00Z",
-          "prev_abbrev": "TBD"
-        },
-        {
-          "at": "2026-04-03T21:58:51.529126+00:00",
-          "status_id": 8,
-          "abbrev": "TBC",
-          "net": "2026-04-14T10:45:00Z",
-          "prev_net": "2026-04-12T10:45:00Z"
-        },
-        {
-          "at": "2026-04-08T17:38:17.948680+00:00",
-          "status_id": 8,
-          "abbrev": "TBC",
-          "net": "2026-04-16T10:45:00Z",
-          "prev_net": "2026-04-14T10:45:00Z"
-        },
-        {
-          "at": "2026-04-13T14:13:48.821342+00:00",
-          "status_id": 8,
-          "abbrev": "TBC",
-          "net": "2026-04-17T10:45:00Z",
-          "prev_net": "2026-04-16T10:45:00Z"
-        },
-        {
-          "at": "2026-04-14T20:29:15.616791+00:00",
-          "status_id": 8,
-          "abbrev": "TBC",
-          "net": "2026-04-18T10:45:00Z",
-          "prev_net": "2026-04-17T10:45:00Z"
-        },
-        {
-          "at": "2026-04-15T17:37:33.438418+00:00",
-          "status_id": 8,
-          "abbrev": "TBC",
-          "net": "2026-04-19T10:45:00Z",
-          "prev_net": "2026-04-18T10:45:00Z"
-        },
-        {
-          "at": "2026-04-16T20:46:10.978454+00:00",
-          "status_id": 1,
-          "abbrev": "Go",
-          "net": "2026-04-19T10:45:00Z",
-          "prev_abbrev": "TBC"
-        },
-        {
-          "at": "2026-04-19T11:31:38.668926+00:00",
-          "status_id": 6,
-          "abbrev": "In Flight",
-          "net": "2026-04-19T11:25:00Z",
-          "prev_net": "2026-04-19T10:45:00Z",
-          "prev_abbrev": "Go"
-        },
-        {
-          "at": "2026-04-19T20:31:45.857447+00:00",
-          "status_id": 4,
-          "abbrev": "Failure",
-          "net": "2026-04-19T11:25:00Z",
-          "prev_abbrev": "In Flight"
-        }
-      ]
     }
   ],
-  "last_updated": "2026-10-19T05:36:48.893026+00:00"
+  "last_updated": "2026-10-19T11:53:50.902691+00:00"
 }
