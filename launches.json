@@ -630,7 +630,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-09-21T05:13:51.305816+00:00",
-      "last_updated_at": "2026-10-23T06:13:15.584857+00:00",
+      "last_updated_at": "2026-10-23T11:53:31.537161+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -684,7 +684,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-09-21T05:13:51.305830+00:00",
-      "last_updated_at": "2026-10-23T06:13:15.584867+00:00",
+      "last_updated_at": "2026-10-23T11:53:31.537165+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -718,7 +718,7 @@
       },
       "mission": {
         "name": "Telesat Lightspeed 1",
-        "description": "Up to 18 satellites manufactured by MDA for Canadian satellite operator Telesat's Lightspeed constellation.",
+        "description": "First two satellites manufactured by MDA for Canadian satellite operator Telesat's Lightspeed constellation.",
         "type": "Communications",
         "orbit": "Low Earth Orbit"
       },
@@ -738,7 +738,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-09-25T09:17:28.190374+00:00",
-      "last_updated_at": "2026-10-23T06:13:15.584873+00:00",
+      "last_updated_at": "2026-10-23T11:53:31.537169+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -1384,7 +1384,7 @@
       },
       "mission": {
         "name": "Griffin Mission One",
-        "description": "Demonstration flight of the Astrobotic Griffin lander and its engines, initially contracted for the cancelled NASA VIPER (Volatiles Investigating Polar Exploration Rover) mission. The vacated payload spot will now host the FLIP (FLEX Lunar Innovation Platform) lunar rover from Astrolab.",
+        "description": "Demonstration flight of the Astrobotic Griffin lander and its engines, initially contracted for the NASA VIPER (Volatiles Investigating Polar Exploration Rover) mission. The vacated payload spot will now host the FLIP (FLEX Lunar Innovation Platform) lunar rover from Astrolab.",
         "type": "Lunar Exploration",
         "orbit": "Lunar Orbit"
       },
@@ -1404,7 +1404,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-09-19T06:13:03.601108+00:00",
-      "last_updated_at": "2026-10-23T06:13:15.584881+00:00",
+      "last_updated_at": "2026-10-23T11:53:31.537173+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -1735,7 +1735,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-09-18T06:14:12.921747+00:00",
-      "last_updated_at": "2026-10-23T06:13:15.584850+00:00",
+      "last_updated_at": "2026-10-23T11:53:31.537158+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -1850,7 +1850,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-04-11T15:28:51.958924+00:00",
-      "last_updated_at": "2026-10-23T06:13:15.584837+00:00",
+      "last_updated_at": "2026-10-23T11:53:31.537149+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -2010,7 +2010,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-09-20T13:55:26.700417+00:00",
-      "last_updated_at": "2026-10-23T06:13:15.584820+00:00",
+      "last_updated_at": "2026-10-23T11:53:31.537140+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -2125,7 +2125,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-09-26T15:35:59.347779+00:00",
-      "last_updated_at": "2026-10-23T06:13:15.584828+00:00",
+      "last_updated_at": "2026-10-23T11:53:31.537144+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -2179,7 +2179,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-09-26T15:35:59.347786+00:00",
-      "last_updated_at": "2026-10-23T06:13:15.584843+00:00",
+      "last_updated_at": "2026-10-23T11:53:31.537153+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -2233,7 +2233,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-09-07T18:03:06.104420+00:00",
-      "last_updated_at": "2026-10-23T06:13:15.584812+00:00",
+      "last_updated_at": "2026-10-23T11:53:31.537136+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -2287,7 +2287,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-08-27T19:23:07.365257+00:00",
-      "last_updated_at": "2026-10-23T06:13:15.584805+00:00",
+      "last_updated_at": "2026-10-23T11:53:31.537133+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -2416,7 +2416,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-10-12T23:42:24.165851+00:00",
-      "last_updated_at": "2026-10-23T06:13:15.584779+00:00",
+      "last_updated_at": "2026-10-23T11:53:31.537129+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -2470,7 +2470,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-10-20T16:14:45.990903+00:00",
-      "last_updated_at": "2026-10-23T06:13:15.584773+00:00",
+      "last_updated_at": "2026-10-23T11:53:31.537125+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -2529,7 +2529,7 @@
       ],
       "webcast_live": false,
       "discovered_at": "2026-10-19T18:12:48.584036+00:00",
-      "last_updated_at": "2026-10-23T06:13:15.584764+00:00",
+      "last_updated_at": "2026-10-23T11:53:31.537121+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -2567,9 +2567,9 @@
         "name": "To Be Determined",
         "description": "Current date is a placeholder or rough estimation based on unreliable or interpreted sources."
       },
-      "net": "2026-11-04T00:00:00Z",
-      "window_start": "2026-11-04T00:00:00Z",
-      "window_end": "2026-11-04T00:00:00Z",
+      "net": "2026-11-03T00:00:00Z",
+      "window_start": "2026-11-03T00:00:00Z",
+      "window_end": "2026-11-03T00:00:00Z",
       "probability": null,
       "rocket": {
         "name": "Electron",
@@ -2599,7 +2599,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-10-12T23:42:24.165834+00:00",
-      "last_updated_at": "2026-10-23T06:13:15.584755+00:00",
+      "last_updated_at": "2026-10-23T11:53:31.537117+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -2608,6 +2608,13 @@
           "status_id": 2,
           "abbrev": "TBD",
           "net": "2026-11-04T00:00:00Z"
+        },
+        {
+          "at": "2026-10-23T11:53:31.537118+00:00",
+          "status_id": 2,
+          "abbrev": "TBD",
+          "net": "2026-11-03T00:00:00Z",
+          "prev_net": "2026-11-04T00:00:00Z"
         }
       ]
     },
@@ -2653,7 +2660,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-08-05T02:00:15.102845+00:00",
-      "last_updated_at": "2026-10-23T06:13:15.584748+00:00",
+      "last_updated_at": "2026-10-23T11:53:31.537111+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -2738,14 +2745,14 @@
       "name": "GSLV Mk II | IRNSS-1L (NVS-03)",
       "slug": "gslv-mk-ii-irnss-1l-nvs-03",
       "status": {
-        "id": 2,
-        "abbrev": "TBD",
-        "name": "To Be Determined",
-        "description": "Current date is a placeholder or rough estimation based on unreliable or interpreted sources."
+        "id": 8,
+        "abbrev": "TBC",
+        "name": "To Be Confirmed",
+        "description": "Awaiting official confirmation - current date is known with some certainty."
       },
-      "net": "2026-10-30T00:00:00Z",
-      "window_start": "2026-10-30T00:00:00Z",
-      "window_end": "2026-10-30T00:00:00Z",
+      "net": "2026-10-30T17:00:00Z",
+      "window_start": "2026-10-30T17:00:00Z",
+      "window_end": "2026-10-30T21:00:00Z",
       "probability": null,
       "rocket": {
         "name": "GSLV Mk II",
@@ -2775,7 +2782,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-08-17T02:18:50.340460+00:00",
-      "last_updated_at": "2026-10-23T06:13:15.584741+00:00",
+      "last_updated_at": "2026-10-23T11:53:31.537105+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -2814,6 +2821,14 @@
           "abbrev": "TBD",
           "net": "2026-10-30T00:00:00Z",
           "prev_net": "2026-10-31T00:00:00Z"
+        },
+        {
+          "at": "2026-10-23T11:53:31.537108+00:00",
+          "status_id": 8,
+          "abbrev": "TBC",
+          "net": "2026-10-30T17:00:00Z",
+          "prev_net": "2026-10-30T00:00:00Z",
+          "prev_abbrev": "TBD"
         }
       ]
     },
@@ -2864,7 +2879,7 @@
       ],
       "webcast_live": false,
       "discovered_at": "2026-10-19T18:12:48.583996+00:00",
-      "last_updated_at": "2026-10-23T06:13:15.584733+00:00",
+      "last_updated_at": "2026-10-23T11:53:31.537100+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -2925,7 +2940,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-08-02T05:39:37.830291+00:00",
-      "last_updated_at": "2026-10-23T06:13:15.584725+00:00",
+      "last_updated_at": "2026-10-23T11:53:31.537097+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -2998,7 +3013,7 @@
       ],
       "webcast_live": false,
       "discovered_at": "2026-10-13T19:42:22.515287+00:00",
-      "last_updated_at": "2026-10-23T06:13:15.584717+00:00",
+      "last_updated_at": "2026-10-23T11:53:31.537094+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -3066,7 +3081,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-10-15T22:32:34.815019+00:00",
-      "last_updated_at": "2026-10-23T06:13:15.584708+00:00",
+      "last_updated_at": "2026-10-23T11:53:31.537090+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -3132,10 +3147,15 @@
         "type": "Commercial"
       },
       "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/falcon2520925_image_20221009234147.png",
-      "vidURLs": [],
+      "vidURLs": [
+        {
+          "title": "GO! - SpaceX - Falcon 9 - Starlink 15-15 - SLC-4E - Vandenberg SFB, CA - Space Affairs Live",
+          "url": "https://www.youtube.com/watch?v=zGZUw70ASg0"
+        }
+      ],
       "webcast_live": false,
       "discovered_at": "2026-10-12T17:15:36.507746+00:00",
-      "last_updated_at": "2026-10-23T06:13:15.584699+00:00",
+      "last_updated_at": "2026-10-23T11:53:31.537085+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -3252,7 +3272,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-10-15T22:32:34.815033+00:00",
-      "last_updated_at": "2026-10-23T06:13:15.584688+00:00",
+      "last_updated_at": "2026-10-23T11:53:31.537077+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -3274,13 +3294,13 @@
     },
     {
       "id": "9648124f-8568-46d2-86d7-4b4d6f12187f",
-      "name": "Long March 6A | Unknown Payload",
-      "slug": "long-march-6a-unknown-payload",
+      "name": "Long March 6A | Yaogan 50-03",
+      "slug": "long-march-6a-yaogan-50-03",
       "status": {
-        "id": 1,
-        "abbrev": "Go",
-        "name": "Go for Launch",
-        "description": "Current T-0 confirmed by official or reliable sources."
+        "id": 3,
+        "abbrev": "Success",
+        "name": "Launch Successful",
+        "description": "The launch vehicle successfully inserted its payload(s) into the target orbit(s)."
       },
       "net": "2026-10-23T10:15:00Z",
       "window_start": "2026-10-23T10:07:00Z",
@@ -3293,10 +3313,10 @@
         "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/long_march_6a__image_20251209050223.jpeg"
       },
       "mission": {
-        "name": "Unknown Payload",
-        "description": "Details TBD.",
-        "type": "Unknown",
-        "orbit": "Unknown"
+        "name": "Yaogan 50-03",
+        "description": "The Yaogan 50-03 is a Chinese military \u201cremote sensing\u201d satellite of unknown purposes.",
+        "type": "Government/Top Secret",
+        "orbit": "Low Earth Orbit"
       },
       "pad": {
         "name": "Launch Complex 9A",
@@ -3314,8 +3334,8 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-10-17T16:05:19.689328+00:00",
-      "last_updated_at": "2026-10-23T06:13:15.584672+00:00",
-      "outcome": null,
+      "last_updated_at": "2026-10-23T11:53:31.537065+00:00",
+      "outcome": "success",
       "failure_reason": null,
       "status_history": [
         {
@@ -3323,6 +3343,13 @@
           "status_id": 1,
           "abbrev": "Go",
           "net": "2026-10-23T10:15:00Z"
+        },
+        {
+          "at": "2026-10-23T11:53:31.537068+00:00",
+          "status_id": 3,
+          "abbrev": "Success",
+          "net": "2026-10-23T10:15:00Z",
+          "prev_abbrev": "Go"
         }
       ]
     },
@@ -3331,15 +3358,15 @@
       "name": "Electron | We're Not Hawking Around (3x HawkEye 360)",
       "slug": "electron-were-not-hawking-around-3x-hawkeye-360",
       "status": {
-        "id": 1,
-        "abbrev": "Go",
-        "name": "Go for Launch",
-        "description": "Current T-0 confirmed by official or reliable sources."
+        "id": 3,
+        "abbrev": "Success",
+        "name": "Launch Successful",
+        "description": "The launch vehicle successfully inserted its payload(s) into the target orbit(s)."
       },
-      "net": "2026-10-23T07:00:00Z",
+      "net": "2026-10-23T07:11:00Z",
       "window_start": "2026-10-23T07:00:00Z",
       "window_end": "2026-10-23T08:45:00Z",
-      "probability": null,
+      "probability": 90,
       "rocket": {
         "name": "Electron",
         "family": "",
@@ -3373,8 +3400,8 @@
       ],
       "webcast_live": false,
       "discovered_at": "2026-08-09T17:04:59.658112+00:00",
-      "last_updated_at": "2026-10-23T06:13:15.584643+00:00",
-      "outcome": null,
+      "last_updated_at": "2026-10-23T11:53:31.537036+00:00",
+      "outcome": "success",
       "failure_reason": null,
       "status_history": [
         {
@@ -3434,6 +3461,14 @@
           "abbrev": "Go",
           "net": "2026-10-23T07:00:00Z",
           "prev_abbrev": "TBC"
+        },
+        {
+          "at": "2026-10-23T11:53:31.537052+00:00",
+          "status_id": 3,
+          "abbrev": "Success",
+          "net": "2026-10-23T07:11:00Z",
+          "prev_net": "2026-10-23T07:00:00Z",
+          "prev_abbrev": "Go"
         }
       ]
     },
@@ -18357,69 +18392,7 @@
           "prev_abbrev": "Go"
         }
       ]
-    },
-    {
-      "id": "41139aa5-3f45-440a-8131-9cb391ddc995",
-      "name": "Angara 1.2 | Kosmos (Unknown Payload)",
-      "slug": "angara-12-kosmos-unknown-payload",
-      "status": {
-        "id": 3,
-        "abbrev": "Success",
-        "name": "Launch Successful",
-        "description": "The launch vehicle successfully inserted its payload(s) into the target orbit(s)."
-      },
-      "net": "2026-04-23T08:29:00Z",
-      "window_start": "2026-04-22T21:00:00Z",
-      "window_end": "2026-04-23T16:00:00Z",
-      "probability": null,
-      "rocket": {
-        "name": "Angara 1.2",
-        "family": "Angara",
-        "manufacturer": "Khrunichev State Research and Production Space Center",
-        "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/angara25201.2_image_20190224012254.jpeg"
-      },
-      "mission": {
-        "name": "Kosmos (Unknown Payload)",
-        "description": "Unknown satellite(s) for the Russian military.",
-        "type": "Government/Top Secret",
-        "orbit": "Sun-Synchronous Orbit"
-      },
-      "pad": {
-        "name": "35/1",
-        "location": "Plesetsk Cosmodrome, Russian Federation",
-        "country": "RUS",
-        "latitude": "62.927319",
-        "longitude": "40.574897"
-      },
-      "agency": {
-        "name": "Russian Space Forces",
-        "abbrev": "VKS",
-        "type": "Government"
-      },
-      "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/angara25201.2_image_20190224012254.jpeg",
-      "vidURLs": [],
-      "webcast_live": false,
-      "discovered_at": "2026-04-11T04:18:21.759718+00:00",
-      "last_updated_at": "2026-04-24T07:16:04.124504+00:00",
-      "outcome": "success",
-      "failure_reason": null,
-      "status_history": [
-        {
-          "at": "2026-04-11T04:18:21.759721+00:00",
-          "status_id": 2,
-          "abbrev": "TBD",
-          "net": "2026-04-30T00:00:00Z"
-        },
-        {
-          "at": "2026-04-23T15:25:14.528962+00:00",
-          "status_id": 3,
-          "abbrev": "Success",
-          "net": "2026-04-23T08:29:00Z",
-          "prev_net": "2026-04-30T00:00:00Z",
-          "prev_abbrev": "TBD"
-        }
-      ]
     }
   ],
-  "last_updated": "2026-10-23T06:13:15.585272+00:00"
+  "last_updated": "2026-10-23T11:53:31.537408+00:00"
 }
