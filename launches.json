@@ -630,7 +630,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-09-21T05:13:51.305816+00:00",
-      "last_updated_at": "2026-10-24T11:48:06.421849+00:00",
+      "last_updated_at": "2026-10-24T15:15:42.807240+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -684,7 +684,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-09-21T05:13:51.305830+00:00",
-      "last_updated_at": "2026-10-24T11:48:06.421857+00:00",
+      "last_updated_at": "2026-10-24T15:15:42.807246+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -738,7 +738,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-09-25T09:17:28.190374+00:00",
-      "last_updated_at": "2026-10-24T11:48:06.421863+00:00",
+      "last_updated_at": "2026-10-24T15:15:42.807255+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -1404,7 +1404,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-09-19T06:13:03.601108+00:00",
-      "last_updated_at": "2026-10-24T11:48:06.421889+00:00",
+      "last_updated_at": "2026-10-24T15:15:42.807261+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -1465,7 +1465,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-10-02T15:16:22.558707+00:00",
-      "last_updated_at": "2026-10-24T11:48:06.421899+00:00",
+      "last_updated_at": "2026-10-24T15:15:42.807267+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -1735,7 +1735,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-09-18T06:14:12.921747+00:00",
-      "last_updated_at": "2026-10-24T11:48:06.421843+00:00",
+      "last_updated_at": "2026-10-24T15:15:42.807232+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -1850,7 +1850,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-04-11T15:28:51.958924+00:00",
-      "last_updated_at": "2026-10-24T11:48:06.421829+00:00",
+      "last_updated_at": "2026-10-24T15:15:42.807207+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -2010,7 +2010,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-09-20T13:55:26.700417+00:00",
-      "last_updated_at": "2026-10-24T11:48:06.421814+00:00",
+      "last_updated_at": "2026-10-24T15:15:42.807192+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -2125,7 +2125,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-09-26T15:35:59.347779+00:00",
-      "last_updated_at": "2026-10-24T11:48:06.421823+00:00",
+      "last_updated_at": "2026-10-24T15:15:42.807200+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -2179,7 +2179,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-09-26T15:35:59.347786+00:00",
-      "last_updated_at": "2026-10-24T11:48:06.421836+00:00",
+      "last_updated_at": "2026-10-24T15:15:42.807213+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -2188,6 +2188,135 @@
           "status_id": 2,
           "abbrev": "TBD",
           "net": "2026-11-30T00:00:00Z"
+        }
+      ]
+    },
+    {
+      "id": "ef9850ad-1096-425b-9d27-f7bbd186e61a",
+      "name": "Vulcan VC6L | Amazon Leo (LV-01)",
+      "slug": "vulcan-vc6l-amazon-leo-lv-01",
+      "status": {
+        "id": 2,
+        "abbrev": "TBD",
+        "name": "To Be Determined",
+        "description": "Current date is a placeholder or rough estimation based on unreliable or interpreted sources."
+      },
+      "net": "2026-11-30T00:00:00Z",
+      "window_start": "2026-11-30T00:00:00Z",
+      "window_end": "2026-11-30T00:00:00Z",
+      "probability": null,
+      "rocket": {
+        "name": "Vulcan VC6L",
+        "family": "Vulcan",
+        "manufacturer": "United Launch Alliance",
+        "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/vulcan_vc6l_image_20220406123130.jpg"
+      },
+      "mission": {
+        "name": "Amazon Leo (LV-01)",
+        "description": "Amazon Leo, formerly known as Project Kuiper, is a mega constellation of satellites in Low Earth Orbit that will offer broadband internet access, this constellation will be managed by Kuiper Systems LLC, a subsidiary of Amazon. This constellation is planned to be composed of 3,276 satellites. The satellites are projected to be placed in 98 orbital planes in three orbital layers, one at 590 km, 610 km and 630 km altitude.\r\n\r\n45 satellites will be carried on each Vulcan launch.",
+        "type": "Communications",
+        "orbit": "Low Earth Orbit"
+      },
+      "pad": {
+        "name": "Space Launch Complex 41",
+        "location": "Cape Canaveral SFS, FL, USA",
+        "country": "USA",
+        "latitude": "28.58341025",
+        "longitude": "-80.58303644"
+      },
+      "agency": {
+        "name": "United Launch Alliance",
+        "abbrev": "ULA",
+        "type": "Commercial"
+      },
+      "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/vulcan_vc6l_image_20220406123130.jpg",
+      "vidURLs": [],
+      "webcast_live": false,
+      "discovered_at": "2026-08-02T05:39:37.830291+00:00",
+      "last_updated_at": "2026-10-24T15:15:42.807220+00:00",
+      "outcome": null,
+      "failure_reason": null,
+      "status_history": [
+        {
+          "at": "2026-08-02T05:39:37.830294+00:00",
+          "status_id": 2,
+          "abbrev": "TBD",
+          "net": "2026-09-30T00:00:00Z"
+        },
+        {
+          "at": "2026-09-20T05:08:34.676835+00:00",
+          "status_id": 2,
+          "abbrev": "TBD",
+          "net": "2026-10-31T00:00:00Z",
+          "prev_net": "2026-09-30T00:00:00Z"
+        },
+        {
+          "at": "2026-10-08T21:44:54.327446+00:00",
+          "status_id": 2,
+          "abbrev": "TBD",
+          "net": "2026-10-29T00:00:00Z",
+          "prev_net": "2026-10-31T00:00:00Z"
+        },
+        {
+          "at": "2026-10-24T15:15:42.807225+00:00",
+          "status_id": 2,
+          "abbrev": "TBD",
+          "net": "2026-11-30T00:00:00Z",
+          "prev_net": "2026-10-29T00:00:00Z"
+        }
+      ]
+    },
+    {
+      "id": "c9605b67-8a53-4239-a8ae-577fe3b79799",
+      "name": "Long March 2F/G | Shenzhou 24",
+      "slug": "long-march-2fg-shenzhou-24",
+      "status": {
+        "id": 2,
+        "abbrev": "TBD",
+        "name": "To Be Determined",
+        "description": "Current date is a placeholder or rough estimation based on unreliable or interpreted sources."
+      },
+      "net": "2026-11-25T00:00:00Z",
+      "window_start": "2026-11-25T00:00:00Z",
+      "window_end": "2026-11-25T00:00:00Z",
+      "probability": null,
+      "rocket": {
+        "name": "Long March 2F/G",
+        "family": "Long March",
+        "manufacturer": "China Aerospace Science and Technology Corporation",
+        "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/shenzhou_22_lau_image_20251129175823.jpg"
+      },
+      "mission": {
+        "name": "Shenzhou 24",
+        "description": "Shenzhou 24 will be the 24th flight of the Shenzhou program.\r\n\r\nThe first astronaut from Pakistan is expected to fly on this on a short duration mission, with another Chinese astronaut to undergo a year long expedition.",
+        "type": "Human Exploration",
+        "orbit": "Low Earth Orbit"
+      },
+      "pad": {
+        "name": "Launch Area 91 (SLS-1 / 921)",
+        "location": "Jiuquan Satellite Launch Center, People's Republic of China",
+        "country": "CHN",
+        "latitude": "40.957893",
+        "longitude": "100.290944"
+      },
+      "agency": {
+        "name": "China Aerospace Science and Technology Corporation",
+        "abbrev": "CASC",
+        "type": "Government"
+      },
+      "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/shenzhou_22_lau_image_20251129175823.jpg",
+      "vidURLs": [],
+      "webcast_live": false,
+      "discovered_at": "2026-10-24T15:15:42.807177+00:00",
+      "last_updated_at": "2026-10-24T15:15:42.807174+00:00",
+      "outcome": null,
+      "failure_reason": null,
+      "status_history": [
+        {
+          "at": "2026-10-24T15:15:42.807179+00:00",
+          "status_id": 2,
+          "abbrev": "TBD",
+          "net": "2026-11-25T00:00:00Z"
         }
       ]
     },
@@ -2233,7 +2362,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-09-07T18:03:06.104420+00:00",
-      "last_updated_at": "2026-10-24T11:48:06.421808+00:00",
+      "last_updated_at": "2026-10-24T15:15:42.807168+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -2287,7 +2416,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-08-27T19:23:07.365257+00:00",
-      "last_updated_at": "2026-10-24T11:48:06.421799+00:00",
+      "last_updated_at": "2026-10-24T15:15:42.807158+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -2416,7 +2545,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-10-12T23:42:24.165851+00:00",
-      "last_updated_at": "2026-10-24T11:48:06.421791+00:00",
+      "last_updated_at": "2026-10-24T15:15:42.807149+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -2470,7 +2599,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-10-20T16:14:45.990903+00:00",
-      "last_updated_at": "2026-10-24T11:48:06.421784+00:00",
+      "last_updated_at": "2026-10-24T15:15:42.807142+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -2529,7 +2658,7 @@
       ],
       "webcast_live": false,
       "discovered_at": "2026-10-19T18:12:48.584036+00:00",
-      "last_updated_at": "2026-10-24T11:48:06.421778+00:00",
+      "last_updated_at": "2026-10-24T15:15:42.807135+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -2599,7 +2728,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-10-12T23:42:24.165834+00:00",
-      "last_updated_at": "2026-10-24T11:48:06.421769+00:00",
+      "last_updated_at": "2026-10-24T15:15:42.807126+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -2660,7 +2789,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-08-05T02:00:15.102845+00:00",
-      "last_updated_at": "2026-10-24T11:48:06.421762+00:00",
+      "last_updated_at": "2026-10-24T15:15:42.807119+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -2782,7 +2911,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-08-17T02:18:50.340460+00:00",
-      "last_updated_at": "2026-10-24T11:48:06.421755+00:00",
+      "last_updated_at": "2026-10-24T15:15:42.807113+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -2879,7 +3008,7 @@
       ],
       "webcast_live": false,
       "discovered_at": "2026-10-19T18:12:48.583996+00:00",
-      "last_updated_at": "2026-10-24T11:48:06.421747+00:00",
+      "last_updated_at": "2026-10-24T15:15:42.807105+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -2902,74 +3031,6 @@
           "abbrev": "Go",
           "net": "2026-10-30T04:02:00Z",
           "prev_net": "2026-10-29T04:17:00Z"
-        }
-      ]
-    },
-    {
-      "id": "ef9850ad-1096-425b-9d27-f7bbd186e61a",
-      "name": "Vulcan VC6L | Amazon Leo (LV-01)",
-      "slug": "vulcan-vc6l-amazon-leo-lv-01",
-      "status": {
-        "id": 2,
-        "abbrev": "TBD",
-        "name": "To Be Determined",
-        "description": "Current date is a placeholder or rough estimation based on unreliable or interpreted sources."
-      },
-      "net": "2026-10-29T00:00:00Z",
-      "window_start": "2026-10-29T00:00:00Z",
-      "window_end": "2026-10-29T00:00:00Z",
-      "probability": null,
-      "rocket": {
-        "name": "Vulcan VC6L",
-        "family": "Vulcan",
-        "manufacturer": "United Launch Alliance",
-        "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/vulcan_vc6l_image_20220406123130.jpg"
-      },
-      "mission": {
-        "name": "Amazon Leo (LV-01)",
-        "description": "Amazon Leo, formerly known as Project Kuiper, is a mega constellation of satellites in Low Earth Orbit that will offer broadband internet access, this constellation will be managed by Kuiper Systems LLC, a subsidiary of Amazon. This constellation is planned to be composed of 3,276 satellites. The satellites are projected to be placed in 98 orbital planes in three orbital layers, one at 590 km, 610 km and 630 km altitude.\r\n\r\n45 satellites will be carried on each Vulcan launch.",
-        "type": "Communications",
-        "orbit": "Low Earth Orbit"
-      },
-      "pad": {
-        "name": "Space Launch Complex 41",
-        "location": "Cape Canaveral SFS, FL, USA",
-        "country": "USA",
-        "latitude": "28.58341025",
-        "longitude": "-80.58303644"
-      },
-      "agency": {
-        "name": "United Launch Alliance",
-        "abbrev": "ULA",
-        "type": "Commercial"
-      },
-      "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/vulcan_vc6l_image_20220406123130.jpg",
-      "vidURLs": [],
-      "webcast_live": false,
-      "discovered_at": "2026-08-02T05:39:37.830291+00:00",
-      "last_updated_at": "2026-10-24T11:48:06.421739+00:00",
-      "outcome": null,
-      "failure_reason": null,
-      "status_history": [
-        {
-          "at": "2026-08-02T05:39:37.830294+00:00",
-          "status_id": 2,
-          "abbrev": "TBD",
-          "net": "2026-09-30T00:00:00Z"
-        },
-        {
-          "at": "2026-09-20T05:08:34.676835+00:00",
-          "status_id": 2,
-          "abbrev": "TBD",
-          "net": "2026-10-31T00:00:00Z",
-          "prev_net": "2026-09-30T00:00:00Z"
-        },
-        {
-          "at": "2026-10-08T21:44:54.327446+00:00",
-          "status_id": 2,
-          "abbrev": "TBD",
-          "net": "2026-10-29T00:00:00Z",
-          "prev_net": "2026-10-31T00:00:00Z"
         }
       ]
     },
@@ -3020,7 +3081,7 @@
       ],
       "webcast_live": false,
       "discovered_at": "2026-10-13T19:42:22.515287+00:00",
-      "last_updated_at": "2026-10-24T11:48:06.421728+00:00",
+      "last_updated_at": "2026-10-24T15:15:42.807096+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -3095,7 +3156,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-10-15T22:32:34.815019+00:00",
-      "last_updated_at": "2026-10-24T11:48:06.421712+00:00",
+      "last_updated_at": "2026-10-24T15:15:42.807083+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -3177,7 +3238,7 @@
       ],
       "webcast_live": false,
       "discovered_at": "2026-10-12T17:15:36.507746+00:00",
-      "last_updated_at": "2026-10-24T11:48:06.421697+00:00",
+      "last_updated_at": "2026-10-24T15:15:42.807064+00:00",
       "outcome": "success",
       "failure_reason": null,
       "status_history": [
@@ -3316,7 +3377,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-10-15T22:32:34.815033+00:00",
-      "last_updated_at": "2026-10-24T11:48:06.421663+00:00",
+      "last_updated_at": "2026-10-24T15:15:42.807032+00:00",
       "outcome": "success",
       "failure_reason": null,
       "status_history": [
@@ -18383,5 +18444,5 @@
       ]
     }
   ],
-  "last_updated": "2026-10-24T11:48:06.422291+00:00"
+  "last_updated": "2026-10-24T15:15:42.807640+00:00"
 }
