@@ -630,7 +630,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-09-21T05:13:51.305816+00:00",
-      "last_updated_at": "2026-10-28T19:15:47.262933+00:00",
+      "last_updated_at": "2026-10-28T23:22:29.606091+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -684,7 +684,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-09-21T05:13:51.305830+00:00",
-      "last_updated_at": "2026-10-28T19:15:47.262939+00:00",
+      "last_updated_at": "2026-10-28T23:22:29.606097+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -738,7 +738,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-09-25T09:17:28.190374+00:00",
-      "last_updated_at": "2026-10-28T19:15:47.262946+00:00",
+      "last_updated_at": "2026-10-28T23:22:29.606103+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -1404,7 +1404,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-09-19T06:13:03.601108+00:00",
-      "last_updated_at": "2026-10-28T19:15:47.262953+00:00",
+      "last_updated_at": "2026-10-28T23:22:29.606110+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -1735,7 +1735,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-09-18T06:14:12.921747+00:00",
-      "last_updated_at": "2026-10-28T19:15:47.262922+00:00",
+      "last_updated_at": "2026-10-28T23:22:29.606083+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -1850,7 +1850,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-09-20T13:55:26.700417+00:00",
-      "last_updated_at": "2026-10-28T19:15:47.262896+00:00",
+      "last_updated_at": "2026-10-28T23:22:29.606023+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -1965,7 +1965,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-09-26T15:35:59.347779+00:00",
-      "last_updated_at": "2026-10-28T19:15:47.262910+00:00",
+      "last_updated_at": "2026-10-28T23:22:29.606053+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -2019,7 +2019,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-09-26T15:35:59.347786+00:00",
-      "last_updated_at": "2026-10-28T19:15:47.262916+00:00",
+      "last_updated_at": "2026-10-28T23:22:29.606060+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -2073,7 +2073,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-10-20T16:14:45.990903+00:00",
-      "last_updated_at": "2026-10-28T19:15:47.262904+00:00",
+      "last_updated_at": "2026-10-28T23:22:29.606029+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -2090,6 +2090,60 @@
           "net": "2026-11-30T00:00:00Z",
           "prev_net": "2026-11-05T22:34:00Z",
           "prev_abbrev": "TBC"
+        }
+      ]
+    },
+    {
+      "id": "0f867f0c-5422-4d44-93b8-d7faaae7019b",
+      "name": "Starship | Flight 15",
+      "slug": "starship-flight-15",
+      "status": {
+        "id": 2,
+        "abbrev": "TBD",
+        "name": "To Be Determined",
+        "description": "Current date is a placeholder or rough estimation based on unreliable or interpreted sources."
+      },
+      "net": "2026-11-30T00:00:00Z",
+      "window_start": "2026-11-30T00:00:00Z",
+      "window_end": "2026-11-30T00:00:00Z",
+      "probability": null,
+      "rocket": {
+        "name": "Starship",
+        "family": "Starship",
+        "manufacturer": "SpaceX",
+        "image_url": null
+      },
+      "mission": {
+        "name": "Flight 15",
+        "description": "15th test flight of the two-stage Starship launch vehicle and 4th flight of Starship V3.",
+        "type": "Test Flight",
+        "orbit": "Low Earth Orbit"
+      },
+      "pad": {
+        "name": "Orbital Launch Pad 2",
+        "location": "SpaceX Starbase, TX, USA",
+        "country": "USA",
+        "latitude": "25.99677",
+        "longitude": "-97.15799"
+      },
+      "agency": {
+        "name": "SpaceX",
+        "abbrev": "SpX",
+        "type": "Commercial"
+      },
+      "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/starship_on_the_image_20260724044615.jpg",
+      "vidURLs": [],
+      "webcast_live": false,
+      "discovered_at": "2026-10-28T23:22:29.606071+00:00",
+      "last_updated_at": "2026-10-28T23:22:29.606069+00:00",
+      "outcome": null,
+      "failure_reason": null,
+      "status_history": [
+        {
+          "at": "2026-10-28T23:22:29.606073+00:00",
+          "status_id": 2,
+          "abbrev": "TBD",
+          "net": "2026-11-30T00:00:00Z"
         }
       ]
     },
@@ -2135,7 +2189,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-10-24T15:15:42.807177+00:00",
-      "last_updated_at": "2026-10-28T19:15:47.262889+00:00",
+      "last_updated_at": "2026-10-28T23:22:29.606016+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -2189,7 +2243,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-09-07T18:03:06.104420+00:00",
-      "last_updated_at": "2026-10-28T19:15:47.262881+00:00",
+      "last_updated_at": "2026-10-28T23:22:29.606008+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -2243,7 +2297,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-08-27T19:23:07.365257+00:00",
-      "last_updated_at": "2026-10-28T19:15:47.262874+00:00",
+      "last_updated_at": "2026-10-28T23:22:29.606001+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -2372,7 +2426,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-08-02T05:39:37.830291+00:00",
-      "last_updated_at": "2026-10-28T19:15:47.262862+00:00",
+      "last_updated_at": "2026-10-28T23:22:29.605994+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -2454,7 +2508,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-10-28T19:15:47.262850+00:00",
-      "last_updated_at": "2026-10-28T19:15:47.262847+00:00",
+      "last_updated_at": "2026-10-28T23:22:29.605984+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -2508,7 +2562,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-10-12T23:42:24.165851+00:00",
-      "last_updated_at": "2026-10-28T19:15:47.262841+00:00",
+      "last_updated_at": "2026-10-28T23:22:29.605978+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -2517,6 +2571,99 @@
           "status_id": 2,
           "abbrev": "TBD",
           "net": "2026-11-10T00:00:00Z"
+        }
+      ]
+    },
+    {
+      "id": "3cdb9dee-b5cb-406c-bbd1-06a219930fb7",
+      "name": "Falcon 9 Block 5 | Starlink Group 15-21",
+      "slug": "falcon-9-block-5-starlink-group-15-21",
+      "status": {
+        "id": 1,
+        "abbrev": "Go",
+        "name": "Go for Launch",
+        "description": "Current T-0 confirmed by official or reliable sources."
+      },
+      "net": "2026-11-06T02:21:00Z",
+      "window_start": "2026-11-06T02:21:00Z",
+      "window_end": "2026-11-06T06:21:00Z",
+      "probability": null,
+      "rocket": {
+        "name": "Falcon 9",
+        "family": "Falcon",
+        "manufacturer": "SpaceX",
+        "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/falcon_9_image_20230807133459.jpeg"
+      },
+      "mission": {
+        "name": "Starlink Group 15-21",
+        "description": "A batch of 27 satellites for the Starlink mega-constellation - SpaceX's project for space-based Internet communication system.",
+        "type": "Communications",
+        "orbit": "Low Earth Orbit"
+      },
+      "pad": {
+        "name": "Space Launch Complex 4E",
+        "location": "Vandenberg SFB, CA, USA",
+        "country": "USA",
+        "latitude": "34.632",
+        "longitude": "-120.611"
+      },
+      "agency": {
+        "name": "SpaceX",
+        "abbrev": "SpX",
+        "type": "Commercial"
+      },
+      "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/falcon2520925_image_20221009234147.png",
+      "vidURLs": [
+        {
+          "title": "GO!- SpaceX - Falcon 9 - Starlink 15-21 - SLC-4E - Vandenberg SFB, CA - Space Affairs Live",
+          "url": "https://www.youtube.com/watch?v=z9uME3O2xHk"
+        },
+        {
+          "title": "Starlink Mission",
+          "url": "https://x.com/i/broadcasts/1aJbdEgvmWaKX"
+        }
+      ],
+      "webcast_live": false,
+      "discovered_at": "2026-10-19T18:12:48.584036+00:00",
+      "last_updated_at": "2026-10-28T23:22:29.605967+00:00",
+      "outcome": null,
+      "failure_reason": null,
+      "status_history": [
+        {
+          "at": "2026-10-19T18:12:48.584038+00:00",
+          "status_id": 1,
+          "abbrev": "Go",
+          "net": "2026-11-01T05:11:00Z"
+        },
+        {
+          "at": "2026-10-20T06:23:28.368744+00:00",
+          "status_id": 2,
+          "abbrev": "TBD",
+          "net": "2026-11-10T00:00:00Z",
+          "prev_net": "2026-11-01T05:11:00Z",
+          "prev_abbrev": "Go"
+        },
+        {
+          "at": "2026-10-22T19:20:24.555164+00:00",
+          "status_id": 1,
+          "abbrev": "Go",
+          "net": "2026-11-05T05:14:00Z",
+          "prev_net": "2026-11-10T00:00:00Z",
+          "prev_abbrev": "TBD"
+        },
+        {
+          "at": "2026-10-27T21:04:44.512287+00:00",
+          "status_id": 1,
+          "abbrev": "Go",
+          "net": "2026-11-05T02:35:00Z",
+          "prev_net": "2026-11-05T05:14:00Z"
+        },
+        {
+          "at": "2026-10-28T23:22:29.605971+00:00",
+          "status_id": 1,
+          "abbrev": "Go",
+          "net": "2026-11-06T02:21:00Z",
+          "prev_net": "2026-11-05T02:35:00Z"
         }
       ]
     },
@@ -2562,7 +2709,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-10-27T00:39:05.512724+00:00",
-      "last_updated_at": "2026-10-28T19:15:47.262834+00:00",
+      "last_updated_at": "2026-10-28T23:22:29.605957+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -2575,84 +2722,56 @@
       ]
     },
     {
-      "id": "3cdb9dee-b5cb-406c-bbd1-06a219930fb7",
-      "name": "Falcon 9 Block 5 | Starlink Group 15-21",
-      "slug": "falcon-9-block-5-starlink-group-15-21",
+      "id": "e91d1da2-819b-4523-95bf-39ac7daa871d",
+      "name": "Ceres-2 | Unknown Payload",
+      "slug": "ceres-2-unknown-payload",
       "status": {
-        "id": 1,
-        "abbrev": "Go",
-        "name": "Go for Launch",
-        "description": "Current T-0 confirmed by official or reliable sources."
+        "id": 8,
+        "abbrev": "TBC",
+        "name": "To Be Confirmed",
+        "description": "Awaiting official confirmation - current date is known with some certainty."
       },
-      "net": "2026-11-05T02:35:00Z",
-      "window_start": "2026-11-05T02:35:00Z",
-      "window_end": "2026-11-05T06:35:00Z",
+      "net": "2026-11-04T21:00:00Z",
+      "window_start": "2026-11-04T21:00:00Z",
+      "window_end": "2026-11-05T02:00:00Z",
       "probability": null,
       "rocket": {
-        "name": "Falcon 9",
-        "family": "Falcon",
-        "manufacturer": "SpaceX",
-        "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/falcon_9_image_20230807133459.jpeg"
+        "name": "Ceres-2",
+        "family": "",
+        "manufacturer": "Galactic Energy",
+        "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/ceres-2_illustr_image_20251210054657.png"
       },
       "mission": {
-        "name": "Starlink Group 15-21",
-        "description": "A batch of 27 satellites for the Starlink mega-constellation - SpaceX's project for space-based Internet communication system.",
-        "type": "Communications",
-        "orbit": "Low Earth Orbit"
+        "name": "Unknown Payload",
+        "description": "Details TBD.",
+        "type": "Unknown",
+        "orbit": "Unknown"
       },
       "pad": {
-        "name": "Space Launch Complex 4E",
-        "location": "Vandenberg SFB, CA, USA",
-        "country": "USA",
-        "latitude": "34.632",
-        "longitude": "-120.611"
+        "name": "Launch Area 95A",
+        "location": "Jiuquan Satellite Launch Center, People's Republic of China",
+        "country": "CHN",
+        "latitude": "40.969117",
+        "longitude": "100.343333"
       },
       "agency": {
-        "name": "SpaceX",
-        "abbrev": "SpX",
+        "name": "Galactic Energy",
+        "abbrev": "GE",
         "type": "Commercial"
       },
-      "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/falcon2520925_image_20221009234147.png",
-      "vidURLs": [
-        {
-          "title": "Starlink Mission",
-          "url": "https://x.com/i/broadcasts/1aJbdEgvmWaKX"
-        }
-      ],
+      "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/ceres-2_illustr_image_20251210054657.png",
+      "vidURLs": [],
       "webcast_live": false,
-      "discovered_at": "2026-10-19T18:12:48.584036+00:00",
-      "last_updated_at": "2026-10-28T19:15:47.262825+00:00",
+      "discovered_at": "2026-10-28T23:22:29.605947+00:00",
+      "last_updated_at": "2026-10-28T23:22:29.605945+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
         {
-          "at": "2026-10-19T18:12:48.584038+00:00",
-          "status_id": 1,
-          "abbrev": "Go",
-          "net": "2026-11-01T05:11:00Z"
-        },
-        {
-          "at": "2026-10-20T06:23:28.368744+00:00",
-          "status_id": 2,
-          "abbrev": "TBD",
-          "net": "2026-11-10T00:00:00Z",
-          "prev_net": "2026-11-01T05:11:00Z",
-          "prev_abbrev": "Go"
-        },
-        {
-          "at": "2026-10-22T19:20:24.555164+00:00",
-          "status_id": 1,
-          "abbrev": "Go",
-          "net": "2026-11-05T05:14:00Z",
-          "prev_net": "2026-11-10T00:00:00Z",
-          "prev_abbrev": "TBD"
-        },
-        {
-          "at": "2026-10-27T21:04:44.512287+00:00",
-          "status_id": 1,
-          "abbrev": "Go",
-          "net": "2026-11-05T02:35:00Z",
-          "prev_net": "2026-11-05T05:14:00Z"
+          "at": "2026-10-28T23:22:29.605950+00:00",
+          "status_id": 8,
+          "abbrev": "TBC",
+          "net": "2026-11-04T21:00:00Z"
         }
       ]
     },
@@ -2698,7 +2817,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-04-11T15:28:51.958924+00:00",
-      "last_updated_at": "2026-10-28T19:15:47.262812+00:00",
+      "last_updated_at": "2026-10-28T23:22:29.605937+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -2825,6 +2944,130 @@
       ]
     },
     {
+      "id": "54d471e8-695c-4fa7-a3cf-dbd8b389e8ae",
+      "name": "Falcon 9 Block 5 | USSF-432",
+      "slug": "falcon-9-block-5-ussf-432",
+      "status": {
+        "id": 1,
+        "abbrev": "Go",
+        "name": "Go for Launch",
+        "description": "Current T-0 confirmed by official or reliable sources."
+      },
+      "net": "2026-11-03T01:42:00Z",
+      "window_start": "2026-11-03T01:42:00Z",
+      "window_end": "2026-11-03T05:42:00Z",
+      "probability": null,
+      "rocket": {
+        "name": "Falcon 9",
+        "family": "Falcon",
+        "manufacturer": "SpaceX",
+        "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/falcon_9_image_20230807133459.jpeg"
+      },
+      "mission": {
+        "name": "USSF-432",
+        "description": "A classified mission for the United States Space Force. It is possibly a batch of classified LEO satellites based on SpaceX\u2019s Starshield satellite bus, based on locations of rocket stage drop zones being exact fits with previous Starlink Group 15 launches.",
+        "type": "Government/Top Secret",
+        "orbit": "Low Earth Orbit"
+      },
+      "pad": {
+        "name": "Space Launch Complex 4E",
+        "location": "Vandenberg SFB, CA, USA",
+        "country": "USA",
+        "latitude": "34.632",
+        "longitude": "-120.611"
+      },
+      "agency": {
+        "name": "SpaceX",
+        "abbrev": "SpX",
+        "type": "Commercial"
+      },
+      "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/falcon_9_liftof_image_20260816171423.jpg",
+      "vidURLs": [
+        {
+          "title": "GO! - SpaceX - Falcon 9 - USSF-432 - SLC-4E - Vandenberg SFB, CA - Space Affairs Live",
+          "url": "https://www.youtube.com/watch?v=cANr44iNjd8"
+        },
+        {
+          "title": "USSF-432 Mission",
+          "url": "https://x.com/i/broadcasts/1kKzDPYrZNdJv"
+        }
+      ],
+      "webcast_live": false,
+      "discovered_at": "2026-10-26T21:06:41.100756+00:00",
+      "last_updated_at": "2026-10-28T23:22:29.605924+00:00",
+      "outcome": null,
+      "failure_reason": null,
+      "status_history": [
+        {
+          "at": "2026-10-26T21:06:41.100758+00:00",
+          "status_id": 1,
+          "abbrev": "Go",
+          "net": "2026-11-02T01:56:00Z"
+        },
+        {
+          "at": "2026-10-28T23:22:29.605928+00:00",
+          "status_id": 1,
+          "abbrev": "Go",
+          "net": "2026-11-03T01:42:00Z",
+          "prev_net": "2026-11-02T01:56:00Z"
+        }
+      ]
+    },
+    {
+      "id": "f3f201cd-0ff9-4ff7-9aaa-1d22c399c75a",
+      "name": "Kinetica 2 | SpaceSail Polar Group TBD?",
+      "slug": "kinetica-2-spacesail-polar-group-tbd",
+      "status": {
+        "id": 1,
+        "abbrev": "Go",
+        "name": "Go for Launch",
+        "description": "Current T-0 confirmed by official or reliable sources."
+      },
+      "net": "2026-11-03T00:10:00Z",
+      "window_start": "2026-11-03T00:05:00Z",
+      "window_end": "2026-11-03T00:33:00Z",
+      "probability": null,
+      "rocket": {
+        "name": "Kinetica 2",
+        "family": "",
+        "manufacturer": "CAS Space",
+        "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/kinetica_2_firs_image_20260330153456.jpg"
+      },
+      "mission": {
+        "name": "SpaceSail Polar Group TBD?",
+        "description": "Low Earth Orbit communication satellites with Ku, Q and V band payloads for the G60 constellation operated by Shanghai Spacesail Technologies with funding backed by the Shanghai local government.\r\n\r\nInitial constellation will consist of 1296 satellites by 2027 with long term plans to expand it to 12000 satellites.",
+        "type": "Communications",
+        "orbit": "Polar Orbit"
+      },
+      "pad": {
+        "name": "Launch Area 140",
+        "location": "Jiuquan Satellite Launch Center, People's Republic of China",
+        "country": "CHN",
+        "latitude": "40.81748",
+        "longitude": "100.21939"
+      },
+      "agency": {
+        "name": "CAS Space",
+        "abbrev": "CAS",
+        "type": "Commercial"
+      },
+      "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/kinetica_2_firs_image_20260330153456.jpg",
+      "vidURLs": [],
+      "webcast_live": false,
+      "discovered_at": "2026-10-28T23:22:29.605910+00:00",
+      "last_updated_at": "2026-10-28T23:22:29.605907+00:00",
+      "outcome": null,
+      "failure_reason": null,
+      "status_history": [
+        {
+          "at": "2026-10-28T23:22:29.605913+00:00",
+          "status_id": 1,
+          "abbrev": "Go",
+          "net": "2026-11-03T00:10:00Z"
+        }
+      ]
+    },
+    {
       "id": "426bd2a5-02dd-4fbd-9f4d-2b8439c3a1ff",
       "name": "Electron | The Sea God Surveys (iQPS Launch 9)",
       "slug": "electron-the-sea-god-surveys-iqps-launch-9",
@@ -2866,7 +3109,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-10-12T23:42:24.165834+00:00",
-      "last_updated_at": "2026-10-28T19:15:47.262792+00:00",
+      "last_updated_at": "2026-10-28T23:22:29.605895+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -2894,18 +3137,18 @@
       ]
     },
     {
-      "id": "54d471e8-695c-4fa7-a3cf-dbd8b389e8ae",
-      "name": "Falcon 9 Block 5 | USSF-432",
-      "slug": "falcon-9-block-5-ussf-432",
+      "id": "57ce0a39-d035-4f16-a418-bd6108f78199",
+      "name": "Falcon 9 Block 5 | Starlink Group 15-18",
+      "slug": "falcon-9-block-5-starlink-group-15-18",
       "status": {
         "id": 1,
         "abbrev": "Go",
         "name": "Go for Launch",
         "description": "Current T-0 confirmed by official or reliable sources."
       },
-      "net": "2026-11-02T01:56:00Z",
-      "window_start": "2026-11-02T01:56:00Z",
-      "window_end": "2026-11-02T05:56:00Z",
+      "net": "2026-10-31T03:48:00Z",
+      "window_start": "2026-10-31T03:48:00Z",
+      "window_end": "2026-10-31T07:48:00Z",
       "probability": null,
       "rocket": {
         "name": "Falcon 9",
@@ -2914,9 +3157,9 @@
         "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/falcon_9_image_20230807133459.jpeg"
       },
       "mission": {
-        "name": "USSF-432",
-        "description": "A classified mission for the United States Space Force. It is possibly a batch of classified LEO satellites based on SpaceX\u2019s Starshield satellite bus, based on locations of rocket stage drop zones being exact fits with previous Starlink Group 15 launches.",
-        "type": "Government/Top Secret",
+        "name": "Starlink Group 15-18",
+        "description": "A batch of 27 satellites for the Starlink mega-constellation - SpaceX's project for space-based Internet communication system.",
+        "type": "Communications",
         "orbit": "Low Earth Orbit"
       },
       "pad": {
@@ -2931,24 +3174,49 @@
         "abbrev": "SpX",
         "type": "Commercial"
       },
-      "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/falcon_9_liftof_image_20260816171423.jpg",
+      "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/falcon2520925_image_20221009234147.png",
       "vidURLs": [
         {
-          "title": "USSF-432 Mission",
-          "url": "https://x.com/i/broadcasts/1kKzDPYrZNdJv"
+          "title": "GO! - SpaceX - Falcon 9 - Starlink 15-18 - SLC-4E - Vandenberg SFB, CA - Space Affairs Live",
+          "url": "https://www.youtube.com/watch?v=OVOVtaf15eY"
+        },
+        {
+          "title": "Starlink Mission",
+          "url": "https://x.com/i/broadcasts/1DGleVlqoaqJL"
         }
       ],
       "webcast_live": false,
-      "discovered_at": "2026-10-26T21:06:41.100756+00:00",
-      "last_updated_at": "2026-10-28T19:15:47.262783+00:00",
+      "discovered_at": "2026-10-19T18:12:48.583996+00:00",
+      "last_updated_at": "2026-10-28T23:22:29.605878+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
         {
-          "at": "2026-10-26T21:06:41.100758+00:00",
+          "at": "2026-10-19T18:12:48.583998+00:00",
           "status_id": 1,
           "abbrev": "Go",
-          "net": "2026-11-02T01:56:00Z"
+          "net": "2026-10-28T04:31:00Z"
+        },
+        {
+          "at": "2026-10-22T05:08:35.765395+00:00",
+          "status_id": 1,
+          "abbrev": "Go",
+          "net": "2026-10-29T04:17:00Z",
+          "prev_net": "2026-10-28T04:31:00Z"
+        },
+        {
+          "at": "2026-10-23T16:18:28.704816+00:00",
+          "status_id": 1,
+          "abbrev": "Go",
+          "net": "2026-10-30T04:02:00Z",
+          "prev_net": "2026-10-29T04:17:00Z"
+        },
+        {
+          "at": "2026-10-28T23:22:29.605884+00:00",
+          "status_id": 1,
+          "abbrev": "Go",
+          "net": "2026-10-31T03:48:00Z",
+          "prev_net": "2026-10-30T04:02:00Z"
         }
       ]
     },
@@ -3121,7 +3389,7 @@
       ],
       "webcast_live": false,
       "discovered_at": "2026-08-17T02:18:50.340460+00:00",
-      "last_updated_at": "2026-10-28T19:15:47.262770+00:00",
+      "last_updated_at": "2026-10-28T23:22:29.605847+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -3176,79 +3444,6 @@
           "net": "2026-10-30T18:21:00Z",
           "prev_net": "2026-10-30T17:00:00Z",
           "prev_abbrev": "TBC"
-        }
-      ]
-    },
-    {
-      "id": "57ce0a39-d035-4f16-a418-bd6108f78199",
-      "name": "Falcon 9 Block 5 | Starlink Group 15-18",
-      "slug": "falcon-9-block-5-starlink-group-15-18",
-      "status": {
-        "id": 1,
-        "abbrev": "Go",
-        "name": "Go for Launch",
-        "description": "Current T-0 confirmed by official or reliable sources."
-      },
-      "net": "2026-10-30T04:02:00Z",
-      "window_start": "2026-10-30T04:02:00Z",
-      "window_end": "2026-10-30T08:02:00Z",
-      "probability": null,
-      "rocket": {
-        "name": "Falcon 9",
-        "family": "Falcon",
-        "manufacturer": "SpaceX",
-        "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/falcon_9_image_20230807133459.jpeg"
-      },
-      "mission": {
-        "name": "Starlink Group 15-18",
-        "description": "A batch of 27 satellites for the Starlink mega-constellation - SpaceX's project for space-based Internet communication system.",
-        "type": "Communications",
-        "orbit": "Low Earth Orbit"
-      },
-      "pad": {
-        "name": "Space Launch Complex 4E",
-        "location": "Vandenberg SFB, CA, USA",
-        "country": "USA",
-        "latitude": "34.632",
-        "longitude": "-120.611"
-      },
-      "agency": {
-        "name": "SpaceX",
-        "abbrev": "SpX",
-        "type": "Commercial"
-      },
-      "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/falcon2520925_image_20221009234147.png",
-      "vidURLs": [
-        {
-          "title": "Starlink Mission",
-          "url": "https://x.com/i/broadcasts/1DGleVlqoaqJL"
-        }
-      ],
-      "webcast_live": false,
-      "discovered_at": "2026-10-19T18:12:48.583996+00:00",
-      "last_updated_at": "2026-10-28T19:15:47.262736+00:00",
-      "outcome": null,
-      "failure_reason": null,
-      "status_history": [
-        {
-          "at": "2026-10-19T18:12:48.583998+00:00",
-          "status_id": 1,
-          "abbrev": "Go",
-          "net": "2026-10-28T04:31:00Z"
-        },
-        {
-          "at": "2026-10-22T05:08:35.765395+00:00",
-          "status_id": 1,
-          "abbrev": "Go",
-          "net": "2026-10-29T04:17:00Z",
-          "prev_net": "2026-10-28T04:31:00Z"
-        },
-        {
-          "at": "2026-10-23T16:18:28.704816+00:00",
-          "status_id": 1,
-          "abbrev": "Go",
-          "net": "2026-10-30T04:02:00Z",
-          "prev_net": "2026-10-29T04:17:00Z"
         }
       ]
     },
@@ -18359,5 +18554,5 @@
       ]
     }
   ],
-  "last_updated": "2026-10-28T19:15:47.263336+00:00"
+  "last_updated": "2026-10-28T23:22:29.606467+00:00"
 }
