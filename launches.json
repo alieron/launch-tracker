@@ -630,7 +630,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-09-21T05:13:51.305816+00:00",
-      "last_updated_at": "2026-10-28T13:44:53.169191+00:00",
+      "last_updated_at": "2026-10-28T19:15:47.262933+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -684,7 +684,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-09-21T05:13:51.305830+00:00",
-      "last_updated_at": "2026-10-28T13:44:53.169198+00:00",
+      "last_updated_at": "2026-10-28T19:15:47.262939+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -738,7 +738,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-09-25T09:17:28.190374+00:00",
-      "last_updated_at": "2026-10-28T13:44:53.169204+00:00",
+      "last_updated_at": "2026-10-28T19:15:47.262946+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -1404,7 +1404,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-09-19T06:13:03.601108+00:00",
-      "last_updated_at": "2026-10-28T13:44:53.169212+00:00",
+      "last_updated_at": "2026-10-28T19:15:47.262953+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -1465,7 +1465,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-10-02T15:16:22.558707+00:00",
-      "last_updated_at": "2026-10-28T13:44:53.169222+00:00",
+      "last_updated_at": "2026-10-28T19:15:47.262959+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -1681,7 +1681,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-10-10T17:35:41.286968+00:00",
-      "last_updated_at": "2026-10-28T13:44:53.169229+00:00",
+      "last_updated_at": "2026-10-28T19:15:47.262965+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -1735,7 +1735,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-09-18T06:14:12.921747+00:00",
-      "last_updated_at": "2026-10-28T13:44:53.169184+00:00",
+      "last_updated_at": "2026-10-28T19:15:47.262922+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -1796,7 +1796,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-10-15T15:10:19.962555+00:00",
-      "last_updated_at": "2026-10-28T13:44:53.169235+00:00",
+      "last_updated_at": "2026-10-28T19:15:47.262973+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -1805,166 +1805,6 @@
           "status_id": 2,
           "abbrev": "TBD",
           "net": "2026-12-31T00:00:00Z"
-        }
-      ]
-    },
-    {
-      "id": "9e27a1ed-e81a-4918-b32b-0380cf3a9f8f",
-      "name": "Mir | Demo Flight",
-      "slug": "mir-demo-flight",
-      "status": {
-        "id": 2,
-        "abbrev": "TBD",
-        "name": "To Be Determined",
-        "description": "Current date is a placeholder or rough estimation based on unreliable or interpreted sources."
-      },
-      "net": "2026-11-30T00:00:00Z",
-      "window_start": "2026-11-30T00:00:00Z",
-      "window_end": "2026-11-30T00:00:00Z",
-      "probability": null,
-      "rocket": {
-        "name": "Mir",
-        "family": "Mir",
-        "manufacturer": "Agency for Defense Development",
-        "image_url": null
-      },
-      "mission": {
-        "name": "Demo Flight",
-        "description": "Note: Launch vehicle name is provisional.\r\n\r\nFirst orbital full version launch of the South Korean military small satellite launch vehicle, after 2 sub-orbital tests of individual stages on 30 March and 30 December 2022, and 1 orbital test flight without the 2nd stage on 4 December 2023. Details TBD.",
-        "type": "Test Flight",
-        "orbit": "Low Earth Orbit"
-      },
-      "pad": {
-        "name": "ADD Offshore launch platform",
-        "location": "Sea Launch",
-        "country": "???",
-        "latitude": "33.216667",
-        "longitude": "126.366667"
-      },
-      "agency": {
-        "name": "Agency for Defense Development",
-        "abbrev": "ADD",
-        "type": "Government"
-      },
-      "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/south2520korea_image_20231204145331.png",
-      "vidURLs": [],
-      "webcast_live": false,
-      "discovered_at": "2026-04-11T15:28:51.958924+00:00",
-      "last_updated_at": "2026-10-28T13:44:53.169160+00:00",
-      "outcome": null,
-      "failure_reason": null,
-      "status_history": [
-        {
-          "at": "2026-04-11T15:28:51.958927+00:00",
-          "status_id": 8,
-          "abbrev": "TBC",
-          "net": "2026-04-22T05:00:00Z"
-        },
-        {
-          "at": "2026-04-17T05:14:08.259155+00:00",
-          "status_id": 1,
-          "abbrev": "Go",
-          "net": "2026-04-25T05:00:00Z",
-          "prev_net": "2026-04-22T05:00:00Z",
-          "prev_abbrev": "TBC"
-        },
-        {
-          "at": "2026-04-22T03:22:12.024951+00:00",
-          "status_id": 2,
-          "abbrev": "TBD",
-          "net": "2026-05-31T00:00:00Z",
-          "prev_net": "2026-04-25T05:00:00Z",
-          "prev_abbrev": "Go"
-        },
-        {
-          "at": "2026-05-09T23:41:54.947496+00:00",
-          "status_id": 8,
-          "abbrev": "TBC",
-          "net": "2026-05-20T05:00:00Z",
-          "prev_net": "2026-05-31T00:00:00Z",
-          "prev_abbrev": "TBD"
-        },
-        {
-          "at": "2026-05-17T15:35:10.330351+00:00",
-          "status_id": 2,
-          "abbrev": "TBD",
-          "net": "2026-05-31T00:00:00Z",
-          "prev_net": "2026-05-20T05:00:00Z",
-          "prev_abbrev": "TBC"
-        },
-        {
-          "at": "2026-05-21T22:47:55.152097+00:00",
-          "status_id": 8,
-          "abbrev": "TBC",
-          "net": "2026-06-01T05:00:00Z",
-          "prev_net": "2026-05-31T00:00:00Z",
-          "prev_abbrev": "TBD"
-        },
-        {
-          "at": "2026-05-26T17:55:08.657098+00:00",
-          "status_id": 1,
-          "abbrev": "Go",
-          "net": "2026-06-01T05:00:00Z",
-          "prev_abbrev": "TBC"
-        },
-        {
-          "at": "2026-05-30T04:32:13.129779+00:00",
-          "status_id": 1,
-          "abbrev": "Go",
-          "net": "2026-06-08T05:00:00Z",
-          "prev_net": "2026-06-01T05:00:00Z"
-        },
-        {
-          "at": "2026-06-04T13:55:41.980563+00:00",
-          "status_id": 2,
-          "abbrev": "TBD",
-          "net": "2026-06-30T00:00:00Z",
-          "prev_net": "2026-06-08T05:00:00Z",
-          "prev_abbrev": "Go"
-        },
-        {
-          "at": "2026-06-23T15:29:56.877464+00:00",
-          "status_id": 1,
-          "abbrev": "Go",
-          "net": "2026-06-29T05:00:00Z",
-          "prev_net": "2026-06-30T00:00:00Z",
-          "prev_abbrev": "TBD"
-        },
-        {
-          "at": "2026-06-28T15:02:13.969053+00:00",
-          "status_id": 1,
-          "abbrev": "Go",
-          "net": "2026-06-30T05:00:00Z",
-          "prev_net": "2026-06-29T05:00:00Z"
-        },
-        {
-          "at": "2026-06-30T16:00:42.112730+00:00",
-          "status_id": 2,
-          "abbrev": "TBD",
-          "net": "2026-07-31T00:00:00Z",
-          "prev_net": "2026-06-30T05:00:00Z",
-          "prev_abbrev": "Go"
-        },
-        {
-          "at": "2026-07-29T07:15:39.568724+00:00",
-          "status_id": 2,
-          "abbrev": "TBD",
-          "net": "2026-08-31T00:00:00Z",
-          "prev_net": "2026-07-31T00:00:00Z"
-        },
-        {
-          "at": "2026-08-31T00:42:56.542259+00:00",
-          "status_id": 2,
-          "abbrev": "TBD",
-          "net": "2026-12-31T00:00:00Z",
-          "prev_net": "2026-08-31T00:00:00Z"
-        },
-        {
-          "at": "2026-10-22T00:04:31.968245+00:00",
-          "status_id": 2,
-          "abbrev": "TBD",
-          "net": "2026-11-30T00:00:00Z",
-          "prev_net": "2026-12-31T00:00:00Z"
         }
       ]
     },
@@ -2010,7 +1850,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-09-20T13:55:26.700417+00:00",
-      "last_updated_at": "2026-10-28T13:44:53.169131+00:00",
+      "last_updated_at": "2026-10-28T19:15:47.262896+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -2125,7 +1965,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-09-26T15:35:59.347779+00:00",
-      "last_updated_at": "2026-10-28T13:44:53.169150+00:00",
+      "last_updated_at": "2026-10-28T19:15:47.262910+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -2179,7 +2019,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-09-26T15:35:59.347786+00:00",
-      "last_updated_at": "2026-10-28T13:44:53.169169+00:00",
+      "last_updated_at": "2026-10-28T19:15:47.262916+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -2188,81 +2028,6 @@
           "status_id": 2,
           "abbrev": "TBD",
           "net": "2026-11-30T00:00:00Z"
-        }
-      ]
-    },
-    {
-      "id": "ef9850ad-1096-425b-9d27-f7bbd186e61a",
-      "name": "Vulcan VC6L | Amazon Leo (LV-01)",
-      "slug": "vulcan-vc6l-amazon-leo-lv-01",
-      "status": {
-        "id": 2,
-        "abbrev": "TBD",
-        "name": "To Be Determined",
-        "description": "Current date is a placeholder or rough estimation based on unreliable or interpreted sources."
-      },
-      "net": "2026-11-30T00:00:00Z",
-      "window_start": "2026-11-30T00:00:00Z",
-      "window_end": "2026-11-30T00:00:00Z",
-      "probability": null,
-      "rocket": {
-        "name": "Vulcan VC6L",
-        "family": "Vulcan",
-        "manufacturer": "United Launch Alliance",
-        "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/vulcan_vc6l_image_20220406123130.jpg"
-      },
-      "mission": {
-        "name": "Amazon Leo (LV-01)",
-        "description": "Amazon Leo, formerly known as Project Kuiper, is a mega constellation of satellites in Low Earth Orbit that will offer broadband internet access, this constellation will be managed by Kuiper Systems LLC, a subsidiary of Amazon. This constellation is planned to be composed of 3,276 satellites. The satellites are projected to be placed in 98 orbital planes in three orbital layers, one at 590 km, 610 km and 630 km altitude.\r\n\r\n45 satellites will be carried on each Vulcan launch.",
-        "type": "Communications",
-        "orbit": "Low Earth Orbit"
-      },
-      "pad": {
-        "name": "Space Launch Complex 41",
-        "location": "Cape Canaveral SFS, FL, USA",
-        "country": "USA",
-        "latitude": "28.58341025",
-        "longitude": "-80.58303644"
-      },
-      "agency": {
-        "name": "United Launch Alliance",
-        "abbrev": "ULA",
-        "type": "Commercial"
-      },
-      "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/vulcan_vc6l_image_20220406123130.jpg",
-      "vidURLs": [],
-      "webcast_live": false,
-      "discovered_at": "2026-08-02T05:39:37.830291+00:00",
-      "last_updated_at": "2026-10-28T13:44:53.169175+00:00",
-      "outcome": null,
-      "failure_reason": null,
-      "status_history": [
-        {
-          "at": "2026-08-02T05:39:37.830294+00:00",
-          "status_id": 2,
-          "abbrev": "TBD",
-          "net": "2026-09-30T00:00:00Z"
-        },
-        {
-          "at": "2026-09-20T05:08:34.676835+00:00",
-          "status_id": 2,
-          "abbrev": "TBD",
-          "net": "2026-10-31T00:00:00Z",
-          "prev_net": "2026-09-30T00:00:00Z"
-        },
-        {
-          "at": "2026-10-08T21:44:54.327446+00:00",
-          "status_id": 2,
-          "abbrev": "TBD",
-          "net": "2026-10-29T00:00:00Z",
-          "prev_net": "2026-10-31T00:00:00Z"
-        },
-        {
-          "at": "2026-10-24T15:15:42.807225+00:00",
-          "status_id": 2,
-          "abbrev": "TBD",
-          "net": "2026-11-30T00:00:00Z",
-          "prev_net": "2026-10-29T00:00:00Z"
         }
       ]
     },
@@ -2308,7 +2073,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-10-20T16:14:45.990903+00:00",
-      "last_updated_at": "2026-10-28T13:44:53.169138+00:00",
+      "last_updated_at": "2026-10-28T19:15:47.262904+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -2370,7 +2135,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-10-24T15:15:42.807177+00:00",
-      "last_updated_at": "2026-10-28T13:44:53.169123+00:00",
+      "last_updated_at": "2026-10-28T19:15:47.262889+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -2424,7 +2189,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-09-07T18:03:06.104420+00:00",
-      "last_updated_at": "2026-10-28T13:44:53.169116+00:00",
+      "last_updated_at": "2026-10-28T19:15:47.262881+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -2478,7 +2243,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-08-27T19:23:07.365257+00:00",
-      "last_updated_at": "2026-10-28T13:44:53.169108+00:00",
+      "last_updated_at": "2026-10-28T19:15:47.262874+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -2566,6 +2331,142 @@
       ]
     },
     {
+      "id": "ef9850ad-1096-425b-9d27-f7bbd186e61a",
+      "name": "Vulcan VC6L | Amazon Leo (LV-01)",
+      "slug": "vulcan-vc6l-amazon-leo-lv-01",
+      "status": {
+        "id": 2,
+        "abbrev": "TBD",
+        "name": "To Be Determined",
+        "description": "Current date is a placeholder or rough estimation based on unreliable or interpreted sources."
+      },
+      "net": "2026-11-13T00:00:00Z",
+      "window_start": "2026-11-13T00:00:00Z",
+      "window_end": "2026-11-13T00:00:00Z",
+      "probability": null,
+      "rocket": {
+        "name": "Vulcan VC6L",
+        "family": "Vulcan",
+        "manufacturer": "United Launch Alliance",
+        "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/vulcan_vc6l_image_20220406123130.jpg"
+      },
+      "mission": {
+        "name": "Amazon Leo (LV-01)",
+        "description": "Amazon Leo, formerly known as Project Kuiper, is a mega constellation of satellites in Low Earth Orbit that will offer broadband internet access, this constellation will be managed by Kuiper Systems LLC, a subsidiary of Amazon. This constellation is planned to be composed of 3,276 satellites. The satellites are projected to be placed in 98 orbital planes in three orbital layers, one at 590 km, 610 km and 630 km altitude.\r\n\r\n45 satellites will be carried on each Vulcan launch.",
+        "type": "Communications",
+        "orbit": "Low Earth Orbit"
+      },
+      "pad": {
+        "name": "Space Launch Complex 41",
+        "location": "Cape Canaveral SFS, FL, USA",
+        "country": "USA",
+        "latitude": "28.58341025",
+        "longitude": "-80.58303644"
+      },
+      "agency": {
+        "name": "United Launch Alliance",
+        "abbrev": "ULA",
+        "type": "Commercial"
+      },
+      "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/vulcan_vc6l_image_20220406123130.jpg",
+      "vidURLs": [],
+      "webcast_live": false,
+      "discovered_at": "2026-08-02T05:39:37.830291+00:00",
+      "last_updated_at": "2026-10-28T19:15:47.262862+00:00",
+      "outcome": null,
+      "failure_reason": null,
+      "status_history": [
+        {
+          "at": "2026-08-02T05:39:37.830294+00:00",
+          "status_id": 2,
+          "abbrev": "TBD",
+          "net": "2026-09-30T00:00:00Z"
+        },
+        {
+          "at": "2026-09-20T05:08:34.676835+00:00",
+          "status_id": 2,
+          "abbrev": "TBD",
+          "net": "2026-10-31T00:00:00Z",
+          "prev_net": "2026-09-30T00:00:00Z"
+        },
+        {
+          "at": "2026-10-08T21:44:54.327446+00:00",
+          "status_id": 2,
+          "abbrev": "TBD",
+          "net": "2026-10-29T00:00:00Z",
+          "prev_net": "2026-10-31T00:00:00Z"
+        },
+        {
+          "at": "2026-10-24T15:15:42.807225+00:00",
+          "status_id": 2,
+          "abbrev": "TBD",
+          "net": "2026-11-30T00:00:00Z",
+          "prev_net": "2026-10-29T00:00:00Z"
+        },
+        {
+          "at": "2026-10-28T19:15:47.262865+00:00",
+          "status_id": 2,
+          "abbrev": "TBD",
+          "net": "2026-11-13T00:00:00Z",
+          "prev_net": "2026-11-30T00:00:00Z"
+        }
+      ]
+    },
+    {
+      "id": "6aa7b90b-e5ed-45d8-a52e-04fbf399d178",
+      "name": "Falcon 9 Block 5 | USSF-xxx (\"R-5\")",
+      "slug": "falcon-9-block-5-ussf-xxx-r-5",
+      "status": {
+        "id": 8,
+        "abbrev": "TBC",
+        "name": "To Be Confirmed",
+        "description": "Awaiting official confirmation - current date is known with some certainty."
+      },
+      "net": "2026-11-10T03:03:00Z",
+      "window_start": "2026-11-10T03:03:00Z",
+      "window_end": "2026-11-10T07:03:00Z",
+      "probability": null,
+      "rocket": {
+        "name": "Falcon 9",
+        "family": "Falcon",
+        "manufacturer": "SpaceX",
+        "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/falcon_9_image_20230807133459.jpeg"
+      },
+      "mission": {
+        "name": "USSF-xxx (\"R-5\")",
+        "description": "A classified mission for the United States Space Force. It is possibly a batch of classified LEO satellites based on SpaceX\u2019s Starshield satellite bus, based on locations of rocket stage drop zones being exact fits with previous Starlink Group 15 launches.",
+        "type": "Government/Top Secret",
+        "orbit": "Low Earth Orbit"
+      },
+      "pad": {
+        "name": "Space Launch Complex 4E",
+        "location": "Vandenberg SFB, CA, USA",
+        "country": "USA",
+        "latitude": "34.632",
+        "longitude": "-120.611"
+      },
+      "agency": {
+        "name": "SpaceX",
+        "abbrev": "SpX",
+        "type": "Commercial"
+      },
+      "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/falcon_9_liftof_image_20260816171423.jpg",
+      "vidURLs": [],
+      "webcast_live": false,
+      "discovered_at": "2026-10-28T19:15:47.262850+00:00",
+      "last_updated_at": "2026-10-28T19:15:47.262847+00:00",
+      "outcome": null,
+      "failure_reason": null,
+      "status_history": [
+        {
+          "at": "2026-10-28T19:15:47.262852+00:00",
+          "status_id": 8,
+          "abbrev": "TBC",
+          "net": "2026-11-10T03:03:00Z"
+        }
+      ]
+    },
+    {
       "id": "db3500ac-965b-4ad8-b417-cb8d8d005586",
       "name": "Electron | The Mountain God Rises (iQPS Launch 10)",
       "slug": "electron-the-mountain-god-rises-iqps-launch-10",
@@ -2607,7 +2508,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-10-12T23:42:24.165851+00:00",
-      "last_updated_at": "2026-10-28T13:44:53.169101+00:00",
+      "last_updated_at": "2026-10-28T19:15:47.262841+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -2661,7 +2562,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-10-27T00:39:05.512724+00:00",
-      "last_updated_at": "2026-10-28T13:44:53.169092+00:00",
+      "last_updated_at": "2026-10-28T19:15:47.262834+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -2720,7 +2621,7 @@
       ],
       "webcast_live": false,
       "discovered_at": "2026-10-19T18:12:48.584036+00:00",
-      "last_updated_at": "2026-10-28T13:44:53.169083+00:00",
+      "last_updated_at": "2026-10-28T19:15:47.262825+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -2756,18 +2657,186 @@
       ]
     },
     {
+      "id": "9e27a1ed-e81a-4918-b32b-0380cf3a9f8f",
+      "name": "Mir | Demo Flight",
+      "slug": "mir-demo-flight",
+      "status": {
+        "id": 8,
+        "abbrev": "TBC",
+        "name": "To Be Confirmed",
+        "description": "Awaiting official confirmation - current date is known with some certainty."
+      },
+      "net": "2026-11-04T05:00:00Z",
+      "window_start": "2026-11-04T05:00:00Z",
+      "window_end": "2026-11-04T09:00:00Z",
+      "probability": null,
+      "rocket": {
+        "name": "Mir",
+        "family": "Mir",
+        "manufacturer": "Agency for Defense Development",
+        "image_url": null
+      },
+      "mission": {
+        "name": "Demo Flight",
+        "description": "Note: Launch vehicle name is provisional.\r\n\r\nFirst orbital full version launch of the South Korean military small satellite launch vehicle, after 2 sub-orbital tests of individual stages on 30 March and 30 December 2022, and 1 orbital test flight without the 2nd stage on 4 December 2023. Details TBD.",
+        "type": "Test Flight",
+        "orbit": "Low Earth Orbit"
+      },
+      "pad": {
+        "name": "ADD Offshore launch platform",
+        "location": "Sea Launch",
+        "country": "???",
+        "latitude": "33.216667",
+        "longitude": "126.366667"
+      },
+      "agency": {
+        "name": "Agency for Defense Development",
+        "abbrev": "ADD",
+        "type": "Government"
+      },
+      "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/south2520korea_image_20231204145331.png",
+      "vidURLs": [],
+      "webcast_live": false,
+      "discovered_at": "2026-04-11T15:28:51.958924+00:00",
+      "last_updated_at": "2026-10-28T19:15:47.262812+00:00",
+      "outcome": null,
+      "failure_reason": null,
+      "status_history": [
+        {
+          "at": "2026-04-11T15:28:51.958927+00:00",
+          "status_id": 8,
+          "abbrev": "TBC",
+          "net": "2026-04-22T05:00:00Z"
+        },
+        {
+          "at": "2026-04-17T05:14:08.259155+00:00",
+          "status_id": 1,
+          "abbrev": "Go",
+          "net": "2026-04-25T05:00:00Z",
+          "prev_net": "2026-04-22T05:00:00Z",
+          "prev_abbrev": "TBC"
+        },
+        {
+          "at": "2026-04-22T03:22:12.024951+00:00",
+          "status_id": 2,
+          "abbrev": "TBD",
+          "net": "2026-05-31T00:00:00Z",
+          "prev_net": "2026-04-25T05:00:00Z",
+          "prev_abbrev": "Go"
+        },
+        {
+          "at": "2026-05-09T23:41:54.947496+00:00",
+          "status_id": 8,
+          "abbrev": "TBC",
+          "net": "2026-05-20T05:00:00Z",
+          "prev_net": "2026-05-31T00:00:00Z",
+          "prev_abbrev": "TBD"
+        },
+        {
+          "at": "2026-05-17T15:35:10.330351+00:00",
+          "status_id": 2,
+          "abbrev": "TBD",
+          "net": "2026-05-31T00:00:00Z",
+          "prev_net": "2026-05-20T05:00:00Z",
+          "prev_abbrev": "TBC"
+        },
+        {
+          "at": "2026-05-21T22:47:55.152097+00:00",
+          "status_id": 8,
+          "abbrev": "TBC",
+          "net": "2026-06-01T05:00:00Z",
+          "prev_net": "2026-05-31T00:00:00Z",
+          "prev_abbrev": "TBD"
+        },
+        {
+          "at": "2026-05-26T17:55:08.657098+00:00",
+          "status_id": 1,
+          "abbrev": "Go",
+          "net": "2026-06-01T05:00:00Z",
+          "prev_abbrev": "TBC"
+        },
+        {
+          "at": "2026-05-30T04:32:13.129779+00:00",
+          "status_id": 1,
+          "abbrev": "Go",
+          "net": "2026-06-08T05:00:00Z",
+          "prev_net": "2026-06-01T05:00:00Z"
+        },
+        {
+          "at": "2026-06-04T13:55:41.980563+00:00",
+          "status_id": 2,
+          "abbrev": "TBD",
+          "net": "2026-06-30T00:00:00Z",
+          "prev_net": "2026-06-08T05:00:00Z",
+          "prev_abbrev": "Go"
+        },
+        {
+          "at": "2026-06-23T15:29:56.877464+00:00",
+          "status_id": 1,
+          "abbrev": "Go",
+          "net": "2026-06-29T05:00:00Z",
+          "prev_net": "2026-06-30T00:00:00Z",
+          "prev_abbrev": "TBD"
+        },
+        {
+          "at": "2026-06-28T15:02:13.969053+00:00",
+          "status_id": 1,
+          "abbrev": "Go",
+          "net": "2026-06-30T05:00:00Z",
+          "prev_net": "2026-06-29T05:00:00Z"
+        },
+        {
+          "at": "2026-06-30T16:00:42.112730+00:00",
+          "status_id": 2,
+          "abbrev": "TBD",
+          "net": "2026-07-31T00:00:00Z",
+          "prev_net": "2026-06-30T05:00:00Z",
+          "prev_abbrev": "Go"
+        },
+        {
+          "at": "2026-07-29T07:15:39.568724+00:00",
+          "status_id": 2,
+          "abbrev": "TBD",
+          "net": "2026-08-31T00:00:00Z",
+          "prev_net": "2026-07-31T00:00:00Z"
+        },
+        {
+          "at": "2026-08-31T00:42:56.542259+00:00",
+          "status_id": 2,
+          "abbrev": "TBD",
+          "net": "2026-12-31T00:00:00Z",
+          "prev_net": "2026-08-31T00:00:00Z"
+        },
+        {
+          "at": "2026-10-22T00:04:31.968245+00:00",
+          "status_id": 2,
+          "abbrev": "TBD",
+          "net": "2026-11-30T00:00:00Z",
+          "prev_net": "2026-12-31T00:00:00Z"
+        },
+        {
+          "at": "2026-10-28T19:15:47.262816+00:00",
+          "status_id": 8,
+          "abbrev": "TBC",
+          "net": "2026-11-04T05:00:00Z",
+          "prev_net": "2026-11-30T00:00:00Z",
+          "prev_abbrev": "TBD"
+        }
+      ]
+    },
+    {
       "id": "426bd2a5-02dd-4fbd-9f4d-2b8439c3a1ff",
       "name": "Electron | The Sea God Surveys (iQPS Launch 9)",
       "slug": "electron-the-sea-god-surveys-iqps-launch-9",
       "status": {
-        "id": 2,
-        "abbrev": "TBD",
-        "name": "To Be Determined",
-        "description": "Current date is a placeholder or rough estimation based on unreliable or interpreted sources."
+        "id": 8,
+        "abbrev": "TBC",
+        "name": "To Be Confirmed",
+        "description": "Awaiting official confirmation - current date is known with some certainty."
       },
-      "net": "2026-11-03T00:00:00Z",
-      "window_start": "2026-11-03T00:00:00Z",
-      "window_end": "2026-11-03T00:00:00Z",
+      "net": "2026-11-02T08:45:00Z",
+      "window_start": "2026-11-02T08:45:00Z",
+      "window_end": "2026-11-02T18:15:00Z",
       "probability": null,
       "rocket": {
         "name": "Electron",
@@ -2797,7 +2866,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-10-12T23:42:24.165834+00:00",
-      "last_updated_at": "2026-10-28T13:44:53.169071+00:00",
+      "last_updated_at": "2026-10-28T19:15:47.262792+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -2813,6 +2882,14 @@
           "abbrev": "TBD",
           "net": "2026-11-03T00:00:00Z",
           "prev_net": "2026-11-04T00:00:00Z"
+        },
+        {
+          "at": "2026-10-28T19:15:47.262796+00:00",
+          "status_id": 8,
+          "abbrev": "TBC",
+          "net": "2026-11-02T08:45:00Z",
+          "prev_net": "2026-11-03T00:00:00Z",
+          "prev_abbrev": "TBD"
         }
       ]
     },
@@ -2863,7 +2940,7 @@
       ],
       "webcast_live": false,
       "discovered_at": "2026-10-26T21:06:41.100756+00:00",
-      "last_updated_at": "2026-10-28T13:44:53.169062+00:00",
+      "last_updated_at": "2026-10-28T19:15:47.262783+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -3044,7 +3121,7 @@
       ],
       "webcast_live": false,
       "discovered_at": "2026-08-17T02:18:50.340460+00:00",
-      "last_updated_at": "2026-10-28T13:44:53.169045+00:00",
+      "last_updated_at": "2026-10-28T19:15:47.262770+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -3149,7 +3226,7 @@
       ],
       "webcast_live": false,
       "discovered_at": "2026-10-19T18:12:48.583996+00:00",
-      "last_updated_at": "2026-10-28T13:44:53.169013+00:00",
+      "last_updated_at": "2026-10-28T19:15:47.262736+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -18282,5 +18359,5 @@
       ]
     }
   ],
-  "last_updated": "2026-10-28T13:44:53.169622+00:00"
+  "last_updated": "2026-10-28T19:15:47.263336+00:00"
 }
