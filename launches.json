@@ -630,7 +630,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-09-21T05:13:51.305816+00:00",
-      "last_updated_at": "2026-10-29T09:13:52.266963+00:00",
+      "last_updated_at": "2026-10-29T16:17:44.229103+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -684,7 +684,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-09-21T05:13:51.305830+00:00",
-      "last_updated_at": "2026-10-29T09:13:52.266972+00:00",
+      "last_updated_at": "2026-10-29T16:17:44.229109+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -738,7 +738,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-09-25T09:17:28.190374+00:00",
-      "last_updated_at": "2026-10-29T09:13:52.266982+00:00",
+      "last_updated_at": "2026-10-29T16:17:44.229117+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -1735,7 +1735,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-09-18T06:14:12.921747+00:00",
-      "last_updated_at": "2026-10-29T09:13:52.266953+00:00",
+      "last_updated_at": "2026-10-29T16:17:44.229096+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -1850,7 +1850,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-09-20T13:55:26.700417+00:00",
-      "last_updated_at": "2026-10-29T09:13:52.266867+00:00",
+      "last_updated_at": "2026-10-29T16:17:44.229049+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -1965,7 +1965,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-09-26T15:35:59.347779+00:00",
-      "last_updated_at": "2026-10-29T09:13:52.266916+00:00",
+      "last_updated_at": "2026-10-29T16:17:44.229074+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -2019,7 +2019,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-09-26T15:35:59.347786+00:00",
-      "last_updated_at": "2026-10-29T09:13:52.266927+00:00",
+      "last_updated_at": "2026-10-29T16:17:44.229081+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -2073,7 +2073,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-10-20T16:14:45.990903+00:00",
-      "last_updated_at": "2026-10-29T09:13:52.266880+00:00",
+      "last_updated_at": "2026-10-29T16:17:44.229058+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -2135,7 +2135,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-10-28T23:22:29.606071+00:00",
-      "last_updated_at": "2026-10-29T09:13:52.266940+00:00",
+      "last_updated_at": "2026-10-29T16:17:44.229089+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -2189,7 +2189,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-10-29T09:13:52.266895+00:00",
-      "last_updated_at": "2026-10-29T09:13:52.266891+00:00",
+      "last_updated_at": "2026-10-29T16:17:44.229067+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -2243,7 +2243,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-10-24T15:15:42.807177+00:00",
-      "last_updated_at": "2026-10-29T09:13:52.266855+00:00",
+      "last_updated_at": "2026-10-29T16:17:44.229039+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -2297,7 +2297,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-09-07T18:03:06.104420+00:00",
-      "last_updated_at": "2026-10-29T09:13:52.266845+00:00",
+      "last_updated_at": "2026-10-29T16:17:44.229031+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -2351,7 +2351,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-08-27T19:23:07.365257+00:00",
-      "last_updated_at": "2026-10-29T09:13:52.266834+00:00",
+      "last_updated_at": "2026-10-29T16:17:44.229023+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -2480,7 +2480,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-08-02T05:39:37.830291+00:00",
-      "last_updated_at": "2026-10-29T09:13:52.266821+00:00",
+      "last_updated_at": "2026-10-29T16:17:44.229017+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -2562,7 +2562,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-10-28T19:15:47.262850+00:00",
-      "last_updated_at": "2026-10-29T09:13:52.266811+00:00",
+      "last_updated_at": "2026-10-29T16:17:44.229010+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -2616,7 +2616,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-10-12T23:42:24.165851+00:00",
-      "last_updated_at": "2026-10-29T09:13:52.266784+00:00",
+      "last_updated_at": "2026-10-29T16:17:44.229003+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -2679,7 +2679,7 @@
       ],
       "webcast_live": false,
       "discovered_at": "2026-10-19T18:12:48.584036+00:00",
-      "last_updated_at": "2026-10-29T09:13:52.266771+00:00",
+      "last_updated_at": "2026-10-29T16:17:44.228995+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -2763,7 +2763,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-10-27T00:39:05.512724+00:00",
-      "last_updated_at": "2026-10-29T09:13:52.266761+00:00",
+      "last_updated_at": "2026-10-29T16:17:44.228987+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -2817,7 +2817,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-10-28T23:22:29.605947+00:00",
-      "last_updated_at": "2026-10-29T09:13:52.266750+00:00",
+      "last_updated_at": "2026-10-29T16:17:44.228978+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -2871,7 +2871,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-04-11T15:28:51.958924+00:00",
-      "last_updated_at": "2026-10-29T09:13:52.266737+00:00",
+      "last_updated_at": "2026-10-29T16:17:44.228970+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -3048,7 +3048,7 @@
       ],
       "webcast_live": false,
       "discovered_at": "2026-10-26T21:06:41.100756+00:00",
-      "last_updated_at": "2026-10-29T09:13:52.266722+00:00",
+      "last_updated_at": "2026-10-29T16:17:44.228959+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -3109,7 +3109,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-10-28T23:22:29.605910+00:00",
-      "last_updated_at": "2026-10-29T09:13:52.266708+00:00",
+      "last_updated_at": "2026-10-29T16:17:44.228951+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -3163,7 +3163,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-10-12T23:42:24.165834+00:00",
-      "last_updated_at": "2026-10-29T09:13:52.266691+00:00",
+      "last_updated_at": "2026-10-29T16:17:44.228940+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -3241,7 +3241,7 @@
       ],
       "webcast_live": false,
       "discovered_at": "2026-10-19T18:12:48.583996+00:00",
-      "last_updated_at": "2026-10-29T09:13:52.266672+00:00",
+      "last_updated_at": "2026-10-29T16:17:44.228924+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -3443,7 +3443,7 @@
       ],
       "webcast_live": false,
       "discovered_at": "2026-08-17T02:18:50.340460+00:00",
-      "last_updated_at": "2026-10-29T09:13:52.266628+00:00",
+      "last_updated_at": "2026-10-29T16:17:44.228893+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -18497,116 +18497,7 @@
           "prev_abbrev": "Go"
         }
       ]
-    },
-    {
-      "id": "4cc237b2-c61a-491e-9532-466cce81f524",
-      "name": "Falcon Heavy | ViaSat-3 F3 (ViaSat-3 Asia-Pacific)",
-      "slug": "falcon-heavy-viasat-3-f3-viasat-3-asia-pacific",
-      "status": {
-        "id": 3,
-        "abbrev": "Success",
-        "name": "Launch Successful",
-        "description": "The launch vehicle successfully inserted its payload(s) into the target orbit(s)."
-      },
-      "net": "2026-04-29T14:13:00Z",
-      "window_start": "2026-04-29T14:13:00Z",
-      "window_end": "2026-04-29T15:38:00Z",
-      "probability": 85,
-      "rocket": {
-        "name": "Falcon Heavy",
-        "family": "Falcon",
-        "manufacturer": "SpaceX",
-        "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/falcon_heavy_image_20220129192819.jpeg"
-      },
-      "mission": {
-        "name": "ViaSat-3 F3 (ViaSat-3 Asia-Pacific)",
-        "description": "The ViaSat-3 is a series of three Ka-band satellites is expected to provide vastly superior capabilities in terms of service speed and flexibility for a satellite platform. Each ViaSat-3 class satellite is expected to deliver more than 1-Terabit per second of network capacity, and to leverage high levels of flexibility to dynamically direct capacity to where customers are located.",
-        "type": "Communications",
-        "orbit": "Geostationary Transfer Orbit"
-      },
-      "pad": {
-        "name": "Launch Complex 39A",
-        "location": "Kennedy Space Center, FL, USA",
-        "country": "USA",
-        "latitude": "28.60822681",
-        "longitude": "-80.60428186"
-      },
-      "agency": {
-        "name": "SpaceX",
-        "abbrev": "SpX",
-        "type": "Commercial"
-      },
-      "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/falcon_heavy_on_image_20260427051334.jpg",
-      "vidURLs": [
-        {
-          "title": "SpaceX ViaSat-3 F3 (ViaSat-3 Asia-Pacific)",
-          "url": "https://www.youtube.com/watch?v=vdLb-RlctaY"
-        },
-        {
-          "title": "Live: SpaceX Falcon Heavy rocket launches Viasat-3 F3 satellite",
-          "url": "https://www.youtube.com/watch?v=7ZLs184OBwE"
-        },
-        {
-          "title": "SpaceX Falcon Heavy Launch of ViaSat-3 F3 - SECOND ATTEMPT",
-          "url": "https://www.youtube.com/watch?v=6sDcNKbJwuo"
-        },
-        {
-          "title": "ViaSat-3 F3 Mission",
-          "url": "https://x.com/i/broadcasts/1NGaradEpARJj"
-        }
-      ],
-      "webcast_live": false,
-      "discovered_at": "2026-03-28T04:16:06.593134+00:00",
-      "last_updated_at": "2026-04-30T13:58:00.767550+00:00",
-      "outcome": "success",
-      "failure_reason": null,
-      "status_history": [
-        {
-          "at": "2026-03-28T04:16:06.593137+00:00",
-          "status_id": 2,
-          "abbrev": "TBD",
-          "net": "2026-04-30T00:00:00Z"
-        },
-        {
-          "at": "2026-04-20T15:51:53.933301+00:00",
-          "status_id": 1,
-          "abbrev": "Go",
-          "net": "2026-04-27T14:21:00Z",
-          "prev_net": "2026-04-30T00:00:00Z",
-          "prev_abbrev": "TBD"
-        },
-        {
-          "at": "2026-04-27T15:24:39.972574+00:00",
-          "status_id": 8,
-          "abbrev": "TBC",
-          "net": "2026-04-28T14:17:00Z",
-          "prev_net": "2026-04-27T14:21:00Z",
-          "prev_abbrev": "Go"
-        },
-        {
-          "at": "2026-04-27T18:47:52.161249+00:00",
-          "status_id": 1,
-          "abbrev": "Go",
-          "net": "2026-04-29T14:13:00Z",
-          "prev_net": "2026-04-28T14:17:00Z",
-          "prev_abbrev": "TBC"
-        },
-        {
-          "at": "2026-04-29T16:11:21.518989+00:00",
-          "status_id": 6,
-          "abbrev": "In Flight",
-          "net": "2026-04-29T14:13:00Z",
-          "prev_abbrev": "Go"
-        },
-        {
-          "at": "2026-04-29T20:38:07.367802+00:00",
-          "status_id": 3,
-          "abbrev": "Success",
-          "net": "2026-04-29T14:13:00Z",
-          "prev_abbrev": "In Flight"
-        }
-      ]
     }
   ],
-  "last_updated": "2026-10-29T09:13:52.267539+00:00"
+  "last_updated": "2026-10-29T16:17:44.229564+00:00"
 }
