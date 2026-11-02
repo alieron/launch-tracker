@@ -630,7 +630,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-09-21T05:13:51.305816+00:00",
-      "last_updated_at": "2026-11-01T23:43:31.142179+00:00",
+      "last_updated_at": "2026-11-02T03:58:39.040854+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -1735,7 +1735,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-09-18T06:14:12.921747+00:00",
-      "last_updated_at": "2026-11-01T23:43:31.142173+00:00",
+      "last_updated_at": "2026-11-02T03:58:39.040848+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -2040,7 +2040,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-09-26T15:35:59.347779+00:00",
-      "last_updated_at": "2026-11-01T23:43:31.142152+00:00",
+      "last_updated_at": "2026-11-02T03:58:39.040829+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -2094,7 +2094,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-09-26T15:35:59.347786+00:00",
-      "last_updated_at": "2026-11-01T23:43:31.142159+00:00",
+      "last_updated_at": "2026-11-02T03:58:39.040836+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -2148,7 +2148,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-10-20T16:14:45.990903+00:00",
-      "last_updated_at": "2026-11-01T23:43:31.142136+00:00",
+      "last_updated_at": "2026-11-02T03:58:39.040778+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -2210,7 +2210,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-10-28T23:22:29.606071+00:00",
-      "last_updated_at": "2026-11-01T23:43:31.142166+00:00",
+      "last_updated_at": "2026-11-02T03:58:39.040842+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -2264,7 +2264,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-10-29T09:13:52.266895+00:00",
-      "last_updated_at": "2026-11-01T23:43:31.142144+00:00",
+      "last_updated_at": "2026-11-02T03:58:39.040804+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -2273,6 +2273,107 @@
           "status_id": 2,
           "abbrev": "TBD",
           "net": "2026-11-30T00:00:00Z"
+        }
+      ]
+    },
+    {
+      "id": "3cdb9dee-b5cb-406c-bbd1-06a219930fb7",
+      "name": "Falcon 9 Block 5 | Starlink Group 15-21",
+      "slug": "falcon-9-block-5-starlink-group-15-21",
+      "status": {
+        "id": 2,
+        "abbrev": "TBD",
+        "name": "To Be Determined",
+        "description": "Current date is a placeholder or rough estimation based on unreliable or interpreted sources."
+      },
+      "net": "2026-11-30T00:00:00Z",
+      "window_start": "2026-11-30T00:00:00Z",
+      "window_end": "2026-11-30T00:00:00Z",
+      "probability": null,
+      "rocket": {
+        "name": "Falcon 9",
+        "family": "Falcon",
+        "manufacturer": "SpaceX",
+        "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/falcon_9_image_20230807133459.jpeg"
+      },
+      "mission": {
+        "name": "Starlink Group 15-21",
+        "description": "A batch of 27 satellites for the Starlink mega-constellation - SpaceX's project for space-based Internet communication system.",
+        "type": "Communications",
+        "orbit": "Low Earth Orbit"
+      },
+      "pad": {
+        "name": "Space Launch Complex 4E",
+        "location": "Vandenberg SFB, CA, USA",
+        "country": "USA",
+        "latitude": "34.632",
+        "longitude": "-120.611"
+      },
+      "agency": {
+        "name": "SpaceX",
+        "abbrev": "SpX",
+        "type": "Commercial"
+      },
+      "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/falcon2520925_image_20221009234147.png",
+      "vidURLs": [
+        {
+          "title": "GO!- SpaceX - Falcon 9 - Starlink 15-21 - SLC-4E - Vandenberg SFB, CA - Space Affairs Live",
+          "url": "https://www.youtube.com/watch?v=z9uME3O2xHk"
+        },
+        {
+          "title": "Starlink Mission",
+          "url": "https://x.com/i/broadcasts/1aJbdEgvmWaKX"
+        }
+      ],
+      "webcast_live": false,
+      "discovered_at": "2026-10-19T18:12:48.584036+00:00",
+      "last_updated_at": "2026-11-02T03:58:39.040814+00:00",
+      "outcome": null,
+      "failure_reason": null,
+      "status_history": [
+        {
+          "at": "2026-10-19T18:12:48.584038+00:00",
+          "status_id": 1,
+          "abbrev": "Go",
+          "net": "2026-11-01T05:11:00Z"
+        },
+        {
+          "at": "2026-10-20T06:23:28.368744+00:00",
+          "status_id": 2,
+          "abbrev": "TBD",
+          "net": "2026-11-10T00:00:00Z",
+          "prev_net": "2026-11-01T05:11:00Z",
+          "prev_abbrev": "Go"
+        },
+        {
+          "at": "2026-10-22T19:20:24.555164+00:00",
+          "status_id": 1,
+          "abbrev": "Go",
+          "net": "2026-11-05T05:14:00Z",
+          "prev_net": "2026-11-10T00:00:00Z",
+          "prev_abbrev": "TBD"
+        },
+        {
+          "at": "2026-10-27T21:04:44.512287+00:00",
+          "status_id": 1,
+          "abbrev": "Go",
+          "net": "2026-11-05T02:35:00Z",
+          "prev_net": "2026-11-05T05:14:00Z"
+        },
+        {
+          "at": "2026-10-28T23:22:29.605971+00:00",
+          "status_id": 1,
+          "abbrev": "Go",
+          "net": "2026-11-06T02:21:00Z",
+          "prev_net": "2026-11-05T02:35:00Z"
+        },
+        {
+          "at": "2026-11-02T03:58:39.040818+00:00",
+          "status_id": 2,
+          "abbrev": "TBD",
+          "net": "2026-11-30T00:00:00Z",
+          "prev_net": "2026-11-06T02:21:00Z",
+          "prev_abbrev": "Go"
         }
       ]
     },
@@ -2318,7 +2419,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-09-20T13:55:26.700417+00:00",
-      "last_updated_at": "2026-11-01T23:43:31.142129+00:00",
+      "last_updated_at": "2026-11-02T03:58:39.040772+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -2387,7 +2488,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-10-30T01:12:21.865880+00:00",
-      "last_updated_at": "2026-11-01T23:43:31.142123+00:00",
+      "last_updated_at": "2026-11-02T03:58:39.040765+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -2441,7 +2542,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-10-24T15:15:42.807177+00:00",
-      "last_updated_at": "2026-11-01T23:43:31.142117+00:00",
+      "last_updated_at": "2026-11-02T03:58:39.040759+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -2495,7 +2596,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-10-30T14:26:07.508863+00:00",
-      "last_updated_at": "2026-11-01T23:43:31.142111+00:00",
+      "last_updated_at": "2026-11-02T03:58:39.040753+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -2549,7 +2650,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-09-07T18:03:06.104420+00:00",
-      "last_updated_at": "2026-11-01T23:43:31.142103+00:00",
+      "last_updated_at": "2026-11-02T03:58:39.040743+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -2603,7 +2704,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-08-27T19:23:07.365257+00:00",
-      "last_updated_at": "2026-11-01T23:43:31.142097+00:00",
+      "last_updated_at": "2026-11-02T03:58:39.040736+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -2678,7 +2779,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-10-30T14:26:07.508834+00:00",
-      "last_updated_at": "2026-11-01T23:43:31.142088+00:00",
+      "last_updated_at": "2026-11-02T03:58:39.040730+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -2786,7 +2887,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-08-02T05:39:37.830291+00:00",
-      "last_updated_at": "2026-11-01T23:43:31.142081+00:00",
+      "last_updated_at": "2026-11-02T03:58:39.040721+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -2868,7 +2969,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-10-28T19:15:47.262850+00:00",
-      "last_updated_at": "2026-11-01T23:43:31.142072+00:00",
+      "last_updated_at": "2026-11-02T03:58:39.040715+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -2922,7 +3023,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-10-12T23:42:24.165851+00:00",
-      "last_updated_at": "2026-11-01T23:43:31.142066+00:00",
+      "last_updated_at": "2026-11-02T03:58:39.040707+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -2935,95 +3036,64 @@
       ]
     },
     {
-      "id": "3cdb9dee-b5cb-406c-bbd1-06a219930fb7",
-      "name": "Falcon 9 Block 5 | Starlink Group 15-21",
-      "slug": "falcon-9-block-5-starlink-group-15-21",
+      "id": "e91d1da2-819b-4523-95bf-39ac7daa871d",
+      "name": "Ceres-2 | Unknown Payload",
+      "slug": "ceres-2-unknown-payload",
       "status": {
         "id": 1,
         "abbrev": "Go",
         "name": "Go for Launch",
         "description": "Current T-0 confirmed by official or reliable sources."
       },
-      "net": "2026-11-06T02:21:00Z",
-      "window_start": "2026-11-06T02:21:00Z",
-      "window_end": "2026-11-06T06:21:00Z",
+      "net": "2026-11-06T23:35:00Z",
+      "window_start": "2026-11-06T23:28:00Z",
+      "window_end": "2026-11-06T23:50:00Z",
       "probability": null,
       "rocket": {
-        "name": "Falcon 9",
-        "family": "Falcon",
-        "manufacturer": "SpaceX",
-        "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/falcon_9_image_20230807133459.jpeg"
+        "name": "Ceres-2",
+        "family": "",
+        "manufacturer": "Galactic Energy",
+        "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/ceres-2_illustr_image_20251210054657.png"
       },
       "mission": {
-        "name": "Starlink Group 15-21",
-        "description": "A batch of 27 satellites for the Starlink mega-constellation - SpaceX's project for space-based Internet communication system.",
-        "type": "Communications",
-        "orbit": "Low Earth Orbit"
+        "name": "Unknown Payload",
+        "description": "Details TBD.",
+        "type": "Unknown",
+        "orbit": "Unknown"
       },
       "pad": {
-        "name": "Space Launch Complex 4E",
-        "location": "Vandenberg SFB, CA, USA",
-        "country": "USA",
-        "latitude": "34.632",
-        "longitude": "-120.611"
+        "name": "Launch Area 95A",
+        "location": "Jiuquan Satellite Launch Center, People's Republic of China",
+        "country": "CHN",
+        "latitude": "40.969117",
+        "longitude": "100.343333"
       },
       "agency": {
-        "name": "SpaceX",
-        "abbrev": "SpX",
+        "name": "Galactic Energy",
+        "abbrev": "GE",
         "type": "Commercial"
       },
-      "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/falcon2520925_image_20221009234147.png",
-      "vidURLs": [
-        {
-          "title": "GO!- SpaceX - Falcon 9 - Starlink 15-21 - SLC-4E - Vandenberg SFB, CA - Space Affairs Live",
-          "url": "https://www.youtube.com/watch?v=z9uME3O2xHk"
-        },
-        {
-          "title": "Starlink Mission",
-          "url": "https://x.com/i/broadcasts/1aJbdEgvmWaKX"
-        }
-      ],
+      "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/ceres-2_illustr_image_20251210054657.png",
+      "vidURLs": [],
       "webcast_live": false,
-      "discovered_at": "2026-10-19T18:12:48.584036+00:00",
-      "last_updated_at": "2026-11-01T23:43:31.142058+00:00",
+      "discovered_at": "2026-10-28T23:22:29.605947+00:00",
+      "last_updated_at": "2026-11-02T03:58:39.040693+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
         {
-          "at": "2026-10-19T18:12:48.584038+00:00",
-          "status_id": 1,
-          "abbrev": "Go",
-          "net": "2026-11-01T05:11:00Z"
+          "at": "2026-10-28T23:22:29.605950+00:00",
+          "status_id": 8,
+          "abbrev": "TBC",
+          "net": "2026-11-04T21:00:00Z"
         },
         {
-          "at": "2026-10-20T06:23:28.368744+00:00",
-          "status_id": 2,
-          "abbrev": "TBD",
-          "net": "2026-11-10T00:00:00Z",
-          "prev_net": "2026-11-01T05:11:00Z",
-          "prev_abbrev": "Go"
-        },
-        {
-          "at": "2026-10-22T19:20:24.555164+00:00",
+          "at": "2026-11-02T03:58:39.040696+00:00",
           "status_id": 1,
           "abbrev": "Go",
-          "net": "2026-11-05T05:14:00Z",
-          "prev_net": "2026-11-10T00:00:00Z",
-          "prev_abbrev": "TBD"
-        },
-        {
-          "at": "2026-10-27T21:04:44.512287+00:00",
-          "status_id": 1,
-          "abbrev": "Go",
-          "net": "2026-11-05T02:35:00Z",
-          "prev_net": "2026-11-05T05:14:00Z"
-        },
-        {
-          "at": "2026-10-28T23:22:29.605971+00:00",
-          "status_id": 1,
-          "abbrev": "Go",
-          "net": "2026-11-06T02:21:00Z",
-          "prev_net": "2026-11-05T02:35:00Z"
+          "net": "2026-11-06T23:35:00Z",
+          "prev_net": "2026-11-04T21:00:00Z",
+          "prev_abbrev": "TBC"
         }
       ]
     },
@@ -3069,7 +3139,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-10-27T00:39:05.512724+00:00",
-      "last_updated_at": "2026-11-01T23:43:31.142049+00:00",
+      "last_updated_at": "2026-11-02T03:58:39.040685+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -3131,7 +3201,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-10-30T14:26:07.508772+00:00",
-      "last_updated_at": "2026-11-01T23:43:31.142040+00:00",
+      "last_updated_at": "2026-11-02T03:58:39.040675+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -3140,60 +3210,6 @@
           "status_id": 1,
           "abbrev": "Go",
           "net": "2026-11-05T16:00:00Z"
-        }
-      ]
-    },
-    {
-      "id": "e91d1da2-819b-4523-95bf-39ac7daa871d",
-      "name": "Ceres-2 | Unknown Payload",
-      "slug": "ceres-2-unknown-payload",
-      "status": {
-        "id": 8,
-        "abbrev": "TBC",
-        "name": "To Be Confirmed",
-        "description": "Awaiting official confirmation - current date is known with some certainty."
-      },
-      "net": "2026-11-04T21:00:00Z",
-      "window_start": "2026-11-04T21:00:00Z",
-      "window_end": "2026-11-05T02:00:00Z",
-      "probability": null,
-      "rocket": {
-        "name": "Ceres-2",
-        "family": "",
-        "manufacturer": "Galactic Energy",
-        "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/ceres-2_illustr_image_20251210054657.png"
-      },
-      "mission": {
-        "name": "Unknown Payload",
-        "description": "Details TBD.",
-        "type": "Unknown",
-        "orbit": "Unknown"
-      },
-      "pad": {
-        "name": "Launch Area 95A",
-        "location": "Jiuquan Satellite Launch Center, People's Republic of China",
-        "country": "CHN",
-        "latitude": "40.969117",
-        "longitude": "100.343333"
-      },
-      "agency": {
-        "name": "Galactic Energy",
-        "abbrev": "GE",
-        "type": "Commercial"
-      },
-      "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/ceres-2_illustr_image_20251210054657.png",
-      "vidURLs": [],
-      "webcast_live": false,
-      "discovered_at": "2026-10-28T23:22:29.605947+00:00",
-      "last_updated_at": "2026-11-01T23:43:31.142034+00:00",
-      "outcome": null,
-      "failure_reason": null,
-      "status_history": [
-        {
-          "at": "2026-10-28T23:22:29.605950+00:00",
-          "status_id": 8,
-          "abbrev": "TBC",
-          "net": "2026-11-04T21:00:00Z"
         }
       ]
     },
@@ -3239,7 +3255,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-04-11T15:28:51.958924+00:00",
-      "last_updated_at": "2026-11-01T23:43:31.142025+00:00",
+      "last_updated_at": "2026-11-02T03:58:39.040668+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -3416,7 +3432,7 @@
       ],
       "webcast_live": false,
       "discovered_at": "2026-10-26T21:06:41.100756+00:00",
-      "last_updated_at": "2026-11-01T23:43:31.142011+00:00",
+      "last_updated_at": "2026-11-02T03:58:39.040659+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -3484,7 +3500,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-10-28T23:22:29.605910+00:00",
-      "last_updated_at": "2026-11-01T23:43:31.141997+00:00",
+      "last_updated_at": "2026-11-02T03:58:39.040646+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -3538,7 +3554,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-10-12T23:42:24.165834+00:00",
-      "last_updated_at": "2026-11-01T23:43:31.141963+00:00",
+      "last_updated_at": "2026-11-02T03:58:39.040613+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -18338,5 +18354,5 @@
       ]
     }
   ],
-  "last_updated": "2026-11-01T23:43:31.142538+00:00"
+  "last_updated": "2026-11-02T03:58:39.041246+00:00"
 }
