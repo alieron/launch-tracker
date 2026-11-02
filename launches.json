@@ -630,7 +630,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-09-21T05:13:51.305816+00:00",
-      "last_updated_at": "2026-11-02T03:58:39.040854+00:00",
+      "last_updated_at": "2026-11-02T12:08:21.111086+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -1735,7 +1735,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-09-18T06:14:12.921747+00:00",
-      "last_updated_at": "2026-11-02T03:58:39.040848+00:00",
+      "last_updated_at": "2026-11-02T12:08:21.111081+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -2040,7 +2040,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-09-26T15:35:59.347779+00:00",
-      "last_updated_at": "2026-11-02T03:58:39.040829+00:00",
+      "last_updated_at": "2026-11-02T12:08:21.111068+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -2094,7 +2094,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-09-26T15:35:59.347786+00:00",
-      "last_updated_at": "2026-11-02T03:58:39.040836+00:00",
+      "last_updated_at": "2026-11-02T12:08:21.111073+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -2148,7 +2148,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-10-20T16:14:45.990903+00:00",
-      "last_updated_at": "2026-11-02T03:58:39.040778+00:00",
+      "last_updated_at": "2026-11-02T12:08:21.111049+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -2210,7 +2210,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-10-28T23:22:29.606071+00:00",
-      "last_updated_at": "2026-11-02T03:58:39.040842+00:00",
+      "last_updated_at": "2026-11-02T12:08:21.111077+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -2264,7 +2264,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-10-29T09:13:52.266895+00:00",
-      "last_updated_at": "2026-11-02T03:58:39.040804+00:00",
+      "last_updated_at": "2026-11-02T12:08:21.111054+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -2327,7 +2327,7 @@
       ],
       "webcast_live": false,
       "discovered_at": "2026-10-19T18:12:48.584036+00:00",
-      "last_updated_at": "2026-11-02T03:58:39.040814+00:00",
+      "last_updated_at": "2026-11-02T12:08:21.111063+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -2419,7 +2419,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-09-20T13:55:26.700417+00:00",
-      "last_updated_at": "2026-11-02T03:58:39.040772+00:00",
+      "last_updated_at": "2026-11-02T12:08:21.111044+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -2488,7 +2488,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-10-30T01:12:21.865880+00:00",
-      "last_updated_at": "2026-11-02T03:58:39.040765+00:00",
+      "last_updated_at": "2026-11-02T12:08:21.111039+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -2542,7 +2542,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-10-24T15:15:42.807177+00:00",
-      "last_updated_at": "2026-11-02T03:58:39.040759+00:00",
+      "last_updated_at": "2026-11-02T12:08:21.111034+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -2596,7 +2596,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-10-30T14:26:07.508863+00:00",
-      "last_updated_at": "2026-11-02T03:58:39.040753+00:00",
+      "last_updated_at": "2026-11-02T12:08:21.111029+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -2650,7 +2650,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-09-07T18:03:06.104420+00:00",
-      "last_updated_at": "2026-11-02T03:58:39.040743+00:00",
+      "last_updated_at": "2026-11-02T12:08:21.111024+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -2704,7 +2704,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-08-27T19:23:07.365257+00:00",
-      "last_updated_at": "2026-11-02T03:58:39.040736+00:00",
+      "last_updated_at": "2026-11-02T12:08:21.111017+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -2779,7 +2779,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-10-30T14:26:07.508834+00:00",
-      "last_updated_at": "2026-11-02T03:58:39.040730+00:00",
+      "last_updated_at": "2026-11-02T12:08:21.111011+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -2887,7 +2887,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-08-02T05:39:37.830291+00:00",
-      "last_updated_at": "2026-11-02T03:58:39.040721+00:00",
+      "last_updated_at": "2026-11-02T12:08:21.111006+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -2969,7 +2969,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-10-28T19:15:47.262850+00:00",
-      "last_updated_at": "2026-11-02T03:58:39.040715+00:00",
+      "last_updated_at": "2026-11-02T12:08:21.110999+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -3023,7 +3023,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-10-12T23:42:24.165851+00:00",
-      "last_updated_at": "2026-11-02T03:58:39.040707+00:00",
+      "last_updated_at": "2026-11-02T12:08:21.110993+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -3077,7 +3077,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-10-28T23:22:29.605947+00:00",
-      "last_updated_at": "2026-11-02T03:58:39.040693+00:00",
+      "last_updated_at": "2026-11-02T12:08:21.110988+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -3139,7 +3139,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-10-27T00:39:05.512724+00:00",
-      "last_updated_at": "2026-11-02T03:58:39.040685+00:00",
+      "last_updated_at": "2026-11-02T12:08:21.110981+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -3201,7 +3201,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-10-30T14:26:07.508772+00:00",
-      "last_updated_at": "2026-11-02T03:58:39.040675+00:00",
+      "last_updated_at": "2026-11-02T12:08:21.110977+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -3255,7 +3255,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-04-11T15:28:51.958924+00:00",
-      "last_updated_at": "2026-11-02T03:58:39.040668+00:00",
+      "last_updated_at": "2026-11-02T12:08:21.110970+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -3432,7 +3432,7 @@
       ],
       "webcast_live": false,
       "discovered_at": "2026-10-26T21:06:41.100756+00:00",
-      "last_updated_at": "2026-11-02T03:58:39.040659+00:00",
+      "last_updated_at": "2026-11-02T12:08:21.110959+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -3500,7 +3500,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-10-28T23:22:29.605910+00:00",
-      "last_updated_at": "2026-11-02T03:58:39.040646+00:00",
+      "last_updated_at": "2026-11-02T12:08:21.110948+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -3551,10 +3551,15 @@
         "type": "Commercial"
       },
       "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/electron_image_20190705175640.jpeg",
-      "vidURLs": [],
+      "vidURLs": [
+        {
+          "title": "Rocket Lab - 'The Sea God Surveys' Launch",
+          "url": "https://www.youtube.com/watch?v=irbPTnpIl9g"
+        }
+      ],
       "webcast_live": false,
       "discovered_at": "2026-10-12T23:42:24.165834+00:00",
-      "last_updated_at": "2026-11-02T03:58:39.040613+00:00",
+      "last_updated_at": "2026-11-02T12:08:21.110910+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -18262,97 +18267,7 @@
           "prev_abbrev": "Go"
         }
       ]
-    },
-    {
-      "id": "05530ccb-7184-41e7-b2e5-c090b61e0e3a",
-      "name": "Falcon 9 Block 5 | CAS500-2 & Others",
-      "slug": "falcon-9-block-5-cas500-2-others",
-      "status": {
-        "id": 3,
-        "abbrev": "Success",
-        "name": "Launch Successful",
-        "description": "The launch vehicle successfully inserted its payload(s) into the target orbit(s)."
-      },
-      "net": "2026-05-03T07:00:00Z",
-      "window_start": "2026-05-03T06:59:00Z",
-      "window_end": "2026-05-03T07:36:00Z",
-      "probability": null,
-      "rocket": {
-        "name": "Falcon 9",
-        "family": "Falcon",
-        "manufacturer": "SpaceX",
-        "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/falcon_9_image_20230807133459.jpeg"
-      },
-      "mission": {
-        "name": "CAS500-2 & Others",
-        "description": "Ride-share of 45 satellites including:\r\n\r\n* CAS500-2 (KASA, South Korea)\r\nThe South Korean CAS500-1 and -2 satellites will image the Earth in pan-chromatic and multi-spectral modes using the AEISS-C (Advanced Earth Imaging Sensor System) payload, with a ground resolution of 0.5 m in panchromatic mode and 2 m in color mode.\r\n\r\n* Pelican-7, 8 & 9 (Planet Labs)\r\nPelican is a constellation of very high resolution imaging satellites, designed and manufactured by Planet Labs. The commercial constellation will consist of 32 SmallSats with potential for further expansion, and aims to provide improved spatial resolution and response times over Planet\u2019s existing SkySat and Dove constellations.",
-        "type": "Earth Science",
-        "orbit": "Sun-Synchronous Orbit"
-      },
-      "pad": {
-        "name": "Space Launch Complex 4E",
-        "location": "Vandenberg SFB, CA, USA",
-        "country": "USA",
-        "latitude": "34.632",
-        "longitude": "-120.611"
-      },
-      "agency": {
-        "name": "SpaceX",
-        "abbrev": "SpX",
-        "type": "Commercial"
-      },
-      "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/falcon_9_on_slc_image_20260503063348.jpeg",
-      "vidURLs": [
-        {
-          "title": "SpaceX CAS500-2 & Others",
-          "url": "https://www.youtube.com/watch?v=oAYpPfnj9E8"
-        },
-        {
-          "title": "Live: SpaceX Falcon 9 rocket launches from California with 45 payloads on CAS500-2 rideshare mission",
-          "url": "https://www.youtube.com/watch?v=2vYPVVe6INg"
-        },
-        {
-          "title": "CAS500-2 Mission",
-          "url": "https://x.com/i/broadcasts/1AKEmODRWpZKL"
-        }
-      ],
-      "webcast_live": false,
-      "discovered_at": "2026-04-17T05:14:08.259296+00:00",
-      "last_updated_at": "2026-05-04T05:48:36.819224+00:00",
-      "outcome": "success",
-      "failure_reason": null,
-      "status_history": [
-        {
-          "at": "2026-04-17T05:14:08.259299+00:00",
-          "status_id": 2,
-          "abbrev": "TBD",
-          "net": "2026-05-31T00:00:00Z"
-        },
-        {
-          "at": "2026-04-24T17:28:14.232905+00:00",
-          "status_id": 1,
-          "abbrev": "Go",
-          "net": "2026-05-03T06:59:00Z",
-          "prev_net": "2026-05-31T00:00:00Z",
-          "prev_abbrev": "TBD"
-        },
-        {
-          "at": "2026-05-03T07:55:05.435557+00:00",
-          "status_id": 6,
-          "abbrev": "In Flight",
-          "net": "2026-05-03T07:00:00Z",
-          "prev_net": "2026-05-03T06:59:00Z",
-          "prev_abbrev": "Go"
-        },
-        {
-          "at": "2026-05-03T10:29:59.699479+00:00",
-          "status_id": 3,
-          "abbrev": "Success",
-          "net": "2026-05-03T07:00:00Z",
-          "prev_abbrev": "In Flight"
-        }
-      ]
     }
   ],
-  "last_updated": "2026-11-02T03:58:39.041246+00:00"
+  "last_updated": "2026-11-02T12:08:21.111415+00:00"
 }
