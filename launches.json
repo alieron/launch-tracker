@@ -630,7 +630,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-09-21T05:13:51.305816+00:00",
-      "last_updated_at": "2026-11-02T12:08:21.111086+00:00",
+      "last_updated_at": "2026-11-02T21:50:45.005728+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -1735,7 +1735,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-09-18T06:14:12.921747+00:00",
-      "last_updated_at": "2026-11-02T12:08:21.111081+00:00",
+      "last_updated_at": "2026-11-02T21:50:45.005723+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -2040,7 +2040,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-09-26T15:35:59.347779+00:00",
-      "last_updated_at": "2026-11-02T12:08:21.111068+00:00",
+      "last_updated_at": "2026-11-02T21:50:45.005711+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -2094,7 +2094,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-09-26T15:35:59.347786+00:00",
-      "last_updated_at": "2026-11-02T12:08:21.111073+00:00",
+      "last_updated_at": "2026-11-02T21:50:45.005716+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -2148,7 +2148,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-10-20T16:14:45.990903+00:00",
-      "last_updated_at": "2026-11-02T12:08:21.111049+00:00",
+      "last_updated_at": "2026-11-02T21:50:45.005693+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -2210,7 +2210,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-10-28T23:22:29.606071+00:00",
-      "last_updated_at": "2026-11-02T12:08:21.111077+00:00",
+      "last_updated_at": "2026-11-02T21:50:45.005719+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -2264,7 +2264,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-10-29T09:13:52.266895+00:00",
-      "last_updated_at": "2026-11-02T12:08:21.111054+00:00",
+      "last_updated_at": "2026-11-02T21:50:45.005697+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -2327,7 +2327,7 @@
       ],
       "webcast_live": false,
       "discovered_at": "2026-10-19T18:12:48.584036+00:00",
-      "last_updated_at": "2026-11-02T12:08:21.111063+00:00",
+      "last_updated_at": "2026-11-02T21:50:45.005703+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -2382,14 +2382,14 @@
       "name": "Falcon 9 Block 5 | Cygnus CRS-2 NG-25",
       "slug": "falcon-9-block-5-cygnus-crs-2-ng-25",
       "status": {
-        "id": 8,
-        "abbrev": "TBC",
-        "name": "To Be Confirmed",
-        "description": "Awaiting official confirmation - current date is known with some certainty."
+        "id": 1,
+        "abbrev": "Go",
+        "name": "Go for Launch",
+        "description": "Current T-0 confirmed by official or reliable sources."
       },
-      "net": "2026-11-29T16:00:00Z",
-      "window_start": "2026-11-29T16:00:00Z",
-      "window_end": "2026-11-29T16:00:00Z",
+      "net": "2026-11-29T15:49:00Z",
+      "window_start": "2026-11-29T15:49:00Z",
+      "window_end": "2026-11-29T15:49:00Z",
       "probability": null,
       "rocket": {
         "name": "Falcon 9",
@@ -2419,7 +2419,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-09-20T13:55:26.700417+00:00",
-      "last_updated_at": "2026-11-02T12:08:21.111044+00:00",
+      "last_updated_at": "2026-11-02T21:50:45.005686+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -2443,6 +2443,14 @@
           "net": "2026-11-29T16:00:00Z",
           "prev_net": "2026-11-30T00:00:00Z",
           "prev_abbrev": "TBD"
+        },
+        {
+          "at": "2026-11-02T21:50:45.005688+00:00",
+          "status_id": 1,
+          "abbrev": "Go",
+          "net": "2026-11-29T15:49:00Z",
+          "prev_net": "2026-11-29T16:00:00Z",
+          "prev_abbrev": "TBC"
         }
       ]
     },
@@ -2488,7 +2496,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-10-30T01:12:21.865880+00:00",
-      "last_updated_at": "2026-11-02T12:08:21.111039+00:00",
+      "last_updated_at": "2026-11-02T21:50:45.005681+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -2542,7 +2550,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-10-24T15:15:42.807177+00:00",
-      "last_updated_at": "2026-11-02T12:08:21.111034+00:00",
+      "last_updated_at": "2026-11-02T21:50:45.005677+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -2596,7 +2604,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-10-30T14:26:07.508863+00:00",
-      "last_updated_at": "2026-11-02T12:08:21.111029+00:00",
+      "last_updated_at": "2026-11-02T21:50:45.005673+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -2650,7 +2658,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-09-07T18:03:06.104420+00:00",
-      "last_updated_at": "2026-11-02T12:08:21.111024+00:00",
+      "last_updated_at": "2026-11-02T21:50:45.005666+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -2704,7 +2712,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-08-27T19:23:07.365257+00:00",
-      "last_updated_at": "2026-11-02T12:08:21.111017+00:00",
+      "last_updated_at": "2026-11-02T21:50:45.005662+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -2779,7 +2787,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-10-30T14:26:07.508834+00:00",
-      "last_updated_at": "2026-11-02T12:08:21.111011+00:00",
+      "last_updated_at": "2026-11-02T21:50:45.005658+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -2846,6 +2854,67 @@
       ]
     },
     {
+      "id": "db3500ac-965b-4ad8-b417-cb8d8d005586",
+      "name": "Electron | The Mountain God Rises (iQPS Launch 10)",
+      "slug": "electron-the-mountain-god-rises-iqps-launch-10",
+      "status": {
+        "id": 2,
+        "abbrev": "TBD",
+        "name": "To Be Determined",
+        "description": "Current date is a placeholder or rough estimation based on unreliable or interpreted sources."
+      },
+      "net": "2026-11-14T00:00:00Z",
+      "window_start": "2026-11-14T00:00:00Z",
+      "window_end": "2026-11-14T00:00:00Z",
+      "probability": null,
+      "rocket": {
+        "name": "Electron",
+        "family": "",
+        "manufacturer": "Rocket Lab",
+        "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/electron_image_20190705175640.jpeg"
+      },
+      "mission": {
+        "name": "The Mountain God Rises (iQPS Launch 10)",
+        "description": "Synthetic aperture radar Earth observation satellite for Japanese Earth imaging company iQPS.",
+        "type": "Earth Science",
+        "orbit": "Low Earth Orbit"
+      },
+      "pad": {
+        "name": "Unknown Pad",
+        "location": "Rocket Lab Launch Complex 1, Mahia Peninsula, New Zealand",
+        "country": "NZL",
+        "latitude": "-39.260881",
+        "longitude": "177.865826"
+      },
+      "agency": {
+        "name": "Rocket Lab",
+        "abbrev": "RL",
+        "type": "Commercial"
+      },
+      "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/electron_image_20190705175640.jpeg",
+      "vidURLs": [],
+      "webcast_live": false,
+      "discovered_at": "2026-10-12T23:42:24.165851+00:00",
+      "last_updated_at": "2026-11-02T21:50:45.005650+00:00",
+      "outcome": null,
+      "failure_reason": null,
+      "status_history": [
+        {
+          "at": "2026-10-12T23:42:24.165853+00:00",
+          "status_id": 2,
+          "abbrev": "TBD",
+          "net": "2026-11-10T00:00:00Z"
+        },
+        {
+          "at": "2026-11-02T21:50:45.005652+00:00",
+          "status_id": 2,
+          "abbrev": "TBD",
+          "net": "2026-11-14T00:00:00Z",
+          "prev_net": "2026-11-10T00:00:00Z"
+        }
+      ]
+    },
+    {
       "id": "ef9850ad-1096-425b-9d27-f7bbd186e61a",
       "name": "Vulcan VC6L | Amazon Leo (LV-01)",
       "slug": "vulcan-vc6l-amazon-leo-lv-01",
@@ -2887,7 +2956,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-08-02T05:39:37.830291+00:00",
-      "last_updated_at": "2026-11-02T12:08:21.111006+00:00",
+      "last_updated_at": "2026-11-02T21:50:45.005646+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -2937,9 +3006,9 @@
         "name": "To Be Confirmed",
         "description": "Awaiting official confirmation - current date is known with some certainty."
       },
-      "net": "2026-11-10T03:03:00Z",
-      "window_start": "2026-11-10T03:03:00Z",
-      "window_end": "2026-11-10T07:03:00Z",
+      "net": "2026-11-09T03:17:00Z",
+      "window_start": "2026-11-09T03:17:00Z",
+      "window_end": "2026-11-09T07:17:00Z",
       "probability": null,
       "rocket": {
         "name": "Falcon 9",
@@ -2969,7 +3038,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-10-28T19:15:47.262850+00:00",
-      "last_updated_at": "2026-11-02T12:08:21.110999+00:00",
+      "last_updated_at": "2026-11-02T21:50:45.005639+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -2978,60 +3047,13 @@
           "status_id": 8,
           "abbrev": "TBC",
           "net": "2026-11-10T03:03:00Z"
-        }
-      ]
-    },
-    {
-      "id": "db3500ac-965b-4ad8-b417-cb8d8d005586",
-      "name": "Electron | The Mountain God Rises (iQPS Launch 10)",
-      "slug": "electron-the-mountain-god-rises-iqps-launch-10",
-      "status": {
-        "id": 2,
-        "abbrev": "TBD",
-        "name": "To Be Determined",
-        "description": "Current date is a placeholder or rough estimation based on unreliable or interpreted sources."
-      },
-      "net": "2026-11-10T00:00:00Z",
-      "window_start": "2026-11-10T00:00:00Z",
-      "window_end": "2026-11-10T00:00:00Z",
-      "probability": null,
-      "rocket": {
-        "name": "Electron",
-        "family": "",
-        "manufacturer": "Rocket Lab",
-        "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/electron_image_20190705175640.jpeg"
-      },
-      "mission": {
-        "name": "The Mountain God Rises (iQPS Launch 10)",
-        "description": "Synthetic aperture radar Earth observation satellite for Japanese Earth imaging company iQPS.",
-        "type": "Earth Science",
-        "orbit": "Low Earth Orbit"
-      },
-      "pad": {
-        "name": "Unknown Pad",
-        "location": "Rocket Lab Launch Complex 1, Mahia Peninsula, New Zealand",
-        "country": "NZL",
-        "latitude": "-39.260881",
-        "longitude": "177.865826"
-      },
-      "agency": {
-        "name": "Rocket Lab",
-        "abbrev": "RL",
-        "type": "Commercial"
-      },
-      "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/electron_image_20190705175640.jpeg",
-      "vidURLs": [],
-      "webcast_live": false,
-      "discovered_at": "2026-10-12T23:42:24.165851+00:00",
-      "last_updated_at": "2026-11-02T12:08:21.110993+00:00",
-      "outcome": null,
-      "failure_reason": null,
-      "status_history": [
+        },
         {
-          "at": "2026-10-12T23:42:24.165853+00:00",
-          "status_id": 2,
-          "abbrev": "TBD",
-          "net": "2026-11-10T00:00:00Z"
+          "at": "2026-11-02T21:50:45.005641+00:00",
+          "status_id": 8,
+          "abbrev": "TBC",
+          "net": "2026-11-09T03:17:00Z",
+          "prev_net": "2026-11-10T03:03:00Z"
         }
       ]
     },
@@ -3077,7 +3099,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-10-28T23:22:29.605947+00:00",
-      "last_updated_at": "2026-11-02T12:08:21.110988+00:00",
+      "last_updated_at": "2026-11-02T21:50:45.005632+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -3139,7 +3161,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-10-27T00:39:05.512724+00:00",
-      "last_updated_at": "2026-11-02T12:08:21.110981+00:00",
+      "last_updated_at": "2026-11-02T21:50:45.005627+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -3201,7 +3223,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-10-30T14:26:07.508772+00:00",
-      "last_updated_at": "2026-11-02T12:08:21.110977+00:00",
+      "last_updated_at": "2026-11-02T21:50:45.005621+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -3210,6 +3232,90 @@
           "status_id": 1,
           "abbrev": "Go",
           "net": "2026-11-05T16:00:00Z"
+        }
+      ]
+    },
+    {
+      "id": "54d471e8-695c-4fa7-a3cf-dbd8b389e8ae",
+      "name": "Falcon 9 Block 5 | USSF-432",
+      "slug": "falcon-9-block-5-ussf-432",
+      "status": {
+        "id": 1,
+        "abbrev": "Go",
+        "name": "Go for Launch",
+        "description": "Current T-0 confirmed by official or reliable sources."
+      },
+      "net": "2026-11-05T01:14:00Z",
+      "window_start": "2026-11-05T01:14:00Z",
+      "window_end": "2026-11-05T05:14:00Z",
+      "probability": null,
+      "rocket": {
+        "name": "Falcon 9",
+        "family": "Falcon",
+        "manufacturer": "SpaceX",
+        "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/falcon_9_image_20230807133459.jpeg"
+      },
+      "mission": {
+        "name": "USSF-432",
+        "description": "A classified mission for the United States Space Force. It is possibly a batch of classified LEO satellites based on SpaceX\u2019s Starshield satellite bus, based on locations of rocket stage drop zones being exact fits with previous Starlink Group 15 launches.",
+        "type": "Government/Top Secret",
+        "orbit": "Low Earth Orbit"
+      },
+      "pad": {
+        "name": "Space Launch Complex 4E",
+        "location": "Vandenberg SFB, CA, USA",
+        "country": "USA",
+        "latitude": "34.632",
+        "longitude": "-120.611"
+      },
+      "agency": {
+        "name": "SpaceX",
+        "abbrev": "SpX",
+        "type": "Commercial"
+      },
+      "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/falcon_9_liftof_image_20260816171423.jpg",
+      "vidURLs": [
+        {
+          "title": "GO! - SpaceX - Falcon 9 - USSF-432 - SLC-4E - Vandenberg SFB, CA - Space Affairs Live",
+          "url": "https://www.youtube.com/watch?v=cANr44iNjd8"
+        },
+        {
+          "title": "USSF-432 Mission",
+          "url": "https://x.com/i/broadcasts/1kKzDPYrZNdJv"
+        }
+      ],
+      "webcast_live": false,
+      "discovered_at": "2026-10-26T21:06:41.100756+00:00",
+      "last_updated_at": "2026-11-02T21:50:45.005612+00:00",
+      "outcome": null,
+      "failure_reason": null,
+      "status_history": [
+        {
+          "at": "2026-10-26T21:06:41.100758+00:00",
+          "status_id": 1,
+          "abbrev": "Go",
+          "net": "2026-11-02T01:56:00Z"
+        },
+        {
+          "at": "2026-10-28T23:22:29.605928+00:00",
+          "status_id": 1,
+          "abbrev": "Go",
+          "net": "2026-11-03T01:42:00Z",
+          "prev_net": "2026-11-02T01:56:00Z"
+        },
+        {
+          "at": "2026-11-01T23:43:31.142015+00:00",
+          "status_id": 1,
+          "abbrev": "Go",
+          "net": "2026-11-04T01:28:00Z",
+          "prev_net": "2026-11-03T01:42:00Z"
+        },
+        {
+          "at": "2026-11-02T21:50:45.005615+00:00",
+          "status_id": 1,
+          "abbrev": "Go",
+          "net": "2026-11-05T01:14:00Z",
+          "prev_net": "2026-11-04T01:28:00Z"
         }
       ]
     },
@@ -3255,7 +3361,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-04-11T15:28:51.958924+00:00",
-      "last_updated_at": "2026-11-02T12:08:21.110970+00:00",
+      "last_updated_at": "2026-11-02T21:50:45.005605+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -3382,83 +3488,6 @@
       ]
     },
     {
-      "id": "54d471e8-695c-4fa7-a3cf-dbd8b389e8ae",
-      "name": "Falcon 9 Block 5 | USSF-432",
-      "slug": "falcon-9-block-5-ussf-432",
-      "status": {
-        "id": 1,
-        "abbrev": "Go",
-        "name": "Go for Launch",
-        "description": "Current T-0 confirmed by official or reliable sources."
-      },
-      "net": "2026-11-04T01:28:00Z",
-      "window_start": "2026-11-04T01:28:00Z",
-      "window_end": "2026-11-04T05:28:00Z",
-      "probability": null,
-      "rocket": {
-        "name": "Falcon 9",
-        "family": "Falcon",
-        "manufacturer": "SpaceX",
-        "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/falcon_9_image_20230807133459.jpeg"
-      },
-      "mission": {
-        "name": "USSF-432",
-        "description": "A classified mission for the United States Space Force. It is possibly a batch of classified LEO satellites based on SpaceX\u2019s Starshield satellite bus, based on locations of rocket stage drop zones being exact fits with previous Starlink Group 15 launches.",
-        "type": "Government/Top Secret",
-        "orbit": "Low Earth Orbit"
-      },
-      "pad": {
-        "name": "Space Launch Complex 4E",
-        "location": "Vandenberg SFB, CA, USA",
-        "country": "USA",
-        "latitude": "34.632",
-        "longitude": "-120.611"
-      },
-      "agency": {
-        "name": "SpaceX",
-        "abbrev": "SpX",
-        "type": "Commercial"
-      },
-      "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/falcon_9_liftof_image_20260816171423.jpg",
-      "vidURLs": [
-        {
-          "title": "GO! - SpaceX - Falcon 9 - USSF-432 - SLC-4E - Vandenberg SFB, CA - Space Affairs Live",
-          "url": "https://www.youtube.com/watch?v=cANr44iNjd8"
-        },
-        {
-          "title": "USSF-432 Mission",
-          "url": "https://x.com/i/broadcasts/1kKzDPYrZNdJv"
-        }
-      ],
-      "webcast_live": false,
-      "discovered_at": "2026-10-26T21:06:41.100756+00:00",
-      "last_updated_at": "2026-11-02T12:08:21.110959+00:00",
-      "outcome": null,
-      "failure_reason": null,
-      "status_history": [
-        {
-          "at": "2026-10-26T21:06:41.100758+00:00",
-          "status_id": 1,
-          "abbrev": "Go",
-          "net": "2026-11-02T01:56:00Z"
-        },
-        {
-          "at": "2026-10-28T23:22:29.605928+00:00",
-          "status_id": 1,
-          "abbrev": "Go",
-          "net": "2026-11-03T01:42:00Z",
-          "prev_net": "2026-11-02T01:56:00Z"
-        },
-        {
-          "at": "2026-11-01T23:43:31.142015+00:00",
-          "status_id": 1,
-          "abbrev": "Go",
-          "net": "2026-11-04T01:28:00Z",
-          "prev_net": "2026-11-03T01:42:00Z"
-        }
-      ]
-    },
-    {
       "id": "f3f201cd-0ff9-4ff7-9aaa-1d22c399c75a",
       "name": "Kinetica 2 | SpaceSail Polar Group TBD?",
       "slug": "kinetica-2-spacesail-polar-group-tbd",
@@ -3500,7 +3529,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-10-28T23:22:29.605910+00:00",
-      "last_updated_at": "2026-11-02T12:08:21.110948+00:00",
+      "last_updated_at": "2026-11-02T21:50:45.005595+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -3517,15 +3546,15 @@
       "name": "Electron | The Sea God Surveys (iQPS Launch 9)",
       "slug": "electron-the-sea-god-surveys-iqps-launch-9",
       "status": {
-        "id": 1,
-        "abbrev": "Go",
-        "name": "Go for Launch",
-        "description": "Current T-0 confirmed by official or reliable sources."
+        "id": 3,
+        "abbrev": "Success",
+        "name": "Launch Successful",
+        "description": "The launch vehicle successfully inserted its payload(s) into the target orbit(s)."
       },
       "net": "2026-11-02T16:41:00Z",
-      "window_start": "2026-11-02T16:00:00Z",
+      "window_start": "2026-11-02T16:30:00Z",
       "window_end": "2026-11-02T18:20:00Z",
-      "probability": null,
+      "probability": 90,
       "rocket": {
         "name": "Electron",
         "family": "",
@@ -3539,11 +3568,11 @@
         "orbit": "Low Earth Orbit"
       },
       "pad": {
-        "name": "Unknown Pad",
+        "name": "Rocket Lab Launch Complex 1A",
         "location": "Rocket Lab Launch Complex 1, Mahia Peninsula, New Zealand",
         "country": "NZL",
-        "latitude": "-39.260881",
-        "longitude": "177.865826"
+        "latitude": "-39.262833",
+        "longitude": "177.864469"
       },
       "agency": {
         "name": "Rocket Lab",
@@ -3559,8 +3588,8 @@
       ],
       "webcast_live": false,
       "discovered_at": "2026-10-12T23:42:24.165834+00:00",
-      "last_updated_at": "2026-11-02T12:08:21.110910+00:00",
-      "outcome": null,
+      "last_updated_at": "2026-11-02T21:50:45.005553+00:00",
+      "outcome": "success",
       "failure_reason": null,
       "status_history": [
         {
@@ -3598,6 +3627,13 @@
           "net": "2026-11-02T16:41:00Z",
           "prev_net": "2026-11-02T16:00:00Z",
           "prev_abbrev": "TBC"
+        },
+        {
+          "at": "2026-11-02T21:50:45.005578+00:00",
+          "status_id": 3,
+          "abbrev": "Success",
+          "net": "2026-11-02T16:41:00Z",
+          "prev_abbrev": "Go"
         }
       ]
     },
@@ -18269,5 +18305,5 @@
       ]
     }
   ],
-  "last_updated": "2026-11-02T12:08:21.111415+00:00"
+  "last_updated": "2026-11-02T21:50:45.006044+00:00"
 }
