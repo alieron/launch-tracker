@@ -630,7 +630,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-09-21T05:13:51.305816+00:00",
-      "last_updated_at": "2026-11-03T11:10:14.164994+00:00",
+      "last_updated_at": "2026-11-03T18:32:31.622947+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -1735,7 +1735,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-09-18T06:14:12.921747+00:00",
-      "last_updated_at": "2026-11-03T11:10:14.164987+00:00",
+      "last_updated_at": "2026-11-03T18:32:31.622938+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -2040,7 +2040,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-09-26T15:35:59.347779+00:00",
-      "last_updated_at": "2026-11-03T11:10:14.164968+00:00",
+      "last_updated_at": "2026-11-03T18:32:31.622904+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -2094,7 +2094,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-09-26T15:35:59.347786+00:00",
-      "last_updated_at": "2026-11-03T11:10:14.164975+00:00",
+      "last_updated_at": "2026-11-03T18:32:31.622921+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -2148,7 +2148,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-10-20T16:14:45.990903+00:00",
-      "last_updated_at": "2026-11-03T11:10:14.164928+00:00",
+      "last_updated_at": "2026-11-03T18:32:31.622878+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -2210,7 +2210,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-10-28T23:22:29.606071+00:00",
-      "last_updated_at": "2026-11-03T11:10:14.164981+00:00",
+      "last_updated_at": "2026-11-03T18:32:31.622931+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -2264,7 +2264,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-10-29T09:13:52.266895+00:00",
-      "last_updated_at": "2026-11-03T11:10:14.164935+00:00",
+      "last_updated_at": "2026-11-03T18:32:31.622886+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -2327,7 +2327,7 @@
       ],
       "webcast_live": false,
       "discovered_at": "2026-10-19T18:12:48.584036+00:00",
-      "last_updated_at": "2026-11-03T11:10:14.164946+00:00",
+      "last_updated_at": "2026-11-03T18:32:31.622896+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -2378,967 +2378,18 @@
       ]
     },
     {
-      "id": "d74afbc7-0de5-491c-be05-4e9c31f736ac",
-      "name": "Falcon 9 Block 5 | Cygnus CRS-2 NG-25",
-      "slug": "falcon-9-block-5-cygnus-crs-2-ng-25",
-      "status": {
-        "id": 1,
-        "abbrev": "Go",
-        "name": "Go for Launch",
-        "description": "Current T-0 confirmed by official or reliable sources."
-      },
-      "net": "2026-11-29T15:49:00Z",
-      "window_start": "2026-11-29T15:49:00Z",
-      "window_end": "2026-11-29T15:49:00Z",
-      "probability": null,
-      "rocket": {
-        "name": "Falcon 9",
-        "family": "Falcon",
-        "manufacturer": "SpaceX",
-        "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/falcon_9_image_20230807133459.jpeg"
-      },
-      "mission": {
-        "name": "Cygnus CRS-2 NG-25",
-        "description": "This is the 25th flight of the Orbital ATK's uncrewed resupply spacecraft Cygnus and its 24th flight to the International Space Station under the Commercial Resupply Services contract with NASA.",
-        "type": "Resupply",
-        "orbit": "Low Earth Orbit"
-      },
-      "pad": {
-        "name": "Space Launch Complex 40",
-        "location": "Cape Canaveral SFS, FL, USA",
-        "country": "USA",
-        "latitude": "28.56194122",
-        "longitude": "-80.57735736"
-      },
-      "agency": {
-        "name": "SpaceX",
-        "abbrev": "SpX",
-        "type": "Commercial"
-      },
-      "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/falcon_9_image_20230807133459.jpeg",
-      "vidURLs": [],
-      "webcast_live": false,
-      "discovered_at": "2026-09-20T13:55:26.700417+00:00",
-      "last_updated_at": "2026-11-03T11:10:14.164922+00:00",
-      "outcome": null,
-      "failure_reason": null,
-      "status_history": [
-        {
-          "at": "2026-09-20T13:55:26.700420+00:00",
-          "status_id": 2,
-          "abbrev": "TBD",
-          "net": "2026-12-31T00:00:00Z"
-        },
-        {
-          "at": "2026-10-04T17:14:39.079557+00:00",
-          "status_id": 2,
-          "abbrev": "TBD",
-          "net": "2026-11-30T00:00:00Z",
-          "prev_net": "2026-12-31T00:00:00Z"
-        },
-        {
-          "at": "2026-10-29T21:16:37.855607+00:00",
-          "status_id": 8,
-          "abbrev": "TBC",
-          "net": "2026-11-29T16:00:00Z",
-          "prev_net": "2026-11-30T00:00:00Z",
-          "prev_abbrev": "TBD"
-        },
-        {
-          "at": "2026-11-02T21:50:45.005688+00:00",
-          "status_id": 1,
-          "abbrev": "Go",
-          "net": "2026-11-29T15:49:00Z",
-          "prev_net": "2026-11-29T16:00:00Z",
-          "prev_abbrev": "TBC"
-        }
-      ]
-    },
-    {
-      "id": "dff42a2e-f047-48d7-b260-3888d3a4fe33",
-      "name": "Spectrum | AT-Astra and Others (Spectrum Flight 3)",
-      "slug": "spectrum-at-astra-and-others-spectrum-flight-3",
-      "status": {
-        "id": 8,
-        "abbrev": "TBC",
-        "name": "To Be Confirmed",
-        "description": "Awaiting official confirmation - current date is known with some certainty."
-      },
-      "net": "2026-11-26T20:00:00Z",
-      "window_start": "2026-11-26T20:00:00Z",
-      "window_end": "2026-11-26T21:30:00Z",
-      "probability": null,
-      "rocket": {
-        "name": "Spectrum",
-        "family": "",
-        "manufacturer": "Isar Aerospace",
-        "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/spectrum_on_the_image_20250321072643.jpeg"
-      },
-      "mission": {
-        "name": "AT-Astra and Others (Spectrum Flight 3)",
-        "description": "Third test flight of the Isar Spectrum launch vehicle. This launch will carry various satellites including R-Space\u2019s AT-Astra/IOD-01, which will perform in-orbit demonstrations for ENPULSION, SUNBOOSTER GmbH, and Synopsis Planet.",
-        "type": "Technology",
-        "orbit": "Sun-Synchronous Orbit"
-      },
-      "pad": {
-        "name": "Orbital Launch Pad",
-        "location": "And\u00f8ya Spaceport",
-        "country": "NOR",
-        "latitude": "69.1084",
-        "longitude": "15.5895"
-      },
-      "agency": {
-        "name": "Isar Aerospace",
-        "abbrev": "ISAR",
-        "type": "Private"
-      },
-      "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/spectrum_on_the_image_20250321072643.jpeg",
-      "vidURLs": [],
-      "webcast_live": false,
-      "discovered_at": "2026-10-30T01:12:21.865880+00:00",
-      "last_updated_at": "2026-11-03T11:10:14.164915+00:00",
-      "outcome": null,
-      "failure_reason": null,
-      "status_history": [
-        {
-          "at": "2026-10-30T01:12:21.865883+00:00",
-          "status_id": 8,
-          "abbrev": "TBC",
-          "net": "2026-11-26T20:00:00Z"
-        }
-      ]
-    },
-    {
-      "id": "c9605b67-8a53-4239-a8ae-577fe3b79799",
-      "name": "Long March 2F/G | Shenzhou 24",
-      "slug": "long-march-2fg-shenzhou-24",
-      "status": {
-        "id": 2,
-        "abbrev": "TBD",
-        "name": "To Be Determined",
-        "description": "Current date is a placeholder or rough estimation based on unreliable or interpreted sources."
-      },
-      "net": "2026-11-25T00:00:00Z",
-      "window_start": "2026-11-25T00:00:00Z",
-      "window_end": "2026-11-25T00:00:00Z",
-      "probability": null,
-      "rocket": {
-        "name": "Long March 2F/G",
-        "family": "Long March",
-        "manufacturer": "China Aerospace Science and Technology Corporation",
-        "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/shenzhou_22_lau_image_20251129175823.jpg"
-      },
-      "mission": {
-        "name": "Shenzhou 24",
-        "description": "Shenzhou 24 will be the 24th flight of the Shenzhou program.\r\n\r\nThe first astronaut from Pakistan is expected to fly on this on a short duration mission, with another Chinese astronaut to undergo a year long expedition.",
-        "type": "Human Exploration",
-        "orbit": "Low Earth Orbit"
-      },
-      "pad": {
-        "name": "Launch Area 91 (SLS-1 / 921)",
-        "location": "Jiuquan Satellite Launch Center, People's Republic of China",
-        "country": "CHN",
-        "latitude": "40.957893",
-        "longitude": "100.290944"
-      },
-      "agency": {
-        "name": "China Aerospace Science and Technology Corporation",
-        "abbrev": "CASC",
-        "type": "Government"
-      },
-      "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/shenzhou_22_lau_image_20251129175823.jpg",
-      "vidURLs": [],
-      "webcast_live": false,
-      "discovered_at": "2026-10-24T15:15:42.807177+00:00",
-      "last_updated_at": "2026-11-03T11:10:14.164909+00:00",
-      "outcome": null,
-      "failure_reason": null,
-      "status_history": [
-        {
-          "at": "2026-10-24T15:15:42.807179+00:00",
-          "status_id": 2,
-          "abbrev": "TBD",
-          "net": "2026-11-25T00:00:00Z"
-        }
-      ]
-    },
-    {
-      "id": "5ce59e3a-c343-430f-ae4e-e608ba536754",
-      "name": "Long March 12 | SatNet LEO Group TBD?",
-      "slug": "long-march-12-satnet-leo-group-tbd-2",
-      "status": {
-        "id": 8,
-        "abbrev": "TBC",
-        "name": "To Be Confirmed",
-        "description": "Awaiting official confirmation - current date is known with some certainty."
-      },
-      "net": "2026-11-24T07:00:00Z",
-      "window_start": "2026-11-24T07:00:00Z",
-      "window_end": "2026-11-24T10:00:00Z",
-      "probability": null,
-      "rocket": {
-        "name": "Long March 12",
-        "family": "Long March",
-        "manufacturer": "China Aerospace Science and Technology Corporation",
-        "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/cz-12_on_its_la_image_20241128132937.jpg"
-      },
-      "mission": {
-        "name": "SatNet LEO Group TBD?",
-        "description": "A batch of 9 Low Earth Orbit communication satellites for the Chinese state owned SatNet constellation operated by the China Satellite Network Group.\r\n\r\nThe constellation will eventually consists of 13000 satellites.",
-        "type": "Communications",
-        "orbit": "Low Earth Orbit"
-      },
-      "pad": {
-        "name": "Commercial LC-2",
-        "location": "Wenchang Space Launch Site, People's Republic of China",
-        "country": "CHN",
-        "latitude": "19.59755",
-        "longitude": "110.936481"
-      },
-      "agency": {
-        "name": "China Aerospace Science and Technology Corporation",
-        "abbrev": "CASC",
-        "type": "Government"
-      },
-      "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/cz-12_on_its_la_image_20241128132937.jpg",
-      "vidURLs": [],
-      "webcast_live": false,
-      "discovered_at": "2026-10-30T14:26:07.508863+00:00",
-      "last_updated_at": "2026-11-03T11:10:14.164903+00:00",
-      "outcome": null,
-      "failure_reason": null,
-      "status_history": [
-        {
-          "at": "2026-10-30T14:26:07.508866+00:00",
-          "status_id": 8,
-          "abbrev": "TBC",
-          "net": "2026-11-24T07:00:00Z"
-        }
-      ]
-    },
-    {
-      "id": "8dd5de11-831b-445f-86f0-bffefe0550d9",
-      "name": "Soyuz 2.1b | Progress MS-36 (97P)",
-      "slug": "soyuz-21b-progress-ms-36-97p",
-      "status": {
-        "id": 8,
-        "abbrev": "TBC",
-        "name": "To Be Confirmed",
-        "description": "Awaiting official confirmation - current date is known with some certainty."
-      },
-      "net": "2026-11-24T05:03:00Z",
-      "window_start": "2026-11-24T05:03:00Z",
-      "window_end": "2026-11-24T05:03:00Z",
-      "probability": null,
-      "rocket": {
-        "name": "Soyuz 2.1b",
-        "family": "Soyuz",
-        "manufacturer": "Progress Rocket Space Center",
-        "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/soyuz_2.1b_image_20230802085331.jpg"
-      },
-      "mission": {
-        "name": "Progress MS-36 (97P)",
-        "description": "Progress resupply mission to the International Space Station.",
-        "type": "Resupply",
-        "orbit": "Low Earth Orbit"
-      },
-      "pad": {
-        "name": "31/6",
-        "location": "Baikonur Cosmodrome, Republic of Kazakhstan",
-        "country": "KAZ",
-        "latitude": "45.996034",
-        "longitude": "63.564003"
-      },
-      "agency": {
-        "name": "Russian Federal Space Agency (ROSCOSMOS)",
-        "abbrev": "RFSA",
-        "type": "Government"
-      },
-      "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/soyuz_2.1b_image_20230802085331.jpg",
-      "vidURLs": [],
-      "webcast_live": false,
-      "discovered_at": "2026-09-07T18:03:06.104420+00:00",
-      "last_updated_at": "2026-11-03T11:10:14.164894+00:00",
-      "outcome": null,
-      "failure_reason": null,
-      "status_history": [
-        {
-          "at": "2026-09-07T18:03:06.104423+00:00",
-          "status_id": 8,
-          "abbrev": "TBC",
-          "net": "2026-11-24T05:03:00Z"
-        }
-      ]
-    },
-    {
-      "id": "7bdc412b-c965-4517-a131-f57a01189803",
-      "name": "Ariane 64 Block 2 | Amazon Leo (LE-04)",
-      "slug": "ariane-64-block-2-amazon-leo-le-04",
-      "status": {
-        "id": 2,
-        "abbrev": "TBD",
-        "name": "To Be Determined",
-        "description": "Current date is a placeholder or rough estimation based on unreliable or interpreted sources."
-      },
-      "net": "2026-11-23T00:00:00Z",
-      "window_start": "2026-11-23T00:00:00Z",
-      "window_end": "2026-11-23T00:00:00Z",
-      "probability": null,
-      "rocket": {
-        "name": "Ariane 64",
-        "family": "Ariane",
-        "manufacturer": "ArianeGroup",
-        "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/ariane_64_lifto_image_20260618063419.jpg"
-      },
-      "mission": {
-        "name": "Amazon Leo (LE-04)",
-        "description": "Amazon Leo, formerly known as Project Kuiper, is a mega constellation of satellites in Low Earth Orbit that will offer broadband internet access, this constellation will be managed by Kuiper Systems LLC, a subsidiary of Amazon. This constellation is planned to be composed of 3,276 satellites. The satellites are projected to be placed in 98 orbital planes in three orbital layers, one at 590 km, 610 km and 630 km altitude.\r\n\r\n35-40 satellites will be carried on each Ariane 6 launch.",
-        "type": "Communications",
-        "orbit": "Low Earth Orbit"
-      },
-      "pad": {
-        "name": "Ariane Launch Area 4",
-        "location": "Guiana Space Centre, French Guiana",
-        "country": "GUF",
-        "latitude": "5.256319",
-        "longitude": "-52.786838"
-      },
-      "agency": {
-        "name": "Arianespace",
-        "abbrev": "ASA",
-        "type": "Commercial"
-      },
-      "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/ariane_64_lifto_image_20260618063419.jpg",
-      "vidURLs": [],
-      "webcast_live": false,
-      "discovered_at": "2026-08-27T19:23:07.365257+00:00",
-      "last_updated_at": "2026-11-03T11:10:14.164887+00:00",
-      "outcome": null,
-      "failure_reason": null,
-      "status_history": [
-        {
-          "at": "2026-08-27T19:23:07.365260+00:00",
-          "status_id": 2,
-          "abbrev": "TBD",
-          "net": "2026-10-07T00:00:00Z"
-        },
-        {
-          "at": "2026-09-25T14:40:32.258690+00:00",
-          "status_id": 2,
-          "abbrev": "TBD",
-          "net": "2026-10-31T00:00:00Z",
-          "prev_net": "2026-10-07T00:00:00Z"
-        },
-        {
-          "at": "2026-10-13T19:42:22.515359+00:00",
-          "status_id": 2,
-          "abbrev": "TBD",
-          "net": "2026-11-30T00:00:00Z",
-          "prev_net": "2026-10-31T00:00:00Z"
-        },
-        {
-          "at": "2026-10-14T18:46:11.934461+00:00",
-          "status_id": 2,
-          "abbrev": "TBD",
-          "net": "2026-11-23T00:00:00Z",
-          "prev_net": "2026-11-30T00:00:00Z"
-        }
-      ]
-    },
-    {
-      "id": "a2975167-7c6f-4403-99e1-b40df17c8140",
-      "name": "Long March 8A | SatNet LEO Group TBD?",
-      "slug": "long-march-8a-satnet-leo-group-tbd",
-      "status": {
-        "id": 8,
-        "abbrev": "TBC",
-        "name": "To Be Confirmed",
-        "description": "Awaiting official confirmation - current date is known with some certainty."
-      },
-      "net": "2026-11-20T11:00:00Z",
-      "window_start": "2026-11-20T11:00:00Z",
-      "window_end": "2026-11-20T14:00:00Z",
-      "probability": null,
-      "rocket": {
-        "name": "Long March 8A",
-        "family": "Long March",
-        "manufacturer": "China Aerospace Science and Technology Corporation",
-        "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/cz-8a_launch_2_image_20251206093107.jpeg"
-      },
-      "mission": {
-        "name": "SatNet LEO Group TBD?",
-        "description": "A batch of 9 Low Earth Orbit communication satellites for the Chinese state owned SatNet constellation operated by the China Satellite Network Group.\r\n\r\nThe constellation will eventually consists of 13000 satellites.",
-        "type": "Communications",
-        "orbit": "Low Earth Orbit"
-      },
-      "pad": {
-        "name": "Commercial LC-1",
-        "location": "Wenchang Space Launch Site, People's Republic of China",
-        "country": "CHN",
-        "latitude": "19.597275",
-        "longitude": "110.930753"
-      },
-      "agency": {
-        "name": "China Aerospace Science and Technology Corporation",
-        "abbrev": "CASC",
-        "type": "Government"
-      },
-      "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/cz-8a_launch_2_image_20251206093107.jpeg",
-      "vidURLs": [],
-      "webcast_live": false,
-      "discovered_at": "2026-10-30T14:26:07.508834+00:00",
-      "last_updated_at": "2026-11-03T11:10:14.164878+00:00",
-      "outcome": null,
-      "failure_reason": null,
-      "status_history": [
-        {
-          "at": "2026-10-30T14:26:07.508836+00:00",
-          "status_id": 8,
-          "abbrev": "TBC",
-          "net": "2026-11-20T11:00:00Z"
-        }
-      ]
-    },
-    {
-      "id": "bff2fc91-eddd-4dfc-af26-ac0674cfab4d",
-      "name": "Soyuz 2.1a/Fregat-M | MKA Kinosputnik, KOEN and others",
-      "slug": "soyuz-21afregat-m-mka-kinosputnik-koen-and-others",
-      "status": {
-        "id": 2,
-        "abbrev": "TBD",
-        "name": "To Be Determined",
-        "description": "Current date is a placeholder or rough estimation based on unreliable or interpreted sources."
-      },
-      "net": "2026-11-19T00:00:00Z",
-      "window_start": "2026-11-19T00:00:00Z",
-      "window_end": "2026-11-19T00:00:00Z",
-      "probability": null,
-      "rocket": {
-        "name": "Soyuz 2.1a/Fregat-M",
-        "family": "Soyuz",
-        "manufacturer": "Progress Rocket Space Center",
-        "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/soyuz25202.1a_image_20190726062341.png"
-      },
-      "mission": {
-        "name": "MKA Kinosputnik, KOEN and others",
-        "description": "Share-ride of multiple satellites, including dual-use optical Earth observation satellites and drone-guiding satellites:\r\n\r\n* MKA Kinosputnik\r\n* KOEN, KA MT-LAB\r\n* NPO Kaisant 6U cubesat with a Germes modem\r\n* NPO Kaisant 16U cubesat with Gonets modems",
-        "type": "Technology",
-        "orbit": "Sun-Synchronous Orbit"
-      },
-      "pad": {
-        "name": "Cosmodrome Site 1S",
-        "location": "Vostochny Cosmodrome, Siberia, Russian Federation",
-        "country": "RUS",
-        "latitude": "51.884395",
-        "longitude": "128.333932"
-      },
-      "agency": {
-        "name": "Russian Federal Space Agency (ROSCOSMOS)",
-        "abbrev": "RFSA",
-        "type": "Government"
-      },
-      "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/soyuz25202.1a_image_20190726062341.png",
-      "vidURLs": [],
-      "webcast_live": false,
-      "discovered_at": "2026-09-06T21:30:42.563128+00:00",
-      "last_updated_at": "2026-09-08T12:32:42.913695+00:00",
-      "outcome": null,
-      "failure_reason": null,
-      "status_history": [
-        {
-          "at": "2026-09-06T21:30:42.563130+00:00",
-          "status_id": 2,
-          "abbrev": "TBD",
-          "net": "2026-11-19T00:00:00Z"
-        }
-      ]
-    },
-    {
-      "id": "db3500ac-965b-4ad8-b417-cb8d8d005586",
-      "name": "Electron | The Mountain God Rises (iQPS Launch 10)",
-      "slug": "electron-the-mountain-god-rises-iqps-launch-10",
-      "status": {
-        "id": 2,
-        "abbrev": "TBD",
-        "name": "To Be Determined",
-        "description": "Current date is a placeholder or rough estimation based on unreliable or interpreted sources."
-      },
-      "net": "2026-11-14T00:00:00Z",
-      "window_start": "2026-11-14T00:00:00Z",
-      "window_end": "2026-11-14T00:00:00Z",
-      "probability": null,
-      "rocket": {
-        "name": "Electron",
-        "family": "",
-        "manufacturer": "Rocket Lab",
-        "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/electron_image_20190705175640.jpeg"
-      },
-      "mission": {
-        "name": "The Mountain God Rises (iQPS Launch 10)",
-        "description": "Synthetic aperture radar Earth observation satellite for Japanese Earth imaging company iQPS.",
-        "type": "Earth Science",
-        "orbit": "Low Earth Orbit"
-      },
-      "pad": {
-        "name": "Unknown Pad",
-        "location": "Rocket Lab Launch Complex 1, Mahia Peninsula, New Zealand",
-        "country": "NZL",
-        "latitude": "-39.260881",
-        "longitude": "177.865826"
-      },
-      "agency": {
-        "name": "Rocket Lab",
-        "abbrev": "RL",
-        "type": "Commercial"
-      },
-      "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/electron_image_20190705175640.jpeg",
-      "vidURLs": [],
-      "webcast_live": false,
-      "discovered_at": "2026-10-12T23:42:24.165851+00:00",
-      "last_updated_at": "2026-11-03T11:10:14.164870+00:00",
-      "outcome": null,
-      "failure_reason": null,
-      "status_history": [
-        {
-          "at": "2026-10-12T23:42:24.165853+00:00",
-          "status_id": 2,
-          "abbrev": "TBD",
-          "net": "2026-11-10T00:00:00Z"
-        },
-        {
-          "at": "2026-11-02T21:50:45.005652+00:00",
-          "status_id": 2,
-          "abbrev": "TBD",
-          "net": "2026-11-14T00:00:00Z",
-          "prev_net": "2026-11-10T00:00:00Z"
-        }
-      ]
-    },
-    {
-      "id": "ef9850ad-1096-425b-9d27-f7bbd186e61a",
-      "name": "Vulcan VC6L | Amazon Leo (LV-01)",
-      "slug": "vulcan-vc6l-amazon-leo-lv-01",
-      "status": {
-        "id": 2,
-        "abbrev": "TBD",
-        "name": "To Be Determined",
-        "description": "Current date is a placeholder or rough estimation based on unreliable or interpreted sources."
-      },
-      "net": "2026-11-13T00:00:00Z",
-      "window_start": "2026-11-13T00:00:00Z",
-      "window_end": "2026-11-13T00:00:00Z",
-      "probability": null,
-      "rocket": {
-        "name": "Vulcan VC6L",
-        "family": "Vulcan",
-        "manufacturer": "United Launch Alliance",
-        "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/vulcan_vc6l_image_20220406123130.jpg"
-      },
-      "mission": {
-        "name": "Amazon Leo (LV-01)",
-        "description": "Amazon Leo, formerly known as Project Kuiper, is a mega constellation of satellites in Low Earth Orbit that will offer broadband internet access, this constellation will be managed by Kuiper Systems LLC, a subsidiary of Amazon. This constellation is planned to be composed of 3,276 satellites. The satellites are projected to be placed in 98 orbital planes in three orbital layers, one at 590 km, 610 km and 630 km altitude.\r\n\r\n45 satellites will be carried on each Vulcan launch.",
-        "type": "Communications",
-        "orbit": "Low Earth Orbit"
-      },
-      "pad": {
-        "name": "Space Launch Complex 41",
-        "location": "Cape Canaveral SFS, FL, USA",
-        "country": "USA",
-        "latitude": "28.58341025",
-        "longitude": "-80.58303644"
-      },
-      "agency": {
-        "name": "United Launch Alliance",
-        "abbrev": "ULA",
-        "type": "Commercial"
-      },
-      "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/vulcan_vc6l_image_20220406123130.jpg",
-      "vidURLs": [],
-      "webcast_live": false,
-      "discovered_at": "2026-08-02T05:39:37.830291+00:00",
-      "last_updated_at": "2026-11-03T11:10:14.164864+00:00",
-      "outcome": null,
-      "failure_reason": null,
-      "status_history": [
-        {
-          "at": "2026-08-02T05:39:37.830294+00:00",
-          "status_id": 2,
-          "abbrev": "TBD",
-          "net": "2026-09-30T00:00:00Z"
-        },
-        {
-          "at": "2026-09-20T05:08:34.676835+00:00",
-          "status_id": 2,
-          "abbrev": "TBD",
-          "net": "2026-10-31T00:00:00Z",
-          "prev_net": "2026-09-30T00:00:00Z"
-        },
-        {
-          "at": "2026-10-08T21:44:54.327446+00:00",
-          "status_id": 2,
-          "abbrev": "TBD",
-          "net": "2026-10-29T00:00:00Z",
-          "prev_net": "2026-10-31T00:00:00Z"
-        },
-        {
-          "at": "2026-10-24T15:15:42.807225+00:00",
-          "status_id": 2,
-          "abbrev": "TBD",
-          "net": "2026-11-30T00:00:00Z",
-          "prev_net": "2026-10-29T00:00:00Z"
-        },
-        {
-          "at": "2026-10-28T19:15:47.262865+00:00",
-          "status_id": 2,
-          "abbrev": "TBD",
-          "net": "2026-11-13T00:00:00Z",
-          "prev_net": "2026-11-30T00:00:00Z"
-        }
-      ]
-    },
-    {
-      "id": "6aa7b90b-e5ed-45d8-a52e-04fbf399d178",
-      "name": "Falcon 9 Block 5 | USSF-xxx (\"R-5\")",
-      "slug": "falcon-9-block-5-ussf-xxx-r-5",
-      "status": {
-        "id": 8,
-        "abbrev": "TBC",
-        "name": "To Be Confirmed",
-        "description": "Awaiting official confirmation - current date is known with some certainty."
-      },
-      "net": "2026-11-09T03:17:00Z",
-      "window_start": "2026-11-09T03:17:00Z",
-      "window_end": "2026-11-09T07:17:00Z",
-      "probability": null,
-      "rocket": {
-        "name": "Falcon 9",
-        "family": "Falcon",
-        "manufacturer": "SpaceX",
-        "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/falcon_9_image_20230807133459.jpeg"
-      },
-      "mission": {
-        "name": "USSF-xxx (\"R-5\")",
-        "description": "A classified mission for the United States Space Force. It is possibly a batch of classified LEO satellites based on SpaceX\u2019s Starshield satellite bus, based on locations of rocket stage drop zones being exact fits with previous Starlink Group 15 launches.",
-        "type": "Government/Top Secret",
-        "orbit": "Low Earth Orbit"
-      },
-      "pad": {
-        "name": "Space Launch Complex 4E",
-        "location": "Vandenberg SFB, CA, USA",
-        "country": "USA",
-        "latitude": "34.632",
-        "longitude": "-120.611"
-      },
-      "agency": {
-        "name": "SpaceX",
-        "abbrev": "SpX",
-        "type": "Commercial"
-      },
-      "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/falcon_9_liftof_image_20260816171423.jpg",
-      "vidURLs": [],
-      "webcast_live": false,
-      "discovered_at": "2026-10-28T19:15:47.262850+00:00",
-      "last_updated_at": "2026-11-03T11:10:14.164857+00:00",
-      "outcome": null,
-      "failure_reason": null,
-      "status_history": [
-        {
-          "at": "2026-10-28T19:15:47.262852+00:00",
-          "status_id": 8,
-          "abbrev": "TBC",
-          "net": "2026-11-10T03:03:00Z"
-        },
-        {
-          "at": "2026-11-02T21:50:45.005641+00:00",
-          "status_id": 8,
-          "abbrev": "TBC",
-          "net": "2026-11-09T03:17:00Z",
-          "prev_net": "2026-11-10T03:03:00Z"
-        }
-      ]
-    },
-    {
-      "id": "54d471e8-695c-4fa7-a3cf-dbd8b389e8ae",
-      "name": "Falcon 9 Block 5 | USSF-432",
-      "slug": "falcon-9-block-5-ussf-432",
-      "status": {
-        "id": 1,
-        "abbrev": "Go",
-        "name": "Go for Launch",
-        "description": "Current T-0 confirmed by official or reliable sources."
-      },
-      "net": "2026-11-07T00:46:00Z",
-      "window_start": "2026-11-07T00:46:00Z",
-      "window_end": "2026-11-07T04:46:00Z",
-      "probability": null,
-      "rocket": {
-        "name": "Falcon 9",
-        "family": "Falcon",
-        "manufacturer": "SpaceX",
-        "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/falcon_9_image_20230807133459.jpeg"
-      },
-      "mission": {
-        "name": "USSF-432",
-        "description": "A classified mission for the United States Space Force. It is possibly a batch of classified LEO satellites based on SpaceX\u2019s Starshield satellite bus, based on locations of rocket stage drop zones being exact fits with previous Starlink Group 15 launches.",
-        "type": "Government/Top Secret",
-        "orbit": "Low Earth Orbit"
-      },
-      "pad": {
-        "name": "Space Launch Complex 4E",
-        "location": "Vandenberg SFB, CA, USA",
-        "country": "USA",
-        "latitude": "34.632",
-        "longitude": "-120.611"
-      },
-      "agency": {
-        "name": "SpaceX",
-        "abbrev": "SpX",
-        "type": "Commercial"
-      },
-      "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/falcon_9_liftof_image_20260816171423.jpg",
-      "vidURLs": [
-        {
-          "title": "GO! - SpaceX - Falcon 9 - USSF-432 - SLC-4E - Vandenberg SFB, CA - Space Affairs Live",
-          "url": "https://www.youtube.com/watch?v=cANr44iNjd8"
-        },
-        {
-          "title": "USSF-432 Mission",
-          "url": "https://x.com/i/broadcasts/1kKzDPYrZNdJv"
-        }
-      ],
-      "webcast_live": false,
-      "discovered_at": "2026-10-26T21:06:41.100756+00:00",
-      "last_updated_at": "2026-11-03T11:10:14.164850+00:00",
-      "outcome": null,
-      "failure_reason": null,
-      "status_history": [
-        {
-          "at": "2026-10-26T21:06:41.100758+00:00",
-          "status_id": 1,
-          "abbrev": "Go",
-          "net": "2026-11-02T01:56:00Z"
-        },
-        {
-          "at": "2026-10-28T23:22:29.605928+00:00",
-          "status_id": 1,
-          "abbrev": "Go",
-          "net": "2026-11-03T01:42:00Z",
-          "prev_net": "2026-11-02T01:56:00Z"
-        },
-        {
-          "at": "2026-11-01T23:43:31.142015+00:00",
-          "status_id": 1,
-          "abbrev": "Go",
-          "net": "2026-11-04T01:28:00Z",
-          "prev_net": "2026-11-03T01:42:00Z"
-        },
-        {
-          "at": "2026-11-02T21:50:45.005615+00:00",
-          "status_id": 1,
-          "abbrev": "Go",
-          "net": "2026-11-05T01:14:00Z",
-          "prev_net": "2026-11-04T01:28:00Z"
-        },
-        {
-          "at": "2026-11-03T03:15:29.472311+00:00",
-          "status_id": 1,
-          "abbrev": "Go",
-          "net": "2026-11-07T00:46:00Z",
-          "prev_net": "2026-11-05T01:14:00Z"
-        }
-      ]
-    },
-    {
-      "id": "e91d1da2-819b-4523-95bf-39ac7daa871d",
-      "name": "Ceres-2 | Unknown Payload",
-      "slug": "ceres-2-unknown-payload",
-      "status": {
-        "id": 1,
-        "abbrev": "Go",
-        "name": "Go for Launch",
-        "description": "Current T-0 confirmed by official or reliable sources."
-      },
-      "net": "2026-11-06T23:35:00Z",
-      "window_start": "2026-11-06T23:28:00Z",
-      "window_end": "2026-11-06T23:50:00Z",
-      "probability": null,
-      "rocket": {
-        "name": "Ceres-2",
-        "family": "",
-        "manufacturer": "Galactic Energy",
-        "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/ceres-2_illustr_image_20251210054657.png"
-      },
-      "mission": {
-        "name": "Unknown Payload",
-        "description": "Details TBD.",
-        "type": "Unknown",
-        "orbit": "Unknown"
-      },
-      "pad": {
-        "name": "Launch Area 95A",
-        "location": "Jiuquan Satellite Launch Center, People's Republic of China",
-        "country": "CHN",
-        "latitude": "40.969117",
-        "longitude": "100.343333"
-      },
-      "agency": {
-        "name": "Galactic Energy",
-        "abbrev": "GE",
-        "type": "Commercial"
-      },
-      "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/ceres-2_illustr_image_20251210054657.png",
-      "vidURLs": [],
-      "webcast_live": false,
-      "discovered_at": "2026-10-28T23:22:29.605947+00:00",
-      "last_updated_at": "2026-11-03T11:10:14.164840+00:00",
-      "outcome": null,
-      "failure_reason": null,
-      "status_history": [
-        {
-          "at": "2026-10-28T23:22:29.605950+00:00",
-          "status_id": 8,
-          "abbrev": "TBC",
-          "net": "2026-11-04T21:00:00Z"
-        },
-        {
-          "at": "2026-11-02T03:58:39.040696+00:00",
-          "status_id": 1,
-          "abbrev": "Go",
-          "net": "2026-11-06T23:35:00Z",
-          "prev_net": "2026-11-04T21:00:00Z",
-          "prev_abbrev": "TBC"
-        }
-      ]
-    },
-    {
-      "id": "a2423132-f965-423f-8b03-6891b775dc54",
-      "name": "Long March 12 | SatNet LEO Group TBD?",
-      "slug": "long-march-12-satnet-leo-group-tbd",
-      "status": {
-        "id": 1,
-        "abbrev": "Go",
-        "name": "Go for Launch",
-        "description": "Current T-0 confirmed by official or reliable sources."
-      },
-      "net": "2026-11-05T21:15:00Z",
-      "window_start": "2026-11-05T21:10:00Z",
-      "window_end": "2026-11-05T21:39:00Z",
-      "probability": null,
-      "rocket": {
-        "name": "Long March 12",
-        "family": "Long March",
-        "manufacturer": "China Aerospace Science and Technology Corporation",
-        "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/cz-12_on_its_la_image_20241128132937.jpg"
-      },
-      "mission": {
-        "name": "SatNet LEO Group TBD?",
-        "description": "A batch of 9 Low Earth Orbit communication satellites for the Chinese state owned SatNet constellation operated by the China Satellite Network Group.\r\n\r\nThe constellation will eventually consists of 13000 satellites.",
-        "type": "Communications",
-        "orbit": "Low Earth Orbit"
-      },
-      "pad": {
-        "name": "Commercial LC-2",
-        "location": "Wenchang Space Launch Site, People's Republic of China",
-        "country": "CHN",
-        "latitude": "19.59755",
-        "longitude": "110.936481"
-      },
-      "agency": {
-        "name": "China Aerospace Science and Technology Corporation",
-        "abbrev": "CASC",
-        "type": "Government"
-      },
-      "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/cz-12_on_its_la_image_20241128132937.jpg",
-      "vidURLs": [],
-      "webcast_live": false,
-      "discovered_at": "2026-10-27T00:39:05.512724+00:00",
-      "last_updated_at": "2026-11-03T11:10:14.164833+00:00",
-      "outcome": null,
-      "failure_reason": null,
-      "status_history": [
-        {
-          "at": "2026-10-27T00:39:05.512727+00:00",
-          "status_id": 8,
-          "abbrev": "TBC",
-          "net": "2026-11-05T20:00:00Z"
-        },
-        {
-          "at": "2026-10-30T14:26:07.508793+00:00",
-          "status_id": 1,
-          "abbrev": "Go",
-          "net": "2026-11-05T21:15:00Z",
-          "prev_net": "2026-11-05T20:00:00Z",
-          "prev_abbrev": "TBC"
-        }
-      ]
-    },
-    {
-      "id": "711de6bc-f755-475b-a12f-ec5240da3a11",
-      "name": "Long March 2C | Unknown Payload",
-      "slug": "long-march-2c-unknown-payload",
-      "status": {
-        "id": 1,
-        "abbrev": "Go",
-        "name": "Go for Launch",
-        "description": "Current T-0 confirmed by official or reliable sources."
-      },
-      "net": "2026-11-05T16:00:00Z",
-      "window_start": "2026-11-05T15:52:00Z",
-      "window_end": "2026-11-05T16:16:00Z",
-      "probability": null,
-      "rocket": {
-        "name": "Long March 2C",
-        "family": "Long March",
-        "manufacturer": "China Aerospace Science and Technology Corporation",
-        "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/long_march_2_image_20230803100234.jpeg"
-      },
-      "mission": {
-        "name": "Unknown Payload",
-        "description": "Details TBD.",
-        "type": "Unknown",
-        "orbit": "Unknown"
-      },
-      "pad": {
-        "name": "Launch Complex 3 (LC-3/LA-1)",
-        "location": "Xichang Satellite Launch Center, People's Republic of China",
-        "country": "CHN",
-        "latitude": "28.247059",
-        "longitude": "102.029008"
-      },
-      "agency": {
-        "name": "China Aerospace Science and Technology Corporation",
-        "abbrev": "CASC",
-        "type": "Government"
-      },
-      "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/long_march_2_image_20230803100234.jpeg",
-      "vidURLs": [],
-      "webcast_live": false,
-      "discovered_at": "2026-10-30T14:26:07.508772+00:00",
-      "last_updated_at": "2026-11-03T11:10:14.164823+00:00",
-      "outcome": null,
-      "failure_reason": null,
-      "status_history": [
-        {
-          "at": "2026-10-30T14:26:07.508776+00:00",
-          "status_id": 1,
-          "abbrev": "Go",
-          "net": "2026-11-05T16:00:00Z"
-        }
-      ]
-    },
-    {
       "id": "9e27a1ed-e81a-4918-b32b-0380cf3a9f8f",
       "name": "Mir | Demo Flight",
       "slug": "mir-demo-flight",
       "status": {
-        "id": 8,
-        "abbrev": "TBC",
-        "name": "To Be Confirmed",
-        "description": "Awaiting official confirmation - current date is known with some certainty."
+        "id": 2,
+        "abbrev": "TBD",
+        "name": "To Be Determined",
+        "description": "Current date is a placeholder or rough estimation based on unreliable or interpreted sources."
       },
-      "net": "2026-11-04T05:00:00Z",
-      "window_start": "2026-11-04T05:00:00Z",
-      "window_end": "2026-11-04T09:00:00Z",
+      "net": "2026-11-30T00:00:00Z",
+      "window_start": "2026-11-30T00:00:00Z",
+      "window_end": "2026-11-30T00:00:00Z",
       "probability": null,
       "rocket": {
         "name": "Mir",
@@ -3368,7 +2419,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-04-11T15:28:51.958924+00:00",
-      "last_updated_at": "2026-11-03T11:10:14.164808+00:00",
+      "last_updated_at": "2026-11-03T18:32:31.622911+00:00",
       "outcome": null,
       "failure_reason": null,
       "status_history": [
@@ -3491,6 +2542,1039 @@
           "net": "2026-11-04T05:00:00Z",
           "prev_net": "2026-11-30T00:00:00Z",
           "prev_abbrev": "TBD"
+        },
+        {
+          "at": "2026-11-03T18:32:31.622914+00:00",
+          "status_id": 2,
+          "abbrev": "TBD",
+          "net": "2026-11-30T00:00:00Z",
+          "prev_net": "2026-11-04T05:00:00Z",
+          "prev_abbrev": "TBC"
+        }
+      ]
+    },
+    {
+      "id": "d74afbc7-0de5-491c-be05-4e9c31f736ac",
+      "name": "Falcon 9 Block 5 | Cygnus CRS-2 NG-25",
+      "slug": "falcon-9-block-5-cygnus-crs-2-ng-25",
+      "status": {
+        "id": 1,
+        "abbrev": "Go",
+        "name": "Go for Launch",
+        "description": "Current T-0 confirmed by official or reliable sources."
+      },
+      "net": "2026-11-29T15:49:00Z",
+      "window_start": "2026-11-29T15:49:00Z",
+      "window_end": "2026-11-29T15:49:00Z",
+      "probability": null,
+      "rocket": {
+        "name": "Falcon 9",
+        "family": "Falcon",
+        "manufacturer": "SpaceX",
+        "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/falcon_9_image_20230807133459.jpeg"
+      },
+      "mission": {
+        "name": "Cygnus CRS-2 NG-25",
+        "description": "This is the 25th flight of the Orbital ATK's uncrewed resupply spacecraft Cygnus and its 24th flight to the International Space Station under the Commercial Resupply Services contract with NASA.",
+        "type": "Resupply",
+        "orbit": "Low Earth Orbit"
+      },
+      "pad": {
+        "name": "Space Launch Complex 40",
+        "location": "Cape Canaveral SFS, FL, USA",
+        "country": "USA",
+        "latitude": "28.56194122",
+        "longitude": "-80.57735736"
+      },
+      "agency": {
+        "name": "SpaceX",
+        "abbrev": "SpX",
+        "type": "Commercial"
+      },
+      "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/falcon_9_image_20230807133459.jpeg",
+      "vidURLs": [],
+      "webcast_live": false,
+      "discovered_at": "2026-09-20T13:55:26.700417+00:00",
+      "last_updated_at": "2026-11-03T18:32:31.622870+00:00",
+      "outcome": null,
+      "failure_reason": null,
+      "status_history": [
+        {
+          "at": "2026-09-20T13:55:26.700420+00:00",
+          "status_id": 2,
+          "abbrev": "TBD",
+          "net": "2026-12-31T00:00:00Z"
+        },
+        {
+          "at": "2026-10-04T17:14:39.079557+00:00",
+          "status_id": 2,
+          "abbrev": "TBD",
+          "net": "2026-11-30T00:00:00Z",
+          "prev_net": "2026-12-31T00:00:00Z"
+        },
+        {
+          "at": "2026-10-29T21:16:37.855607+00:00",
+          "status_id": 8,
+          "abbrev": "TBC",
+          "net": "2026-11-29T16:00:00Z",
+          "prev_net": "2026-11-30T00:00:00Z",
+          "prev_abbrev": "TBD"
+        },
+        {
+          "at": "2026-11-02T21:50:45.005688+00:00",
+          "status_id": 1,
+          "abbrev": "Go",
+          "net": "2026-11-29T15:49:00Z",
+          "prev_net": "2026-11-29T16:00:00Z",
+          "prev_abbrev": "TBC"
+        }
+      ]
+    },
+    {
+      "id": "dff42a2e-f047-48d7-b260-3888d3a4fe33",
+      "name": "Spectrum | AT-Astra and Others (Spectrum Flight 3)",
+      "slug": "spectrum-at-astra-and-others-spectrum-flight-3",
+      "status": {
+        "id": 8,
+        "abbrev": "TBC",
+        "name": "To Be Confirmed",
+        "description": "Awaiting official confirmation - current date is known with some certainty."
+      },
+      "net": "2026-11-26T20:00:00Z",
+      "window_start": "2026-11-26T20:00:00Z",
+      "window_end": "2026-11-26T21:30:00Z",
+      "probability": null,
+      "rocket": {
+        "name": "Spectrum",
+        "family": "",
+        "manufacturer": "Isar Aerospace",
+        "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/spectrum_on_the_image_20250321072643.jpeg"
+      },
+      "mission": {
+        "name": "AT-Astra and Others (Spectrum Flight 3)",
+        "description": "Third test flight of the Isar Spectrum launch vehicle. This launch will carry various satellites including R-Space\u2019s AT-Astra/IOD-01, which will perform in-orbit demonstrations for ENPULSION, SUNBOOSTER GmbH, and Synopsis Planet.",
+        "type": "Technology",
+        "orbit": "Sun-Synchronous Orbit"
+      },
+      "pad": {
+        "name": "Orbital Launch Pad",
+        "location": "And\u00f8ya Spaceport",
+        "country": "NOR",
+        "latitude": "69.1084",
+        "longitude": "15.5895"
+      },
+      "agency": {
+        "name": "Isar Aerospace",
+        "abbrev": "ISAR",
+        "type": "Private"
+      },
+      "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/spectrum_on_the_image_20250321072643.jpeg",
+      "vidURLs": [],
+      "webcast_live": false,
+      "discovered_at": "2026-10-30T01:12:21.865880+00:00",
+      "last_updated_at": "2026-11-03T18:32:31.622861+00:00",
+      "outcome": null,
+      "failure_reason": null,
+      "status_history": [
+        {
+          "at": "2026-10-30T01:12:21.865883+00:00",
+          "status_id": 8,
+          "abbrev": "TBC",
+          "net": "2026-11-26T20:00:00Z"
+        }
+      ]
+    },
+    {
+      "id": "c9605b67-8a53-4239-a8ae-577fe3b79799",
+      "name": "Long March 2F/G | Shenzhou 24",
+      "slug": "long-march-2fg-shenzhou-24",
+      "status": {
+        "id": 2,
+        "abbrev": "TBD",
+        "name": "To Be Determined",
+        "description": "Current date is a placeholder or rough estimation based on unreliable or interpreted sources."
+      },
+      "net": "2026-11-25T00:00:00Z",
+      "window_start": "2026-11-25T00:00:00Z",
+      "window_end": "2026-11-25T00:00:00Z",
+      "probability": null,
+      "rocket": {
+        "name": "Long March 2F/G",
+        "family": "Long March",
+        "manufacturer": "China Aerospace Science and Technology Corporation",
+        "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/shenzhou_22_lau_image_20251129175823.jpg"
+      },
+      "mission": {
+        "name": "Shenzhou 24",
+        "description": "Shenzhou 24 will be the 24th flight of the Shenzhou program.\r\n\r\nThe first astronaut from Pakistan is expected to fly on this on a short duration mission, with another Chinese astronaut to undergo a year long expedition.",
+        "type": "Human Exploration",
+        "orbit": "Low Earth Orbit"
+      },
+      "pad": {
+        "name": "Launch Area 91 (SLS-1 / 921)",
+        "location": "Jiuquan Satellite Launch Center, People's Republic of China",
+        "country": "CHN",
+        "latitude": "40.957893",
+        "longitude": "100.290944"
+      },
+      "agency": {
+        "name": "China Aerospace Science and Technology Corporation",
+        "abbrev": "CASC",
+        "type": "Government"
+      },
+      "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/shenzhou_22_lau_image_20251129175823.jpg",
+      "vidURLs": [],
+      "webcast_live": false,
+      "discovered_at": "2026-10-24T15:15:42.807177+00:00",
+      "last_updated_at": "2026-11-03T18:32:31.622854+00:00",
+      "outcome": null,
+      "failure_reason": null,
+      "status_history": [
+        {
+          "at": "2026-10-24T15:15:42.807179+00:00",
+          "status_id": 2,
+          "abbrev": "TBD",
+          "net": "2026-11-25T00:00:00Z"
+        }
+      ]
+    },
+    {
+      "id": "5ce59e3a-c343-430f-ae4e-e608ba536754",
+      "name": "Long March 12 | SatNet LEO Group TBD?",
+      "slug": "long-march-12-satnet-leo-group-tbd-2",
+      "status": {
+        "id": 8,
+        "abbrev": "TBC",
+        "name": "To Be Confirmed",
+        "description": "Awaiting official confirmation - current date is known with some certainty."
+      },
+      "net": "2026-11-24T07:00:00Z",
+      "window_start": "2026-11-24T07:00:00Z",
+      "window_end": "2026-11-24T10:00:00Z",
+      "probability": null,
+      "rocket": {
+        "name": "Long March 12",
+        "family": "Long March",
+        "manufacturer": "China Aerospace Science and Technology Corporation",
+        "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/cz-12_on_its_la_image_20241128132937.jpg"
+      },
+      "mission": {
+        "name": "SatNet LEO Group TBD?",
+        "description": "A batch of 9 Low Earth Orbit communication satellites for the Chinese state owned SatNet constellation operated by the China Satellite Network Group.\r\n\r\nThe constellation will eventually consists of 13000 satellites.",
+        "type": "Communications",
+        "orbit": "Low Earth Orbit"
+      },
+      "pad": {
+        "name": "Commercial LC-2",
+        "location": "Wenchang Space Launch Site, People's Republic of China",
+        "country": "CHN",
+        "latitude": "19.59755",
+        "longitude": "110.936481"
+      },
+      "agency": {
+        "name": "China Aerospace Science and Technology Corporation",
+        "abbrev": "CASC",
+        "type": "Government"
+      },
+      "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/cz-12_on_its_la_image_20241128132937.jpg",
+      "vidURLs": [],
+      "webcast_live": false,
+      "discovered_at": "2026-10-30T14:26:07.508863+00:00",
+      "last_updated_at": "2026-11-03T18:32:31.622842+00:00",
+      "outcome": null,
+      "failure_reason": null,
+      "status_history": [
+        {
+          "at": "2026-10-30T14:26:07.508866+00:00",
+          "status_id": 8,
+          "abbrev": "TBC",
+          "net": "2026-11-24T07:00:00Z"
+        }
+      ]
+    },
+    {
+      "id": "8dd5de11-831b-445f-86f0-bffefe0550d9",
+      "name": "Soyuz 2.1b | Progress MS-36 (97P)",
+      "slug": "soyuz-21b-progress-ms-36-97p",
+      "status": {
+        "id": 8,
+        "abbrev": "TBC",
+        "name": "To Be Confirmed",
+        "description": "Awaiting official confirmation - current date is known with some certainty."
+      },
+      "net": "2026-11-24T05:03:00Z",
+      "window_start": "2026-11-24T05:03:00Z",
+      "window_end": "2026-11-24T05:03:00Z",
+      "probability": null,
+      "rocket": {
+        "name": "Soyuz 2.1b",
+        "family": "Soyuz",
+        "manufacturer": "Progress Rocket Space Center",
+        "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/soyuz_2.1b_image_20230802085331.jpg"
+      },
+      "mission": {
+        "name": "Progress MS-36 (97P)",
+        "description": "Progress resupply mission to the International Space Station.",
+        "type": "Resupply",
+        "orbit": "Low Earth Orbit"
+      },
+      "pad": {
+        "name": "31/6",
+        "location": "Baikonur Cosmodrome, Republic of Kazakhstan",
+        "country": "KAZ",
+        "latitude": "45.996034",
+        "longitude": "63.564003"
+      },
+      "agency": {
+        "name": "Russian Federal Space Agency (ROSCOSMOS)",
+        "abbrev": "RFSA",
+        "type": "Government"
+      },
+      "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/soyuz_2.1b_image_20230802085331.jpg",
+      "vidURLs": [],
+      "webcast_live": false,
+      "discovered_at": "2026-09-07T18:03:06.104420+00:00",
+      "last_updated_at": "2026-11-03T18:32:31.622834+00:00",
+      "outcome": null,
+      "failure_reason": null,
+      "status_history": [
+        {
+          "at": "2026-09-07T18:03:06.104423+00:00",
+          "status_id": 8,
+          "abbrev": "TBC",
+          "net": "2026-11-24T05:03:00Z"
+        }
+      ]
+    },
+    {
+      "id": "7bdc412b-c965-4517-a131-f57a01189803",
+      "name": "Ariane 64 Block 2 | Amazon Leo (LE-04)",
+      "slug": "ariane-64-block-2-amazon-leo-le-04",
+      "status": {
+        "id": 2,
+        "abbrev": "TBD",
+        "name": "To Be Determined",
+        "description": "Current date is a placeholder or rough estimation based on unreliable or interpreted sources."
+      },
+      "net": "2026-11-23T00:00:00Z",
+      "window_start": "2026-11-23T00:00:00Z",
+      "window_end": "2026-11-23T00:00:00Z",
+      "probability": null,
+      "rocket": {
+        "name": "Ariane 64",
+        "family": "Ariane",
+        "manufacturer": "ArianeGroup",
+        "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/ariane_64_lifto_image_20260618063419.jpg"
+      },
+      "mission": {
+        "name": "Amazon Leo (LE-04)",
+        "description": "Amazon Leo, formerly known as Project Kuiper, is a mega constellation of satellites in Low Earth Orbit that will offer broadband internet access, this constellation will be managed by Kuiper Systems LLC, a subsidiary of Amazon. This constellation is planned to be composed of 3,276 satellites. The satellites are projected to be placed in 98 orbital planes in three orbital layers, one at 590 km, 610 km and 630 km altitude.\r\n\r\n35-40 satellites will be carried on each Ariane 6 launch.",
+        "type": "Communications",
+        "orbit": "Low Earth Orbit"
+      },
+      "pad": {
+        "name": "Ariane Launch Area 4",
+        "location": "Guiana Space Centre, French Guiana",
+        "country": "GUF",
+        "latitude": "5.256319",
+        "longitude": "-52.786838"
+      },
+      "agency": {
+        "name": "Arianespace",
+        "abbrev": "ASA",
+        "type": "Commercial"
+      },
+      "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/ariane_64_lifto_image_20260618063419.jpg",
+      "vidURLs": [],
+      "webcast_live": false,
+      "discovered_at": "2026-08-27T19:23:07.365257+00:00",
+      "last_updated_at": "2026-11-03T18:32:31.622825+00:00",
+      "outcome": null,
+      "failure_reason": null,
+      "status_history": [
+        {
+          "at": "2026-08-27T19:23:07.365260+00:00",
+          "status_id": 2,
+          "abbrev": "TBD",
+          "net": "2026-10-07T00:00:00Z"
+        },
+        {
+          "at": "2026-09-25T14:40:32.258690+00:00",
+          "status_id": 2,
+          "abbrev": "TBD",
+          "net": "2026-10-31T00:00:00Z",
+          "prev_net": "2026-10-07T00:00:00Z"
+        },
+        {
+          "at": "2026-10-13T19:42:22.515359+00:00",
+          "status_id": 2,
+          "abbrev": "TBD",
+          "net": "2026-11-30T00:00:00Z",
+          "prev_net": "2026-10-31T00:00:00Z"
+        },
+        {
+          "at": "2026-10-14T18:46:11.934461+00:00",
+          "status_id": 2,
+          "abbrev": "TBD",
+          "net": "2026-11-23T00:00:00Z",
+          "prev_net": "2026-11-30T00:00:00Z"
+        }
+      ]
+    },
+    {
+      "id": "a2975167-7c6f-4403-99e1-b40df17c8140",
+      "name": "Long March 8A | SatNet LEO Group TBD?",
+      "slug": "long-march-8a-satnet-leo-group-tbd",
+      "status": {
+        "id": 8,
+        "abbrev": "TBC",
+        "name": "To Be Confirmed",
+        "description": "Awaiting official confirmation - current date is known with some certainty."
+      },
+      "net": "2026-11-20T11:00:00Z",
+      "window_start": "2026-11-20T11:00:00Z",
+      "window_end": "2026-11-20T14:00:00Z",
+      "probability": null,
+      "rocket": {
+        "name": "Long March 8A",
+        "family": "Long March",
+        "manufacturer": "China Aerospace Science and Technology Corporation",
+        "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/cz-8a_launch_2_image_20251206093107.jpeg"
+      },
+      "mission": {
+        "name": "SatNet LEO Group TBD?",
+        "description": "A batch of 9 Low Earth Orbit communication satellites for the Chinese state owned SatNet constellation operated by the China Satellite Network Group.\r\n\r\nThe constellation will eventually consists of 13000 satellites.",
+        "type": "Communications",
+        "orbit": "Low Earth Orbit"
+      },
+      "pad": {
+        "name": "Commercial LC-1",
+        "location": "Wenchang Space Launch Site, People's Republic of China",
+        "country": "CHN",
+        "latitude": "19.597275",
+        "longitude": "110.930753"
+      },
+      "agency": {
+        "name": "China Aerospace Science and Technology Corporation",
+        "abbrev": "CASC",
+        "type": "Government"
+      },
+      "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/cz-8a_launch_2_image_20251206093107.jpeg",
+      "vidURLs": [],
+      "webcast_live": false,
+      "discovered_at": "2026-10-30T14:26:07.508834+00:00",
+      "last_updated_at": "2026-11-03T18:32:31.622818+00:00",
+      "outcome": null,
+      "failure_reason": null,
+      "status_history": [
+        {
+          "at": "2026-10-30T14:26:07.508836+00:00",
+          "status_id": 8,
+          "abbrev": "TBC",
+          "net": "2026-11-20T11:00:00Z"
+        }
+      ]
+    },
+    {
+      "id": "bff2fc91-eddd-4dfc-af26-ac0674cfab4d",
+      "name": "Soyuz 2.1a/Fregat-M | MKA Kinosputnik, KOEN and others",
+      "slug": "soyuz-21afregat-m-mka-kinosputnik-koen-and-others",
+      "status": {
+        "id": 2,
+        "abbrev": "TBD",
+        "name": "To Be Determined",
+        "description": "Current date is a placeholder or rough estimation based on unreliable or interpreted sources."
+      },
+      "net": "2026-11-19T00:00:00Z",
+      "window_start": "2026-11-19T00:00:00Z",
+      "window_end": "2026-11-19T00:00:00Z",
+      "probability": null,
+      "rocket": {
+        "name": "Soyuz 2.1a/Fregat-M",
+        "family": "Soyuz",
+        "manufacturer": "Progress Rocket Space Center",
+        "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/soyuz25202.1a_image_20190726062341.png"
+      },
+      "mission": {
+        "name": "MKA Kinosputnik, KOEN and others",
+        "description": "Share-ride of multiple satellites, including dual-use optical Earth observation satellites and drone-guiding satellites:\r\n\r\n* MKA Kinosputnik\r\n* KOEN, KA MT-LAB\r\n* NPO Kaisant 6U cubesat with a Germes modem\r\n* NPO Kaisant 16U cubesat with Gonets modems",
+        "type": "Technology",
+        "orbit": "Sun-Synchronous Orbit"
+      },
+      "pad": {
+        "name": "Cosmodrome Site 1S",
+        "location": "Vostochny Cosmodrome, Siberia, Russian Federation",
+        "country": "RUS",
+        "latitude": "51.884395",
+        "longitude": "128.333932"
+      },
+      "agency": {
+        "name": "Russian Federal Space Agency (ROSCOSMOS)",
+        "abbrev": "RFSA",
+        "type": "Government"
+      },
+      "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/soyuz25202.1a_image_20190726062341.png",
+      "vidURLs": [],
+      "webcast_live": false,
+      "discovered_at": "2026-09-06T21:30:42.563128+00:00",
+      "last_updated_at": "2026-09-08T12:32:42.913695+00:00",
+      "outcome": null,
+      "failure_reason": null,
+      "status_history": [
+        {
+          "at": "2026-09-06T21:30:42.563130+00:00",
+          "status_id": 2,
+          "abbrev": "TBD",
+          "net": "2026-11-19T00:00:00Z"
+        }
+      ]
+    },
+    {
+      "id": "db3500ac-965b-4ad8-b417-cb8d8d005586",
+      "name": "Electron | The Mountain God Rises (iQPS Launch 10)",
+      "slug": "electron-the-mountain-god-rises-iqps-launch-10",
+      "status": {
+        "id": 2,
+        "abbrev": "TBD",
+        "name": "To Be Determined",
+        "description": "Current date is a placeholder or rough estimation based on unreliable or interpreted sources."
+      },
+      "net": "2026-11-14T00:00:00Z",
+      "window_start": "2026-11-14T00:00:00Z",
+      "window_end": "2026-11-14T00:00:00Z",
+      "probability": null,
+      "rocket": {
+        "name": "Electron",
+        "family": "",
+        "manufacturer": "Rocket Lab",
+        "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/electron_image_20190705175640.jpeg"
+      },
+      "mission": {
+        "name": "The Mountain God Rises (iQPS Launch 10)",
+        "description": "Synthetic aperture radar Earth observation satellite for Japanese Earth imaging company iQPS.",
+        "type": "Earth Science",
+        "orbit": "Low Earth Orbit"
+      },
+      "pad": {
+        "name": "Unknown Pad",
+        "location": "Rocket Lab Launch Complex 1, Mahia Peninsula, New Zealand",
+        "country": "NZL",
+        "latitude": "-39.260881",
+        "longitude": "177.865826"
+      },
+      "agency": {
+        "name": "Rocket Lab",
+        "abbrev": "RL",
+        "type": "Commercial"
+      },
+      "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/electron_image_20190705175640.jpeg",
+      "vidURLs": [],
+      "webcast_live": false,
+      "discovered_at": "2026-10-12T23:42:24.165851+00:00",
+      "last_updated_at": "2026-11-03T18:32:31.622811+00:00",
+      "outcome": null,
+      "failure_reason": null,
+      "status_history": [
+        {
+          "at": "2026-10-12T23:42:24.165853+00:00",
+          "status_id": 2,
+          "abbrev": "TBD",
+          "net": "2026-11-10T00:00:00Z"
+        },
+        {
+          "at": "2026-11-02T21:50:45.005652+00:00",
+          "status_id": 2,
+          "abbrev": "TBD",
+          "net": "2026-11-14T00:00:00Z",
+          "prev_net": "2026-11-10T00:00:00Z"
+        }
+      ]
+    },
+    {
+      "id": "ef9850ad-1096-425b-9d27-f7bbd186e61a",
+      "name": "Vulcan VC6L | Amazon Leo (LV-01)",
+      "slug": "vulcan-vc6l-amazon-leo-lv-01",
+      "status": {
+        "id": 1,
+        "abbrev": "Go",
+        "name": "Go for Launch",
+        "description": "Current T-0 confirmed by official or reliable sources."
+      },
+      "net": "2026-11-13T17:54:00Z",
+      "window_start": "2026-11-13T17:54:00Z",
+      "window_end": "2026-11-13T18:24:00Z",
+      "probability": null,
+      "rocket": {
+        "name": "Vulcan VC6L",
+        "family": "Vulcan",
+        "manufacturer": "United Launch Alliance",
+        "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/vulcan_vc6l_image_20220406123130.jpg"
+      },
+      "mission": {
+        "name": "Amazon Leo (LV-01)",
+        "description": "Amazon Leo, formerly known as Project Kuiper, is a mega constellation of satellites in Low Earth Orbit that will offer broadband internet access, this constellation will be managed by Kuiper Systems LLC, a subsidiary of Amazon. This constellation is planned to be composed of 3,276 satellites. The satellites are projected to be placed in 98 orbital planes in three orbital layers, one at 590 km, 610 km and 630 km altitude.\r\n\r\n45 satellites will be carried on each Vulcan launch.",
+        "type": "Communications",
+        "orbit": "Low Earth Orbit"
+      },
+      "pad": {
+        "name": "Space Launch Complex 41",
+        "location": "Cape Canaveral SFS, FL, USA",
+        "country": "USA",
+        "latitude": "28.58341025",
+        "longitude": "-80.58303644"
+      },
+      "agency": {
+        "name": "United Launch Alliance",
+        "abbrev": "ULA",
+        "type": "Commercial"
+      },
+      "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/vulcan_vc6l_image_20220406123130.jpg",
+      "vidURLs": [],
+      "webcast_live": false,
+      "discovered_at": "2026-08-02T05:39:37.830291+00:00",
+      "last_updated_at": "2026-11-03T18:32:31.622799+00:00",
+      "outcome": null,
+      "failure_reason": null,
+      "status_history": [
+        {
+          "at": "2026-08-02T05:39:37.830294+00:00",
+          "status_id": 2,
+          "abbrev": "TBD",
+          "net": "2026-09-30T00:00:00Z"
+        },
+        {
+          "at": "2026-09-20T05:08:34.676835+00:00",
+          "status_id": 2,
+          "abbrev": "TBD",
+          "net": "2026-10-31T00:00:00Z",
+          "prev_net": "2026-09-30T00:00:00Z"
+        },
+        {
+          "at": "2026-10-08T21:44:54.327446+00:00",
+          "status_id": 2,
+          "abbrev": "TBD",
+          "net": "2026-10-29T00:00:00Z",
+          "prev_net": "2026-10-31T00:00:00Z"
+        },
+        {
+          "at": "2026-10-24T15:15:42.807225+00:00",
+          "status_id": 2,
+          "abbrev": "TBD",
+          "net": "2026-11-30T00:00:00Z",
+          "prev_net": "2026-10-29T00:00:00Z"
+        },
+        {
+          "at": "2026-10-28T19:15:47.262865+00:00",
+          "status_id": 2,
+          "abbrev": "TBD",
+          "net": "2026-11-13T00:00:00Z",
+          "prev_net": "2026-11-30T00:00:00Z"
+        },
+        {
+          "at": "2026-11-03T18:32:31.622803+00:00",
+          "status_id": 1,
+          "abbrev": "Go",
+          "net": "2026-11-13T17:54:00Z",
+          "prev_net": "2026-11-13T00:00:00Z",
+          "prev_abbrev": "TBD"
+        }
+      ]
+    },
+    {
+      "id": "76617033-4dc0-4448-b50c-e5b0d5a18539",
+      "name": "Falcon 9 Block 5 | USSF-xxx (\"R-6\")",
+      "slug": "falcon-9-block-5-ussf-xxx-r-6",
+      "status": {
+        "id": 8,
+        "abbrev": "TBC",
+        "name": "To Be Confirmed",
+        "description": "Awaiting official confirmation - current date is known with some certainty."
+      },
+      "net": "2026-11-13T04:23:00Z",
+      "window_start": "2026-11-13T04:23:00Z",
+      "window_end": "2026-11-13T08:23:00Z",
+      "probability": null,
+      "rocket": {
+        "name": "Falcon 9",
+        "family": "Falcon",
+        "manufacturer": "SpaceX",
+        "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/falcon_9_image_20230807133459.jpeg"
+      },
+      "mission": {
+        "name": "USSF-xxx (\"R-6\")",
+        "description": "A classified mission for the United States Space Force. It is possibly a batch of classified LEO satellites based on SpaceX\u2019s Starshield satellite bus, based on locations of rocket stage drop zones being exact fits with previous Starlink Group 15 launches.",
+        "type": "Government/Top Secret",
+        "orbit": "Low Earth Orbit"
+      },
+      "pad": {
+        "name": "Space Launch Complex 4E",
+        "location": "Vandenberg SFB, CA, USA",
+        "country": "USA",
+        "latitude": "34.632",
+        "longitude": "-120.611"
+      },
+      "agency": {
+        "name": "SpaceX",
+        "abbrev": "SpX",
+        "type": "Commercial"
+      },
+      "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/falcon_9_liftof_image_20260816171423.jpg",
+      "vidURLs": [],
+      "webcast_live": false,
+      "discovered_at": "2026-11-03T18:32:31.622782+00:00",
+      "last_updated_at": "2026-11-03T18:32:31.622779+00:00",
+      "outcome": null,
+      "failure_reason": null,
+      "status_history": [
+        {
+          "at": "2026-11-03T18:32:31.622785+00:00",
+          "status_id": 8,
+          "abbrev": "TBC",
+          "net": "2026-11-13T04:23:00Z"
+        }
+      ]
+    },
+    {
+      "id": "6aa7b90b-e5ed-45d8-a52e-04fbf399d178",
+      "name": "Falcon 9 Block 5 | USSF-xxx (\"R-5\")",
+      "slug": "falcon-9-block-5-ussf-xxx-r-5",
+      "status": {
+        "id": 8,
+        "abbrev": "TBC",
+        "name": "To Be Confirmed",
+        "description": "Awaiting official confirmation - current date is known with some certainty."
+      },
+      "net": "2026-11-10T03:03:00Z",
+      "window_start": "2026-11-10T03:03:00Z",
+      "window_end": "2026-11-10T07:03:00Z",
+      "probability": null,
+      "rocket": {
+        "name": "Falcon 9",
+        "family": "Falcon",
+        "manufacturer": "SpaceX",
+        "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/falcon_9_image_20230807133459.jpeg"
+      },
+      "mission": {
+        "name": "USSF-xxx (\"R-5\")",
+        "description": "A classified mission for the United States Space Force. It is possibly a batch of classified LEO satellites based on SpaceX\u2019s Starshield satellite bus, based on locations of rocket stage drop zones being exact fits with previous Starlink Group 15 launches.",
+        "type": "Government/Top Secret",
+        "orbit": "Low Earth Orbit"
+      },
+      "pad": {
+        "name": "Space Launch Complex 4E",
+        "location": "Vandenberg SFB, CA, USA",
+        "country": "USA",
+        "latitude": "34.632",
+        "longitude": "-120.611"
+      },
+      "agency": {
+        "name": "SpaceX",
+        "abbrev": "SpX",
+        "type": "Commercial"
+      },
+      "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/falcon_9_liftof_image_20260816171423.jpg",
+      "vidURLs": [],
+      "webcast_live": false,
+      "discovered_at": "2026-10-28T19:15:47.262850+00:00",
+      "last_updated_at": "2026-11-03T18:32:31.622767+00:00",
+      "outcome": null,
+      "failure_reason": null,
+      "status_history": [
+        {
+          "at": "2026-10-28T19:15:47.262852+00:00",
+          "status_id": 8,
+          "abbrev": "TBC",
+          "net": "2026-11-10T03:03:00Z"
+        },
+        {
+          "at": "2026-11-02T21:50:45.005641+00:00",
+          "status_id": 8,
+          "abbrev": "TBC",
+          "net": "2026-11-09T03:17:00Z",
+          "prev_net": "2026-11-10T03:03:00Z"
+        },
+        {
+          "at": "2026-11-03T18:32:31.622771+00:00",
+          "status_id": 8,
+          "abbrev": "TBC",
+          "net": "2026-11-10T03:03:00Z",
+          "prev_net": "2026-11-09T03:17:00Z"
+        }
+      ]
+    },
+    {
+      "id": "a2423132-f965-423f-8b03-6891b775dc54",
+      "name": "Long March 12 | SatNet LEO Group TBD?",
+      "slug": "long-march-12-satnet-leo-group-tbd",
+      "status": {
+        "id": 1,
+        "abbrev": "Go",
+        "name": "Go for Launch",
+        "description": "Current T-0 confirmed by official or reliable sources."
+      },
+      "net": "2026-11-08T20:25:00Z",
+      "window_start": "2026-11-08T20:17:00Z",
+      "window_end": "2026-11-08T20:47:00Z",
+      "probability": null,
+      "rocket": {
+        "name": "Long March 12",
+        "family": "Long March",
+        "manufacturer": "China Aerospace Science and Technology Corporation",
+        "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/cz-12_on_its_la_image_20241128132937.jpg"
+      },
+      "mission": {
+        "name": "SatNet LEO Group TBD?",
+        "description": "A batch of 9 Low Earth Orbit communication satellites for the Chinese state owned SatNet constellation operated by the China Satellite Network Group.\r\n\r\nThe constellation will eventually consists of 13000 satellites.",
+        "type": "Communications",
+        "orbit": "Low Earth Orbit"
+      },
+      "pad": {
+        "name": "Commercial LC-2",
+        "location": "Wenchang Space Launch Site, People's Republic of China",
+        "country": "CHN",
+        "latitude": "19.59755",
+        "longitude": "110.936481"
+      },
+      "agency": {
+        "name": "China Aerospace Science and Technology Corporation",
+        "abbrev": "CASC",
+        "type": "Government"
+      },
+      "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/cz-12_on_its_la_image_20241128132937.jpg",
+      "vidURLs": [],
+      "webcast_live": false,
+      "discovered_at": "2026-10-27T00:39:05.512724+00:00",
+      "last_updated_at": "2026-11-03T18:32:31.622748+00:00",
+      "outcome": null,
+      "failure_reason": null,
+      "status_history": [
+        {
+          "at": "2026-10-27T00:39:05.512727+00:00",
+          "status_id": 8,
+          "abbrev": "TBC",
+          "net": "2026-11-05T20:00:00Z"
+        },
+        {
+          "at": "2026-10-30T14:26:07.508793+00:00",
+          "status_id": 1,
+          "abbrev": "Go",
+          "net": "2026-11-05T21:15:00Z",
+          "prev_net": "2026-11-05T20:00:00Z",
+          "prev_abbrev": "TBC"
+        },
+        {
+          "at": "2026-11-03T18:32:31.622752+00:00",
+          "status_id": 1,
+          "abbrev": "Go",
+          "net": "2026-11-08T20:25:00Z",
+          "prev_net": "2026-11-05T21:15:00Z"
+        }
+      ]
+    },
+    {
+      "id": "54d471e8-695c-4fa7-a3cf-dbd8b389e8ae",
+      "name": "Falcon 9 Block 5 | USSF-432",
+      "slug": "falcon-9-block-5-ussf-432",
+      "status": {
+        "id": 1,
+        "abbrev": "Go",
+        "name": "Go for Launch",
+        "description": "Current T-0 confirmed by official or reliable sources."
+      },
+      "net": "2026-11-07T00:46:00Z",
+      "window_start": "2026-11-07T00:46:00Z",
+      "window_end": "2026-11-07T04:46:00Z",
+      "probability": null,
+      "rocket": {
+        "name": "Falcon 9",
+        "family": "Falcon",
+        "manufacturer": "SpaceX",
+        "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/falcon_9_image_20230807133459.jpeg"
+      },
+      "mission": {
+        "name": "USSF-432",
+        "description": "A classified mission for the United States Space Force. It is possibly a batch of classified LEO satellites based on SpaceX\u2019s Starshield satellite bus, based on locations of rocket stage drop zones being exact fits with previous Starlink Group 15 launches.",
+        "type": "Government/Top Secret",
+        "orbit": "Low Earth Orbit"
+      },
+      "pad": {
+        "name": "Space Launch Complex 4E",
+        "location": "Vandenberg SFB, CA, USA",
+        "country": "USA",
+        "latitude": "34.632",
+        "longitude": "-120.611"
+      },
+      "agency": {
+        "name": "SpaceX",
+        "abbrev": "SpX",
+        "type": "Commercial"
+      },
+      "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/falcon_9_liftof_image_20260816171423.jpg",
+      "vidURLs": [
+        {
+          "title": "GO! - SpaceX - Falcon 9 - USSF-432 - SLC-4E - Vandenberg SFB, CA - Space Affairs Live",
+          "url": "https://www.youtube.com/watch?v=cANr44iNjd8"
+        },
+        {
+          "title": "USSF-432 Mission",
+          "url": "https://x.com/i/broadcasts/1kKzDPYrZNdJv"
+        }
+      ],
+      "webcast_live": false,
+      "discovered_at": "2026-10-26T21:06:41.100756+00:00",
+      "last_updated_at": "2026-11-03T18:32:31.622739+00:00",
+      "outcome": null,
+      "failure_reason": null,
+      "status_history": [
+        {
+          "at": "2026-10-26T21:06:41.100758+00:00",
+          "status_id": 1,
+          "abbrev": "Go",
+          "net": "2026-11-02T01:56:00Z"
+        },
+        {
+          "at": "2026-10-28T23:22:29.605928+00:00",
+          "status_id": 1,
+          "abbrev": "Go",
+          "net": "2026-11-03T01:42:00Z",
+          "prev_net": "2026-11-02T01:56:00Z"
+        },
+        {
+          "at": "2026-11-01T23:43:31.142015+00:00",
+          "status_id": 1,
+          "abbrev": "Go",
+          "net": "2026-11-04T01:28:00Z",
+          "prev_net": "2026-11-03T01:42:00Z"
+        },
+        {
+          "at": "2026-11-02T21:50:45.005615+00:00",
+          "status_id": 1,
+          "abbrev": "Go",
+          "net": "2026-11-05T01:14:00Z",
+          "prev_net": "2026-11-04T01:28:00Z"
+        },
+        {
+          "at": "2026-11-03T03:15:29.472311+00:00",
+          "status_id": 1,
+          "abbrev": "Go",
+          "net": "2026-11-07T00:46:00Z",
+          "prev_net": "2026-11-05T01:14:00Z"
+        }
+      ]
+    },
+    {
+      "id": "e91d1da2-819b-4523-95bf-39ac7daa871d",
+      "name": "Ceres-2 | Unknown Payload",
+      "slug": "ceres-2-unknown-payload",
+      "status": {
+        "id": 1,
+        "abbrev": "Go",
+        "name": "Go for Launch",
+        "description": "Current T-0 confirmed by official or reliable sources."
+      },
+      "net": "2026-11-06T23:35:00Z",
+      "window_start": "2026-11-06T23:28:00Z",
+      "window_end": "2026-11-06T23:50:00Z",
+      "probability": null,
+      "rocket": {
+        "name": "Ceres-2",
+        "family": "",
+        "manufacturer": "Galactic Energy",
+        "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/ceres-2_illustr_image_20251210054657.png"
+      },
+      "mission": {
+        "name": "Unknown Payload",
+        "description": "Details TBD.",
+        "type": "Unknown",
+        "orbit": "Unknown"
+      },
+      "pad": {
+        "name": "Launch Area 95A",
+        "location": "Jiuquan Satellite Launch Center, People's Republic of China",
+        "country": "CHN",
+        "latitude": "40.969117",
+        "longitude": "100.343333"
+      },
+      "agency": {
+        "name": "Galactic Energy",
+        "abbrev": "GE",
+        "type": "Commercial"
+      },
+      "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/ceres-2_illustr_image_20251210054657.png",
+      "vidURLs": [],
+      "webcast_live": false,
+      "discovered_at": "2026-10-28T23:22:29.605947+00:00",
+      "last_updated_at": "2026-11-03T18:32:31.622727+00:00",
+      "outcome": null,
+      "failure_reason": null,
+      "status_history": [
+        {
+          "at": "2026-10-28T23:22:29.605950+00:00",
+          "status_id": 8,
+          "abbrev": "TBC",
+          "net": "2026-11-04T21:00:00Z"
+        },
+        {
+          "at": "2026-11-02T03:58:39.040696+00:00",
+          "status_id": 1,
+          "abbrev": "Go",
+          "net": "2026-11-06T23:35:00Z",
+          "prev_net": "2026-11-04T21:00:00Z",
+          "prev_abbrev": "TBC"
+        }
+      ]
+    },
+    {
+      "id": "711de6bc-f755-475b-a12f-ec5240da3a11",
+      "name": "Long March 2C | Unknown Payload",
+      "slug": "long-march-2c-unknown-payload",
+      "status": {
+        "id": 1,
+        "abbrev": "Go",
+        "name": "Go for Launch",
+        "description": "Current T-0 confirmed by official or reliable sources."
+      },
+      "net": "2026-11-05T16:00:00Z",
+      "window_start": "2026-11-05T15:52:00Z",
+      "window_end": "2026-11-05T16:16:00Z",
+      "probability": null,
+      "rocket": {
+        "name": "Long March 2C",
+        "family": "Long March",
+        "manufacturer": "China Aerospace Science and Technology Corporation",
+        "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/long_march_2_image_20230803100234.jpeg"
+      },
+      "mission": {
+        "name": "Unknown Payload",
+        "description": "Details TBD.",
+        "type": "Unknown",
+        "orbit": "Unknown"
+      },
+      "pad": {
+        "name": "Launch Complex 3 (LC-3/LA-1)",
+        "location": "Xichang Satellite Launch Center, People's Republic of China",
+        "country": "CHN",
+        "latitude": "28.247059",
+        "longitude": "102.029008"
+      },
+      "agency": {
+        "name": "China Aerospace Science and Technology Corporation",
+        "abbrev": "CASC",
+        "type": "Government"
+      },
+      "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/long_march_2_image_20230803100234.jpeg",
+      "vidURLs": [],
+      "webcast_live": false,
+      "discovered_at": "2026-10-30T14:26:07.508772+00:00",
+      "last_updated_at": "2026-11-03T18:32:31.622712+00:00",
+      "outcome": null,
+      "failure_reason": null,
+      "status_history": [
+        {
+          "at": "2026-10-30T14:26:07.508776+00:00",
+          "status_id": 1,
+          "abbrev": "Go",
+          "net": "2026-11-05T16:00:00Z"
         }
       ]
     },
@@ -3536,7 +3620,7 @@
       "vidURLs": [],
       "webcast_live": false,
       "discovered_at": "2026-10-28T23:22:29.605910+00:00",
-      "last_updated_at": "2026-11-03T11:10:14.164793+00:00",
+      "last_updated_at": "2026-11-03T18:32:31.622672+00:00",
       "outcome": "success",
       "failure_reason": null,
       "status_history": [
@@ -18320,5 +18404,5 @@
       ]
     }
   ],
-  "last_updated": "2026-11-03T11:10:14.165379+00:00"
+  "last_updated": "2026-11-03T18:32:31.623372+00:00"
 }
